@@ -1,18 +1,19 @@
 ---
-title: Giới thiệu
+title: TWEM
 type: docs
 ---
 
 # Về bản thân mình
 
-Mình - [miti99](miti99.eu.org), là một ông dev nghiện phim Nhật =))), truyện Nhật, văn hoá Nhật (nói trắng ra là wibu).
+Mình - [miti99](miti99.eu.org), chỉ là một ông dev nghiện phim Nhật =))), truyện Nhật, văn hoá
+Nhật (nói trắng ra là wibu :D).
 
 # Về trang web này
 
 Trong lúc đang nghịch ngợm thử mấy con AI, mình có ý tưởng là sẽ dùng AI kết hợp Google Dịch để dịch
-các bộ light novel sang tiếng Việt để đọc và chia sẻ với mọi người. Vốn mình định đăng lên Hako,
+các bộ light novel sang tiếng Việt để đọc và chia sẻ với mọi người. Vốn mình định đăng lên Hako, vì
 mình có thấy thể loại truyện là "Convert" (Máy dịch). Mình cứ tưởng là đăng lên đấy được, ai ngờ tối
-đăng thì sáng hôm sau đã bị delete.
+đăng thì sáng hôm sau đã bị delete, có vẻ "convert" không phải như mình nghĩ.
 
 Link truyện bị delete của mình:
 [https://ln.hako.vn/convert/15790-isekai-shoukan-saretara-munou-to-iware-oidasaremashita-kono-sekai-wa-ore-ni-totte-easy-mode-deshita]().
