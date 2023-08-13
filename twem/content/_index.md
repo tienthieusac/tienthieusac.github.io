@@ -3,39 +3,47 @@ title: Giới thiệu
 type: docs
 ---
 
-# Acerbo datus maxime
+# Về bản thân mình
 
-{{< columns >}}
-## Astris ipse furtiva
+Mình - [miti99](miti99.eu.org), là một ông dev nghiện phim Nhật =))), truyện Nhật, văn hoá Nhật (nói trắng ra là wibu).
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+# Về trang web này
 
-<--->
+Trong lúc đang nghịch ngợm thử mấy con AI, mình có ý tưởng là sẽ dùng AI kết hợp Google Dịch để dịch
+các bộ light novel sang tiếng Việt để đọc và chia sẻ với mọi người. Vốn mình định đăng lên Hako,
+mình có thấy thể loại truyện là "Convert" (Máy dịch). Mình cứ tưởng là đăng lên đấy được, ai ngờ tối
+đăng thì sáng hôm sau đã bị delete.
 
-## Suis quot vota
+Link truyện bị delete của mình:
+[https://ln.hako.vn/convert/15790-isekai-shoukan-saretara-munou-to-iware-oidasaremashita-kono-sekai-wa-ore-ni-totte-easy-mode-deshita]().
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+Nên mình quyết định tự tạo sân chơi của mình, và trang web này chính là kết quả.
 
+Vì là mình toàn dùng Chat GPT và Google Dịch để dịch, và mục đích của mình cũng chỉ để nghịch mấy
+con AI thôi, nên bạn đọc được thì tốt, bạn không đọc được thì... chịu =))).
 
-## Tempora nisi nunc
+Do chỉ là pet project nên mình chỉ làm web này ở mức vừa phải, đủ tính năng, chứ không user friendly
+như bên Hako được. Mình cũng cố gắng hiện thực phần bình luận, nhưng nó sẽ cần account GitHub (do
+xuất thân là dân dev mà :v).
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+# Về bộ truyên này
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+Bộ truyện này mình bắt gặp trên Shin Translations khi đang đọc
+bộ _I’m a Bastard But You’re Worse!_ (BBYW). Theo quan điểm cá nhân thì bộ truyện này không hay lắm,
+main được tác giả buff rất nhiều, cho đi happy path, không gặp khó khăn trở ngại gì. Thậm chí truyện
+cũng có rất nhiều "sạn". Nên nếu bạn là mẫu người nghiêm túc, thích bắt bẻ, thì xin hãy tìm truyện
+khác để đọc; đừng cố ở lại vì vừa mất thời gian của bạn lại còn mang trải nghiệm tiêu cực; những
+điều này bạn góp ý với tác giả chứ mình thì chịu. Còn nếu bạn muốn tìm một bộ truyện không drama để
+đọc giải trí giết thời gian, thì chúc bạn đọc truyện vui vẻ.
 
-## Locis suis novi cum suoque decidit eadem
+# Lưu ý
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+Vui lòng bình luận mang tính đóng góp xây dựng, không bình luận mang tính chất chửi bới, chê bai.
+
+Nếu bạn thấy thích, hãy tặng mình 1 star cho repo này trên
+GitHub: [https://github.com/tiennm99/twem]() <3
+
+Bạn cũng có thể ủng hộ 1 like cho fanpage của mình: [https://www.facebook.com/miti99]().
+
+Trân trọng,
+miti99.
