@@ -16,7 +16,8 @@ mình có thấy thể loại truyện là "Convert" (Máy dịch). Mình cứ t
 đăng thì sáng hôm sau đã bị delete, có vẻ "convert" không phải như mình nghĩ.
 
 Link truyện bị delete của mình:
-[https://ln.hako.vn/convert/15790-isekai-shoukan-saretara-munou-to-iware-oidasaremashita-kono-sekai-wa-ore-ni-totte-easy-mode-deshita]().
+[https://ln.hako.vn/convert/15790-isekai-shoukan-saretara-munou-to-iware-oidasaremashita-kono-sekai-wa-ore-ni-totte-easy-mode-deshita]()
+.
 
 Nên mình quyết định tự tạo sân chơi của mình, và trang web này chính là kết quả.
 
@@ -26,6 +27,9 @@ con AI thôi, nên bạn đọc được thì tốt, bạn không đọc đượ
 Do chỉ là pet project nên mình chỉ làm web này ở mức vừa phải, đủ tính năng, chứ không user friendly
 như bên Hako được. Mình cũng cố gắng hiện thực phần bình luận, nhưng nó sẽ cần account GitHub (do
 xuất thân là dân dev mà :v).
+
+_Cập nhật 2/9/2023:_ Hiện tại mình không dùng ChatGPT để dịch nữa, do cảm thấy chất lượng dịch hơi
+kém. Từ giờ mình sẽ chỉ dùng Google Dịch để dịch, và cố gắng sửa lại cho dễ đọc một chút.
 
 # Về bộ truyên này
 
