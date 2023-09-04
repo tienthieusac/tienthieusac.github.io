@@ -4,4 +4,4 @@ Vietnamese translation of [TWEM](https://shintranslations.com/twem-toc/) using [
 
 Bản dịch tiếng Việt của [TWEM](https://shintranslations.com/twem-toc/) sử dụng [Google Translate](https://translate.google.com/).
 
-Powered by [HugoBook](https://github.com/alex-shpak/hugo-book).
+Powered by [Hugo](https://gohugo.io/) & [HugoBook](https://github.com/alex-shpak/hugo-book).
