@@ -2,7 +2,7 @@
 title: Chương 4 – Chuyến thăm đầu tiên tới Hội mạo hiểm giả
 ---
 
-Chương 4 – Chuyến thăm đầu tiên tới Hội mạo hiểm giả
+# Chương 4 – Chuyến thăm đầu tiên tới Hội mạo hiểm giả
 
 Tôi lên xe ngựa của Bacchus và trò chuyện với nhóm khi chúng tôi băng qua khu rừng. Chẳng bao lâu,
 chúng tôi đã đến gần thị trấn có tên Waxe.

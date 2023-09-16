@@ -2,7 +2,7 @@
 title: Chương 1 – Được triệu hồi đến thế giới khác
 ---
 
-Chương 1 – Được triệu hồi đến thế giới khác
+# Chương 1 – Được triệu hồi đến thế giới khác
 
 Một làn gió xuân ấm áp thổi vào lớp học. Đã gần đến giờ chủ nhiệm buổi sáng.
 

@@ -2,7 +2,7 @@
 title: Chương 2 – Địa vị và sự lưu đày
 ---
 
-Chương 2 – Địa vị và sự lưu đày
+# Chương 2 – Địa vị và sự lưu đày
 
 Một lúc sau, chúng tôi đã tới phòng khán giả.
 

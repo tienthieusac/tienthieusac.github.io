@@ -2,7 +2,7 @@
 title: Chương 3 – Quyền lực mới
 ---
 
-Chương 3 – Quyền lực mới
+# Chương 3 – Quyền lực mới
 
 “Tôi đang ở đâu…?”
 
