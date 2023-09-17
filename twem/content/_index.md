@@ -46,7 +46,7 @@ khác để đọc; đừng cố ở lại vì vừa mất thời gian của b�
 Vui lòng bình luận mang tính đóng góp xây dựng, không bình luận mang tính chất chửi bới, chê bai.
 
 Nếu bạn thấy thích, hãy tặng mình 1 star cho repo này trên
-GitHub: [https://github.com/tiennm99/twem]() <3
+GitHub: [https://github.com/tienthieusac/twem](https://github.com/tienthieusac/twem) <3
 
 Bạn cũng có thể ủng hộ 1 like cho fanpage của mình: [https://www.facebook.com/miti99]().
 
