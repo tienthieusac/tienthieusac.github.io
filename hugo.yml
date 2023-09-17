@@ -10,7 +10,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+#googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -19,7 +19,7 @@ minify:
 params:
   env: production
   title: Tiên Thiếu Sắc
-  description: "ExampleSite description"
+  description: "Homepage cho Tiên Thiếu Sắc"
   keywords: [Blog, Light Novel]
   author: MiTi99
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -46,11 +46,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "img/favicon.png"
+#    favicon16x16: "<link / abs url>"
+#    favicon32x32: "<link / abs url>"
+#    apple_touch_icon: "<link / abs url>"
+#    safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Home"
@@ -60,9 +60,9 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    title: Tiên Thiếu Sắc
+    subtitle: "Wibu"
+    imageUrl: "img/logo.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -74,24 +74,22 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Xin chào \U0001F44B"
+    Content: Chào mừng đến với blog của mình - **Tiên Thiếu Sắc**!
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: facebook
+      url: "https://facebook.com/miti99"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/tienthieusac"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+#  analytics:
+#    google:
+#      SiteVerificationTag: "XYZabc"
+#    bing:
+#      SiteVerificationTag: "XYZabc"
+#    yandex:
+#      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -99,7 +97,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/tienthieusac/tienthieusac/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -123,9 +121,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: miti99
+      name: miti99
+      url: https://miti99.dev
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
