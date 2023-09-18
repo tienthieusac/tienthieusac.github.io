@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 Một tuần đã trôi qua kể từ khi nhóm của Tendo dọn sạch hầm ngục.
 
 Trước thời hạn hai tuần do nhà vua áp đặt, tất cả các bên cũng đã giải quyết được.

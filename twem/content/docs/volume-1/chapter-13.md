@@ -1,5 +1,6 @@
 ---
 title: Chương 13 – Đến Thủ đô Hoàng gia!
+weight: 13
 ---
 
 # Chương 13 – Đến Thủ đô Hoàng gia!

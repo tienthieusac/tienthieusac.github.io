@@ -1,5 +1,6 @@
 ---
 title: Chương 8 – Một vũ khí mới
+weight: 8
 ---
 
 # Chương 8 – Một vũ khí mới

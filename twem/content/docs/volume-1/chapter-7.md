@@ -1,5 +1,6 @@
 ---
 title: Chương 7 – Những trận chiến liên tiếp chống lại quái vật
+weight: 7
 ---
 
 # Chương 7 – Những trận chiến liên tiếp chống lại quái vật

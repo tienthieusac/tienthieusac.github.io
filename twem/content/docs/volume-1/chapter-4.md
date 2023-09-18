@@ -1,5 +1,6 @@
 ---
 title: Chương 4 – Chuyến thăm đầu tiên tới Hội mạo hiểm giả
+weight: 4
 ---
 
 # Chương 4 – Chuyến thăm đầu tiên tới Hội mạo hiểm giả

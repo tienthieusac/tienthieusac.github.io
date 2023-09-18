@@ -1,5 +1,6 @@
 ---
 title: Chương 15 – Tiếp kiến hoàng gia
+weight: 15
 ---
 
 # Chương 15 – Tiếp kiến hoàng gia

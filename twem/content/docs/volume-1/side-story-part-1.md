@@ -1,5 +1,6 @@
 ---
 title: Ngoại Truyện – Trong khi đó, Những Anh Hùng…
+weight: 19
 ---
 
 # Ngoại Truyện – Trong khi đó, Những Anh Hùng…

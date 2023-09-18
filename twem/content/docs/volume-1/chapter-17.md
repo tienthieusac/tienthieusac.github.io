@@ -1,5 +1,6 @@
 ---
 title: Chương 17 – Người xếp hạng S khác
+weight: 17
 ---
 
 # Chương 17 – Người xếp hạng S khác

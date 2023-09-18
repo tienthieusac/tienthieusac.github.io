@@ -1,5 +1,6 @@
 ---
 title: Chương 18 – Thăng hạng S?
+weight: 18
 ---
 
 # Chương 18 – Thăng hạng S?

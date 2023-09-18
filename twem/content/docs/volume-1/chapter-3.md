@@ -1,5 +1,6 @@
 ---
 title: Chương 3 – Quyền lực mới
+weight: 3
 ---
 
 # Chương 3 – Quyền lực mới

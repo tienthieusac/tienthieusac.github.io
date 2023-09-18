@@ -1,5 +1,6 @@
 ---
 title: Chương 1 – Được triệu hồi đến thế giới khác
+weight: 1
 ---
 
 # Chương 1 – Được triệu hồi đến thế giới khác

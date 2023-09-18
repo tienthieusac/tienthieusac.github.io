@@ -1,5 +1,6 @@
 ---
 title: Chương 6 – Yêu cầu đầu tiên của tôi
+weight: 6
 ---
 
 # Chương 6 – Yêu cầu đầu tiên của tôi

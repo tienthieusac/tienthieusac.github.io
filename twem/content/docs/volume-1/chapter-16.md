@@ -1,5 +1,6 @@
 ---
 title: Chương 16 – Nhà thám hiểm hạng S
+weight: 16
 ---
 
 # Chương 16 – Nhà thám hiểm hạng S

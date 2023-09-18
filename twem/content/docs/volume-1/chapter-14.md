@@ -1,5 +1,6 @@
 ---
 title: Chương 14 – Hầu gái và công chúa
+weight: 14
 ---
 
 # Chương 14 – Hầu gái và công chúa

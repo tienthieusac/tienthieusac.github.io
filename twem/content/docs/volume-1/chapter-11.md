@@ -1,5 +1,6 @@
 ---
 title: Chương 11 – Đến Vương quốc Perdis
+weight: 11
 ---
 
 # Chương 11 – Đến Vương quốc Perdis

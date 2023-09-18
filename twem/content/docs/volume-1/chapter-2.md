@@ -1,5 +1,6 @@
 ---
 title: Chương 2 – Địa vị và sự lưu đày
+weight: 2
 ---
 
 # Chương 2 – Địa vị và sự lưu đày

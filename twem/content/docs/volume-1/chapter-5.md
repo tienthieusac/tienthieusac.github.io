@@ -1,5 +1,6 @@
 ---
 title: Chương 5 – Kiểm tra năng lực
+weight: 5
 ---
 
 # Chương 5 – Kiểm tra năng lực

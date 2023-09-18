@@ -1,5 +1,6 @@
 ---
 title: Chương 10 – Finne
+weight: 10
 ---
 
 # Chương 10 – Finne

@@ -1,5 +1,6 @@
 ---
 title: Chương 12 – Kẻ Trộm
+weight: 12
 ---
 
 # Chương 12 – Kẻ Trộm
