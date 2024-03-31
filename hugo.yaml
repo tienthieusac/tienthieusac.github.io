@@ -209,7 +209,7 @@ menu:
       name: Facebook
       url: https://facebook.com/miti99
       params:
-        icon: brand-facebook
+        icon: link
 
 related:
   includeNewer: true
