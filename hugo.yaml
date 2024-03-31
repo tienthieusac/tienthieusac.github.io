@@ -57,7 +57,7 @@ params:
     avatar:
       enabled: true
       local: true
-      src: img/logo.png
+      src: /img/logo.png
 
   article:
     math: false
