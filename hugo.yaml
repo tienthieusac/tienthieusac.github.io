@@ -135,8 +135,8 @@ params:
       category: Announcements
       categoryID: DIC_kwDOKUm6Xc4CeW0R
       mapping: pathname
-      lightTheme: 1
-      darkTheme: 1
+      lightTheme: light
+      darkTheme: dark
       reactionsEnabled: 1
       emitMetadata: 0
 
