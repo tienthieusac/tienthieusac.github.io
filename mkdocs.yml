@@ -1,4 +1,32 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
-site_name: My Docs
+site_name: Tiên Thiếu Sắc
 theme:
   name: material
+  custom_dir: overrides
+  palette:
+    scheme: slate
+    primary: deep purple
+  language: vi
+  logo: assets/logo.png
+  favicon: images/favicon.png
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+plugins:
+#  - meta
+  - offline
+#  - optimize
+  - search
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tienthieusac
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/miti99
+copyright: |
+  Made by <a href="https://miti99.dev">miti99</a> with ❤️ Copyright &copy; 2024 Tiên Thiếu Sắc. License:
+  <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license">CC BY 4.0</a><br>
+repo_url: https://github.com/tienthieusac/tienthieusac.github.io
+repo_name: tienthieusac.github.io

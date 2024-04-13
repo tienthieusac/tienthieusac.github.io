@@ -10,4 +10,3 @@ Powered by [MkDocs](https://www.mkdocs.org/) & [Material for MkDocs](https://squ
 
 Bản dịch tiếng Việt của [TWEM](https://shintranslations.com/twem-toc/) sử
 dụng [Google Translate](https://translate.google.com/).
-
