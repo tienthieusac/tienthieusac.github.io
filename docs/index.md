@@ -5,7 +5,7 @@ comments: true
 
 ## Về bản thân mình
 
-Mình ([miti99](https://miti99.dev)), chỉ là một ông dev nghiện phim Nhật =))), truyện Nhật, văn hoá
+Mình ([miti99](https://tiennm99.github.io)), chỉ là một ông dev nghiện phim Nhật =))), truyện Nhật, văn hoá
 Nhật (nói trắng ra là wibu :D).
 
 ## Về trang web này
