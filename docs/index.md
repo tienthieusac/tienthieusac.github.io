@@ -52,3 +52,13 @@ Bạn cũng có thể ủng hộ 1 like cho fanpage của mình: [https://www.fa
 
 Trân trọng,
 miti99.
+
+## Cảm ơn
+
+Dự án này được thực hiện bằng cách áp dụng các công nghệ sau:
+
+- [GitHub](https://github.com): Nền tảng lưu trữ mã nguồn
+- [MkDocs](https://www.mkdocs.org): Công cụ tạo trang web tĩnh từ Markdown
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material): Theme cho MkDocs
+- [GitHub Pages](https://pages.github.com): Dịch vụ hosting miễn phí của GitHub, nơi host trang web chính [https://tienthieusac.github.io](https://tienthieusac.github.io)
+- [Netlify](https://www.netlify.com): Dịch vụ hosting miễn phí, nơi host trang web thử nghiệm [https://tienthieusac.netlify.app](https://tienthieusac.netlify.app)
