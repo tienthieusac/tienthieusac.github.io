@@ -13,13 +13,9 @@ theme:
   features:
     - navigation.footer
     - navigation.indexes
-    - search.highlight
     - search.share
-    - search.suggest
 plugins:
-#  - meta
   - offline
-#  - optimize
   - search
   - mkdocs-nav-weight:
       section_renamed: true
