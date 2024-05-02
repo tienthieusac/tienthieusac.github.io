@@ -1,5 +1,6 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Tiên Thiếu Sắc
+site_url: https://tienthieusac.github.io
 theme:
   name: material
   custom_dir: overrides
