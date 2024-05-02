@@ -11,10 +11,11 @@ theme:
   logo: assets/logo.png
   favicon: images/favicon.png
   features:
-    - search.suggest
+    - navigation.footer
+    - navigation.indexes
     - search.highlight
     - search.share
-    - navigation.footer
+    - search.suggest
 plugins:
 #  - meta
   - offline
