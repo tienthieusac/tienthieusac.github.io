@@ -20,6 +20,8 @@ plugins:
   - offline
 #  - optimize
   - search
+  - mkdocs-nav-weight:
+      section_renamed: true
 extra:
   generator: false
   social:
