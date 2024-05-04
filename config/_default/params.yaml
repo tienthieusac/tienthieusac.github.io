@@ -1,0 +1,84 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+appearance:
+  mode: dark
+  color: purple
+
+# SEO
+marketing:
+  seo:
+    site_type: Project
+    local_business_type: ''
+    org_name: ''
+    description: 'Tiên Thiếu Sắc.'
+    twitter: 'tienthieusac'
+  analytics:
+    google_analytics: 'G-FSF7ZLXSZP'
+    google_tag_manager: ''
+    microsoft_clarity: ''
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    align: "center"
+    fixed_to_top: true
+    logo:
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "logo.png"
+    button:
+      enable: true
+      text: "Bắt đầu"
+      url: "https://tienthieusac.github.io/docs/"
+    show_search: true
+    show_theme_chooser: true
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Tiên Thiếu Sắc. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+
+# Site features
+features:
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/tienthieusac/tienthieusac.github.io'
+    content_dir: 'content/docs'
+    branch: 'main'
+  feedback:
+    responses:
+      positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/tienthieusac/tienthieusac.github.io/issues/new).'
+      negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/tienthieusac/tienthieusac.github.io/issues/new).'
+  comment:
+    provider: 'giscus'
+    giscus:
+      repo: 'tienthieusac/tienthieusac.github.io'
+      repo_id: 'R_kgDOLtunYQ'
+      category: 'Announcements'
+      category_id: 'DIC_kwDOLtunYc4Ceq2K'
