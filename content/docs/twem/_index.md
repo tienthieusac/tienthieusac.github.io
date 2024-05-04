@@ -1,5 +1,8 @@
 ---
-title: Giới thiệu
+title: TWEM
+sidebar:
+  open: true
+toc: true
 ---
 
 # Giới thiệu
