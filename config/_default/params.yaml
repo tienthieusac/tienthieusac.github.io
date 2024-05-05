@@ -82,3 +82,6 @@ features:
       repo_id: 'R_kgDOLtunYQ'
       category: 'Announcements'
       category_id: 'DIC_kwDOLtunYc4Ceq2K'
+      theme: dark
+      language_code: en
+      mapping: pathname
