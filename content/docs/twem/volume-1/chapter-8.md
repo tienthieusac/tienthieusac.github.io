@@ -3,8 +3,6 @@ title: Chương 8 – Một vũ khí mới
 weight: 8
 ---
 
-# Chương 8 – Một vũ khí mới
-
 Tôi đi về phía cánh đồng cách làng một chút, rồi đột nhiên Phát hiện Hiện diện nhặt được thứ gì đó.
 
 Sự hiện diện từ—

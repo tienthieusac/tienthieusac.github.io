@@ -3,8 +3,6 @@ title: Chương 13 – Đến Thủ đô Hoàng gia!
 weight: 13
 ---
 
-# Chương 13 – Đến Thủ đô Hoàng gia!
-
 Sau khi vượt qua cuộc kiểm tra để vào thủ đô, chúng tôi giải thích rằng chúng tôi đã tiêu diệt Sói Ebony, bắt được thủ lĩnh của chúng và trói các thành viên khác ở một nơi cụ thể: chúng tôi ngay lập tức cảm thấy biết ơn.
 
 “Bạn không chỉ xác định được nơi ẩn náu của Sói Ebony mà còn đánh bại thủ lĩnh của chúng…cảm ơn bạn rất nhiều!! Chúng tôi sẽ liên hệ với bạn về phần thưởng thông qua hội mạo hiểm giả sau khi chúng tôi bắt được những tên trộm khác, vì vậy vui lòng tìm nó tại quầy lễ tân của hội. Cuối cùng, tôi xin lỗi vì sự bất tiện này, nhưng bạn có thể đợi ở đây một lát được không?

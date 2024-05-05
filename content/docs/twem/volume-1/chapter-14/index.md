@@ -3,8 +3,6 @@ title: Chương 14 – Hầu gái và công chúa
 weight: 14
 ---
 
-# Chương 14 – Hầu gái và công chúa
-
 Sáng hôm sau, tôi đang ăn sáng với Finne thì Ryan và nhóm của anh ấy đến gặp chúng tôi.
 
 “Chào buổi sáng, Haruto, Finne. Chúng tôi đã tìm thấy yêu cầu hộ tống đến Vaana, vì vậy hôm nay chúng tôi sẽ rời thị trấn…nhân tiện, hai người đã thành lập một nhóm phải không?”
@@ -110,7 +108,7 @@ Người còn lại cùng với Asha bỏ mũ trùm đầu ra, lộ rõ ​​kh
 
 Cô ấy trông khoảng 13, 14 tuổi, cao khoảng 150 cm, với làn da trắng như ngọc. Mái tóc vàng dài ngang lưng được buộc thành hai bím, đôi mắt đỏ rực như hồng ngọc.
 
-![PrincessAndTheMaid](img/PrincessAndTheMaid.jpg)
+![PrincessAndTheMaid](PrincessAndTheMaid.jpg)
 
 Vậy ra đây chính là ý người ta khi nói con gái xinh như búp bê.
 

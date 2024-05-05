@@ -3,8 +3,6 @@ title: Chương 15 – Tiếp kiến hoàng gia
 weight: 15
 ---
 
-# Chương 15 – Tiếp kiến hoàng gia
-
 Vị trí hiện tại: trước cổng lâu đài hoàng gia. Tình trạng hiện tại: lính canh đang chĩa vũ khí vào chúng tôi.
 
 “Đồ khốn, thả công chúa và hầu gái của cô ấy ra ngay lập tức!! Hãy làm ngay bây giờ và mạng sống của bạn sẽ được tha!!”

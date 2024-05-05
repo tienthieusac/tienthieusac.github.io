@@ -3,8 +3,6 @@ title: Chương 11 – Đến Vương quốc Perdis
 weight: 11
 ---
 
-# Chương 11 – Đến Vương quốc Perdis
-
 Tôi quay lại nhà trọ thu dọn đồ đạc rồi đến công ty thương mại để cảm ơn Bacchus vì tất cả những gì anh ấy đã làm cho tôi.
 
 “Ồ, anh Haruto. Điều gì mang bạn tới đây hôm nay?"

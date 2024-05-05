@@ -3,8 +3,6 @@ title: Chương 6 – Yêu cầu đầu tiên của tôi
 weight: 6
 ---
 
-# Chương 6 – Yêu cầu đầu tiên của tôi
-
 Sáng hôm sau, tôi đến hội mạo hiểm giả theo chỉ dẫn của Dass.
 
 Tôi mở cửa giống như ngày hôm trước, nhưng ngay khi bước vào tôi đã cảm nhận được ánh mắt của mọi người đang nhìn mình.
@@ -33,7 +31,7 @@ Neena mỉm cười ấm áp và đưa cho tôi tấm thiệp.
 
 Tôi lấy nó từ cô ấy và nhanh chóng đi đến văn phòng hội trưởng.
 
-![HarutoGuildCard](img/HarutoGuildCard.jpg)
+![HarutoGuildCard](HarutoGuildCard.jpg)
 
 Tôi gõ cửa và bước vào phòng, thấy Dass bị chôn vùi trong đống tài liệu.
 

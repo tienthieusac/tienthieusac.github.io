@@ -3,8 +3,6 @@ title: Chương 2 – Địa vị và sự lưu đày
 weight: 2
 ---
 
-# Chương 2 – Địa vị và sự lưu đày
-
 Một lúc sau, chúng tôi đã tới phòng khán giả.
 
 Cánh cửa được trang trí sang trọng khắp nơi, đúng như mong đợi đối với phòng tiếp kiến ​​của một vị
@@ -377,7 +375,7 @@ Mariana sau đó đưa cho tôi một chiếc túi da.
 
 Bên trong tôi tìm thấy ba đồng tiền vàng và một vài đồng bạc.
 
-![HarutoMariana](img/HarutoMariana.jpg)
+![HarutoMariana](HarutoMariana.jpg)
 
 Không biết về chi phí sinh hoạt ở thế giới này, tôi không thể chắc chắn rằng chúng sẽ thực sự đủ cho
 tôi trong ba tháng…nhưng tôi đoán như vậy vẫn tốt hơn là không có gì.

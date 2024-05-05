@@ -3,8 +3,6 @@ title: Chương 17 – Người xếp hạng S khác
 weight: 17
 ---
 
-# Chương 17 – Người xếp hạng S khác
-
 “Cầu mong trận chiến…bắt đầu!!”
 
 Khoảnh khắc trọng tài ra hiệu, Norverne đã ở ngay trước mặt tôi.
