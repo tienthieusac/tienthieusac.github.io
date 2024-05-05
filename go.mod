@@ -1,6 +1,6 @@
 module github.com/tienthieusac/tienthieusac.github.io
 
-go 1.22.2
+go 1.22
 
 require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240429194209-e7beed231a8c
