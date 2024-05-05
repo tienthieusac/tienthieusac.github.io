@@ -3,8 +3,6 @@ title: Chương 16 – Nhà thám hiểm hạng S
 weight: 16
 ---
 
-# Chương 16 – Nhà thám hiểm hạng S
-
 Ngày hôm sau, Finne và tôi ngủ đến khuya vì mệt mỏi của ngày hôm trước: khi thức dậy thì đã quá trưa.
 
 Sau bữa trưa lười biếng, chúng tôi quyết định đi đến hội mạo hiểm giả vì ngày hôm trước chúng tôi không thể đi được.
@@ -283,7 +281,7 @@ sang một cú đâm mạnh mẽ.
 
 Tôi phản ứng theo bản năng bằng cách vung thanh Katana đen của mình và đẩy thanh kiếm bản rộng lên trên.
 
-![HarutoKatana](img/HarutoKatana.jpg)
+![HarutoKatana](HarutoKatana.jpg)
 
 Tuy nhiên, Dyne đã hạ thanh kiếm rộng của mình xuống tôi ngay lập tức.
 

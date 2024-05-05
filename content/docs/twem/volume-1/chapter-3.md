@@ -3,8 +3,6 @@ title: Chương 3 – Quyền lực mới
 weight: 3
 ---
 
-# Chương 3 – Quyền lực mới
-
 “Tôi đang ở đâu…?”
 
 Một lần nữa, tôi lại ở trong một môi trường hoàn toàn xa lạ. Tôi nhìn xung quanh trong khi nói.

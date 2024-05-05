@@ -3,8 +3,6 @@ title: Ngoại Truyện – Trong khi đó, Những Anh Hùng…
 weight: 19
 ---
 
-# Ngoại Truyện – Trong khi đó, Những Anh Hùng…
-
 — Để không trở thành gánh nặng cho các bạn cùng lớp “Anh hùng” của mình, Yuki Haruto quyết định rời khỏi lâu đài hoàng gia.
 
 Mariana, công chúa đầu tiên của vương quốc Glicente đã nói như vậy khi cô quay trở lại hội trường nơi Haruto và các bạn cùng lớp lần đầu kiểm tra trạng thái của họ.

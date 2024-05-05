@@ -3,8 +3,6 @@ title: Chương 1 – Được triệu hồi đến thế giới khác
 weight: 1
 ---
 
-# Chương 1 – Được triệu hồi đến thế giới khác
-
 Một làn gió xuân ấm áp thổi vào lớp học. Đã gần đến giờ chủ nhiệm buổi sáng.
 
 Giáo viên phụ trách lớp chúng tôi, Usami Sayaka, chào theo thông lệ và tôi – Yuki Haruto – cùng với 39 bạn cùng lớp của mình đáp lại.

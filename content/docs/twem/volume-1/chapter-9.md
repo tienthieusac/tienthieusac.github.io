@@ -3,8 +3,6 @@ title: Chương 9 – Vaana
 weight: 9
 ---
 
-# Chương 9 – Vaana
-
 Có lẽ nó đáng lẽ phải là một thị trấn biên giới, nhưng Vaana là một nơi rất sôi động.
 
 Điểm đến tiếp theo của chúng tôi là hội mạo hiểm giả: vì nó đang trên đường đến công ty thương mại nên chúng tôi đi xe ngựa nửa chừng.

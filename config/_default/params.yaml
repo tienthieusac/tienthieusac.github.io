@@ -69,7 +69,7 @@ features:
     enable: false
   repository:
     url: 'https://github.com/tienthieusac/tienthieusac.github.io'
-    content_dir: 'content/docs'
+    content_dir: 'content'
     branch: 'main'
   feedback:
     responses:

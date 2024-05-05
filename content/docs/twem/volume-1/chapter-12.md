@@ -3,8 +3,6 @@ title: Chương 12 – Kẻ Trộm
 weight: 12
 ---
 
-# Chương 12 – Kẻ Trộm
-
 …như đã lo sợ, sau khi chúng tôi kết thúc giờ nghỉ trưa và lên đường trở lại, Khả năng Phát hiện Hiện diện của tôi đã nhận được một số phản hồi của con người.
 
 Tôi tự hỏi liệu họ có thực sự như những gì tôi mong đợi hay không và xác nhận rằng họ đang tiến về phía chúng tôi.

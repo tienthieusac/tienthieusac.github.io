@@ -3,8 +3,6 @@ title: Chương 5 – Kiểm tra năng lực
 weight: 5
 ---
 
-# Chương 5 – Kiểm tra năng lực
-
 Khi chúng tôi đến đấu trường, đã có ba người đàn ông đang nói chuyện ở đó.
 
 Neena ra hiệu cho họ và nói với tôi.

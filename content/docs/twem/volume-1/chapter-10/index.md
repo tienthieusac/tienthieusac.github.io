@@ -3,8 +3,6 @@ title: Chương 10 – Finne
 weight: 10
 ---
 
-# Chương 10 – Finne
-
 Vì phải đợi thêm một ngày nữa để lấy thẻ mới nên sáng hôm sau tôi cùng Barnar và những người khác đi
 dạo quanh thị trấn.
 
@@ -199,7 +197,7 @@ cô gái dễ thương như em.”
 
 Khi tôi khen cô ấy là “dễ thương”, Finne hơi đỏ mặt và bắt đầu bồn chồn.
 
-![](img/Finne.jpg)
+![Finne](Finne.jpg)
 
 Ôi…! Rất dễ thương…! Cô ấy là thiên thần hay sao vậy!?
 

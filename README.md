@@ -4,7 +4,7 @@
 
 Homepages of [tienthieusac.github.io]()
 
-Powered by [MkDocs](https://www.mkdocs.org/) & [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+Powered by [Hugo](https://gohugo.io/) & [Hugo Blox](https://hugoblox.com/).
 
 ## TWEM - Tiếng Việt
 

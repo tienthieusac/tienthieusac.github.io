@@ -1,4 +1,5 @@
 ---
+title: Ngoại Truyện – Trong khi đó, Những Anh Hùng…
 weight: 21
 ---
 
@@ -77,7 +78,7 @@ Tendo gật đầu với Mogami, sau đó Ichinomiya hỏi anh một câu với 
 
 “…Koji, sao cậu lại đầu tư vào việc tìm kiếm Haruto thế?”
 
-![IchinomiyaAndTendo](img/IchinomiyaAndTendo.jpg)
+![IchinomiyaAndTendo](IchinomiyaAndTendo.jpg)
 
 Shinonome, Asakura và Mogami có lẽ đều nghĩ điều tương tự khi họ chăm chú nhìn Tendo.
 

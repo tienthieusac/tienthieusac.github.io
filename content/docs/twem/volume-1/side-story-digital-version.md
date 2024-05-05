@@ -3,8 +3,6 @@ title: Chuyện bên lề phiên bản kỹ thuật số – Đón gái ở kinh
 weight: 22
 ---
 
-# Chuyện bên lề phiên bản kỹ thuật số – Đón gái ở kinh thành – Báo cáo quan sát
-
 Tôi, Yuki Haruto, đang hướng tới quảng trường trung tâm thủ đô hoàng gia của vương quốc Perdis này.
 
 Tôi đang đi mua sắm một mình để chuẩn bị cho yêu cầu tiếp theo, sau đó tôi phải gặp thành viên trong nhóm của mình, Finne, ở quảng trường trung tâm.
