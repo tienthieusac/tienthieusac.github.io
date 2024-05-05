@@ -20,6 +20,8 @@ cascade:
     show_date: false
     # Show date modified at end of content
     show_date_updated: true
+    commentable: true
+    share: true
   # Blog post options
   - _target:
       path: /blog/**
