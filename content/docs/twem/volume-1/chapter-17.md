@@ -3,6 +3,8 @@ title: Chương 17 – Người xếp hạng S khác
 weight: 17
 ---
 
+# Chương 17 – Người xếp hạng S khác
+
 “Cầu mong trận chiến…bắt đầu!!”
 
 Khoảnh khắc trọng tài ra hiệu, Norverne đã ở ngay trước mặt tôi.
@@ -43,7 +45,8 @@ Tôi mỉm cười khi giữ khoảng cách xa hơn với Norverne, sau đó kí
 
 Sau đó, tôi sử dụng Ground Shrink để đến gần anh ta ngay lập tức và bắt đầu đòn tấn công của riêng mình.
 
-Những cú đấm được tăng cường vật lý của tôi có thể đã giết chết Norverne, vì vậy tôi cũng sử dụng “Hold Back” một cách tự nhiên.
+Những cú đấm được tăng cường vật lý của tôi có thể đã giết chết Norverne, vì vậy tôi cũng sử dụng “Hold Back” một cách
+tự nhiên.
 
 “Kh…!”
 
@@ -67,7 +70,6 @@ Norverne sau đó hiện thực hóa những quả cầu lửa trước mặt m�
 
 Anh ta tiếp tục đấm những quả cầu lửa, khiến chúng bay đi.
 
-
 Họ đang lao về phía tôi nhanh hơn nhiều so với tôi mong đợi.
 
 Bạn đang đùa tôi à!? Tôi chưa bao giờ thấy ai đấm quả cầu lửa cả!!
@@ -76,7 +78,8 @@ Bất chấp sự ngạc nhiên của mình, tôi đã đánh bay hoặc né t�
 
 Tuy nhiên, trước khi tôi kịp nhận ra thì đã không thấy Norverne đâu cả.
 
-Tôi có một cảm giác khó chịu về điều đó, nhưng cảm giác đó lập tức trở thành hiện thực: một chiếc găng tay rực lửa sượt qua tôi, bay qua đầu tôi.
+Tôi có một cảm giác khó chịu về điều đó, nhưng cảm giác đó lập tức trở thành hiện thực: một chiếc găng tay rực lửa sượt
+qua tôi, bay qua đầu tôi.
 
 Cùng lúc đó, giọng nói robot vang lên trong đầu tôi.
 
@@ -112,7 +115,8 @@ Tuy nhiên, lần này cũng vậy, anh ta lập tức đứng dậy.
 
 Anh ấy thực sự rất cứng rắn…Tôi nghĩ mình đã dồn khá nhiều sức vào cú đá đó…
 
-“Tchah, chuyện đó thậm chí còn tệ hơn trước nữa! Nhưng vẫn chưa đủ…Tôi sắp phát điên rồi, tốt hơn hết là cậu nên ngăn tôi lại đi!!”
+“Tchah, chuyện đó thậm chí còn tệ hơn trước nữa! Nhưng vẫn chưa đủ…Tôi sắp phát điên rồi, tốt hơn hết là cậu nên ngăn
+tôi lại đi!!”
 
 Ngay khi Norverne nói xong, cơ thể anh ta được bao bọc trong ngọn lửa màu đỏ và tím.
 
@@ -122,7 +126,8 @@ Tôi nghe nói khán giả trở nên ồn ào hơn sau khi xem nó.
 
 “Này, tôi chưa bao giờ thấy Norverne làm điều đó…”
 
-“Ừ, anh ấy đang chơi hết mình, tôi đoán vậy…dù sao thì, Haruto đó có thực sự hạng A không…? Nhưng anh ta lại khiến một người xếp hạng S trở nên nghiêm túc như vậy…?”
+“Ừ, anh ấy đang chơi hết mình, tôi đoán vậy…dù sao thì, Haruto đó có thực sự hạng A không…? Nhưng anh ta lại khiến một
+người xếp hạng S trở nên nghiêm túc như vậy…?”
 
 Khi các mạo hiểm giả tiếp tục bình luận, Norverne tiếp cận tôi với tốc độ cao.
 
@@ -132,19 +137,23 @@ Tôi né đòn tấn công của anh ta, đấm và đá trong khi đó, nhưng 
 
 Tôi chắc chắn rằng anh ta đang tích lũy sát thương, nhưng ít nhất hành vi tấn công của anh ta không bị cản trở.
 
-Hmm, nếu tôi tiếp tục tấn công như thế này thì anh ta có thể gặp nguy hiểm…nhưng tôi không chắc liệu trạng thái điên cuồng có tắt khi anh ta cạn kiệt thể lực hay không…
+Hmm, nếu tôi tiếp tục tấn công như thế này thì anh ta có thể gặp nguy hiểm…nhưng tôi không chắc liệu trạng thái điên
+cuồng có tắt khi anh ta cạn kiệt thể lực hay không…
 
 Tôi đoán tôi nên ngăn chặn anh ta bằng một cuộc tấn công lớn sau đó.
 
 Tôi kích hoạt ma thuật băng dưới chân Norverne để ngăn chặn hắn, sau đó sử dụng Thu nhỏ mặt đất để thoát khỏi hắn.
 
-Sau đó, tôi thấm vào nắm đấm của mình một phép thuật sét cao cấp, sau đó sử dụng Thu nhỏ mặt đất một lần nữa để đến gần Norverne và đâm nắm đấm của mình vào bụng anh ta.
+Sau đó, tôi thấm vào nắm đấm của mình một phép thuật sét cao cấp, sau đó sử dụng Thu nhỏ mặt đất một lần nữa để đến gần
+Norverne và đâm nắm đấm của mình vào bụng anh ta.
 
-Tôi chọn sử dụng ma thuật sét vì ngay cả khi sát thương từ cú đấm không đủ để hạ gục anh ta, cú sốc do ma thuật sét gây ra có thể, hoặc tôi nghĩ vậy.
+Tôi chọn sử dụng ma thuật sét vì ngay cả khi sát thương từ cú đấm không đủ để hạ gục anh ta, cú sốc do ma thuật sét gây
+ra có thể, hoặc tôi nghĩ vậy.
 
 “Gwaahhh!!!”
 
-Norverne chịu tác động từ nắm đấm sét của tôi, nhưng ma thuật băng dưới chân khiến anh ta không thể bay đi nên anh ta ngã gục tại chỗ.
+Norverne chịu tác động từ nắm đấm sét của tôi, nhưng ma thuật băng dưới chân khiến anh ta không thể bay đi nên anh ta
+ngã gục tại chỗ.
 
 Đấu trường trở nên im lặng đến chết người.
 
@@ -158,7 +167,8 @@ Lời tuyên bố của trọng tài vang vọng khắp đấu trường.
 
 Có lẽ khán giả vẫn chưa nắm bắt được tình hình và chỉ đứng nhìn mà chết lặng.
 
-Tôi không trách họ: rốt cuộc thì có hai nhà thám hiểm hạng S, trong đó chỉ có năm người trên toàn thế giới, vừa thua một nhà thám hiểm hạng A.
+Tôi không trách họ: rốt cuộc thì có hai nhà thám hiểm hạng S, trong đó chỉ có năm người trên toàn thế giới, vừa thua một
+nhà thám hiểm hạng A.
 
 Một lúc sau, Dyne cố gắng giữ bình tĩnh và chạy tới.
 
@@ -230,7 +240,8 @@ Trận chiến cuồng nhiệt
 
 <Chiến đấu với cuộc tàn sát của quỷ>
 
-Trong quá trình kích hoạt các kỹ năng hỗ trợ vật lý, hiệu ứng của chúng được tăng lên 200%. Hiệu ứng tăng lên khi người dùng cận kề cái chết, lên tới tối đa 800%.
+Trong quá trình kích hoạt các kỹ năng hỗ trợ vật lý, hiệu ứng của chúng được tăng lên 200%. Hiệu ứng tăng lên khi người
+dùng cận kề cái chết, lên tới tối đa 800%.
 
 Tôi cho rằng tôi cũng nên sao chép cái này.
 
@@ -246,7 +257,8 @@ Sau khi tôi sao chép xong, Norverne lấy lại bình tĩnh.
 
 “Ờ…..ơ? Dyne…? Mình đã thua Haruto à?”
 
-"Vâng đúng rồi. Nhưng Haruto đã chữa lành vết thương cho bạn rồi. Nghĩ đến việc bạn không thể thắng ngay cả với Berserk Switch…”
+"Vâng đúng rồi. Nhưng Haruto đã chữa lành vết thương cho bạn rồi. Nghĩ đến việc bạn không thể thắng ngay cả với Berserk
+Switch…”
 
 Norverne nhìn thẳng vào tôi và cảm ơn tôi.
 

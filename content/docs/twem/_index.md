@@ -1,8 +1,6 @@
 ---
 title: TWEM
-sidebar:
-  open: true
-toc: true
+#bookCollapseSection: true
 ---
 
 __Tên tiếng Nhật__: _異世界召喚されたら無能と言われ追い出されました。

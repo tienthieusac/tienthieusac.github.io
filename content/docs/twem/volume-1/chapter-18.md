@@ -3,6 +3,8 @@ title: Chương 18 – Thăng hạng S?
 weight: 18
 ---
 
+# Chương 18 – Thăng hạng S?
+
 Chủ hội bán khỏa thân bước về phía tôi.
 
 Hãy mặc thứ gì đó trước đã, làm ơn…!

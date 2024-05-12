@@ -3,7 +3,10 @@ title: Chương 11 – Đến Vương quốc Perdis
 weight: 11
 ---
 
-Tôi quay lại nhà trọ thu dọn đồ đạc rồi đến công ty thương mại để cảm ơn Bacchus vì tất cả những gì anh ấy đã làm cho tôi.
+# Chương 11 – Đến Vương quốc Perdis
+
+Tôi quay lại nhà trọ thu dọn đồ đạc rồi đến công ty thương mại để cảm ơn Bacchus vì tất cả những gì anh ấy đã làm cho
+tôi.
 
 “Ồ, anh Haruto. Điều gì mang bạn tới đây hôm nay?"
 
@@ -11,7 +14,8 @@ Tôi quay lại nhà trọ thu dọn đồ đạc rồi đến công ty thương
 
 Bacchus nhìn tôi với vẻ mặt tuyệt vọng.
 
-“Ồ, tôi hiểu rồi…bạn sắp rời đi rồi. Tôi cũng dự định đến vương quốc Perdis trong tương lai gần, nên hy vọng chúng ta sẽ gặp lại nhau ở đâu đó.”
+“Ồ, tôi hiểu rồi…bạn sắp rời đi rồi. Tôi cũng dự định đến vương quốc Perdis trong tương lai gần, nên hy vọng chúng ta sẽ
+gặp lại nhau ở đâu đó.”
 
 “Anh cũng có cửa hàng ở đó à!? Công ty thương mại của ông chắc chắn rất lớn, ông Bacchus…”
 
@@ -39,11 +43,13 @@ Barnar nói vậy trong khi gõ nhẹ vào thanh kiếm ở thắt lưng, sau đ
 
 "Bảo trọng!"
 
-Sau khi bày tỏ lòng biết ơn của mình với Bacchus một lần nữa và đấm nhau với Barnar và người của anh ta, tôi rời công ty thương mại.
+Sau khi bày tỏ lòng biết ơn của mình với Bacchus một lần nữa và đấm nhau với Barnar và người của anh ta, tôi rời công ty
+thương mại.
 
 ~
 
-Tôi vào thị trấn mua một số đồ lặt vặt, đảm bảo khẩu phần ăn khẩn cấp đề phòng và ăn trưa. Sau đó tôi đi đến điểm hẹn được chỉ định gần cổng phía bắc.
+Tôi vào thị trấn mua một số đồ lặt vặt, đảm bảo khẩu phần ăn khẩn cấp đề phòng và ăn trưa. Sau đó tôi đi đến điểm hẹn
+được chỉ định gần cổng phía bắc.
 
 Giữa dòng người qua lại, tôi nhận ra một nhóm đang đợi cạnh cổng.
 
@@ -53,14 +59,17 @@ Số lượng mạo hiểm giả có vẻ khá ít, nhưng có lẽ những ngư
 
 Vì vậy, tôi đã suy nghĩ trong khi tiếp cận nhóm.
 
-
 Sau khi nhận thấy tôi đến gần, một người đàn ông, có lẽ khoảng năm mươi tuổi, tiến đến chỗ tôi.
 
 “Bạn có phải là một trong những nhà thám hiểm đã nhận yêu cầu của chúng tôi không?”
 
 “Vâng, tên tôi là Haruto.”
 
-“Tôi thấy, rất tốt. Tên tôi là Youte, tôi là người gửi yêu cầu hộ tống đến bang hội. Chúng tôi sẽ trông cậy vào bạn. Như bạn có thể thấy, chúng tôi có nhiều xe ngựa và có khả năng nổi bật nên có khả năng cao sẽ bị quái vật hoặc kẻ cướp tấn công…nhưng yêu cầu thực sự quá đột ngột nên chỉ có một số nhà thám hiểm chấp nhận. Hộ tống của chúng tôi là năm nhà thám hiểm đó và bạn, nên tổng cộng chỉ có sáu thành viên. Họ đang thảo luận về cách tổ chức nhiệm vụ của mình, vì vậy hãy tham gia cùng họ.”
+“Tôi thấy, rất tốt. Tên tôi là Youte, tôi là người gửi yêu cầu hộ tống đến bang hội. Chúng tôi sẽ trông cậy vào bạn. Như
+bạn có thể thấy, chúng tôi có nhiều xe ngựa và có khả năng nổi bật nên có khả năng cao sẽ bị quái vật hoặc kẻ cướp tấn
+công…nhưng yêu cầu thực sự quá đột ngột nên chỉ có một số nhà thám hiểm chấp nhận. Hộ tống của chúng tôi là năm nhà thám
+hiểm đó và bạn, nên tổng cộng chỉ có sáu thành viên. Họ đang thảo luận về cách tổ chức nhiệm vụ của mình, vì vậy hãy
+tham gia cùng họ.”
 
 “Hiểu rồi, bạn có thể tin tưởng vào tôi.”
 
@@ -68,7 +77,8 @@ Vậy đó là lý do đằng sau con số thấp.
 
 Tôi làm như được bảo và đi về phía nhóm mạo hiểm giả.
 
-Có một nhóm bốn người - hai nam và hai nữ - ở độ tuổi hai mươi và một người đội mũ trùm đầu…? Đợi đã, tôi đã nhìn thấy chiếc mũ trùm đầu đó trước đây…
+Có một nhóm bốn người - hai nam và hai nữ - ở độ tuổi hai mươi và một người đội mũ trùm đầu…? Đợi đã, tôi đã nhìn thấy
+chiếc mũ trùm đầu đó trước đây…
 
 Tôi đang cố nhớ lại người đội mũ trùm đầu là ai thì một trong những nhà thám hiểm gọi tôi.
 
@@ -76,7 +86,8 @@ Tôi đang cố nhớ lại người đội mũ trùm đầu là ai thì một t
 
 “Tên tôi là Haruto, tôi cũng nhận yêu cầu hộ tống. Rất vui được gặp bạn."
 
-“Vậy bây giờ mọi người đã tập trung đông đủ…Tôi là thủ lĩnh của nhóm bốn thành viên này, Ryan. Không cần danh hiệu hay kính ngữ, chỉ cần gọi tên chúng tôi. Hạng mạo hiểm giả của chúng tôi là B.”
+“Vậy bây giờ mọi người đã tập trung đông đủ…Tôi là thủ lĩnh của nhóm bốn thành viên này, Ryan. Không cần danh hiệu hay
+kính ngữ, chỉ cần gọi tên chúng tôi. Hạng mạo hiểm giả của chúng tôi là B.”
 
 Ryan tự giới thiệu mình trước, sau đó các thành viên trong nhóm của anh ấy làm theo.
 
@@ -86,11 +97,13 @@ Ryan tự giới thiệu mình trước, sau đó các thành viên trong nhóm 
 
 “Tôi là người Iraly và tôi cũng là một người sử dụng phép thuật!”
 
-Giống như nhóm của Barnar và Finne, có vẻ như các nhà thám hiểm không quan tâm nhiều đến lời nói lịch sự. Nó làm cho việc nói chuyện trở nên dễ dàng hơn và ngay từ đầu tôi đã không thực sự sử dụng nó nhiều…
+Giống như nhóm của Barnar và Finne, có vẻ như các nhà thám hiểm không quan tâm nhiều đến lời nói lịch sự. Nó làm cho
+việc nói chuyện trở nên dễ dàng hơn và ngay từ đầu tôi đã không thực sự sử dụng nó nhiều…
 
 Ryan sau đó chỉ tay về phía người đội mũ trùm đầu.
 
-“Cô ấy đã nhận yêu cầu giống chúng tôi nhưng không phải là thành viên trong nhóm của chúng tôi. Cô ấy là một nhà thám hiểm đơn độc— ”
+“Cô ấy đã nhận yêu cầu giống chúng tôi nhưng không phải là thành viên trong nhóm của chúng tôi. Cô ấy là một nhà thám
+hiểm đơn độc— ”
 
 "Ông. Haruto, chúng ta lại gặp nhau rồi.”
 
@@ -144,7 +157,8 @@ Tôi vừa nói vừa lấy thẻ mạo hiểm giả ra khỏi túi cho họ xem
 
 "MỘT TUẦN TRƯỚC!?!?"
 
-Nhóm của Ryan lại hét lên. Finne đã biết từ cuộc trò chuyện của chúng tôi ngày hôm trước nên cô ấy không ngạc nhiên đến thế.
+Nhóm của Ryan lại hét lên. Finne đã biết từ cuộc trò chuyện của chúng tôi ngày hôm trước nên cô ấy không ngạc nhiên đến
+thế.
 
 “Chỉ một tuần…ý tôi là, đối với chúng tôi…”
 
@@ -164,7 +178,8 @@ Sau đó chúng tôi thảo luận về cách tổ chức việc chuẩn bị ch
 
 Sau thông báo của Youte, tất cả chúng tôi đều đăng bài của mình.
 
-Tổng cộng có năm toa nên chúng tôi không lên mỗi toa mà chia ra như sau: hai toa ở toa đầu, hai toa ở toa thứ hai và hai toa ở toa đuôi.
+Tổng cộng có năm toa nên chúng tôi không lên mỗi toa mà chia ra như sau: hai toa ở toa đầu, hai toa ở toa thứ hai và hai
+toa ở toa đuôi.
 
 Ryan và Anita về nhất, Nathan và Iraly về thứ hai, tôi và Finne về cuối.
 
@@ -192,7 +207,8 @@ Chúng tôi đang trò chuyện trong tâm trạng nhàn nhã thì tính năng P
 
 "Hở?"
 
-Tôi tạo hình khẩu súng bằng tay và sử dụng Thao tác Sức mạnh Phép thuật để tập trung sức mạnh phép thuật vào đầu ngón tay.
+Tôi tạo hình khẩu súng bằng tay và sử dụng Thao tác Sức mạnh Phép thuật để tập trung sức mạnh phép thuật vào đầu ngón
+tay.
 
 “Tôi chưa bao giờ thấy thứ gì như thế này… đó là phép thuật gì vậy?”
 
@@ -202,11 +218,13 @@ Finne hỏi tôi, giọng đầy ngạc nhiên.
 
 "Viên đạn ma thuật?"
 
-"Đúng. Bạn tập hợp sức mạnh ma thuật từ cơ thể và tạo hình nó thành một viên đạn. Sau đó, bạn chỉ cần bắn nó vào kẻ thù. Đặc điểm chính là vì nó không phải là ma thuật nguyên tố nên nó không yếu trước bất kỳ nguyên tố nào, tôi đoán vậy.”
+"Đúng. Bạn tập hợp sức mạnh ma thuật từ cơ thể và tạo hình nó thành một viên đạn. Sau đó, bạn chỉ cần bắn nó vào kẻ thù.
+Đặc điểm chính là vì nó không phải là ma thuật nguyên tố nên nó không yếu trước bất kỳ nguyên tố nào, tôi đoán vậy.”
 
 Sau khi giải thích xong, tôi bắn tám viên đạn ma thuật.
 
-Những viên đạn bay trong không trung không gây ra tiếng động và thổi bay đầu những con quái vật đang trốn trong bụi rậm phía trước.
+Những viên đạn bay trong không trung không gây ra tiếng động và thổi bay đầu những con quái vật đang trốn trong bụi rậm
+phía trước.
 
 Tám xác chết Goblin không đầu sau đó ngã xuống đường.
 
@@ -220,7 +238,8 @@ Tôi cũng lên tiếng, giục họ thư giãn.
 
 Tuy nhiên, Ryan và những người khác lại nhìn tôi như thể họ không thể tin vào mắt mình.
 
-Có chuyện gì vậy các bạn? Sẽ tốt hơn nếu chúng ta không phải chiến đấu, phải không? Tôi nghĩ vậy, hơi khó chịu trước phản ứng của họ, nhưng ít nhất Finne cũng nhìn tôi với ánh mắt ngưỡng mộ.
+Có chuyện gì vậy các bạn? Sẽ tốt hơn nếu chúng ta không phải chiến đấu, phải không? Tôi nghĩ vậy, hơi khó chịu trước
+phản ứng của họ, nhưng ít nhất Finne cũng nhìn tôi với ánh mắt ngưỡng mộ.
 
 “Ngài Haruto, ngài thật tuyệt vời…có thể đánh trúng chúng từ khoảng cách xa như vậy…”
 
@@ -244,19 +263,27 @@ Xe ngựa tiến thêm một đoạn nữa rồi dừng lại khi xung quanh t�
 
 “Hôm nay chúng ta sẽ cắm trại ở đây. Mọi người hãy chuẩn bị những thứ cần thiết nhé.”
 
-Theo lệnh của Youte, chúng tôi bắt đầu dựng trại. Các nhà thám hiểm kỳ cựu đã thể hiện kiến ​​thức chuyên môn của họ ở đây, vì vậy tôi không có nhiều việc phải làm…điều đó không còn cách nào khác, phải không?
+Theo lệnh của Youte, chúng tôi bắt đầu dựng trại. Các nhà thám hiểm kỳ cựu đã thể hiện kiến ​​thức chuyên môn của họ ở
+đây, vì vậy tôi không có nhiều việc phải làm…điều đó không còn cách nào khác, phải không?
 
 Sau bữa tối, chúng tôi bàn cách tổ chức trực ban đêm.
 
 Chúng tôi được chia thành những cặp xe giống nhau và chỉ phải quyết định thứ tự, nên đó là một quá trình dễ dàng.
 
-Con đường được củng cố tốt so với những con đường ở vương quốc Glicente, nên sẽ không có nhiều cuộc chạm trán với quái vật. Mặt khác, vì nhiều du khách quá tin tưởng vào sự an toàn của nó nên có nhiều kẻ cướp và kẻ trộm rình mò xung quanh hơn.
+Con đường được củng cố tốt so với những con đường ở vương quốc Glicente, nên sẽ không có nhiều cuộc chạm trán với quái
+vật. Mặt khác, vì nhiều du khách quá tin tưởng vào sự an toàn của nó nên có nhiều kẻ cướp và kẻ trộm rình mò xung quanh
+hơn.
 
-Ngày hôm sau, chúng tôi vượt qua biên giới mà không gặp khó khăn gì và tiến vào lãnh thổ vương quốc Perdis. Trong bốn ngày tiếp theo, chúng tôi tiếp tục cuộc hành trình về phía thủ đô, dừng lại ở các thị trấn và làng mạc trên đường đi, nhưng cuối cùng chúng tôi không bị quái vật hay thậm chí là bọn cướp tấn công, những kẻ được cho là có rất nhiều trong khu vực.
+Ngày hôm sau, chúng tôi vượt qua biên giới mà không gặp khó khăn gì và tiến vào lãnh thổ vương quốc Perdis. Trong bốn
+ngày tiếp theo, chúng tôi tiếp tục cuộc hành trình về phía thủ đô, dừng lại ở các thị trấn và làng mạc trên đường đi,
+nhưng cuối cùng chúng tôi không bị quái vật hay thậm chí là bọn cướp tấn công, những kẻ được cho là có rất nhiều trong
+khu vực.
 
 Ngày thứ sáu sau khi chúng tôi rời Vaana, trong giờ nghỉ, Youte tiếp cận chúng tôi, những mạo hiểm giả.
 
-“Khu vực mà chúng ta sẽ tiến vào trong thời gian ngắn đã trở thành địa bàn của một băng trộm lớn, có vẻ như…chúng ta sẽ đến thủ đô trong khoảng nửa ngày, vì vậy sẽ thật lý tưởng nếu không có chuyện gì xảy ra, nhưng tôi yêu cầu bạn thậm chí còn hơn thế nữa.” tỉnh táo hơn bình thường.”
+“Khu vực mà chúng ta sẽ tiến vào trong thời gian ngắn đã trở thành địa bàn của một băng trộm lớn, có vẻ như…chúng ta sẽ
+đến thủ đô trong khoảng nửa ngày, vì vậy sẽ thật lý tưởng nếu không có chuyện gì xảy ra, nhưng tôi yêu cầu bạn thậm chí
+còn hơn thế nữa.” tỉnh táo hơn bình thường.”
 
 Ryan và nhóm của anh ấy đã đáp lại yêu cầu của Youte một cách đầy tự hào.
 

@@ -3,6 +3,8 @@ title: Ngoại Truyện – Trong khi đó, Những Anh Hùng…
 weight: 20
 ---
 
+# Ngoại Truyện – Trong khi đó, Những Anh Hùng…
+
 Khi vào trong, họ cảm thấy nhẹ nhõm khi nhận ra rằng nó không phải tối đen như mực mà chỉ có ánh sáng lờ mờ.
 
 “Nó sáng hơn tôi nghĩ.”

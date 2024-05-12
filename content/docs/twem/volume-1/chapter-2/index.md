@@ -3,6 +3,8 @@ title: Chương 2 – Địa vị và sự lưu đày
 weight: 2
 ---
 
+# Chương 2 – Địa vị và sự lưu đày
+
 Một lúc sau, chúng tôi đã tới phòng khán giả.
 
 Cánh cửa được trang trí sang trọng khắp nơi, đúng như mong đợi đối với phòng tiếp kiến ​​của một vị
