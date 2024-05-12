@@ -3,5 +3,6 @@ command = "hugo --gc --minify"
 publish = "public"
 
 [build.environment]
+GO_VERSION = "1.12.2"
 HUGO_VERSION = "0.125.2"
 TZ = "Asia/Ho_Chi_Minh"
