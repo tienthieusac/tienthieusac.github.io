@@ -61,7 +61,7 @@ Dự án này được thực hiện bằng cách áp dụng các công nghệ s
 
 - [GitHub](https://github.com): Nền tảng lưu trữ mã nguồn
 - [Hugo](https://gohugo.io/): Công cụ tạo trang web tĩnh từ Markdown
-- [Hugo Blox](https://hugoblox.com/): Theme cho Hugo
+- [Hugo Book Theme](https://github.com/alex-shpak/hugo-book/): Theme cho Hugo
 - [GitHub Pages](https://pages.github.com): Dịch vụ hosting miễn phí của GitHub, nơi host trang web
   chính [https://tienthieusac.github.io](https://tienthieusac.github.io)
 - [Netlify](https://www.netlify.com): Dịch vụ hosting miễn phí, nơi host trang web thử
