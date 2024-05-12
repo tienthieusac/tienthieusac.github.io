@@ -3,6 +3,8 @@ title: Chương 16 – Nhà thám hiểm hạng S
 weight: 16
 ---
 
+# Chương 16 – Nhà thám hiểm hạng S
+
 Ngày hôm sau, Finne và tôi ngủ đến khuya vì mệt mỏi của ngày hôm trước: khi thức dậy thì đã quá trưa.
 
 Sau bữa trưa lười biếng, chúng tôi quyết định đi đến hội mạo hiểm giả vì ngày hôm trước chúng tôi không thể đi được.

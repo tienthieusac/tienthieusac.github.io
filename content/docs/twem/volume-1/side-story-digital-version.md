@@ -3,9 +3,12 @@ title: Chuyện bên lề phiên bản kỹ thuật số – Đón gái ở kinh
 weight: 22
 ---
 
+# Chuyện bên lề phiên bản kỹ thuật số – Đón gái ở kinh thành – Báo cáo quan sát
+
 Tôi, Yuki Haruto, đang hướng tới quảng trường trung tâm thủ đô hoàng gia của vương quốc Perdis này.
 
-Tôi đang đi mua sắm một mình để chuẩn bị cho yêu cầu tiếp theo, sau đó tôi phải gặp thành viên trong nhóm của mình, Finne, ở quảng trường trung tâm.
+Tôi đang đi mua sắm một mình để chuẩn bị cho yêu cầu tiếp theo, sau đó tôi phải gặp thành viên trong nhóm của mình,
+Finne, ở quảng trường trung tâm.
 
 Khi tôi đến quảng trường thì đã sớm năm phút so với thời gian quy định.
 
@@ -15,12 +18,12 @@ Finne đang đứng đó, chiếc mũ trùm đầu che khuất khuôn mặt.
 
 Khoảnh khắc tiếp theo, một cơn gió mạnh thổi bay chiếc mũ trùm đầu của cô.
 
-Sự chú ý của những người đàn ông xung quanh hoàn toàn bị thu hút bởi nét đáng yêu của cô. Một số người trong số họ thậm chí còn đỏ mặt.
+Sự chú ý của những người đàn ông xung quanh hoàn toàn bị thu hút bởi nét đáng yêu của cô. Một số người trong số họ thậm
+chí còn đỏ mặt.
 
 Trước khi tôi kịp đến gần Finne, hai người lạ đã đứng trước mặt cô ấy.
 
 “Nhìn em đáng yêu quá! Muốn uống cùng nhau không?”
-
 
 “Chúng tôi là những mạo hiểm giả hạng B, bạn biết không?”
 
@@ -36,7 +39,8 @@ Finne, cậu đã đợi lâu quá à…?
 
 Tuy nhiên, Finne đã trả lời một cách chắc chắn.
 
-“Không, anh ấy chắc chắn sẽ đến. Bây giờ còn năm phút nữa là tới giờ gặp mặt của chúng ta. Tôi chắc chắn bây giờ anh ấy đang ở gần và theo dõi chúng tôi.”
+“Không, anh ấy chắc chắn sẽ đến. Bây giờ còn năm phút nữa là tới giờ gặp mặt của chúng ta. Tôi chắc chắn bây giờ anh ấy
+đang ở gần và theo dõi chúng tôi.”
 
 Hở? Có lẽ nào…cô ấy đã nhìn thấy tôi?
 
@@ -78,7 +82,8 @@ Cô gái tóc đỏ cũng nhận ra nên tôi rời khỏi cái bóng mà tôi �
 
 “Này, cậu đợi có lâu không?”
 
-Tôi vẫy tay chào Finne như thể không có chuyện gì xảy ra nhưng cô ấy lại trừng mắt nhìn tôi. Vậy là cô ấy đã thực sự tìm thấy tôi…
+Tôi vẫy tay chào Finne như thể không có chuyện gì xảy ra nhưng cô ấy lại trừng mắt nhìn tôi. Vậy là cô ấy đã thực sự tìm
+thấy tôi…
 
 Sau một hồi im lặng, Finne bĩu môi và hỏi tôi một câu.
 
@@ -90,7 +95,8 @@ Phu nhân Finne có vẻ đang có tâm trạng khá khó chịu.
 
 Tôi lập tức quỳ xuống đất và xin lỗi.
 
-Cô gái tóc vàng và cô gái tóc đỏ không thể theo kịp diễn biến đột ngột, nhưng khi họ lấy lại bình tĩnh, cô gái tóc vàng nói chuyện với tôi.
+Cô gái tóc vàng và cô gái tóc đỏ không thể theo kịp diễn biến đột ngột, nhưng khi họ lấy lại bình tĩnh, cô gái tóc vàng
+nói chuyện với tôi.
 
 "Bạn là Hà phải không- "
 

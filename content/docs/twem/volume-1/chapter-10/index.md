@@ -3,6 +3,8 @@ title: Chương 10 – Finne
 weight: 10
 ---
 
+# Chương 10 – Finne
+
 Vì phải đợi thêm một ngày nữa để lấy thẻ mới nên sáng hôm sau tôi cùng Barnar và những người khác đi
 dạo quanh thị trấn.
 

@@ -3,7 +3,10 @@ title: Chương 12 – Kẻ Trộm
 weight: 12
 ---
 
-…như đã lo sợ, sau khi chúng tôi kết thúc giờ nghỉ trưa và lên đường trở lại, Khả năng Phát hiện Hiện diện của tôi đã nhận được một số phản hồi của con người.
+# Chương 12 – Kẻ Trộm
+
+…như đã lo sợ, sau khi chúng tôi kết thúc giờ nghỉ trưa và lên đường trở lại, Khả năng Phát hiện Hiện diện của tôi đã
+nhận được một số phản hồi của con người.
 
 Tôi tự hỏi liệu họ có thực sự như những gì tôi mong đợi hay không và xác nhận rằng họ đang tiến về phía chúng tôi.
 
@@ -11,7 +14,8 @@ Cờ sự kiện đã được sử dụng rồi sao!?
 
 Ít phút sau, 20 tên cướp xuất hiện và chặn đường đoàn xe của chúng tôi.
 
-“Nếu bạn quý trọng mạng sống của mình, hãy bỏ lại tất cả hàng hóa và hành lý của bạn và quay trở lại nơi bạn đã xuất phát…mặc dù bạn sẽ không thể quay về nguyên vẹn!”
+“Nếu bạn quý trọng mạng sống của mình, hãy bỏ lại tất cả hàng hóa và hành lý của bạn và quay trở lại nơi bạn đã xuất
+phát…mặc dù bạn sẽ không thể quay về nguyên vẹn!”
 
 Sau khi một tên cướp đưa ra tuyên bố này, đồng đội của anh ta phá lên cười thô tục.
 
@@ -53,7 +57,8 @@ Finne giận dữ phản đối sau khi tôi đến bên cô ấy.
 
 Lý thuyết của cô rằng người mạnh nhất phải là người bảo vệ người khác khi họ trốn thoát là hoàn toàn đúng.
 
-Nhưng đó là một phương án chỉ nên cân nhắc khi bạn phải bỏ chạy hoặc phe của bạn không đủ sức chiến đấu để bảo vệ những người bạn được giao nhiệm vụ hộ tống.
+Nhưng đó là một phương án chỉ nên cân nhắc khi bạn phải bỏ chạy hoặc phe của bạn không đủ sức chiến đấu để bảo vệ những
+người bạn được giao nhiệm vụ hộ tống.
 
 Nhờ phép thuật kết giới của tôi mà đoàn xe đã an toàn. Bên cạnh đó…
 
@@ -63,7 +68,8 @@ Tôi nói với Finne.
 
 Nó chỉ được nhìn thấy nếu bạn chú ý đến cô ấy, nhưng đôi chân của cô ấy thực sự đang run rẩy.
 
-Bọn cướp có số lượng đông hơn nhiều và ánh mắt của chúng nhìn về phía cô ấy chắc chắn rất đáng sợ, nên tôi rất ấn tượng rằng cô ấy không hề mất hết ý chí chiến đấu.
+Bọn cướp có số lượng đông hơn nhiều và ánh mắt của chúng nhìn về phía cô ấy chắc chắn rất đáng sợ, nên tôi rất ấn tượng
+rằng cô ấy không hề mất hết ý chí chiến đấu.
 
 Khi tôi chỉ ra rằng chân cô ấy đang run, Finne rùng mình.
 
@@ -75,20 +81,25 @@ Khi tôi chỉ ra rằng chân cô ấy đang run, Finne rùng mình.
 
 Có lẽ không hài lòng với cuộc trao đổi của chúng tôi, một trong những tên trộm - có lẽ là thủ lĩnh - lên tiếng.
 
-“Lảm nhảm đủ rồi đấy, nhóc con!! Bạn thực sự có kế hoạch chiến đấu với chúng tôi? Sáu người các bạn chống lại tất cả chúng tôi!? Nhảm nhí!! Các bạn, giết hết bọn chúng đi!! Nhưng hãy bắt sống những người phụ nữ đó!!”
+“Lảm nhảm đủ rồi đấy, nhóc con!! Bạn thực sự có kế hoạch chiến đấu với chúng tôi? Sáu người các bạn chống lại tất cả
+chúng tôi!? Nhảm nhí!! Các bạn, giết hết bọn chúng đi!! Nhưng hãy bắt sống những người phụ nữ đó!!”
 
 Lệnh của thủ lĩnh phái tất cả bọn cướp tấn công chúng tôi cùng một lúc.
 
-Tuy nhiên, sáu nhà thám hiểm bên phía chúng tôi đều có một mức độ kinh nghiệm nhất định. Và dù sao thì tôi cũng đã xếp hạng A.
+Tuy nhiên, sáu nhà thám hiểm bên phía chúng tôi đều có một mức độ kinh nghiệm nhất định. Và dù sao thì tôi cũng đã xếp
+hạng A.
 
-Có vẻ như kẻ thù đã áp đảo chúng tôi về số lượng, nhưng vì tôi đã tham gia vào cuộc chiến nên chúng tôi không thể nào thua được.
-
+Có vẻ như kẻ thù đã áp đảo chúng tôi về số lượng, nhưng vì tôi đã tham gia vào cuộc chiến nên chúng tôi không thể nào
+thua được.
 
 Vài phút sau khi trận chiến bắt đầu, số lượng bọn cướp chưa đến 10.
 
-Tôi muốn xem những người khác chiến đấu như thế nào nên tôi quyết định đóng vai phụ. Tuy nhiên, nếu có ai tấn công tôi, tôi sẽ đánh họ bất tỉnh.
+Tôi muốn xem những người khác chiến đấu như thế nào nên tôi quyết định đóng vai phụ. Tuy nhiên, nếu có ai tấn công tôi,
+tôi sẽ đánh họ bất tỉnh.
 
-Ryan và nhóm của anh ấy, đúng như mong đợi của những mạo hiểm giả hạng B, đã chiến đấu mà không gặp nhiều khó khăn ngay cả khi chống lại nhiều kẻ thù. Chiến thắng của họ không hề bị nghiền nát, nhưng họ đã thành công nhờ vào việc kẻ thù cũng nhắm vào Finne và tôi.
+Ryan và nhóm của anh ấy, đúng như mong đợi của những mạo hiểm giả hạng B, đã chiến đấu mà không gặp nhiều khó khăn ngay
+cả khi chống lại nhiều kẻ thù. Chiến thắng của họ không hề bị nghiền nát, nhưng họ đã thành công nhờ vào việc kẻ thù
+cũng nhắm vào Finne và tôi.
 
 Mặt khác, Finne đôi khi khiến tôi đổ mồ hôi lạnh.
 
@@ -100,7 +111,8 @@ Cô ấy có thể giữ vững lập trường của mình từng đối một,
 
 Cô đang tập trung vào kẻ thù trước mặt và không nhận thấy một tên trộm khác đang lao tới tấn công cô từ bên cạnh.
 
-Tôi gọi cô ấy và đồng thời sử dụng kỹ năng “Ground Shrink”, sau đó đấm vào bụng tên trộm đang tấn công Finne từ bên cạnh, đồng thời kích hoạt “Hold Back”, nên tôi chỉ khiến hắn bất tỉnh.
+Tôi gọi cô ấy và đồng thời sử dụng kỹ năng “Ground Shrink”, sau đó đấm vào bụng tên trộm đang tấn công Finne từ bên
+cạnh, đồng thời kích hoạt “Hold Back”, nên tôi chỉ khiến hắn bất tỉnh.
 
 “Tôi xin lỗi…và cảm ơn bạn.”
 
@@ -112,7 +124,8 @@ Finne trả lời một cách mạnh mẽ, sau đó hạ gục kẻ thù trướ
 
 Chẳng bao lâu, tên trộm cuối cùng còn đứng cũng sụp đổ.
 
-Chúng tôi trói những tên trộm bất tỉnh, đánh thức một tên trong số chúng và bắt đầu thẩm vấn hắn về nơi ẩn náu của chúng.
+Chúng tôi trói những tên trộm bất tỉnh, đánh thức một tên trong số chúng và bắt đầu thẩm vấn hắn về nơi ẩn náu của
+chúng.
 
 Ryan khoanh tay đứng trước mặt tên trộm và nói.
 
@@ -120,7 +133,8 @@ Ryan khoanh tay đứng trước mặt tên trộm và nói.
 
 “Tôi sẽ làm như vậy!! Cậu sẽ không thoát khỏi chuyện này đâu!!”
 
-“Tôi hiểu rồi, nếu bạn thậm chí còn không có tên, tất nhiên là bạn không thể nói được…thật đáng thương cho một băng trộm.”
+“Tôi hiểu rồi, nếu bạn thậm chí còn không có tên, tất nhiên là bạn không thể nói được…thật đáng thương cho một băng
+trộm.”
 
 "Bạn nói gì!? Chúng tôi là 'Sói Ebony', vì vậy hãy cẩn thận với cái mồm của mình!!”
 
@@ -130,7 +144,9 @@ Tôi chưa bao giờ nghe cái tên này trước đây nên tôi hỏi Youte xe
 
 "Ông. Youte, 'Sói Ebony' là gì vậy?”
 
-“Họ là một nhóm côn đồ gần đây đang tàn phá khu vực xung quanh thủ đô. Thủ lĩnh là một người rất cứng rắn, cho dù quân đội hay các nhà thám hiểm đã dồn anh ta vào chân tường bao nhiêu lần, anh ta vẫn luôn tìm cách chạy trốn…Tuy nhiên, tôi chưa bao giờ mong đợi sẽ gặp phải họ.”
+“Họ là một nhóm côn đồ gần đây đang tàn phá khu vực xung quanh thủ đô. Thủ lĩnh là một người rất cứng rắn, cho dù quân
+đội hay các nhà thám hiểm đã dồn anh ta vào chân tường bao nhiêu lần, anh ta vẫn luôn tìm cách chạy trốn…Tuy nhiên, tôi
+chưa bao giờ mong đợi sẽ gặp phải họ.”
 
 Tôi cũng không bao giờ ngờ rằng họ lại là những tên trộm nổi tiếng, họ khá nhỏ con.
 
@@ -148,13 +164,15 @@ Ryan lùi lại, miễn cưỡng để tôi đảm nhận nhiệm vụ.
 
 “Cái gì, giờ đến lượt mày đấy à, nhóc con? Tôi không có gì để nói với bạn cả, shoo.”
 
-Tên trộm đã nói chuyện với tôi như thế này ngay khi nhìn thấy tôi, nên tôi nhanh chóng giật lấy con dao treo trên thắt lưng và đâm vào đùi hắn mà không chút do dự.
+Tên trộm đã nói chuyện với tôi như thế này ngay khi nhìn thấy tôi, nên tôi nhanh chóng giật lấy con dao treo trên thắt
+lưng và đâm vào đùi hắn mà không chút do dự.
 
 “G-GWAAHHH!!”
 
 "Im lặng. Bây giờ tôi đang đặt câu hỏi. Nếu không trả lời được… coi như mình đã chết.”
 
-Tôi bộc lộ ý định giết chóc nào đó và tên trộm có lẽ đã nhận ra rằng hắn thực sự sắp bị giết nên hắn gật đầu mạnh mẽ nhất có thể.
+Tôi bộc lộ ý định giết chóc nào đó và tên trộm có lẽ đã nhận ra rằng hắn thực sự sắp bị giết nên hắn gật đầu mạnh mẽ
+nhất có thể.
 
 "Tốt. Nơi ẩn náu của bạn ở đâu? Ngoài ra, hãy cho tôi biết còn lại bao nhiêu thành viên trong Ebony Wolves.”
 
@@ -164,19 +182,24 @@ Tôi bộc lộ ý định giết chóc nào đó và tên trộm có lẽ đã 
 
 Tôi nhặt thanh kiếm của tên trộm từ dưới đất lên và chĩa vào cổ hắn.
 
-“Nếu cậu vào khu rừng ở đây và tiến lên một chút cậu sẽ tìm thấy một cái hang. Đó là một trong những căn cứ chúng tôi sử dụng. Đ-điều đó thực sự đúng!!”
+“Nếu cậu vào khu rừng ở đây và tiến lên một chút cậu sẽ tìm thấy một cái hang. Đó là một trong những căn cứ chúng tôi sử
+dụng. Đ-điều đó thực sự đúng!!”
 
 “Anh không nói dối đấy chứ?”
 
-God Eye đã cho tôi biết rằng anh ấy không phải vậy, nhưng nếu tôi quá dễ dàng tin anh ấy thì họ có thể nghĩ tôi là kẻ dễ bị bắt nạt. Tôi đâm lưỡi dao lại gần cổ tên trộm.
+God Eye đã cho tôi biết rằng anh ấy không phải vậy, nhưng nếu tôi quá dễ dàng tin anh ấy thì họ có thể nghĩ tôi là kẻ dễ
+bị bắt nạt. Tôi đâm lưỡi dao lại gần cổ tên trộm.
 
 “T-tôi không nói dối!! Xin hãy tha cho tôi!!"
 
 “Anh vẫn chưa nói cho tôi biết con số.”
 
-Trong khi nói điều này, tôi ấn đầu lưỡi dao vào cổ anh ta. Tên trộm cảm thấy máu bắt đầu chảy ra nên hắn hoảng sợ và bắt đầu nói.
+Trong khi nói điều này, tôi ấn đầu lưỡi dao vào cổ anh ta. Tên trộm cảm thấy máu bắt đầu chảy ra nên hắn hoảng sợ và bắt
+đầu nói.
 
-“V-vâng!! Chúng tôi có tổng cộng 27 người Sói Ebony và 20 người trong số chúng tôi đã lên đường tấn công các đoàn xe buôn ngày hôm nay. Chúng tôi đã không có ý định tấn công các người ngay từ đầu, vì vậy xin hãy tha mạng cho tôi!! Tôi đã kể cho bạn tất cả những gì tôi biết rồi!!”
+“V-vâng!! Chúng tôi có tổng cộng 27 người Sói Ebony và 20 người trong số chúng tôi đã lên đường tấn công các đoàn xe
+buôn ngày hôm nay. Chúng tôi đã không có ý định tấn công các người ngay từ đầu, vì vậy xin hãy tha mạng cho tôi!! Tôi đã
+kể cho bạn tất cả những gì tôi biết rồi!!”
 
 Ừm, theo God Eye, anh ấy thực sự không nói dối.
 
@@ -216,9 +239,11 @@ Finne và những người khác không nói gì thêm về chủ đề này nê
 
 "Ông. Youte, tôi đang tính dẫn theo 2-3 người đi phá nát sào huyệt của bọn cướp.”
 
-“Nhưng bạn sẽ phải đối mặt với lũ Sói Ebony đó…và với hơn một nửa đội hộ tống của chúng tôi đã biến mất, chúng tôi nên làm gì?”
+“Nhưng bạn sẽ phải đối mặt với lũ Sói Ebony đó…và với hơn một nửa đội hộ tống của chúng tôi đã biến mất, chúng tôi nên
+làm gì?”
 
-Nhìn thấy vẻ mặt lo lắng trên khuôn mặt của Youte và cấp dưới của anh ta, tôi làm cho rào chắn xung quanh đoàn xe có thể nhìn thấy được bằng mắt thường.
+Nhìn thấy vẻ mặt lo lắng trên khuôn mặt của Youte và cấp dưới của anh ta, tôi làm cho rào chắn xung quanh đoàn xe có thể
+nhìn thấy được bằng mắt thường.
 
 “Cậu sẽ ổn thôi miễn là cậu ở trong rào chắn. Nó có thể bảo vệ bạn khỏi các cuộc tấn công vật lý và ma thuật.”
 
@@ -268,7 +293,8 @@ Youte trả lời tôi trong một hơi.
 
 Tôi đã để Nathan và Iraly ở lại cùng đoàn xe để đề phòng.
 
-Chúng tôi băng qua khu rừng một lúc, cuối cùng cũng tìm thấy cái hang mà người đàn ông mà tôi tra tấn đã nhắc đến… đã thẩm vấn.
+Chúng tôi băng qua khu rừng một lúc, cuối cùng cũng tìm thấy cái hang mà người đàn ông mà tôi tra tấn đã nhắc đến… đã
+thẩm vấn.
 
 Chúng tôi trốn vào bụi rậm và kiểm tra xem thông tin anh ấy cung cấp cho chúng tôi có chính xác hay không.
 
@@ -288,9 +314,12 @@ Ryan và Anita đột nhiên chạy về phía hang động nên tôi túm lấy
 
 “…vậy chúng ta sẽ làm gì đây?”
 
-Ryan nhìn tôi, bối rối. Tôi bảo anh ấy đợi một lát, sau đó sử dụng Phát hiện sự hiện diện và bản đồ để xem chi tiết bên trong hang động.
+Ryan nhìn tôi, bối rối. Tôi bảo anh ấy đợi một lát, sau đó sử dụng Phát hiện sự hiện diện và bản đồ để xem chi tiết bên
+trong hang động.
 
-“Cạnh cửa hang có hai người, chắc là người canh gác. Khi bạn vào trong sẽ có một căn phòng ở bên phải, có hai người ở bên trong. Có một căn phòng khác cạnh đó, có thêm hai người nữa. Vậy thì có một người ở căn phòng xa nhất phía sau…đánh giá từ sự hiện diện và sức mạnh phép thuật, đó là người lãnh đạo.”
+“Cạnh cửa hang có hai người, chắc là người canh gác. Khi bạn vào trong sẽ có một căn phòng ở bên phải, có hai người ở
+bên trong. Có một căn phòng khác cạnh đó, có thêm hai người nữa. Vậy thì có một người ở căn phòng xa nhất phía sau…đánh
+giá từ sự hiện diện và sức mạnh phép thuật, đó là người lãnh đạo.”
 
 Ba người bạn đồng hành của tôi rất ngạc nhiên trước lời nói của tôi và ghé sát mặt tôi.
 
@@ -310,15 +339,18 @@ Anita và Finne là một chuyện, nhưng tôi không thể nói rằng tôi th
 
 Ừm, tôi có thể giải thích thế nào đây? Tôi không muốn nói về bản đồ…
 
-"…Đó là bí mật. Nó không quan trọng lắm phải không? Tôi sẽ nghĩ ra một kế hoạch, vì vậy hãy cho tôi một chút thời gian.”
+"…Đó là bí mật. Nó không quan trọng lắm phải không? Tôi sẽ nghĩ ra một kế hoạch, vì vậy hãy cho tôi một chút thời
+gian.”
 
-“Chúng ta có thực sự cần một cái không? Họ mạnh hơn chúng ta, nhưng chúng ta chiếm thế thượng phong về sức chiến đấu, phải không?”
+“Chúng ta có thực sự cần một cái không? Họ mạnh hơn chúng ta, nhưng chúng ta chiếm thế thượng phong về sức chiến đấu,
+phải không?”
 
 “Tôi đoán bạn nói đúng…được rồi, tôi sẽ dẫn đầu, các bạn theo sau tôi.”
 
 Tôi đi trước, theo sau là Finne, Anita và Ryan.
 
-Ngay khi bước vào hang, tôi đã sử dụng Ground Shrink để đến gần những người canh gác ngay lập tức, khiến cả hai chìm vào giấc ngủ bằng một cú đấm vào bụng.
+Ngay khi bước vào hang, tôi đã sử dụng Ground Shrink để đến gần những người canh gác ngay lập tức, khiến cả hai chìm vào
+giấc ngủ bằng một cú đấm vào bụng.
 
 "Được rồi đi thôi."
 
@@ -336,7 +368,8 @@ Cùng lúc đó, tôi sử dụng phép thuật sét đánh bất tỉnh ngườ
 
 “Rook, chuyện gì đã xảy ra vậy!? Chết tiệt, chúng ta đang bị tấn công!!”
 
-Người đàn ông còn lại trong phòng cố rút vũ khí ra, nhưng tôi tiếp cận anh ta nhanh hơn mức anh ta có thể di chuyển và nhanh chóng hạ gục anh ta bằng cú đấm vào bụng như thường lệ của tôi.
+Người đàn ông còn lại trong phòng cố rút vũ khí ra, nhưng tôi tiếp cận anh ta nhanh hơn mức anh ta có thể di chuyển và
+nhanh chóng hạ gục anh ta bằng cú đấm vào bụng như thường lệ của tôi.
 
 Khi người đàn ông ngã xuống sàn, cánh cửa dẫn sang phòng bên cạnh mở ra.
 
@@ -346,7 +379,8 @@ Ryan và tôi gật đầu với nhau rồi tách ra để đối phó với hai
 
 Tôi né nhát chém của tên trộm, vòng ra sau lưng hắn và chém ngang vào cổ hắn, khiến hắn bất tỉnh.
 
-Tôi nhìn về phía Ryan và thấy anh ta đang thực hiện động tác đặt đầu gối vào đám rối thần kinh mặt trời của tên trộm. Ừm, không tệ.
+Tôi nhìn về phía Ryan và thấy anh ta đang thực hiện động tác đặt đầu gối vào đám rối thần kinh mặt trời của tên trộm.
+Ừm, không tệ.
 
 Finne và Anita nhìn những tên trộm như thể thương hại chúng, nhưng tôi chẳng thèm để ý đến chúng.
 
@@ -382,7 +416,8 @@ Tôi đấm vào bụng tên cầm đầu và khiến hắn bay ngang qua phòng
 
 Tên cầm đầu chộp lấy một chiếc rìu chiến và lao về phía tôi.
 
-Tuy nhiên, tôi dễ dàng né được đòn tấn công của hắn và đấm vào bụng hắn lần nữa, nhưng lần này nắm đấm của tôi được bao phủ bởi ma thuật sét.
+Tuy nhiên, tôi dễ dàng né được đòn tấn công của hắn và đấm vào bụng hắn lần nữa, nhưng lần này nắm đấm của tôi được bao
+phủ bởi ma thuật sét.
 
 Vì bị tổn thương và bị sốc, thủ lĩnh nhanh chóng rơi vào trạng thái căng trương lực.
 
@@ -400,13 +435,15 @@ Chúng tôi tiến hành trói tên cầm đầu và kéo hắn ra khỏi phòng
 
 Chúng tôi cũng trói những tên trộm bất tỉnh ở các phòng khác và ba người bạn đồng hành của tôi đã mang chúng ra ngoài.
 
-Chúng tôi quay trở lại nơi chúng tôi để lại Youte và những người khác và ném bọn cướp, ngoại trừ tên cầm đầu, cùng 20 tên còn lại.
+Chúng tôi quay trở lại nơi chúng tôi để lại Youte và những người khác và ném bọn cướp, ngoại trừ tên cầm đầu, cùng 20
+tên còn lại.
 
 Chúng tôi đã quyết định chất người lãnh đạo lên một trong những chiếc xe ngựa và đưa anh ta theo chúng tôi đến thủ đô.
 
 Để anh ta làm tù nhân sẽ giúp giải thích dễ dàng hơn và cũng khiến chiến công của chúng tôi trở nên đáng tin cậy hơn.
 
-Chúng tôi khởi hành và sau khoảng một giờ di chuyển, chúng tôi có thể nhìn thấy một thành phố lớn ở phía xa, có lẽ là thủ đô hoàng gia.
+Chúng tôi khởi hành và sau khoảng một giờ di chuyển, chúng tôi có thể nhìn thấy một thành phố lớn ở phía xa, có lẽ là
+thủ đô hoàng gia.
 
 “Phew, cuối cùng chúng ta cũng đã đến nơi.”
 

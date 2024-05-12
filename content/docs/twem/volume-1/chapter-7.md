@@ -3,6 +3,8 @@ title: Chương 7 – Những trận chiến liên tiếp chống lại quái v�
 weight: 7
 ---
 
+# Chương 7 – Những trận chiến liên tiếp chống lại quái vật
+
 Bầu trời đã chuyển sang chạng vạng khi xe ngựa của chúng tôi dừng lại.
 
 Hôm đó chúng tôi định cắm trại bên ngoài.
