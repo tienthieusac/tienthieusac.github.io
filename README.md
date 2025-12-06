@@ -1,8 +1,12 @@
 # Tiên Thiếu Sắc
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3c09b392-c875-4910-9b63-48a1fc9bdae1/deploy-status)](https://app.netlify.com/projects/tienthieusac/deploys)
+
 Homepages of [https://tienthieusac.github.io/]()
 
 Powered by [Hugo](https://gohugo.io/) & [Hugo Book Theme](https://github.com/alex-shpak/hugo-book/).
+
+Hosted on [Netlify](https://www.netlify.com/).
 
 ## TWEM - Tiếng Việt
 
