@@ -1,11 +1,11 @@
 ---
-title: "Chapter 4 – \[Fiery Sky\] Lucifer II"
+title: 'Chapter 4 – [Fiery Sky] Lucifer II'
 weight: 4.1
 volume: 8
 source: https://shintranslations.com/twem-vol-8-chapter-4-part-1/
 ---
 
-# Chapter 4 – \[Fiery Sky\] Lucifer II
+# Chapter 4 – [Fiery Sky] Lucifer II
 
 Being caught in a trap again, Lucifer didn’t move and simply watched my reaction.
 

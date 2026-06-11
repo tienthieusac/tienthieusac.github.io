@@ -1,11 +1,11 @@
 ---
-title: "Chapter 5 – Demon King Fran vs. \[Demonic Heaven\] Alogis"
+title: 'Chapter 5 – Demon King Fran vs. [Demonic Heaven] Alogis'
 weight: 5.1
 volume: 8
 source: https://shintranslations.com/twem-vol-8-chapter-5-part-1/
 ---
 
-# Chapter 5 – Demon King Fran vs. \[Demonic Heaven\] Alogis
+# Chapter 5 – Demon King Fran vs. [Demonic Heaven] Alogis
 
 While Haruto was fighting Lucifer, another battle was simultaneously taking place on the battlefield where the Evil God’s army and the Demon King’s army collided.
 

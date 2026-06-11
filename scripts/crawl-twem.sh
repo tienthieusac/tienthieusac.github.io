@@ -440,14 +440,27 @@ write_chapter() {
     '
   )"
 
+  # Defuddle escapes markdown special chars in bold titles (e.g.
+  # `\[Fiery Sky\]` so that "[Fiery Sky]" isn't parsed as a link).
+  # Strip those backslashes for the H1 — we don't want them in the
+  # rendered title text.
+  local display_title="${title//\\/}"
+
+  # Emit the title in YAML single-quoted form. Single-quoted strings
+  # treat backslashes literally (so "\[Fiery Sky\]" is preserved as
+  # the literal characters "\[Fiery Sky\]" and would still be wrong),
+  # so we still need to unescape for the frontmatter too.
+  # We also need to double any embedded single-quotes per YAML rules.
+  local yaml_title="${display_title//\'/\'\'}"
+
   {
     printf -- '---\n'
-    printf 'title: "%s"\n' "$title"
+    printf "title: '%s'\n" "$yaml_title"
     printf 'weight: %s\n' "$weight"
     printf 'volume: %s\n' "$vol"
     printf 'source: %s/%s/\n' "$SOURCE_DOMAIN" "$slug"
     printf -- '---\n\n'
-    printf '# %s\n\n' "$title"
+    printf '# %s\n\n' "$display_title"
     printf '%s\n' "$body_md"
   } > "$out"
 }

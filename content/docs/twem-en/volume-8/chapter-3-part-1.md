@@ -1,11 +1,11 @@
 ---
-title: "Chapter 3 – \[Fiery Sky\] Lucifer I"
+title: 'Chapter 3 – [Fiery Sky] Lucifer I'
 weight: 3.1
 volume: 8
 source: https://shintranslations.com/twem-vol-8-chapter-3-part-1/
 ---
 
-# Chapter 3 – \[Fiery Sky\] Lucifer I
+# Chapter 3 – [Fiery Sky] Lucifer I
 
 The attack must have come as a complete surprise.
 

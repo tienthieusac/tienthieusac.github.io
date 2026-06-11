@@ -1,11 +1,11 @@
 ---
-title: "Chapter 6 – \[Time Heaven\] Eleonora I"
+title: 'Chapter 6 – [Time Heaven] Eleonora I'
 weight: 5.2
 volume: 8
 source: https://shintranslations.com/twem-vol-8-chapter-5-part-2/
 ---
 
-# Chapter 6 – \[Time Heaven\] Eleonora I
+# Chapter 6 – [Time Heaven] Eleonora I
 
 While Fran was fighting Alogis, the First Demon King, Finne and the others were fighting against a horde of monsters.
 
