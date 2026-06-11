@@ -1,11 +1,11 @@
 ---
-title: "Chapter 7 – \[Time Heaven\] Eleonora II"
+title: 'Chapter 7 – [Time Heaven] Eleonora II'
 weight: 7.1
 volume: 8
 source: https://shintranslations.com/twem-vol-8-chapter-7-part-1/
 ---
 
-# Chapter 7 – \[Time Heaven\] Eleonora II
+# Chapter 7 – [Time Heaven] Eleonora II
 
 Eleonora was the first to move.
 
