@@ -5,313 +5,280 @@ weight: 21
 
 # Ngoại Truyện – Trong khi đó, Những Anh Hùng…
 
-Một tuần đã trôi qua kể từ khi nhóm của Tendo dọn sạch hầm ngục.
+Một tuần đã trôi qua kể từ khi đội của Tendo dọn sạch hầm ngục.
 
-Trước thời hạn hai tuần do nhà vua áp đặt, tất cả các bên cũng đã giải quyết được.
+Trước thời hạn hai tuần do nhà vua áp đặt, tất cả các đội cũng đã hoàn thành nó.
 
-Do đó, các anh hùng đã dành thời gian giữa sân tập và ngục tối mà họ đã dọn sạch để cải thiện hơn nữa khả năng của mình.
+Các anh hùng vì vậy dành thời gian giữa bãi tập và hầm ngục mà họ đã dọn sạch, để nâng cao năng lực hơn nữa.
 
-Nhóm của Tendo đã thể hiện sự phát triển đặc biệt ấn tượng: giờ đây họ đã có khả năng đánh bại quái vật trùm một chọi
-một.
+Đội của Tendo thể hiện sự phát triển đặc biệt ấn tượng: giờ họ có khả năng đánh bại boss một chọi một.
 
-Đúng hai tuần kể từ lần tiếp kiến ​​nhà vua lần cuối, các anh hùng một lần nữa lại được tập hợp tại sảnh tiếp kiến
-​​hoàng gia.
+Đúng hai tuần từ buổi tiếp kiến cuối cùng với nhà vua, các anh hùng lại được tập hợp trong sảnh tiếp kiến hoàng gia.
 
-“Ngài muốn nói chuyện với chúng tôi phải không, thưa ngài?”
+"Người muốn nói chuyện với chúng thần, thưa Bệ hạ?"
 
-Với tư cách là đại diện của các anh hùng quỳ trước nhà vua, Tendo lên tiếng trước.
+Là người đại diện cho các anh hùng quỳ trước nhà vua, Tendo lên tiếng trước.
 
-"Thực vậy. Đầu tiên hãy để tôi chúc mừng bạn vì đã dọn sạch ngục tối. Tôi cảm thấy nhẹ nhõm khi biết rằng tất cả các bạn
-đã thành công trong việc giải quyết nó hoàn toàn… lý do tại sao tôi gọi các bạn đến đây hôm nay là vì trước khi các bạn
-đánh bại quỷ vương, tôi mong các bạn sẽ bắt tay vào một cuộc hành trình.”
+"Đúng vậy. Trước hết, hãy để ta chúc mừng các ngươi đã dọn sạch hầm ngục. Ta thấy nhẹ nhõm khi biết rằng tất cả các ngươi đã hoàn thành nó hoàn toàn…lý do ta triệu các ngươi đến hôm nay là vì trước khi các ngươi đánh bại ma vương, ta muốn các ngươi bắt đầu một hành trình."
 
-Nhà vua dừng lại một lúc rồi nói tiếp.
+Nhà vua tạm dừng một lúc, rồi tiếp tục.
 
-“Ngày mai bạn sẽ khởi hành trên một cuộc hành trình kéo dài ba tháng. Mỗi bên được tự do đi lại tùy thích. Ba tháng kể
-từ bây giờ, sau khi bạn trở về, chúng tôi dự định phái bạn đi đánh bại quỷ vương… chúng tôi đã thông báo cho toàn bộ
-vùng đất rằng các anh hùng có thể ghé thăm. Bằng chứng anh hùng này sẽ dùng để nhận dạng.”
+"Các ngươi sẽ khởi hành vào ngày mai trong một hành trình kéo dài ba tháng. Mỗi đội tự do đi lại như ý muốn. Ba tháng từ bây giờ, sau khi các ngươi quay lại, chúng ta dự định sẽ cử các ngươi đi đánh bại ma vương…chúng ta đã thông báo cho toàn vương quốc rằng các anh hùng có thể sẽ ghé thăm. Bằng chứng anh hùng này sẽ là giấy tờ tùy thân."
 
-Sau đó, nhà vua ra lệnh cho các vệ binh hoàng gia phân phát những mặt dây chuyền mang biểu tượng hoàng gia cho các anh
-hùng.
+Nhà vua sau đó ra lệnh cho cận vệ hoàng gia phân phát những mặt dây chuyền mang ấn hoàng gia cho các anh hùng.
 
-Trong lúc đó, Tendo hỏi về điều mà anh ấy tò mò.
+Trong lúc đó, Tendo hỏi về điều mà cậu đã tò mò.
 
-“Tôi có thể hỏi một câu được không, thưa ngài?”
+"Thần có thể hỏi một câu được không, thưa Bệ hạ?"
 
-"Đúng? Đó sẽ là gì?”
+"Vâng? Câu gì?"
 
-“Tôi xin lỗi vì đã thay đổi chủ đề. Bạn có thể cho chúng tôi biết vị trí nơi Haruto được tìm thấy bất tỉnh không?”
+"Thần xin lỗi vì thay đổi chủ đề. Xin Người cho chúng tôi biết vị trí mà Haruto được tìm thấy bất tỉnh?"
 
-Câu hỏi khiến vẻ mặt của nhà vua trở nên chua chát trong giây lát.
+Câu hỏi khiến nét mặt nhà vua trở nên khó chịu trong khoảnh khắc.
 
-“Hmm…rõ ràng, anh ta được tìm thấy gần lối vào khu rừng giữa thủ đô hoàng gia và thị trấn Waxe…nhưng tại sao bạn lại hỏi
-một điều như vậy?”
+"Hừm…hình như, cậu ấy được tìm thấy gần lối vào khu rừng giữa thủ đô hoàng gia và thị trấn Waxe…nhưng tại sao các ngươi lại hỏi chuyện đó?"
 
-"Cảm ơn rất nhiều. Vậy thì điểm đến đầu tiên của nhóm chúng ta sẽ là thị trấn Waxe. Haruto có thể đã được ai đó cứu
-nên chúng ta sẽ đi tìm manh mối.”
+"Cảm ơn Bệ hạ rất nhiều. Điểm đến đầu tiên của đội chúng tôi sẽ là thị trấn Waxe. Haruto có thể đã được ai đó cứu, nên chúng tôi sẽ đi tìm manh mối."
 
-Nhà vua tỏ ra mâu thuẫn nhưng sau đó nói với giọng nghiêm túc.
+Nhà vua có vẻ mặt lúng túng nhưng rồi lên tiếng với giọng trầm trọng.
 
-"…là vậy sao. Tôi cầu nguyện rằng bạn sẽ có thể tìm thấy những gì bạn đang tìm kiếm.”
+"…thế à. Ta cầu mong các ngươi sẽ tìm thấy điều mà mình tìm kiếm."
 
-Tendo cúi đầu cảm ơn nhà vua. Tất cả các anh hùng đã nhận được mặt dây chuyền của mình nên họ rời khỏi hội trường.
+Tendo cúi đầu và cảm ơn nhà vua. Tất cả anh hùng đã nhận mặt dây chuyền, nên họ rời khỏi sảnh.
 
 ~
 
-Nhà vua, một mình trong khán phòng, dường như không gọi ai cả.
+Nhà vua, một mình trong sảnh tiếp kiến, gọi mà dường như không gọi ai.
 
-"Đến."
+"Lại đây."
 
 Khoảnh khắc tiếp theo, một bóng người xuất hiện phía sau ngai vàng.
 
-“Tuân lệnh ngài, thưa ngài.”
+"Theo lệnh Người, thưa Bệ hạ."
 
-“Không còn nghi ngờ gì nữa, anh ấy đã chết, phải không?”
+"Không nghi ngờ gì rằng hắn đã chết, phải không?"
 
-"Đúng. Sau khi các hiệp sĩ quay lại, chúng tôi kiểm tra vị trí nhưng chỉ tìm thấy một vũng máu. Ngoài ra còn có dấu vết
-của một con quái vật lớn, nên chúng tôi tin rằng nó đã bị ăn thịt không dấu vết.”
+"Vâng. Sau khi các hiệp sĩ quay lại, chúng tôi đã kiểm tra địa điểm, nhưng chỉ tìm thấy một vũng máu. Cũng có dấu vết của một con quái vật lớn, nên chúng tôi tin rằng hắn đã bị ăn sạch không còn dấu vết."
 
-"Tôi hiểu rồi. Thế thì ổn thôi…nhưng hãy cử ai đó theo dõi nhóm của Tendo để đề phòng.”
+"Ta hiểu. Vậy thì được rồi…nhưng cử ai đó giám sát đội của Tendo, để đề phòng."
 
-"Vâng thưa ngài."
+"Vâng, thưa Bệ hạ."
 
-Hình bóng sau đó tan biến trong bóng tối.
-
-~
-
-Sau khi rời khỏi sảnh tiếp khách, nhóm của Tendo tập trung tại phòng anh.
-
-“Vậy chúng ta sẽ đến thị trấn Waxe này và tìm Yuki, phải không?”
-
-"Đúng. Nếu anh ấy được cứu, rất có thể anh ấy sẽ ở đó.”
-
-Tendo gật đầu với Mogami, sau đó Ichinomiya hỏi anh một câu với giọng khó hiểu.
-
-“…Koji, sao cậu lại đầu tư vào việc tìm kiếm Haruto thế?”
-
-![IchinomiyaAndTendo](IchinomiyaAndTendo.jpg)
-
-Shinonome, Asakura và Mogami có lẽ đều nghĩ điều tương tự khi họ chăm chú nhìn Tendo.
-
-Tendo cảm thấy hơi lúng túng khi trở thành tâm điểm chú ý của họ, nhưng vẫn trả lời rõ ràng.
-
-“Chà, bạn thấy đấy…đầu tiên, hãy để tôi bắt đầu bằng việc nói rằng tôi nghĩ anh ấy còn sống. Vậy thì, ngay cả khi chúng
-ta đánh bại được quỷ vương, sẽ chẳng ích gì nếu tất cả chúng ta không thể quay trở lại cùng nhau. Vì vậy tôi muốn tìm ra
-sự thật…và Suzuno, cô cũng thực sự lo lắng cho anh ấy, phải không?”
-
-Tendo mỉm cười với cô nên Ichinomiya tưởng rằng tình cảm của cô dành cho Haruto đã bị phát hiện và đỏ mặt dữ dội.
-
-“Tôi hiểu rồi…cảm ơn bạn.”
-
-Shinonome và Asakura nhìn họ mỉm cười, nhưng Mogami, vẫn là người mới bắt đầu trong những vấn đề tình yêu như vậy, lại
-hoàn toàn bối rối.
+Bóng người sau đó tan vào bóng tối.
 
 ~
 
-Hai ngày sau khi được diện kiến ​​nhà vua, các anh hùng đã tập trung tại cổng lâu đài hoàng gia.
+Sau khi rời sảnh tiếp kiến, đội của Tendo tập hợp trong phòng của cậu.
 
-“Mọi người, cảm ơn vì tất cả mọi thứ. Chúng tôi sẽ trở lại mạnh mẽ hơn bây giờ rất nhiều!”
+"Vậy chúng ta sẽ đến thị trấn Waxe này và tìm Yuki, đúng không?"
 
-Thay mặt các anh hùng, Tendo cảm ơn và chào đón Glifas, Marvelle, các hiệp sĩ hoàng gia và pháp sư triều đình đã giám
-sát quá trình đào tạo của họ.
+"Vâng. Nếu cậu ấy được cứu, rất có khả năng cậu ấy ở đó."
 
-Mỗi bên định tự mình hành động nên hứa ba tháng sau sẽ gặp lại, rồi phân tán đi các hướng khác nhau.
+Tendo gật đầu với Mogami, rồi Ichinomiya hỏi cậu một câu với giọng bối rối.
 
-Nhóm của Tendo, theo lịch trình, tiến về khu rừng nơi Haruto gục ngã.
+"…Koji, sao anh lại tận tâm tìm Haruto vậy?"
 
-Tuy nhiên, một tháng đã trôi qua kể từ khi họ được triệu hồi đến thế giới này: họ không những không tìm thấy bất kỳ manh
-mối nào mà thậm chí còn không thể biết chính xác nơi Haruto được tìm thấy.
+![](https://web.archive.org/web/20250322061227im_/https://i0.wp.com/shintranslations.com/wp-content/uploads/2021/01/IchinomiyaAndTendo.jpg?w=1009&ssl=1)
 
-“…Tôi đã đoán trước được điều này, nhưng chẳng có bằng chứng nào cả, huh…”
+Shinonome, Asakura và Mogami có lẽ cũng nghĩ giống vậy, vì họ nhìn Tendo chằm chằm.
 
-Vai Ichinomiya rũ xuống sau khi nghe lời nhận xét của Tendo.
+Tendo thấy hơi ngại khi ở trung tâm sự chú ý, nhưng đáp lại rõ ràng.
 
-“Rốt cuộc cũng đã được một tháng rồi! Nào, hãy tới Waxe! Chúng ta có thể tìm thấy Yuki ở đó phải không?”
+"Chà, anh thấy đó…trước hết, để anh bắt đầu bằng việc nói rằng anh tin cậu ấy còn sống. Sau đó, ngay cả khi chúng ta đánh bại ma vương, sẽ chẳng có ý nghĩa gì nếu chúng ta không thể cùng nhau quay về. Nên anh muốn tìm ra sự thật…và Suzuno, em cũng thật sự lo lắng cho cậu ấy đúng không?"
 
-"Phải! Yuki ngu ngốc đó, khiến chúng ta lo lắng như thế này…anh ấy có rất nhiều điều phải xin lỗi!”
+Tendo mỉm cười với cô, nên Ichinomiya nghĩ rằng tình cảm của cô với Haruto đã bị phát hiện và đỏ bừng mặt.
 
-Asakura cố gắng làm Ichinomiya u sầu vui lên, sau đó Mogami làm theo với giọng điệu đùa cợt.
+"E-em hiểu…cảm ơn anh."
 
-Ichinomiya cảm thấy nhẹ nhõm một chút nhờ sự quan tâm của họ.
+Shinonome và Asakura nhìn họ mỉm cười, nhưng Mogami, vẫn còn là người mới trong chuyện tình cảm, hoàn toàn bối rối.
 
 ~
 
-— hai giờ đã trôi qua kể từ khi cả nhóm vào rừng…
+Hai ngày sau buổi tiếp kiến với nhà vua, các anh hùng tập hợp ở cổng lâu đài hoàng gia.
 
-Tendo đột nhiên nói với những người còn lại trong nhóm.
+"Mọi người, cảm ơn rất nhiều vì tất cả. Chúng tôi sẽ quay lại mạnh hơn bây giờ rất nhiều!"
 
-"Bạn có nghe thấy điều đó không?"
+Thay mặt các anh hùng, Tendo cảm ơn và chào Glifas, Marvelle, các hiệp sĩ hoàng gia và pháp sư hoàng gia đã giám sát khóa huấn luyện của họ.
 
-Bốn thành viên còn lại lắng nghe kỹ xung quanh nhưng chỉ có thể nghe thấy sự im lặng.
+Mỗi đội sẽ hành động theo cách riêng, nên họ hứa gặp lại ba tháng sau, rồi tản đi các hướng khác nhau.
 
-“Tôi không nghe thấy gì cả?”
+Đội của Tendo, theo lịch trình, tiến về khu rừng nơi Haruto ngã xuống.
 
-“Ừ, Koji, đó không phải là trí tưởng tượng của cậu sao?”
+Tuy nhiên, đã một tháng trôi qua kể từ khi họ được triệu hồi đến thế giới này: không chỉ họ không tìm thấy bất kỳ manh mối nào, mà họ thậm chí không thể xác định chính xác điểm mà Haruto được tìm thấy.
 
-“Không, tôi chắc chắn mình đã nghe thấy điều gì đó từ hướng đó.”
+"…em cũng hơi kỳ vọng, nhưng không có bằng chứng nào nhỉ…"
 
-Asakura và Mogami trả lời tiêu cực, nhưng Tendo không bị thuyết phục và chỉ về một hướng nhất định.
+Vai Ichinomiya sụp xuống sau khi nghe bình luận của Tendo.
 
-Hướng dẫn tới Waxe.
+"Đã một tháng rồi, rốt cuộc! Nào, chúng ta đi đến Waxe đi! Có thể chúng ta sẽ tìm thấy Yuki ở đó, đúng không?"
 
-Shinonome dường như nhận thấy điều gì đó và thở hổn hển.
+"Đúng! Yuki dốt nát đó, làm bọn mình lo lắng thế này…cậu ấy còn nhiều thứ phải xin lỗi lắm!"
 
-“…ai đó có thể đang bị tấn công.”
+Asakura cố làm Ichinomiya đang u ám vui lên, rồi Mogami tiếp theo với giọng đùa.
 
-Khoảnh khắc tiếp theo, một giọng nói yếu ớt lọt vào tai cả nhóm.
+Ichinomiya cảm thấy đỡ hơn một chút nhờ sự quan tâm của họ.
 
-"Người nào đó…!"
+~
 
-Ngay khi nhận ra đó là lời kêu cứu, Tendo và nhóm của anh bắt đầu chạy.
+— Hai giờ trôi qua kể từ khi đội vào rừng…
 
-Họ rời khỏi con đường chính xuyên qua khu rừng và cuối cùng cũng đến được nơi có giọng nói.
+Tendo đột nhiên nói với phần còn lại của đội.
 
-Đó là một khoảng đất trống khá rộng: ở đó họ tìm thấy hai chiếc xe ngựa ở phía bên trái.
+"Các em có nghe thấy không?"
 
-Có đủ loại hàng hóa rải rác khắp nơi, có cả những người bị thương ngồi trên mặt đất.
+Bốn thành viên khác lắng nghe kỹ xung quanh, nhưng chỉ nghe thấy sự im lặng.
 
-Ở bên phải khu đất trống, hai nhà thám hiểm đang chiến đấu với quái vật để bảo vệ những người bị thương và xe ngựa.
+"Tôi không nghe thấy gì?"
 
-Những con quái vật đó là bốn con Greywulf: chúng đang cố gắng đến gần xe ngựa hơn, nhưng hai nhà thám hiểm đã chặn đường
-chúng.
+"Đúng vậy, Koji, chắc là anh tưởng tượng thôi chứ?"
 
-Các nhà thám hiểm biết rằng nếu họ đuổi theo lũ quái vật, những người khác trong đàn của họ sẽ tấn công đoàn xe, vì vậy
-họ buộc phải vào thế phòng thủ.
+"Không, anh chắc chắn đã nghe thấy gì đó từ hướng đó."
 
-“Bạn ổn chứ!? Chúng tôi sẽ giúp bạn ngay bây giờ!
+Asakura và Mogami đáp lại tiêu cực, nhưng Tendo không thuyết phục và chỉ về một hướng nhất định.
 
-Hai nhà thám hiểm đáp lại lời kêu gọi của Tendo mà không quay về phía anh.
+Hướng dẫn đến Waxe.
 
-“Tôi không biết bạn là ai, nhưng bạn là một vị cứu tinh!!”
+Shinonome có vẻ nhận ra điều gì đó và hít một hơi.
 
-"Vui lòng! Chúng quá đông đối với chúng ta, chúng ta đang gặp khó khăn!”
+"…có thể ai đó đang bị tấn công."
 
-"Hiểu!"
+Khoảnh khắc tiếp theo, một giọng nói yếu ớt vọng đến tai nhóm.
 
-Tendo và những người khác gật đầu với nhau. Các thành viên tiền tuyến – Tendo, Mogami và Shinonome – tiếp cận lũ quái
-vật, trong khi Ichinomiya và Asakura đi theo hướng xe ngựa để chăm sóc những người bị thương.
+"Có ai…!"
 
-Nhờ sự can thiệp của nhóm Tendo, giờ đây họ đã có lợi thế về số lượng, vì vậy họ có thể hạ gục Greywulfs trong thời gian
-ngắn.
+Ngay khi họ nhận ra đó là tiếng kêu cứu, Tendo và đội của cậu bắt đầu chạy.
 
-“Bạn thực sự đã cứu chúng tôi, cảm ơn bạn.”
+Họ rời khỏi đường chính cắt qua rừng và cuối cùng đến được tiếng nói.
 
-“Chỉ hai chúng ta thì không thể đánh bại tất cả được…chúng ta đang mắc nợ.”
+Đó là một khoảng trống khá lớn: ở đó họ tìm thấy hai xe ngựa ở phía bên trái.
 
-Hai nhà thám hiểm cảm ơn nhóm của Tendo, sau đó một người đàn ông trông có vẻ là thương gia và những người khác đứng
-cạnh xe ngựa cũng tiếp cận họ.
+Có đủ loại hàng hóa nằm rải rác, cũng như những người bị thương ngồi trên mặt đất.
 
-“Cảm ơn bạn rất nhiều, bạn là vị cứu tinh của chúng tôi. Chúng tôi đã mất một số tài sản, nhưng việc còn sống là quan
-trọng nhất.”
+Ở phía bên phải của khoảng trống, hai mạo hiểm giả đang chiến đấu với quái vật, để bảo vệ những người bị thương và xe ngựa.
 
-“Chúng tôi chỉ đơn giản làm những gì mà người khác sẽ làm.”
+Quái vật là bốn con Greywulf: chúng đang cố đến gần xe ngựa, nhưng hai mạo hiểm giả chặn đường chúng.
 
-Lời nói của Tendo dường như đã khiến người dẫn đầu đoàn xe nhớ ra điều gì đó.
+Các mạo hiểm giả biết rằng nếu họ đuổi theo quái vật, những con khác trong bầy sẽ tấn công đoàn xe, nên họ buộc phải giữ thế phòng thủ.
 
-“Những lời đó…chính xác là những điều mà chàng trai trẻ đã cứu anh trai tôi đã nói.”
+"Mọi người có ổn không!? Chúng tôi sẽ giúp ngay!"
+
+Hai mạo hiểm giả đáp lời gọi của Tendo mà không quay lại nhìn cậu.
+
+"Tôi không biết các người là ai, nhưng các người là ân nhân!!"
+
+"Làm ơn! Chúng quá nhiều với chúng tôi, chúng tôi đang bí!"
+
+"Hiểu rồi!"
+
+Tendo và những người khác gật đầu với nhau. Các thành viên tuyến đầu — Tendo, Mogami và Shinonome — tiến đến chỗ quái vật, trong khi Ichinomiya và Asakura đi về phía xe ngựa, để chăm sóc người bị thương.
+
+Nhờ sự can thiệp của đội Tendo, giờ họ có lợi thế về số lượng, nên có thể nhanh chóng xử lý bầy Greywulf.
+
+"Các người thật sự cứu chúng tôi, cảm ơn."
+
+"Chỉ hai chúng tôi thì không thể đánh bại tất cả…chúng tôi mang ơn."
+
+Hai mạo hiểm giả cảm ơn đội của Tendo, rồi một người đàn ông trông như thương nhân và những người khác bên cạnh xe ngựa cũng tiến đến.
+
+"Cảm ơn rất nhiều, các người là ân nhân của chúng tôi. Chúng tôi đã mất một số hàng hóa, nhưng được sống là quan trọng nhất."
+
+"Chúng tôi chỉ làm điều mà bất kỳ ai cũng sẽ làm."
+
+Lời Tendo dường như khiến trưởng đoàn xe nhớ ra điều gì đó.
+
+"Những lời đó…chính xác là điều mà chàng trai trẻ đã cứu anh trai tôi nói."
 
 Năm anh hùng phản ứng với sự ngạc nhiên.
 
-“Ồ, cách cư xử của tôi đâu rồi. Tên tôi là Gassul, tôi là một thương gia.”
+"Ồ, tôi quên mất phép lịch sự. Tôi là Gassul, một thương nhân."
 
-Sau khi Gassul tự giới thiệu, cả nhóm cũng làm như vậy, sau đó hỏi về “những lời tương tự” mà anh ấy đã đề cập.
+Sau khi Gassul tự giới thiệu, đội cũng làm vậy, rồi hỏi về "những lời giống nhau" mà ông đã đề cập.
 
-“Thưa ông, ý ông là gì khi nói “những từ giống hệt nhau”? Chàng trai trẻ đó là ai?”
+"Thưa ngài, ý người là "chính xác là những lời giống nhau" nghĩa là sao? Chàng trai trẻ đó là ai?"
 
-“Ồ, bạn thấy đấy, cách đây không lâu, anh trai tôi đã bị quái vật tấn công trong khu rừng này—“
+"À, anh thấy đó, cách đây một thời gian anh trai tôi bị quái vật tấn công trong cùng khu rừng này—"
 
-Gassul sau đó kể cho cả nhóm những gì anh nghe được từ anh trai mình.
+Gassul sau đó kể cho đội nghe những gì ông nghe từ anh trai.
 
-Khoảng một tháng trước, anh trai Bacchus của anh đã bị Greywulfs tấn công khi anh đi xuyên rừng.
+Khoảng một tháng trước, anh trai ông là Bacchus bị bầy Greywulf tấn công khi đi qua khu rừng.
 
-Những nhà thám hiểm hộ tống anh ta đều đã bị giết và anh ta cũng đã chuẩn bị sẵn sàng để nhận lấy kết cục của mình.
+Các mạo hiểm giả hộ tống ông đều bị giết và ông cũng chuẩn bị đón nhận kết cục tương tự.
 
-Đúng lúc đó, một chàng trai trẻ xuất hiện: anh ta không chỉ đánh bại lũ quái vật mà còn chữa lành vết thương cho anh
-trai tôi đang cận kề cái chết, thậm chí còn phục hồi được cánh tay đã mất của anh ấy.
+Đúng lúc đó, một chàng trai trẻ xuất hiện: không chỉ đánh bại quái vật, mà còn chữa cho anh trai tôi, người đang trên bờ vực cái chết, và thậm chí phục hồi cánh tay đã mất.
 
-Sau đó, khi anh trai tôi cảm ơn thì người thanh niên đó nói rằng anh ấy chỉ làm những gì mà người khác sẽ làm.
+Rồi khi anh trai tôi cảm ơn, chàng trai trẻ nói rằng cậu ấy chỉ làm điều mà bất kỳ ai cũng sẽ làm.
 
-“Ơ, ờ…bạn có thể cho chúng tôi biết tên của chàng trai trẻ đó và anh ta trông như thế nào không…?”
+"Ơ, ờm…ông có thể cho chúng tôi biết tên và ngoại hình của chàng trai trẻ đó không…?"
 
-“Anh trai tôi nói anh ấy là một chàng trai trẻ với mái tóc đen, tên là Haruto… thì sao?”
+"Anh trai tôi nói cậu ấy là một chàng trai trẻ tóc đen, tên Haruto…có chuyện gì vậy?"
 
-Gassul tò mò trả lời, và cả nhóm đứng yên tại chỗ.
+Gassul đáp lại với vẻ tò mò, và cả đội đông cứng tại chỗ.
 
-Cả tên và đặc điểm đều hoàn toàn trùng khớp với người bạn cùng lớp mà họ đang tìm kiếm.
+Cả tên và ngoại hình đều khớp hoàn toàn với bạn cùng lớp mà họ đang tìm.
 
-Một làn sóng ngạc nhiên, vui mừng và nghi ngờ tràn ngập trong họ, khiến họ nhất thời không biết phải nói gì. Cuối cùng
-khi họ đã vượt qua được, Ichinomiya đã ép Gassul cung cấp thêm thông tin.
+Một làn sóng ngạc nhiên, vui mừng và nghi ngờ tràn qua họ, nên họ không biết phải nói gì trong một lúc. Khi cuối cùng họ cũng vượt qua được, Ichinomiya ép Gassul biết thêm thông tin.
 
-“Bây giờ chàng trai trẻ đó đang ở đâu!?”
+"Chàng trai trẻ đó hiện ở đâu!?"
 
-Gassul hơi bị đe dọa, nhưng vẫn trả lời thành thật.
+Gassul hơi sợ hãi, nhưng trả lời thành thật.
 
-“Theo lời anh trai tôi, một ngày sau khi họ được cứu trong rừng, anh ấy đã rời đến thị trấn biên giới Vaana, với người
-thanh niên đó đi cùng. Tôi nghĩ anh ấy đã nói thêm rằng sau đó chàng trai trẻ đã đến vương quốc Perdis…”
+"Theo lời anh trai tôi, ngày sau khi họ được cứu trong rừng, anh ấy rời đi đến thị trấn biên giới Vaana, với chàng trai trẻ đó làm hộ vệ. Tôi nghĩ anh ấy có thêm rằng chàng trai trẻ đó đi đến vương quốc Perdis sau đó…"
 
-Họ không thể chắc chắn rằng thông tin của Gassul là chính xác 100%, nhưng khả năng Haruto vẫn còn sống giờ đã cao hơn
-nên nhóm của Tendo càng cảm thấy hy vọng hơn.
+Họ không thể chắc chắn rằng thông tin của Gassul chính xác 100%, nhưng khả năng Haruto vẫn còn sống giờ cao hơn, nên đội của Tendo cảm thấy hy vọng hơn.
 
-Vì thông tin về việc Haruto đến vương quốc Perdis qua Vaana có vẻ đáng tin cậy nên họ quyết định đi qua Waxe và đến
-Vaana.
+Vì thông tin về việc Haruto đi đến vương quốc Perdis qua Vaana có vẻ đáng tin, họ quyết định đi qua Waxe và khởi hành đến Vaana.
 
-Do đó, nhóm của Tendo đã đi cùng đoàn xe của Gassul cho đến Waxe.
+Đội của Tendo vì vậy hộ tống đoàn xe của Gassul đến Waxe.
 
-Haruto quyết định tự mình rời khỏi lâu đài sau khi biết rằng mình chưa nhận được bất kỳ khả năng nào để không trở thành
-gánh nặng cho những người khác.
+Haruto quyết định rời khỏi lâu đài một mình sau khi biết rằng cậu ấy đã không nhận được bất kỳ khả năng nào, để không trở thành gánh nặng cho người khác.
 
-Mặc dù vậy, anh ấy đã đánh bại lũ quái vật trong khu rừng này và thậm chí còn chữa lành chân tay bị mất của một người
-đàn ông.
+Bất chấp điều đó, cậu ấy đã đánh bại quái vật trong khu rừng này và thậm chí chữa lành tay bị mất của một người đàn ông.
 
-Những con quái vật sống trong rừng không đặc biệt mạnh đối với nhóm của Tendo, nhưng chúng chắc chắn cũng không yếu.
-Haruto lẽ ra không biết phép thuật phục hồi, chứ đừng nói đến bất kỳ phép thuật nào.
+Quái vật sinh sống trong khu rừng không đặc biệt mạnh đối với đội Tendo, nhưng chúng chắc chắn cũng không yếu. Haruto lẽ ra không nên biết phép hồi phục, chứ đừng nói là bất kỳ phép thuật nào.
 
-Theo Gassul, sự việc xảy ra trước đó một tháng: tức là ngay sau khi Haruto rời lâu đài.
+Theo Gassul, sự cố xảy ra một tháng trước: tức là ngay sau khi Haruto rời khỏi lâu đài.
 
-Nhóm của Tendo đã thảo luận về sự khác biệt giữa thông tin của Gassul và những gì họ biết, nhưng kết luận duy nhất họ có
-thể đạt được là họ phải gặp “Haruto” mà Gassul đã nói đến.
+Đội Tendo thảo luận về sự khác biệt giữa thông tin của Gassul và những gì họ biết, nhưng kết luận duy nhất họ có thể đưa ra là họ phải gặp "Haruto" mà Gassul nói đến.
 
-Sau đó Gassul cũng hỏi họ một câu hỏi.
+Chính Gassul sau đó hỏi họ một câu.
 
-“Nhân tiện, bạn có vẻ khá mạnh, nhưng bạn có phải là nhà thám hiểm không?”
+"Tiện thể, các người trông khá mạnh, nhưng có phải mạo hiểm giả không?"
 
-Tendo và những người khác lắc đầu và đưa ra những mặt dây chuyền có biểu tượng hoàng gia, bằng chứng về địa vị anh hùng
-của họ.
+Tendo và những người khác lắc đầu và đưa ra mặt dây chuyền có ấn hoàng gia, bằng chứng tư cách anh hùng của họ.
 
-“Không, chúng tôi thực sự là anh hùng.”
+"Không, thực ra chúng tôi là anh hùng."
 
-"Ồ! Giờ nghĩ lại, tôi đã nghe nói rằng các anh hùng đã xuất hiện…thì ra đó là bạn! Ôi trời ơi, tôi đang du hành cùng
-những anh hùng! Thật la một vinh dự!"
+"Ồ! Giờ tôi nghĩ lại, tôi có nghe nói rằng các anh hùng đã xuất hiện…vậy là các người! Ôi trời, ôi trời, tôi đang đi cùng anh hùng! Thật vinh dự!"
 
-Niềm vui lộ rõ ​​của Gassul khiến Tendo và nhóm của anh ấy hơi đỏ mặt và gãi má.
+Niềm vui rõ ràng của Gassul khiến Tendo và đội của cậu đỏ mặt một chút và gãi má.
 
 ~
 
-Chưa đầy một giờ sau, đoàn xe đã tới thị trấn Waxe.
+Chưa đầy một giờ sau, đoàn xe đến thị trấn Waxe.
 
-Khi nó đến trước lối vào dành cho thương gia, một người bảo vệ đã tiếp cận họ.
+Khi đến trước lối vào dành cho thương nhân, một lính canh tiến đến.
 
-“Xin vui lòng cung cấp bằng chứng giao dịch của bạn - ồ, nếu đó không phải là ông Gassul! Chào mừng trở lại… những người
-đi cùng bạn là ai?
+"Giấy chứng nhận thương nhân của ông, xin vui lòng — ồ, nếu không phải ngài Gassul! Chào mừng trở lại…những người đi cùng ngài là ai?"
 
-“Thực ra họ là những anh hùng.”
+"Họ là anh hùng, thật ra."
 
-Sau lời giới thiệu của Gassul, Tendo và những người khác đã đưa ra bằng chứng anh hùng của họ.
+Theo lời giới thiệu của Gassul, Tendo và những người khác đưa ra bằng chứng anh hùng.
 
-“Đ-đó là..!!!”
+"Đ-đó là..!!!"
 
-Người bảo vệ cổng hoàn toàn đóng băng.
+Lính canh cổng đông cứng hoàn toàn.
 
-"Xin lỗi…?"
+"X-xin lỗi…?"
 
-“M-Tôi xin lỗi sâu sắc nhất!! Hôm qua chúng tôi được chú ý là đã cho những anh hùng mang bằng chứng đó đi qua, nhưng tôi
-chưa bao giờ nhìn thấy một anh hùng thực sự trước đây…!! Xin hãy tha thứ cho tôi, hãy tiếp tục đi!!”
+"T-thần xin nhận tội!! Hôm qua chúng tôi được thông báo để cho các anh hùng mang bằng chứng đó đi qua, nhưng tôi chưa từng thấy anh hùng thật trước đây…!! Xin hãy tha thứ cho tôi, mời đi qua!!"
 
-Cười gượng với người gác cổng lần đầu gặp anh hùng, cả nhóm tiến vào thị trấn.
+Cười khổ trước lính canh cổng lần đầu gặp anh hùng, nhóm vào thị trấn.
 
-Gassul đã chuẩn bị chỗ ở cho bữa tiệc nên Tendo và những người khác đã nghỉ ngơi thật tốt để sẵn sàng lên đường vào ngày
-hôm sau.
+Gassul sắp xếp chỗ ở cho đội, nên Tendo và những người khác nghỉ ngơi tốt để sẵn sàng khởi hành vào ngày hôm sau.
 
-Sáng hôm sau, họ khởi hành đến thị trấn biên giới Vaana, đi theo chàng trai trẻ tên là “Haruto”, người mà họ tin là bạn
-cùng lớp mất tích của họ.
+Sáng hôm sau, họ khởi hành đến thị trấn biên giới Vaana, theo dấu chàng trai trẻ tên "Haruto", mà họ tin là bạn cùng lớp mất tích của mình.
 
+---
+
+[←ToC](../../..) | [Next→](../side-story-digital-version)

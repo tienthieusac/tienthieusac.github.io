@@ -1,319 +1,302 @@
 ---
-title: Chương 9 – Vaana
+title: "Chương 9 – Vaana"
 weight: 9
 ---
 
 # Chương 9 – Vaana
 
-Có lẽ nó đáng lẽ phải là một thị trấn biên giới, nhưng Vaana là một nơi rất sôi động.
+Có lẽ đã nên được dự kiến với một thị trấn biên giới, nhưng Vaana là một nơi rất sôi động.
 
-Điểm đến tiếp theo của chúng tôi là hội mạo hiểm giả: vì nó đang trên đường đến công ty thương mại nên chúng tôi đi xe
-ngựa nửa chừng.
+Điểm đến tiếp theo của chúng tôi là hội mạo hiểm giả: vì nó nằm trên đường đến công ty thương mại, chúng tôi đi xe ngựa nửa đường.
 
-Chúng tôi đang nói lời tạm biệt thì Bacchus dường như nhớ lại điều gì đó.
+Chúng tôi đang nói lời tạm biệt thì Bacchus hình như chợt nhớ ra điều gì đó.
 
-“Ồ vâng, thưa anh Haruto. Tôi đã sắp xếp để bạn sử dụng chỗ ở miễn phí của công ty thương mại chúng tôi trong thị trấn
-này, vì vậy hãy sử dụng nó. Tất nhiên, Barnar và nhóm của anh ấy cũng được hoan nghênh ở lại. Bạn nói gì?"
+"À phải, anh Haruto. Tôi đã sắp xếp để anh dùng chỗ trọ của công ty thương mại chúng tôi miễn phí ở thị trấn này, nên xin anh cứ dùng. Barnar và nhóm của anh ấy cũng được hoan nghênh ở lại, tất nhiên rồi. Anh thấy sao?"
 
-“Tôi thực sự có thể chứ? Bạn đã làm rất nhiều điều cho tôi ở Waxe, tôi không muốn áp đặt…”
+"Tôi có thể thật sự nhận không? Anh đã làm cho tôi quá nhiều ở Waxe rồi, tôi không muốn làm phiền…"
 
-“Chúng ta thực sự có thể ở lại đó à?”
+"Chúng tôi thật sự cũng được ở lại à?"
 
-Bacchus gật đầu với cả hai câu hỏi của chúng tôi.
+Bacchus gật đầu trước cả hai câu hỏi của chúng tôi.
 
-“Ừ, xin đừng lo lắng. Bạn thực sự đã cứu tôi trên đường đến đây, điều này không gì có thể so sánh được.
+"Vâng, xin đừng lo. Anh thật sự đã cứu tôi trên đường đến đây, so với đó thì chuyện này chẳng là gì."
 
-Bacchus mỉm cười ấm áp nên tôi quyết định nhận lại lòng tốt của anh ấy.
+Bacchus mỉm cười ấm áp, nên tôi quyết định nhận lòng tốt của anh ấy thêm lần nữa.
 
-Chúng tôi hỏi về vị trí chỗ ở, sau đó đi đến hội mạo hiểm giả như đã định.
+Chúng tôi hỏi vị trí chỗ trọ, rồi đi đến hội mạo hiểm giả như kế hoạch.
 
-Trên đường đến đó, chúng tôi bị choáng ngợp bởi những mùi thơm ngon, lan tỏa từ mọi hướng, nhưng đã cưỡng lại được sự
-cám dỗ và đi thẳng đến đích.
+Trên đường đi, chúng tôi bị tấn công bởi các mùi thơm ngon tỏa ra từ khắp nơi, nhưng cưỡng lại sự cám dỗ và đi thẳng đến đích.
 
 Tòa nhà hội mạo hiểm giả ở Vaana thậm chí còn lớn hơn tòa nhà ở Waxe.
 
-Bên trong cũng không khác gì: hối hả và nhộn nhịp hơn nhiều so với những gì tôi thấy ở Waxe.
+Bên trong cũng không khác: có nhiều nhộn nhịp hơn những gì tôi thấy ở Waxe.
 
-Trước tiên, chúng tôi đến quầy để nộp thẻ nhà thám hiểm và báo cáo rằng yêu cầu đã được hoàn thành.
+Chúng tôi đi thẳng đến quầy trước, để đưa thẻ mạo hiểm giả và báo cáo yêu cầu đã hoàn thành.
 
-“…xác nhận, cảm ơn bạn. Yêu cầu đã được đánh dấu là hoàn thành. Đây là phần thưởng của bạn.”
+"...đã xác nhận, cảm ơn. Yêu cầu đã được đánh dấu hoàn thành. Đây là phần thưởng của anh."
 
-"Cảm ơn. Nhân tiện, chúng tôi có một số tài liệu muốn bán…”
+"Cảm ơn. À tiện thể, chúng tôi có một số nguyên liệu muốn bán…"
 
-Nhân viên tiếp tân mỉm cười với tôi và trả lời.
+Nhân viên tiếp tân mỉm cười với tôi và đáp lại.
 
-"Rất tốt. Chúng ta có thể mua nguyên liệu ở quầy này, nên hãy đặt chúng lên bàn này nhé.”
+"Được. Chúng tôi có thể mua nguyên liệu tại quầy này, nên xin hãy đặt chúng lên bàn này."
 
-Chúng tôi làm theo và lấy ra những nguyên liệu thu được từ lũ Goblin và Greywulf.
+Chúng tôi tuân theo và lấy ra các nguyên liệu thu được từ lũ Goblin và Greywulf.
 
-Barnar sau đó hỏi tôi một câu hỏi
+Rồi Barnar hỏi tôi một câu.
 
-“Chúng ta nên làm gì với điều đó?”
+"Chúng ta nên làm gì với thứ đó?"
 
-"Cái đó? Aah, ừ, cái đó…hmm…”
+"Thứ đó? À, ừ, cái đó…hmm…"
 
-Tôi không biết khi nào tôi sẽ có cơ hội khác để bán nó, vì vậy tôi có thể mang nó ra đây.
+Tôi không biết khi nào sẽ có dịp khác để bán nó, nên tôi cũng nên lấy ra ở đây luôn.
 
-Có lẽ cô tiếp tân thấy cuộc trao đổi của chúng tôi đáng ngờ nên nghiêng đầu sang một bên và hỏi thăm.
+Nhân viên tiếp tân có lẽ thấy cuộc trao đổi của chúng tôi đáng ngờ, nên nghiêng đầu sang một bên và hỏi thăm.
 
-"Có gì sai sao?"
+"Có chuyện gì à?"
 
-“Ừ, chúng tôi còn có thứ khác để bán, nhưng nó quá lớn so với cái bàn này. Chúng ta nên làm gì?"
+"Ừ, chà, chúng tôi có thứ khác muốn bán, nhưng nó quá lớn cho cái bàn này. Chúng tôi nên làm gì?"
 
-Cô tiếp tân trừng mắt nhìn chúng tôi rồi tiếp tục với vẻ không hài lòng.
+Nhân viên tiếp tân trừng mắt nhìn chúng tôi, rồi tiếp tục với vẻ khó chịu.
 
-“…Tôi thấy bạn có Túi ma thuật, nhưng bạn không thể có thứ gì đó hiếm đến mức không thể đặt lên bàn được, phải không…?
-Bang hội này rất bận rộn, như bạn có thể thấy, vì vậy tôi muốn bạn kiềm chế những trò đùa như vậy…”
+"...Tôi thấy anh có Túi Ma Thuật, nhưng không thể có thứ gì hiếm đến mức không đặt lên bàn được, đúng không…? Hội này rất bận, như anh thấy, nên tôi muốn yêu cầu anh dừng những trò đùa kiểu này…"
 
-Giọng điệu của nhân viên tiếp tân khiến những mạo hiểm giả xung quanh tập trung sự chú ý vào chúng tôi.
+Giọng của nhân viên tiếp tân khiến những mạo hiểm giả xung quanh đổ ánh mắt về phía chúng tôi.
 
-Tâm trạng cảm thấy khá khó xử nên tôi liếc nhìn Barnar.
+Bầu không khí khá ngượng ngùng, nên tôi liếc Barnar.
 
-Anh ấy nhìn lại tôi với vẻ bất lực và nhún vai, ý nói tôi nên lấy nó ra cho cô ấy xem.
+Anh ấy nhìn lại tôi với vẻ bất lực và nhún vai, ngụ ý rằng tôi cứ lấy nó ra cho cô ấy xem.
 
-“…được rồi, tôi sẽ mang nó ra đây, nhưng xin đừng làm ầm ĩ lên.”
+"...được rồi, vậy tôi sẽ lấy nó ra ở đây, nhưng xin đừng làm ầm lên."
 
-“Vâng, vâng, tất nhiên rồi, xin hãy nhanh chóng tiếp tục.”
+"Vâng, vâng, tất nhiên, xin cứ tiếp tục nhanh lên."
 
-Tôi không thể trách nhân viên tiếp tân đã không tin tôi, nên tôi phớt lờ hành vi thô lỗ của cô ấy và quay lưng lại với
-cô ấy.
+Tôi không thể trách nhân viên tiếp tân vì đã không tin tôi, nên tôi phớt lờ thái độ thô lỗ của cô ấy và quay lưng lại.
 
-Tôi mở kho chứa không gian của mình và lấy ra Black Tiger và Grizzly Bear, sau đó đặt chúng xuống sàn.
+Tôi mở không gian lưu trữ và lấy ra con Hổ Đen và con Gấu Xám, rồi đặt chúng xuống sàn.
 
-Kích thước của chúng khổng lồ đến mức gần như chạm tới trần nhà: dưới sức nặng, sàn nhà cũng phát ra những âm thanh cọt
-kẹt đáng ngại.
+Kích thước của chúng quá lớn đến mức gần chạm trần nhà: dưới sức nặng, sàn nhà cũng phát ra tiếng kẽo kẹt đáng lo ngại.
 
-Nhân viên tiếp tân và những mạo hiểm giả xung quanh cứng đờ tại chỗ, không nói nên lời.
+Nhân viên tiếp tân và những mạo hiểm giả xung quanh đứng đơ tại chỗ, không nói nên lời.
 
-Sau khoảng một phút im lặng, nhân viên tiếp tân cuối cùng cũng tan băng và cất giọng.
+Sau khoảng một phút im lặng, nhân viên tiếp tân cuối cùng cũng tỉnh ra và lớn tiếng.
 
-“C-cái gì vậy!?”
+"C-cái gì thế này!?"
 
-Cô ấy nhìn chúng tôi với vẻ bàng hoàng hiện rõ trên mặt, nên tôi giải thích một cách lịch sự nhất có thể.
+Cô ấy nhìn chúng tôi với vẻ sốc trên khắp mặt, nên tôi giải thích lịch sự nhất có thể.
 
-“Một con hổ đen và một con gấu xám, như bạn thấy đấy.”
+"Một con Hổ Đen và một con Gấu Xám, như cô thấy đấy."
 
-“A-anh chắc chắn đang nói đùa.”
+"A-anh phải đùa."
 
-“Tuy nhiên, chúng ở đây rất rõ ràng…dù sao thì chúng tôi cũng muốn bán những thứ này.”
+"Chúng ở ngay trước mắt mà…dù sao, chúng tôi cũng muốn bán những thứ này."
 
-Một lần nữa, nhân viên tiếp tân sững người.
+Một lần nữa, nhân viên tiếp tân đứng đơ.
 
-Các nhà thám hiểm khác cũng lần lượt sống lại, bình luận những câu như “Ồ, đây là lần đầu tiên tôi nhìn thấy một con Hổ
-Đen!”, “Tôi chưa bao giờ nhìn thấy xác một con Gấu Xám với ít sát thương đến thế” và hội trường dần dần trở nên to hơn.
+Những mạo hiểm giả khác lần lượt tỉnh lại, bình luận kiểu "Ồ, đây là lần đầu tôi thấy Hổ Đen!", "Tôi cũng chưa từng thấy xác Gấu Xám nào ít sát thương đến vậy" và đại sảnh dần trở nên ồn ào hơn.
 
-Một phút sau, nhân viên tiếp tân tỉnh lại.
+Sau thêm một phút nữa, nhân viên tiếp tân lấy lại ý thức.
 
-"Ah!? Tôi đã làm gì vậy…!? Tôi nghĩ tôi nhớ có một nhà thám hiểm kì lạ đã đến…nói rằng họ muốn bán một con Hổ Đen và một
-con Gấu Xám…?”
+"À!? Tôi đang làm gì vậy…!? Tôi nghĩ mình nhớ có một mạo hiểm giả kỳ lạ đến…nói rằng họ muốn bán Hổ Đen và Gấu Xám…?"
 
-Nhân viên lễ tân đang nhìn xuống, nghi ngờ những gì mình đã nhìn thấy, nhưng khi cô ấy ngẩng đầu lên lần nữa, ánh mắt
-chúng tôi gặp nhau và cô ấy cứng người lần thứ ba.
+Nhân viên tiếp tân đang cúi đầu, nghi ngờ những gì mình đã thấy, nhưng khi cô ấy ngẩng đầu lên, mắt chúng tôi chạm nhau và cô ấy đứng đơ lần thứ ba.
 
-Tôi phải nói là một người khá hài hước.
+Một người khá hài hước, tôi phải nói.
 
-Đúng lúc đó, một giọng nói lớn vang lên từ trên lầu.
+Khoảnh khắc đó, một giọng nói lớn vang lên từ trên lầu.
 
-“Xuống đi, lũ bạn!! Cậu có thể im lặng được không! …những cái xác này là sao vậy? Ai đã đưa họ tới đây?”
+"Im lặng hết, mấy người!! Làm ơn hãy yên lặng! …mấy cái xác này là sao? Ai mang chúng đến đây?"
 
-Giọng nói lớn phát ra từ một người đàn ông, có lẽ khoảng năm mươi tuổi, đang đi xuống cầu thang.
+Giọng nói lớn đến từ một người đàn ông, có lẽ ngoài 50 tuổi, đang đi xuống cầu thang.
 
-Nhân viên tiếp tân trấn tĩnh lại và cầu xin sự giúp đỡ của anh ta.
+Nhân viên tiếp tân lấy lại bình tĩnh và cầu cứu sự giúp đỡ của ông ấy.
 
-“Hội trưởng!! Hãy làm điều gì đó về việc này…!"
+"Hội trưởng!! Xin hãy làm gì đó với chuyện này…!"
 
-Vậy ông già là hội trưởng.
+Vậy ông lão kia là hội trưởng.
 
-“Rona, chuyện gì đã xảy ra vậy? Hãy giải thích tình huống này.”
+"Rona, chuyện gì đã xảy ra? Giải thích tình hình này đi."
 
-“Những nhà thám hiểm này nói rằng họ muốn bán những xác chết đó!!”
+"Mấy mạo hiểm giả này nói họ muốn bán mấy cái xác đó!!"
 
-Vậy tên của nhân viên tiếp tân là Rona.
+Vậy, tên nhân viên tiếp tân là Rona.
 
-Tôi đang chìm vào những suy nghĩ vô nghĩa khi hội trưởng nhìn vào xác của Black Tiger và Grizzly Bear, sau đó là chúng
-tôi, và cuối cùng lại nói.
+Tôi đang mải suy nghĩ vô nghĩa như vậy thì hội trưởng nhìn xác Hổ Đen và Gấu Xám, rồi nhìn chúng tôi, và cuối cùng lên tiếng lại.
 
-“…các bạn, hãy lên văn phòng hội trưởng.”
+"...mấy người, lên văn phòng hội trưởng."
 
-Đợi đã, tại sao cậu lại hành động như thể chúng tôi là kẻ xấu vậy!?
+Khoan nào, sao ông lại hành xử như thể chúng tôi là người xấu!?
 
-Tôi định phản đối nhưng Barnar lên tiếng trước.
+Tôi đang định phản đối, nhưng Barnar nói trước.
 
-"Vui lòng chờ!!"
+"Xin chờ đã!!"
 
-Ồ, đúng như mong đợi từ một nhà thám hiểm kỳ cựu! Luôn đáng tin cậy trong tình huống khó khăn!
+Ồ, quả là mạo hiểm giả lão luyện! Luôn đáng tin trong những tình huống khó!
 
-“Đảng của chúng tôi không liên quan gì đến những xác chết đó. Tên này đã tự mình hạ gục chúng!”
+"Nhóm tôi không liên quan gì đến mấy cái xác đó. Thằng này đã hạ chúng một mình!"
 
-“Chờ đã, cái gì cơ!? Barnar!?”
+"Cái gì!? Barnar!?"
 
-Bị sốc, tôi nhìn Norkas và Oorde, nhưng cả hai đều gật đầu tin chắc.
+Sốc, tôi nhìn Norkas và Oorde, nhưng cả hai đều gật đầu đầy quả quyết.
 
-“Đúng vậy, dù sao thì chúng tôi cũng chỉ xếp hạng C mà thôi.”
+"Vâng, tụi tôi chỉ là hạng C thôi."
 
-“Không đời nào chúng ta có thể đánh bại một con quái vật hạng thảm họa hay hạng A.”
+"Không đời nào tụi tôi có thể hạ được quái vật hạng Thảm Họa hay hạng A."
 
-"Bạn cũng vậy!?"
+"Các anh nữa á!?"
 
-Chết tiệt, tôi có phải là một tên ngốc khi dựa dẫm vào họ không!?
+Shit, mình có ngu không khi dựa vào họ!?
 
-Tôi trừng mắt nhìn Barnar và những người khác, nhưng họ vẫn thong thả bước ra khỏi hội, huýt sáo lúng túng.
+Tôi trừng mắt nhìn Barnar và những người khác, nhưng họ thong thả đi ra khỏi hội, huýt sáo ngượng ngùng.
 
-Hội trưởng nhìn họ rồi nhìn chằm chằm vào tôi.
+Hội trưởng nhìn họ đi, rồi quay ánh mắt về phía tôi.
 
-“Vậy thì… nhân tiện, bạn có Túi thần kỳ không?”
+"Thế anh thì…à mà, anh có Túi Ma Thuật không?"
 
-“…v-vâng…”
+"...c-có…"
 
-“Bạn trông khá trẻ, nhưng bạn có một chiếc Túi ma thuật có thể chứa được thứ gì đó to lớn như vậy…? Được rồi, gói chúng
-lại và đi theo tôi. Tôi không thích những âm thanh mà trần nhà tạo ra.”
+"Trông anh khá trẻ, nhưng anh có Túi Ma Thuật vừa vặn thứ to lớn như vậy…? Được, hãy cất chúng đi và đi theo ta. Ta không thích âm thanh trần nhà đang phát ra."
 
-Tôi tuân theo và đi đến văn phòng hội trưởng.
+Tôi vâng lời và đi đến văn phòng hội trưởng.
 
-Ngay khi tôi ngồi xuống chiếc ghế đã chuẩn bị sẵn cho khách, hội trưởng lên tiếng.
+Ngay khi tôi ngồi xuống chiếc ghế được chuẩn bị cho khách, hội trưởng lên tiếng.
 
-“Tôi là Ballard, hội trưởng phụ trách hội của thị trấn này. Có thật là cậu đã tự mình đánh bại lũ quái vật đó không?”
+"Tôi là Ballard, hội trưởng phụ trách hội của thị trấn này. Có thật là anh đã đánh bại những con quái vật đó một mình không?"
 
-Tôi quyết định rằng sẽ không khôn ngoan nếu né tránh chủ đề này, tôi thành thật trả lời.
+Tôi quyết định rằng né tránh chủ đề này sẽ không khôn ngoan, nên tôi trả lời thành thật.
 
-"Vâng đó là sự thật. Ồ, tôi cũng có một thứ dành cho bạn từ hội trưởng Waxe, Dass.”
+"Vâng, đúng vậy. À, tôi cũng có thứ gì đó từ hội trưởng Waxe, Dass, dành cho ông."
 
-“Chết tiệt?”
+"Dass?"
 
-Tôi đưa lá thư giới thiệu mà Dass đưa cho Ballard.
+Tôi đưa thư giới thiệu mà Dass đã đưa cho Ballard.
 
-“Ồ, đây là…tôi hiểu rồi, tôi hiểu rồi. Vậy cậu chính là anh chàng Haruto mà Dass đã kể với tôi.”
+"Ồ, đây là…tôi hiểu, tôi hiểu. Vậy anh là Haruto mà Dass đã nói với tôi."
 
-“Hả? Dass đã nói gì đó về tôi à?”
+"Hm? Dass đã nói gì đó về tôi à?"
 
-“Anh ấy đã gửi một tin nhắn qua ngựa về bạn: “Tôi đang gửi một nhà thám hiểm được giới thiệu hạng A, vì vậy hãy lo các
-thủ tục cần thiết nhé”, nó nói.
+"Ông ấy đã gửi tin nhắn qua ngựa về anh: 'Tôi đang gửi một mạo hiểm giả được giới thiệu lên hạng A, nên hãy lo các thủ tục cần thiết', nó viết vậy."
 
-Ồ vâng, Dass đã nói với tôi rằng anh ấy sẽ cử ngựa đưa tin.
+Ồ đúng rồi, Dass đã nói với tôi rằng ông ấy sẽ gửi ngựa thư.
 
-Tôi nhớ lại sự việc và gật đầu, sau đó Ballard tiếp tục.
+Tôi nhớ lại sự việc và gật đầu, rồi Ballard tiếp tục.
 
-“Tôi đã nhận được thư giới thiệu và nếu bạn đánh bại Black Tiger và Grizzly Bear, bạn cũng không cần lo lắng về khả năng
-của mình. Tôi sẽ tiếp tục các thủ tục...thẻ sẽ sẵn sàng vào ngày mốt, vậy nên hãy quay lại nhé. Chúng tôi cũng sẽ mua
-xác, nên hãy để chúng ở phía sau hội. Chúng tôi có thể trả tiền cho bạn khi bạn đến nhận thẻ không?
+"Tôi đã nhận thư giới thiệu và nếu anh đã hạ được Hổ Đen và Gấu Xám, thì cũng không có gì phải bàn cãi về năng lực của anh. Tôi sẽ tiến hành các thủ tục…thẻ sẽ sẵn sàng vào ngày kia, nên hãy quay lại lúc đó. Chúng tôi cũng sẽ mua mấy cái xác, nên hãy để chúng ở phía sau hội. Chúng tôi có thể trả tiền khi anh đến nhận thẻ được không?"
 
-Tôi đã nhận được phần thưởng yêu cầu hộ tống bằng tiền mặt, vì vậy tôi sẽ không gặp bất kỳ vấn đề gì cho đến ngày mốt.
+Tôi đã nhận thưởng của yêu cầu hộ tống bằng tiền mặt, nên có lẽ sẽ không có vấn đề gì cho đến ngày kia.
 
 "Rất tốt."
 
-Ballard gật đầu hài lòng rồi hỏi tôi một câu với giọng tò mò.
+Ballard gật đầu hài lòng, rồi hỏi tôi một câu với giọng tò mò.
 
-“Tuy nhiên, khá ấn tượng khi tự mình hạ gục một con quái vật cấp thảm họa. Nếu bạn tài giỏi như vậy, tại sao trước đây
-bạn không đăng ký làm nhà thám hiểm?”
+"Hạ được quái vật hạng Thảm Họa một mình thì cũng ấn tượng đấy. Nếu giỏi như vậy, sao anh không đăng ký làm mạo hiểm giả sớm hơn?"
 
-“Tôi sống ở một ngôi làng rất hẻo lánh và cuối cùng cũng thoát ra được gần đây.”
+"Tôi sống ở một ngôi làng hẻo lánh, và cuối cùng cũng ra ngoài được gần đây."
 
-Đó là lý do tôi chọn sử dụng.
+Đó là lý do tôi chọn để dùng.
 
-“…à, tôi sẽ không tìm hiểu thêm nữa. Tuy nhiên, tôi phải báo cáo chuyện này với trụ sở. Tôi phải báo cáo về tất cả các
-lần thăng hạng A, và tôi cũng cần một lý do. Tôi tin rằng nó ổn với bạn?
+"...ừ, tôi sẽ không hỏi thêm nữa. Dù sao tôi cũng phải báo cáo chuyện này với trụ sở chính. Tôi phải báo cáo tất cả các đợt thăng hạng lên hạng A, và tôi cũng cần lý do. Tôi tin là được chứ?"
 
-Tôi cho rằng đó là điều không thể tránh khỏi nên tôi thành thật gật đầu.
+Tôi cho rằng điều đó là không thể tránh khỏi, nên tôi thành thật gật đầu.
 
-"Xin lỗi vì những rắc rối. Vậy hãy quay lại sau hai ngày nữa.”
+"Xin lỗi vì sự phiền phức. Vậy quay lại sau hai ngày nhé."
 
-“Tôi sẽ làm vậy, cảm ơn vì tất cả.”
+"Tôi sẽ, cảm ơn ông vì tất cả."
 
-Tôi rời văn phòng hội trưởng và đi về phía sau hội.
+Tôi rời văn phòng hội trưởng và đi ra phía sau hội.
 
-Các nhân viên của bang hội ở đó đã không chứng kiến ​​​​sự hỗn loạn ở quầy, vì vậy họ phản ứng với sự kinh ngạc thuần
-túy khi tôi lấy xác Hổ Đen và Gấu Xám ra, điều này khá thú vị.
+Nhân viên hội ở đó đã không chứng kiến sự hỗn loạn ở quầy, nên họ phản ứng đầy ngạc nhiên thuần khiết khi tôi lấy ra xác Hổ Đen và Gấu Xám, khá là thú vị.
 
 ~
 
-Cuối cùng cũng đến giờ ăn! Ba kẻ phản bội đó…chúng sẽ phải trả giá vì đã bỏ rơi tôi…!
+Cuối cùng cũng đến lúc ăn rồi! Ba tên phản bội đó…bọn chúng sẽ phải trả giá vì đã bỏ rơi tôi…!
 
-Tôi rời hội và sau khi đi loanh quanh một chút, tôi nhanh chóng tìm thấy Barnar và những người khác.
+Tôi rời hội và sau khi đi loanh quanh một chút, tôi tìm thấy Barnar và những người khác khá nhanh.
 
-Họ đang ở trong một nhà hàng có cửa sổ kính lớn, dễ nhìn vào bên trong, ăn uống vui vẻ. Có vẻ như họ vẫn chưa chú ý đến
-tôi.
+Họ đang ở trong một nhà hàng với cửa kính lớn, khiến dễ nhìn từ bên ngoài, đang ăn vui vẻ. Có vẻ họ vẫn chưa nhận ra tôi.
 
-Anh bỏ rơi tôi rồi đi ăn mà chẳng thèm quan tâm đến thế giới hả…? Có một cái giá đắt phải trả cho điều đó…
+Mấy người bỏ rơi tôi rồi lại đi ăn vô tư thế…? Sẽ có cái giá phải trả cho chuyện đó…
 
-Tôi bước vào trong nhà hàng, cẩn thận không để họ nhìn thấy mình.
+Tôi đi vào nhà hàng, cẩn thận để họ không nhìn thấy mình.
 
-Tôi đoán tôi cũng có thể mang đến cho họ sự ngạc nhiên trong đời.
+Tôi đoán mình cũng có thể cho họ một phen bất ngờ nhớ đời.
 
-Tôi đã sử dụng All Creation để tạo ra một kỹ năng nhằm che giấu sự hiện diện của mình và khiến bản thân trở nên vô hình.
+Tôi dùng Toàn Năng tạo kỹ năng ẩn sự hiện diện và khiến bản thân vô hình.
 
-<< Học được kỹ năng “Ẩn thân”, “Ẩn thân”. Cấp độ kỹ năng đạt 10 cho tất cả các kỹ năng. “Ẩn thân” được thêm vào Hợp nhất
-võ học, “Tàng hình” được thêm vào Hợp nhất phép thuật.>>
+<<Kỹ năng "Ẩn Sự Hiện Diện", "Lén Lút" đã có được. Cấp kỹ năng đạt 10 cho tất cả. "Ẩn Sự Hiện Diện" được thêm vào Hợp Nhất Võ Thuật, "Lén Lút" được thêm vào Hợp Nhất Phép Thuật.>>
 
-Tôi kích hoạt cả hai kỹ năng và lẻn ra sau Barnar và những người khác rồi nói.
+Tôi kích hoạt cả hai kỹ năng và lén đến sau Barnar và những người khác, rồi lên tiếng.
 
-“Bạn đang ăn một số thứ thực sự tốt, phải không!”
+"Mấy người ăn món ngon quá nhỉ!"
 
-Barnar và những người khác nhìn trái nhìn phải nhưng không thấy tôi ở đâu cả.
+Barnar và những người khác nhìn trái nhìn phải, nhưng không thấy tôi đâu cả.
 
-“Này, tôi nghĩ tôi vừa nghe thấy giọng của Haruto…”
+"Này, tôi vừa nghe giọng Haruto…"
 
-“Ừ, tôi cũng vậy…vậy đó không phải là trí tưởng tượng của tôi à?”
+"Ừ, tôi cũng vậy…vậy không phải tưởng tượng?"
 
-“Tôi cũng nghe thấy…”
+"Tôi cũng nghe thấy…"
 
-Barnar và những người khác liên tục tìm kiếm tôi khắp nơi, sau đó tôi vô hiệu hóa các kỹ năng.
+Barnar và những người khác tiếp tục tìm tôi khắp nơi, rồi tôi hủy kích hoạt các kỹ năng.
 
-Tôi như thể từ hư không xuất hiện trước mặt họ vậy nên họ hét lên ngay khi nhìn thấy tôi.
+Đối với họ, nó giống như tôi xuất hiện từ hư không, nên họ hét lên ngay khi nhìn thấy tôi.
 
-“WAAAHHHH!!! QUÁ QUÁ!!”
+"WAAAHHHH!!! MA!!"
 
-Mọi ánh mắt của cả nhà hàng đều đổ dồn vào chúng tôi nên tôi đánh vào đầu họ để họ im lặng.
+Cả nhà hàng đổ ánh mắt về phía chúng tôi, nên tôi tát đầu họ để bắt họ im.
 
-Tôi ngồi xuống bàn của họ và gọi những món giống như bữa tiệc của Barnar từ một cô hầu bàn gần đó.
+Tôi ngồi xuống bàn của họ và gọi món giống như nhóm Barnar từ một cô phục vụ gần đó.
 
-Cho đến khi thức ăn của tôi được mang đến, Barnar và những người khác đang run rẩy trên ghế, không nói một lời hay thậm
-chí không nhìn tôi.
+Cho đến khi đồ ăn của tôi đến, Barnar và những người khác run rẩy trên ghế, không nói một lời và thậm chí không nhìn tôi.
 
-“Cảm ơn vì đã chờ đợi, đây là bít tết Vaana của bạn.”
+"Cảm ơn vì đã chờ, đây là bít tết Vaana của anh."
 
-Sau một lúc chờ đợi, cô phục vụ quay lại với miếng bít tết dày đặc tỏa ra mùi thơm cay của rau thơm. Tôi tự hỏi đó là
-loại thịt gì?
+Sau khi chờ một lúc, cô phục vụ quay lại với một miếng bít tết dày tỏa ra mùi thơm cay nồng của thảo mộc. Không biết đó là thịt gì nhỉ?
 
-“Ơ, ờm…Ông….Haruto…?”
+"E-em…anh…Haruto…?"
 
-Barnar rụt rè gọi tôi, nên tôi trả lời trong khi cắt miếng bít tết dày.
+Barnar rụt rè gọi tôi, nên tôi đáp lại trong khi cắt miếng bít tết dày.
 
-"Cái gì? À, các bạn đã tự mình bỏ tôi vào hội nên tối nay các bạn sẽ trả tiền.”
+"Gì? À, mấy người bỏ rơi tôi ở hội một mình, nên tối nay mấy người trả tiền."
 
-“Kh, không thể nói gì được…! Chà, chúng tôi cũng phải trả ơn vũ khí cho bạn nữa! Ăn bao nhiêu tùy thích!”
+"Kh, không nói được gì với chuyện đó…! Ừ, chúng tôi phải trả ơn anh vì mấy vũ khí nữa! Cứ ăn thoải mái đi!"
 
-Hài lòng với câu trả lời của anh ấy, tôi nhai miếng thịt mà không khen ngợi.
+Hài lòng với câu trả lời của anh ấy, tôi gặm miếng thịt mà không cần khen ngợi.
 
-Bề mặt được nướng giòn thơm, lớp thịt bên dưới mềm và mọng nước khiến tôi không khỏi mỉm cười khi ăn.
+Bề mặt được nướng giòn và thơm, phần thịt bên dưới mềm và ngọt, nên tôi không thể không mỉm cười khi ăn.
 
-Nó không quá béo và cũng không có mùi đặc trưng của thịt thú rừng. Cảm giác như nó đang tan chảy trên lưỡi tôi vậy.
+Nó không quá béo, cũng không có mùi đặc trưng của thịt thú rừng. Nó có cảm giác như đang tan chảy trên đầu lưỡi.
 
-"Quá tốt!!"
+"Ngon quá!!"
 
-Barnar và những người khác cười toe toét trước lời nhận xét của tôi.
+Barnar và những người khác tự hào cười toe toét trước lời khen của tôi.
 
-"Phải? Chúng tôi đã tìm thấy nhà hàng này sau một thời gian dài tìm kiếm mệt mỏi, bạn biết đấy!”
+"Đúng không? Tụi tôi tìm được nhà hàng này sau một hồi tìm kiếm vất vả, anh biết đấy!"
 
-“Nó khá khó khăn, nhưng nơi này là tuyệt nhất.”
+"Khó lắm, nhưng nơi này là tốt nhất."
 
-“Người ta nói nó cũng khá nổi tiếng.”
+"Nó cũng khá nổi tiếng nữa, họ nói vậy."
 
-Tôi hiểu rồi. Điều đó giải thích hương vị thơm ngon.
+Tôi thấy rồi. Đó giải thích cho hương vị thơm ngon.
 
-Chúng tôi tiếp tục ăn hầu hết nếu không muốn nói là tất cả thực đơn, như một lời ăn mừng vì đã hoàn thành yêu cầu.
+Chúng tôi tiếp tục ăn phần lớn nếu không muốn nói là tất cả thực đơn, như một sự ăn mừng cho việc hoàn thành yêu cầu.
 
-Sau khi đã tận hưởng đủ thú vị, chúng tôi quay lại chỗ nghỉ mà Bacchus đã giới thiệu.
+Sau khi tận hưởng đủ, chúng tôi quay lại chỗ trọ mà Bacchus giới thiệu.
 
-Đó là một cơ sở khá lớn, có cả một nhà tắm lớn.
+Đó là một cơ sở khá lớn, có cả bồn tắm lớn.
 
-Tôi chưa từng ngâm mình trong bồn tắm sau khi đến thế giới này, nên tôi vui vẻ nhân cơ hội này để giải tỏa mệt mỏi.
+Tôi chưa tắm bồn đàng hoàng kể từ khi đến thế giới này, nên tôi vui vẻ nhân cơ hội này để giải tỏa mệt mỏi.
 
-“Phew…Dù sao thì tôi vẫn là người Nhật, tôi cần tắm thật lâu vào cuối ngày…”
+"Phù…tôi vẫn là người Nhật mà, cần ngâm mình thật lâu vào cuối ngày…"
 
-“Đó là cái gì thế, Haruto?”
+"Cái gì vậy, Haruto?"
 
-“Không có gì, đừng bận tâm.”
+"Không có gì, thôi bỏ qua đi."
 
-Barnar tò mò nhìn tôi, nhưng tôi làm như không có chuyện gì xảy ra và tiếp tục tắm.
+Barnar nhìn tôi đầy tò mò, nhưng tôi giả vờ như không có chuyện gì và tiếp tục tận hưởng bồn tắm.
 
-Việc tắm đã chữa lành mọi mệt mỏi của tôi nên sau đó tôi đã có một giấc ngủ rất ngon.
+Bồn tắm chữa lành mọi mệt mỏi của tôi, nên tôi có một giấc ngủ rất ngon sau đó.
+
+---
+
+[←Trước](https://web.archive.org/web/20250116053639//twem-vol-1-chapter-8/) | [Tiếp→](https://web.archive.org/web/20250116053639//twem-vol-1-chapter-10/)

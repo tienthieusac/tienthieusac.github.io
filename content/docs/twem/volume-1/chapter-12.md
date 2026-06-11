@@ -1,452 +1,420 @@
 ---
-title: Chương 12 – Kẻ Trộm
+title: "Chương 12 – Kẻ Trộm"
 weight: 12
 ---
 
 # Chương 12 – Kẻ Trộm
 
-…như đã lo sợ, sau khi chúng tôi kết thúc giờ nghỉ trưa và lên đường trở lại, Khả năng Phát hiện Hiện diện của tôi đã
-nhận được một số phản hồi của con người.
+…quả nhiên như lo sợ, sau khi chúng tôi ăn trưa xong và lại lên đường thì Phát Hiện Khí Tức nhận ra vài phản ứng của con người.
 
-Tôi tự hỏi liệu họ có thực sự như những gì tôi mong đợi hay không và xác nhận rằng họ đang tiến về phía chúng tôi.
+Tôi đang thắc mắc liệu chúng có đúng là thứ mình nghĩ không thì xác nhận chúng đang hướng về phía chúng tôi.
 
-Cờ sự kiện đã được sử dụng rồi sao!?
+Cờ sự kiện đã được dựng lên rồi sao!?
 
-Ít phút sau, 20 tên cướp xuất hiện và chặn đường đoàn xe của chúng tôi.
+Vài phút sau, 20 tên trộm xuất hiện chặn đường đoàn xe.
 
-“Nếu bạn quý trọng mạng sống của mình, hãy bỏ lại tất cả hàng hóa và hành lý của bạn và quay trở lại nơi bạn đã xuất
-phát…mặc dù bạn sẽ không thể quay về nguyên vẹn!”
+"Nếu các ngươi quý mạng sống, thì bỏ lại toàn bộ hàng hóa và hành lý rồi cút về chỗ xuất phát…dù các ngươi sẽ không sống sót để mà về!"
 
-Sau khi một tên cướp đưa ra tuyên bố này, đồng đội của anh ta phá lên cười thô tục.
+Sau khi một tên trộm tuyên bố như vậy, đồng bọn hắn phá lên cười thô thiển.
 
-Finne nhanh chóng bước lên phía trước để bảo vệ Youte và những thương nhân khác.
+Finne nhanh chóng bước lên phía trước, để bảo vệ Youte và các thương nhân.
 
-“Tôi sẽ giữ chúng lại, trong lúc đó xin hãy trốn thoát, mọi người!”
+"Em sẽ chặn chúng lại, trong lúc đó mọi người hãy chạy đi!"
 
-Sự dũng cảm của Finne càng khiến bọn trộm càng phấn khích hơn.
+Sự dũng cảm của Finne chỉ khiến lũ trộm càng hưng phấn hơn.
 
-“Chà, nhìn công chúa xinh đẹp kìa!”
+"Ôi, nhìn cô công chúa xinh đẹp kìa!"
 
-“Bắt sống cô ta đi các chàng trai! Và tối nay chúng ta sẽ có rất nhiều niềm vui!”
+"Bắt sống cô ta, anh em ơi! Tối nay tụi mình sẽ vui vẻ lắm đây!"
 
-Giọng điệu và biểu cảm của bọn trộm thật kinh tởm.
+Giọng điệu và biểu cảm của lũ trộm ghê tởm đến mức tột cùng.
 
-Ryan và những người khác cũng bước tới, che chắn cho Finne khỏi những ánh mắt dâm đãng của họ.
+Ryan và những người khác cũng bước lên, che Finne khỏi ánh mắt tham lam của chúng.
 
-“Đừng cố gắng quá, thứ hạng của chúng ta cao hơn! Để đó cho chúng tôi!"
+"Đừng liều, hạng chúng tôi cao hơn! Giao cho tụi tôi!"
 
 Đáp lại lời Ryan, Nathan, Anita và Iraly cũng sẵn sàng vũ khí.
 
-Sau những gì anh ấy nói, tôi không thể lùi lại mà không chiến đấu, tôi nghĩ vậy và cũng bước về phía trước.
+Sau những lời đó, tôi nghĩ mình không thể đứng ngoài mà không chiến đấu, nên cũng bước tới.
 
-Tuy nhiên, Finne quay về phía tôi và nói với giọng chắc nịch.
+Tuy nhiên, Finne quay về phía tôi và nói với giọng dứt khoát.
 
-“Anh Haruto, xin hãy mang theo đoàn xe của anh Youte và trốn thoát! Chiến binh lành nghề nhất phải là người bảo vệ họ!
+"Anh Haruto, làm ơn dẫn đoàn của anh Youte đi theo và chạy đi! Người chiến đấu giỏi nhất phải là người bảo vệ họ!"
 
-Ryan có lẽ cũng đang nghĩ điều tương tự, vì ánh mắt anh ấy thúc giục tôi phải đi nhanh lên.
+Ryan chắc cũng nghĩ vậy, ánh mắt anh ấy thúc giục tôi đi nhanh.
 
-Tuy nhiên-
+Tuy nhiên—
 
-“Tệ quá, tôi không thể làm điều đó…ồ, anh Youte, mọi người, xin đừng xuống xe. Ở bên trong an toàn hơn.”
+"Tiếc quá, tôi không làm vậy được…ơ, anh Youte, mọi người, làm ơn không xuống xe. Ở trong xe an toàn hơn."
 
-Tôi đi về phía Finne và những người khác trong khi dựng rào chắn xung quanh xe ngựa.
+Tôi đi về phía Finne và những người khác trong khi thiết phép hộ thuật quanh các xe ngựa.
 
-"Tại sao bạn lại đến đây!?"
+"Sao anh lại đến đây!?"
 
-Finne giận dữ phản đối sau khi tôi đến bên cô ấy.
+Finne tức giận phản đối khi tôi đến bên cạnh cô.
 
-Lý thuyết của cô rằng người mạnh nhất phải là người bảo vệ người khác khi họ trốn thoát là hoàn toàn đúng.
+Lý thuyết của cô rằng người mạnh nhất nên là người bảo vệ người khác khi họ chạy trốn là hoàn toàn đúng.
 
-Nhưng đó là một phương án chỉ nên cân nhắc khi bạn phải bỏ chạy hoặc phe của bạn không đủ sức chiến đấu để bảo vệ những
-người bạn được giao nhiệm vụ hộ tống.
+Nhưng đó chỉ là phương án cần cân nhắc khi bạn buộc phải chạy trốn, hoặc phe mình không đủ lực chiến để bảo vệ những người được giao hộ tống.
 
-Nhờ phép thuật kết giới của tôi mà đoàn xe đã an toàn. Bên cạnh đó…
+Nhờ hộ thuật của tôi, đoàn xe đã an toàn. Hơn nữa…
 
-“Cậu không thể chiến đấu với đôi chân run rẩy như thế được phải không?”
+"Anh không thể chiến đấu với đôi chân run như vậy được, đúng không?"
 
 Tôi nói với Finne.
 
-Nó chỉ được nhìn thấy nếu bạn chú ý đến cô ấy, nhưng đôi chân của cô ấy thực sự đang run rẩy.
+Nó chỉ lộ ra nếu chú ý kỹ, nhưng đôi chân cô thật sự đang run rẩy.
 
-Bọn cướp có số lượng đông hơn nhiều và ánh mắt của chúng nhìn về phía cô ấy chắc chắn rất đáng sợ, nên tôi rất ấn tượng
-rằng cô ấy không hề mất hết ý chí chiến đấu.
+Lũ trộm đông hơn rất nhiều và ánh mắt chúng hướng về cô chắc chắn rất đe dọa, nên tôi ấn tượng khi cô không hoàn toàn mất ý chí chiến đấu.
 
-Khi tôi chỉ ra rằng chân cô ấy đang run, Finne rùng mình.
+Khi tôi chỉ ra đôi chân cô đang run, Finne giật mình.
 
-“C-cái đó…cái đó…”
+"T-t…tại…"
 
-“Bạn không cần phải ép buộc bản thân nếu bạn sợ hãi.”
+"Anh không ép em nếu em sợ."
 
-“S-Sợ hãi…? Tôi, tôi không phải…!!”
+"S-sợ…? E-em, em không…!!"
 
-Có lẽ không hài lòng với cuộc trao đổi của chúng tôi, một trong những tên trộm - có lẽ là thủ lĩnh - lên tiếng.
+Có lẽ bị câu chuyện giữa chúng tôi làm bứt rứt, một tên trộm — chắc là đầu lĩnh — lên tiếng.
 
-“Lảm nhảm đủ rồi đấy, nhóc con!! Bạn thực sự có kế hoạch chiến đấu với chúng tôi? Sáu người các bạn chống lại tất cả
-chúng tôi!? Nhảm nhí!! Các bạn, giết hết bọn chúng đi!! Nhưng hãy bắt sống những người phụ nữ đó!!”
+"Hết nhắng nhít rồi, lũ ranh!! Bọn mày thật sự định đánh với bọn tao sao? Sáu đứa mày chống lại tất cả bọn tao!? Vô lý!! Tụi bay, giết sạch chúng!! Nhưng giữ phụ nữ lại!!"
 
-Lệnh của thủ lĩnh phái tất cả bọn cướp tấn công chúng tôi cùng một lúc.
+Mệnh lệnh của đầu lĩnh khiến tất cả bọn trộm đồng loạt tấn công chúng tôi.
 
-Tuy nhiên, sáu nhà thám hiểm bên phía chúng tôi đều có một mức độ kinh nghiệm nhất định. Và dù sao thì tôi cũng đã xếp
-hạng A.
+Tuy nhiên, sáu mạo hiểm giả phía chúng tôi đều có kinh nghiệm nhất định. Và tôi hạng A, rồi.
 
-Có vẻ như kẻ thù đã áp đảo chúng tôi về số lượng, nhưng vì tôi đã tham gia vào cuộc chiến nên chúng tôi không thể nào
-thua được.
+Trông thì địch áp đảo về số lượng, nhưng từ khi tôi tham gia thì không có chuyện chúng tôi thua.
 
-Vài phút sau khi trận chiến bắt đầu, số lượng bọn cướp chưa đến 10.
+Vài phút sau khi trận đấu bắt đầu, số trộm còn chưa đến 10.
 
-Tôi muốn xem những người khác chiến đấu như thế nào nên tôi quyết định đóng vai phụ. Tuy nhiên, nếu có ai tấn công tôi,
-tôi sẽ đánh họ bất tỉnh.
+Tôi muốn xem những người khác chiến đấu thế nào, nên quyết định đóng vai hỗ trợ. Dù vậy nếu ai đó tấn công tôi thì tôi sẽ hạ gục hắn.
 
-Ryan và nhóm của anh ấy, đúng như mong đợi của những mạo hiểm giả hạng B, đã chiến đấu mà không gặp nhiều khó khăn ngay
-cả khi chống lại nhiều kẻ thù. Chiến thắng của họ không hề bị nghiền nát, nhưng họ đã thành công nhờ vào việc kẻ thù
-cũng nhắm vào Finne và tôi.
+Nhóm Ryan, đúng là mạo hiểm giả hạng B, chiến đấu khá suôn sẻ dù đối đầu nhiều kẻ địch. Chiến thắng của họ không mang tính áp đảo, nhưng họ xoay xở được nhờ kẻ địch cũng nhắm vào Finne và tôi.
 
-Mặt khác, Finne đôi khi khiến tôi đổ mồ hôi lạnh.
+Finne, mặt khác, thỉnh thoảng khiến tôi toát mồ hôi lạnh.
 
-Cô ấy có thể giữ vững lập trường của mình từng đối một, nhưng—
+Cô ấy có thể đỡ được khi đối mặt một kẻ, nhưng—
 
-“Bỏ sang một bên, Finne!”
+"Sang bên, Finne!"
 
-"Ah--"
+"A——"
 
-Cô đang tập trung vào kẻ thù trước mặt và không nhận thấy một tên trộm khác đang lao tới tấn công cô từ bên cạnh.
+Cô đang tập trung vào kẻ địch phía trước mà không nhận ra một tên trộm khác đang tấn công từ bên hông.
 
-Tôi gọi cô ấy và đồng thời sử dụng kỹ năng “Ground Shrink”, sau đó đấm vào bụng tên trộm đang tấn công Finne từ bên
-cạnh, đồng thời kích hoạt “Hold Back”, nên tôi chỉ khiến hắn bất tỉnh.
+Tôi gọi cô đồng thời sử dụng kỹ năng "Thu Ngắn Khoảng Cách", rồi đấm vào bụng tên trộm tấn công Finne từ bên, đồng thời kích hoạt "Kiềm Chế", nên chỉ làm hắn bất tỉnh.
 
-“Tôi xin lỗi…và cảm ơn bạn.”
+"Em xin lỗi…và cảm ơn anh."
 
-“Đừng lo lắng về điều đó. Chỉ cần nhận thức rõ hơn về môi trường xung quanh bạn.
+"Không sao. Chỉ cần chú ý xung quanh hơn."
 
-"Đúng!"
+"Vâng!"
 
-Finne trả lời một cách mạnh mẽ, sau đó hạ gục kẻ thù trước mặt cô.
+Finne đáp dứt khoát, rồi hạ gục tên trộm trước mặt.
 
-Chẳng bao lâu, tên trộm cuối cùng còn đứng cũng sụp đổ.
+Chẳng bao lâu sau, tên trộm đứng cuối cùng cũng đổ xuống.
 
-Chúng tôi trói những tên trộm bất tỉnh, đánh thức một tên trong số chúng và bắt đầu thẩm vấn hắn về nơi ẩn náu của
-chúng.
+Chúng tôi trói số trộm bất tỉnh lại, đánh thức một tên rồi bắt đầu thẩm vấn về vị trí căn cứ của chúng.
 
-Ryan khoanh tay đứng trước mặt tên trộm và nói.
+Ryan đứng trước mặt tên trộm, khoanh tay và nói.
 
-“Tên băng nhóm của bạn và nơi ẩn náu của bạn. Bắt đầu nói chuyện."
+"Tên băng đảng của bọn mày và vị trí căn cứ. Bắt đầu nói đi."
 
-“Tôi sẽ làm như vậy!! Cậu sẽ không thoát khỏi chuyện này đâu!!”
+"Đéo nói!! Bọn mày không thoát được đâu!!"
 
-“Tôi hiểu rồi, nếu bạn thậm chí còn không có tên, tất nhiên là bạn không thể nói được…thật đáng thương cho một băng
-trộm.”
+"À, nếu bọn mày không có cả tên thì tất nhiên không nói được…thật đáng thương cho một băng trộm."
 
-"Bạn nói gì!? Chúng tôi là 'Sói Ebony', vì vậy hãy cẩn thận với cái mồm của mình!!”
+"Mày nói cái gì!? Bọn tao là 'Sói Mun', mày coi mồm lại!!"
 
-Tên trộm quá dễ dàng rơi vào sự chế nhạo của Ryan, nhưng Youte ngạc nhiên thốt lên “Ơ!?” sau khi nghe lời nói của anh.
+Tên trộm dễ dàng mắc mưu khiêu khích của Ryan, nhưng Youte thốt lên ngạc nhiên "Eh!?" khi nghe những lời hắn nói.
 
-Tôi chưa bao giờ nghe cái tên này trước đây nên tôi hỏi Youte xem anh ấy có biết không.
+Tôi chưa từng nghe tên này, nên hỏi Youte xem ông có biết không.
 
-"Ông. Youte, 'Sói Ebony' là gì vậy?”
+"Anh Youte, 'Sói Mun' là gì?"
 
-“Họ là một nhóm côn đồ gần đây đang tàn phá khu vực xung quanh thủ đô. Thủ lĩnh là một người rất cứng rắn, cho dù quân
-đội hay các nhà thám hiểm đã dồn anh ta vào chân tường bao nhiêu lần, anh ta vẫn luôn tìm cách chạy trốn…Tuy nhiên, tôi
-chưa bao giờ mong đợi sẽ gặp phải họ.”
+"Chúng là một băng côn đồ gần đây đang gây hấn ở khu vực quanh thủ đô. Thủ lĩnh rất cứng đầu, dù quân đội hay mạo hiểm giả dồn hắn vào đường cùng bao nhiêu lần, hắn luôn xoay xở trốn thoát…tôi không ngờ mình sẽ gặp chúng ở đây."
 
-Tôi cũng không bao giờ ngờ rằng họ lại là những tên trộm nổi tiếng, họ khá nhỏ con.
+Tôi cũng không ngờ chúng là bọn trộm nổi tiếng, hóa ra chúng cũng chỉ là lũ nhỏ.
 
-Việc tìm ra nơi ẩn náu của chúng dường như là ưu tiên hàng đầu nên tôi yêu cầu Ryan đổi chỗ cho nhau.
+Tìm căn cứ của chúng có vẻ là ưu tiên hàng đầu, nên tôi nhờ Ryan nhường chỗ.
 
-“Ryan, cậu có phiền để tôi thử một lần không?”
+"Ryan, anh phiền nhường tôi thử một lần được không?"
 
-"Bạn sẽ ổn chứ?"
+"Anh ổn chứ?"
 
-“Đây là lần đầu tiên tôi thẩm vấn ai đó…có lẽ vậy?”
+"Đây là lần đầu tôi thẩm vấn ai…nên chắc là được?"
 
-"…được rồi."
+"…Được."
 
-Ryan lùi lại, miễn cưỡng để tôi đảm nhận nhiệm vụ.
+Ryan lùi lại miễn cưỡng nhường tôi.
 
-“Cái gì, giờ đến lượt mày đấy à, nhóc con? Tôi không có gì để nói với bạn cả, shoo.”
+"Cái gì, đến lượt mày à, thằng ranh? Tao không có gì để nói với mày, cút đi."
 
-Tên trộm đã nói chuyện với tôi như thế này ngay khi nhìn thấy tôi, nên tôi nhanh chóng giật lấy con dao treo trên thắt
-lưng và đâm vào đùi hắn mà không chút do dự.
+Tên trộm vừa thấy tôi đã chặn họng ngay, nên tôi nhanh chóng giật con dao găm treo ở thắt lưng hắn và đâm vào đùi hắn, không do dự.
 
-“G-GWAAHHH!!”
+"G-GWAAHHH!!"
 
-"Im lặng. Bây giờ tôi đang đặt câu hỏi. Nếu không trả lời được… coi như mình đã chết.”
+"Im. Ai đang hỏi đây. Nếu trả lời không được…thì coi như đã chết."
 
-Tôi bộc lộ ý định giết chóc nào đó và tên trộm có lẽ đã nhận ra rằng hắn thực sự sắp bị giết nên hắn gật đầu mạnh mẽ
-nhất có thể.
+Tôi phóng ra sát khí và tên trộm chắc đã nhận ra hắn thật sự sẽ bị giết, nên gật đầu mạnh hết mức có thể.
 
-"Tốt. Nơi ẩn náu của bạn ở đâu? Ngoài ra, hãy cho tôi biết còn lại bao nhiêu thành viên trong Ebony Wolves.”
+"Tốt. Căn cứ ở đâu? Ngoài ra, cho tôi biết Sói Mun còn bao nhiêu thành viên."
 
-“Tôi sẽ nói, tôi sẽ nói, nên hãy đợi một chút!!”
+"Tao nói, tao nói, làm ơn đợi chút!!"
 
 "Tôi đang đợi."
 
-Tôi nhặt thanh kiếm của tên trộm từ dưới đất lên và chĩa vào cổ hắn.
+Tôi nhặt thanh kiếm của tên trộm dưới đất và chĩa vào cổ hắn.
 
-“Nếu cậu vào khu rừng ở đây và tiến lên một chút cậu sẽ tìm thấy một cái hang. Đó là một trong những căn cứ chúng tôi sử
-dụng. Đ-điều đó thực sự đúng!!”
+"Nếu vào rừng ở đây và đi thêm một lúc, sẽ thấy một cái hang. Đó là một trong những căn cứ mà tụi tao dùng. T-tụi tao nói thật!!"
 
-“Anh không nói dối đấy chứ?”
+"Mày không nói dối chứ?"
 
-God Eye đã cho tôi biết rằng anh ấy không phải vậy, nhưng nếu tôi quá dễ dàng tin anh ấy thì họ có thể nghĩ tôi là kẻ dễ
-bị bắt nạt. Tôi đâm lưỡi dao lại gần cổ tên trộm.
+Thần Nhãn đã cho tôi biết hắn không nói dối, nhưng nếu tin hắn quá dễ dàng thì họ sẽ nghĩ tôi dễ bắt nạt. Tôi đẩy lưỡi kiếm sát cổ hắn hơn.
 
-“T-tôi không nói dối!! Xin hãy tha cho tôi!!"
+"T-tao không nói dối!! Làm ơn tha mạng!!"
 
-“Anh vẫn chưa nói cho tôi biết con số.”
+"Mày chưa nói số người."
 
-Trong khi nói điều này, tôi ấn đầu lưỡi dao vào cổ anh ta. Tên trộm cảm thấy máu bắt đầu chảy ra nên hắn hoảng sợ và bắt
-đầu nói.
+Trong khi nói, tôi ép đầu lưỡi kiếm vào cổ hắn. Tên trộm thấy máu bắt đầu rỉ ra thì hoảng sợ và bắt đầu kể.
 
-“V-vâng!! Chúng tôi có tổng cộng 27 người Sói Ebony và 20 người trong số chúng tôi đã lên đường tấn công các đoàn xe
-buôn ngày hôm nay. Chúng tôi đã không có ý định tấn công các người ngay từ đầu, vì vậy xin hãy tha mạng cho tôi!! Tôi đã
-kể cho bạn tất cả những gì tôi biết rồi!!”
+"V-vâng!! Sói Mun bọn tôi có tổng cộng 27 người, hôm nay có 20 tên xuất phát tấn công đoàn thương nhân. Bọn tôi không định tấn công các người từ đầu, nên làm ơn tha mạng!! Tao đã nói hết những gì biết!!"
 
-Ừm, theo God Eye, anh ấy thực sự không nói dối.
+Hmm, theo Thần Nhãn, hắn thật sự không nói dối.
 
-Tôi kích hoạt phép thuật Tia sét thông qua thanh kiếm chĩa vào cổ tên trộm, gây ra một cú sốc điện khiến hắn bất tỉnh.
+Tôi kích hoạt phép thuật sấm sét thông qua thanh kiếm đang chĩa vào cổ tên trộm, phóng điện giật khiến hắn bất tỉnh.
 
-“Được rồi, chúng ta biết địa điểm và số lượng của họ, chúng ta đi nhé?”
+"Được rồi, biết địa điểm và số lượng rồi, đi thôi?"
 
-Tôi quay lại nhìn những người khác và thấy họ sợ hãi trước cách tôi tiến hành cuộc thẩm vấn.
+Tôi quay lại phía mọi người và thấy họ sững sờ vì cách tôi tiến hành thẩm vấn.
 
-Ryan sau đó rụt rè hỏi tôi một câu.
+Ryan hỏi tôi một cách rụt rè.
 
-“Ha-Haruto…đó thực sự là lần đầu tiên của cậu sao…?”
+"H-Haruto…đó thật sự là lần đầu…?"
 
-“Ừ, tôi biết, phải có cách hiệu quả hơn để khiến anh ấy nói chuyện…Tôi vẫn còn một chặng đường dài phía trước.”
+"Ừ, tôi biết, hẳn phải có cách hiệu quả hơn để hắn chịu nói…tôi vẫn còn phải học nhiều."
 
-“Không không không, thế là quá đủ rồi!!!”
+"K-không không không, vậy là quá đủ rồi!!!"
 
-Ryan, Nathan, Finne và những người khác đều đồng thanh trả lời.
+Ryan, Nathan, Finne và những người khác đồng thanh đáp lại.
 
-"Bạn có chắc không?" Tôi trả lời trong khi di chuyển những tên trộm bất tỉnh sang bên đường.
+"Anh chắc chứ?" Tôi nói rồi kéo những tên trộm bất tỉnh sang bên đường.
 
-Tôi cũng treo một tấm bảng bên cạnh họ có dòng chữ “Chúng tôi là một lũ trộm ngu ngốc”.
+Tôi cũng dựng một tấm biển bên cạnh, ghi "Bọn tôi là lũ trộm ngu ngốc".
 
-“E-ehm, điều này có cần thiết không?”
+"Ơ-ơ, cái này cần thiết sao?"
 
-Câu hỏi đến từ Finne, nhưng Ryan và những người khác cũng nhìn tôi đầy khó hiểu.
+Câu hỏi từ Finne, nhưng Ryan và những người khác cũng nhìn tôi đầy bối rối.
 
-"Tất nhiên là thế rồi! Nếu không có thứ này, những người đi ngang qua có thể sẽ giúp đỡ họ.”
+"Tất nhiên rồi! Không có cái này, người qua đường có thể sẽ giúp chúng."
 
-Tuy nhiên, đó rõ ràng không phải là ý của Finne và những người khác trong câu hỏi.
+Rõ ràng Finne và những người khác không hỏi ý đó.
 
-Có lẽ phần “ngớ ngẩn” là không cần thiết?
+Có lẽ từ "ngu ngốc" là không cần thiết?
 
-Tuy nhiên, họ khá ngu ngốc…
+Nhưng bọn chúng ngu thật mà…
 
-Finne và những người khác không nói gì thêm về chủ đề này nên tôi quay sang Youte.
+Finne và những người khác không nói gì thêm về chủ đề đó, nên tôi quay sang Youte.
 
-"Ông. Youte, tôi đang tính dẫn theo 2-3 người đi phá nát sào huyệt của bọn cướp.”
+"Anh Youte, tôi định mang theo 2-3 người đi đánh sập căn cứ của lũ trộm."
 
-“Nhưng bạn sẽ phải đối mặt với lũ Sói Ebony đó…và với hơn một nửa đội hộ tống của chúng tôi đã biến mất, chúng tôi nên
-làm gì?”
+"Nhưng anh sẽ đối mặt với Sói Mun…và hơn nữa hơn nửa đoàn hộ tống sẽ vắng mặt, chúng tôi nên làm gì?"
 
-Nhìn thấy vẻ mặt lo lắng trên khuôn mặt của Youte và cấp dưới của anh ta, tôi làm cho rào chắn xung quanh đoàn xe có thể
-nhìn thấy được bằng mắt thường.
+Thấy vẻ lo lắng hiện trên mặt Youte và thuộc hạ, tôi làm cho bức hộ thuật quanh đoàn xe hiện rõ ra bằng mắt thường.
 
-“Cậu sẽ ổn thôi miễn là cậu ở trong rào chắn. Nó có thể bảo vệ bạn khỏi các cuộc tấn công vật lý và ma thuật.”
+"Mọi người sẽ ổn miễn là ở trong hộ thuật. Nó có thể bảo vệ mọi người khỏi cả tấn công phép thuật lẫn vật lý."
 
-Rào chắn được tạo ra bởi kỹ năng tối đa của tôi: nó sẽ không bị phá vỡ trừ khi có điều gì đó đáng kinh ngạc xảy ra.
+Bức hộ thuật được tạo bởi kỹ năng đã lên cấp tối đa của tôi: trừ khi có chuyện khủng khiếp xảy ra, nó sẽ không vỡ.
 
-“…điều đó có thực sự đúng không?”
+"…chuyện đó thật sao?"
 
-Youte vẫn còn một số nghi ngờ nên tôi đã tạo ra một rào cản tương tự, sau đó gọi Ryan và nhóm của anh ấy.
+Youte vẫn còn nghi ngờ, nên tôi tạo một bức hộ thuật tương tự, rồi gọi nhóm Ryan.
 
-“Các bạn, các bạn có thể tấn công rào cản này không? Sử dụng bất kỳ phương tiện nào bạn muốn.
+"Mấy người, tấn công bức hộ thuật này đi. Dùng mọi cách."
 
-“Được rồi…tôi đi đây! Haahhh!!!”
+"Được…tao tới nè! Haahhh!!!"
 
-“Hiểu rồi…hnngh!!”
+"Chắc rồi…hứng đây!!"
 
-Ryan và Nathan tấn công cùng lúc, nhưng kết giới thậm chí còn không hề nao núng.
+Ryan và Nathan cùng lúc tấn công, nhưng bức hộ thuật không hề lay động.
 
-Anita và Iraly sau đó phóng các phép thuật mà họ đang niệm chú về phía rào chắn.
+Anita và Iraly liền tung phép thuật đang niệm về phía bức hộ thuật.
 
-"Bóng nước!"
+"Cầu Nước!"
 
-"Quả cầu lửa!"
+"Cầu Lửa!"
 
-Hai phép thuật đâm vào rào chắn với tốc độ đáng kinh ngạc, nhưng chúng chỉ tạo ra một tiếng động lớn và biến mất.
+Hai phép thuật đâm vào bức hộ thuật với tốc độ đáng kinh ngạc, nhưng chỉ phát ra tiếng nổ lớn rồi biến mất.
 
-Tất nhiên, rào chắn không bị ảnh hưởng.
+Hộ thuật không hề hấn gì, đương nhiên rồi.
 
-“Tôi-không thể tin được…”
+"K-không thể nào…"
 
-"Bạn nghiêm túc chứ…?"
+"Anh nghiêm túc đấy à…?"
 
-“Ngay cả phép thuật của tôi cũng không thể ảnh hưởng đến nó…”
+"Phép của tôi cũng không ảnh hưởng được…"
 
-“N-nó thực sự tuyệt vời!!”
+"T-tuyệt thật!!"
 
-“Nó có thể chịu được tất cả những thứ đó…?”
+"Nó chịu được hết thế này á?"
 
-Nhóm của Ryan và Youte đều ngơ ngác.
+Nhóm Ryan và Youte đều kinh ngạc.
 
-“Bây giờ bạn tin tôi nếu tôi nói bạn sẽ ổn thôi, phải không?”
+"Bây giờ mọi người tin lời tôi nói rồi chứ?"
 
-Youte trả lời tôi trong một hơi.
+Youte trả lời tôi trong một hơi thở.
 
-“V-vâng, quả thực, tôi thấy chúng ta sẽ an toàn. Vậy xin hãy bảo trọng nhé.”
+"V-vâng, thật vậy, tôi hiểu rồi, chúng ta sẽ an toàn. Xin hãy đi đi."
 
-"Cảm ơn rất nhiều. Được rồi…Finne, Ryan, Anita, đi với tôi.”
+"Cảm ơn anh rất nhiều. Vậy…Finne, Ryan, Anita, đi cùng tôi."
 
-Tôi đã để Nathan và Iraly ở lại cùng đoàn xe để đề phòng.
+Tôi để Nathan và Iraly ở lại với đoàn xe, phòng khi cần.
 
-Chúng tôi băng qua khu rừng một lúc, cuối cùng cũng tìm thấy cái hang mà người đàn ông mà tôi tra tấn đã nhắc đến… đã
-thẩm vấn.
+Chúng tôi đi qua khu rừng một lúc, cuối cùng tìm thấy cái hang mà người đàn ông tôi đã tra khảo…thẩm vấn nhắc đến.
 
-Chúng tôi trốn vào bụi rậm và kiểm tra xem thông tin anh ấy cung cấp cho chúng tôi có chính xác hay không.
+Chúng tôi ẩn trong bụi cây và kiểm tra xem thông tin hắn cung cấp có chính xác không.
 
-“Ừ, chắc chắn là ở đây.”
+"Vâng, chắc chắn là ở đây rồi."
 
-Phát hiện sự hiện diện xác nhận rằng có bảy người bên trong.
+Phát Hiện Khí Tức xác nhận bên trong có bảy người.
 
-Tên trộm cho biết họ có tổng cộng 27 người nên hang động hẳn là nơi ẩn náu của họ.
+Tên trộm nói bọn chúng có tổng cộng 27 người, vậy cái hang này chắc chắn là căn cứ.
 
-"Tốt. Chaaaarge!! Gah”
+"Tốt. Tấn công!! Ặc"
 
-"Đúng! Tôi đi đây—! gu”
+"Vâng! Em xông vào—! Ứ"
 
-Ryan và Anita đột nhiên chạy về phía hang động nên tôi túm lấy gáy họ để ngăn lại.
+Ryan và Anita đột nhiên chạy về phía hang, nên tôi túm cổ áo họ lại để ngăn.
 
-"Chờ đợi. Chúng ta thậm chí còn không biết vị trí của kẻ địch, đừng mù quáng tấn công.”
+"Khoan. Chưa biết vị trí kẻ địch, đừng xông vào liều lĩnh."
 
-“…vậy chúng ta sẽ làm gì đây?”
+"…vậy chúng ta sẽ làm gì?"
 
-Ryan nhìn tôi, bối rối. Tôi bảo anh ấy đợi một lát, sau đó sử dụng Phát hiện sự hiện diện và bản đồ để xem chi tiết bên
-trong hang động.
+Ryan nhìn tôi bối rối. Tôi bảo anh ấy đợi một chút, rồi dùng Phát Hiện Khí Tức và bản đồ để nhìn chi tiết bên trong hang.
 
-“Cạnh cửa hang có hai người, chắc là người canh gác. Khi bạn vào trong sẽ có một căn phòng ở bên phải, có hai người ở
-bên trong. Có một căn phòng khác cạnh đó, có thêm hai người nữa. Vậy thì có một người ở căn phòng xa nhất phía sau…đánh
-giá từ sự hiện diện và sức mạnh phép thuật, đó là người lãnh đạo.”
+"Có hai tên cạnh cửa hang, chắc là người canh gác. Vào bên trong có một căn phòng bên phải, có hai người bên trong. Có căn phòng liền kề, thêm hai người nữa. Rồi có một người ở phòng trong cùng…đoán theo khí tức và ma lực, đó là thủ lĩnh."
 
-Ba người bạn đồng hành của tôi rất ngạc nhiên trước lời nói của tôi và ghé sát mặt tôi.
+Ba người đồng hành cực kỳ ngạc nhiên với lời tôi và chồm mặt lại sát mặt tôi.
 
-“Làm sao cậu có thể nói nhiều như vậy?”
+"Sao anh biết được nhiều vậy?"
 
-"Vâng! Tôi cũng muốn biết!”
+"Đúng vậy! Em cũng muốn biết!"
 
-"Bạn đã làm nó như thế nào!?"
+"Anh làm sao vậy!?"
 
 Ryan, Anita và Finne đều háo hức muốn biết.
 
-Anita và Finne là một chuyện, nhưng tôi không thể nói rằng tôi thích có khuôn mặt của Ryan ngay cạnh mình.
+Anita và Finne thì được, nhưng tôi không thể nói rằng tôi thích có mặt của Ryan sát mặt mình.
 
-“Ryan, cậu đến gần rồi, quá gần rồi!!”
+"Ryan, anh lại gần quá, quá gần rồi!!"
 
-"Ồ xin lỗi."
+"À, xin lỗi."
 
-Ừm, tôi có thể giải thích thế nào đây? Tôi không muốn nói về bản đồ…
+Hmm, giải thích thế nào nhỉ? Tôi không muốn nói về tấm bản đồ…
 
-"…Đó là bí mật. Nó không quan trọng lắm phải không? Tôi sẽ nghĩ ra một kế hoạch, vì vậy hãy cho tôi một chút thời
-gian.”
+"…bí mật. Có quan trọng đâu đúng không? Để tôi nghĩ kế hoạch một chút."
 
-“Chúng ta có thực sự cần một cái không? Họ mạnh hơn chúng ta, nhưng chúng ta chiếm thế thượng phong về sức chiến đấu,
-phải không?”
+"Thật sự cần thiết sao? Bọn chúng đông hơn mình, nhưng về sức mạnh chiến đấu thì mình có lợi thế đúng không?"
 
-“Tôi đoán bạn nói đúng…được rồi, tôi sẽ dẫn đầu, các bạn theo sau tôi.”
+"Ờ cũng đúng…được rồi, tôi đi đầu, mọi người theo sau tôi."
 
-Tôi đi trước, theo sau là Finne, Anita và Ryan.
+Tôi đi phía trước, theo sau là Finne, Anita và Ryan.
 
-Ngay khi bước vào hang, tôi đã sử dụng Ground Shrink để đến gần những người canh gác ngay lập tức, khiến cả hai chìm vào
-giấc ngủ bằng một cú đấm vào bụng.
+Vừa vào hang, tôi dùng Thu Ngắn Khoảng Cách để tiến đến gần mấy tên canh gác trong tích tắc, rồi đấm vào bụng khiến cả hai ngủ thiếp đi.
 
-"Được rồi đi thôi."
+"Được rồi, đi tiếp."
 
-Những người bạn đồng hành của tôi gật đầu chắc nịch.
+Các bạn đồng hành gật đầu dứt khoát.
 
-Những ngọn đuốc thắp sáng được đặt cách đều nhau trong hang nên khá sáng.
+Bên trong hang đặt đuốc ở khoảng cách cố định, nên khá sáng.
 
 Chúng tôi đến căn phòng đầu tiên và gõ cửa.
 
-"Chuyện gì vậy? Khá kỳ lạ khi bạn gõ cửa.
+"Có chuyện gì vậy? Lạ thật, bọn mày lại gõ cửa."
 
-Người đứng sau cánh cửa nói với giọng điệu tỏ ra tò mò, rồi cánh cửa mở ra.
+Người sau cánh cửa nói với giọng tò mò, rồi cửa mở.
 
-Cùng lúc đó, tôi sử dụng phép thuật sét đánh bất tỉnh người mở cửa.
+Cùng lúc đó, tôi dùng phép thuật sấm sét đánh bất tỉnh người vừa mở cửa.
 
-“Rook, chuyện gì đã xảy ra vậy!? Chết tiệt, chúng ta đang bị tấn công!!”
+"Rook, có chuyện gì vậy!? Chết tiệt, bị tấn công!!"
 
-Người đàn ông còn lại trong phòng cố rút vũ khí ra, nhưng tôi tiếp cận anh ta nhanh hơn mức anh ta có thể di chuyển và
-nhanh chóng hạ gục anh ta bằng cú đấm vào bụng như thường lệ của tôi.
+Người đàn ông còn lại trong phòng định rút vũ khí, nhưng tôi tiến đến nhanh hơn hắn kịp động và lập tức hạ gục bằng cú đấm bụng thường lệ.
 
-Khi người đàn ông ngã xuống sàn, cánh cửa dẫn sang phòng bên cạnh mở ra.
+Khi người đàn ông đổ xuống sàn, cánh cửa dẫn sang phòng tiếp theo mở ra.
 
-Được cảnh báo bởi tiếng hét của tên trộm, hai đồng đội của anh ta đã trang bị sẵn vũ khí bước ra.
+Bị tiếng hét của tên trộm báo động, hai tên đồng bọn đã vũ trang đầy đủ khi bước ra.
 
-Ryan và tôi gật đầu với nhau rồi tách ra để đối phó với hai kẻ thù.
+Ryan và tôi gật đầu với nhau, rồi tách ra để đối phó hai kẻ địch.
 
-Tôi né nhát chém của tên trộm, vòng ra sau lưng hắn và chém ngang vào cổ hắn, khiến hắn bất tỉnh.
+Tôi tránh đường chém của tên trộm, vòng ra sau lưng và chém ngang cổ hắn, đánh bất tỉnh hắn.
 
-Tôi nhìn về phía Ryan và thấy anh ta đang thực hiện động tác đặt đầu gối vào đám rối thần kinh mặt trời của tên trộm.
-Ừm, không tệ.
+Tôi nhìn sang Ryan và thấy anh ấy đang đấm gối vào dạ dày tên trộm. Hmm, cũng không tệ.
 
-Finne và Anita nhìn những tên trộm như thể thương hại chúng, nhưng tôi chẳng thèm để ý đến chúng.
+Finne và Anita nhìn bọn trộm với ánh mắt thương hại, nhưng tôi mặc kệ.
 
-“Được rồi, phòng bên cạnh là phòng cuối cùng.”
+"Được rồi, phòng tiếp theo là phòng cuối."
 
-Chúng tôi đứng trước cánh cửa dẫn tới căn phòng xa nhất.
+Chúng tôi đứng trước cánh cửa dẫn đến căn phòng trong cùng.
 
-Tôi thử vặn tay nắm cửa, định xông vào phòng lôi thủ lĩnh vào trong, nhưng hình như cửa đã bị khóa.
+Tôi thử vặn tay nắm cửa, dự định xông vào phòng và hạ thủ lĩnh bên trong, nhưng cửa hóa ra lại khóa.
 
-Tôi bảo Finne và hai người kia lùi lại rồi gõ cửa.
+Tôi bảo Finne và hai người kia lùi ra, rồi gõ cửa.
 
-Họ nhìn tôi tò mò, rồi chúng tôi nghe thấy một giọng nói từ bên trong.
+Họ nhìn tôi tò mò, rồi chúng tôi nghe tiếng vọng ra từ bên trong.
 
-"Cái gì?"
+"Gì?"
 
-Tôi cười toe toét, rồi giả vờ hoảng sợ.
+Tôi cười toe toét, rồi giả giọng hoảng hốt.
 
-"Ông chủ!! Chúng ta đang bị tấn công!!”
+"Thủ lĩnh!! Bọn tôi bị tấn công!!"
 
-"Cái gì!? Có phải là những người lính từ thủ đô không!?”
+"Cái gì!? Là lính từ thủ đô tấn công sao!?"
 
 Cùng lúc đó, cánh cửa bật mở.
 
-Tuy nhiên, thủ lĩnh của Ebony Wolves không tìm thấy một trong những tay sai của hắn mà là tôi.
+Tuy nhiên, thủ lĩnh Sói Mun không thấy tên đàn em của hắn, mà thấy tôi.
 
-“C-bạn là ai thế!?”
+"T-thương nhân nào đây!?"
 
-“Chỉ là một nhà thám hiểm thôi.”
+"Chỉ là mạo hiểm giả thôi."
 
-Tôi đấm vào bụng tên cầm đầu và khiến hắn bay ngang qua phòng.
+Tôi đấm vào bụng thủ lĩnh, đẩy hắn bay ngang phòng.
 
-“Gah…chết tiệt!! Bạn sẽ phải trả giá cho việc này!!”
+"Ự…chết tiệt!! Mày sẽ phải trả giá!!"
 
-Tên cầm đầu chộp lấy một chiếc rìu chiến và lao về phía tôi.
+Thủ lĩnh vớ lấy cây búa chiến và xông về phía tôi.
 
-Tuy nhiên, tôi dễ dàng né được đòn tấn công của hắn và đấm vào bụng hắn lần nữa, nhưng lần này nắm đấm của tôi được bao
-phủ bởi ma thuật sét.
+Tôi dễ dàng tránh đòn của hắn, rồi đấm vào bụng hắn thêm lần nữa, nhưng lần này nắm đấm tôi được bao phủ bởi phép thuật sấm sét.
 
-Vì bị tổn thương và bị sốc, thủ lĩnh nhanh chóng rơi vào trạng thái căng trương lực.
+Vì sát thương và cú sốc, thủ lĩnh nhanh chóng rơi vào trạng thái bất động.
 
-“Các bạn, tôi xong việc ở đây rồi.”
+"Mọi người, tôi xong rồi đây."
 
-Khi tôi gọi họ, Finne và Anita bước ra, trông có vẻ mâu thuẫn.
+Khi tôi gọi, Finne và Anita bước ra với vẻ mặt đầy băn khoăn.
 
-“Có lý do gì để chúng ta đến đây…?”
+"Chúng tôi đến đây có cần thiết không…?"
 
-"Tôi tự hỏi…"
+"Em cũng tự hỏi…"
 
-Này, bạn không thể mong đợi tôi một mình chở được bảy người phải không?
+Này, không thể bắt tôi khiêng bảy người một mình được chứ?
 
-Chúng tôi tiến hành trói tên cầm đầu và kéo hắn ra khỏi phòng.
+Chúng tôi tiến hành trói thủ lĩnh lại và kéo hắn ra khỏi phòng.
 
-Chúng tôi cũng trói những tên trộm bất tỉnh ở các phòng khác và ba người bạn đồng hành của tôi đã mang chúng ra ngoài.
+Chúng tôi cũng trói những tên trộm bất tỉnh ở các phòng khác và ba người đồng hành khiêng chúng ra ngoài.
 
-Chúng tôi quay trở lại nơi chúng tôi để lại Youte và những người khác và ném bọn cướp, ngoại trừ tên cầm đầu, cùng 20
-tên còn lại.
+Chúng tôi quay lại nơi để Youte và mọi người rồi quăng bọn trộm, ngoại trừ thủ lĩnh, cùng với 20 tên kia.
 
-Chúng tôi đã quyết định chất người lãnh đạo lên một trong những chiếc xe ngựa và đưa anh ta theo chúng tôi đến thủ đô.
+Chúng tôi quyết định xếp thủ lĩnh lên một trong các cỗ xe ngựa và mang theo đến thủ đô.
 
-Để anh ta làm tù nhân sẽ giúp giải thích dễ dàng hơn và cũng khiến chiến công của chúng tôi trở nên đáng tin cậy hơn.
+Có hắn làm tù nhân sẽ dễ giải thích hơn và cũng khiến thành tích của chúng tôi đáng tin hơn.
 
-Chúng tôi khởi hành và sau khoảng một giờ di chuyển, chúng tôi có thể nhìn thấy một thành phố lớn ở phía xa, có lẽ là
-thủ đô hoàng gia.
+Chúng tôi khởi hành, sau khoảng một giờ di chuyển, có thể thấy một thành phố lớn ở phía xa, chắc là thủ đô hoàng gia.
 
-“Phew, cuối cùng chúng ta cũng đã đến nơi.”
+"Phù, cuối cùng cũng đến nơi."
 
-“Đúng…cuối cùng thì tất cả mọi chuyện đã xảy ra, nhưng cuối cùng chúng ta cũng đã ở đây.”
+"Vâng…đủ thứ chuyện xảy ra vào phút cuối, nhưng cuối cùng mình cũng đến rồi."
 
-Thế nên tôi thở dài và Finne đồng ý với tôi. Giọng cô ấy cũng có vẻ mệt mỏi.
+Tôi thở dài, Finne đồng ý. Giọng cô cũng nghe có vẻ mệt.
+
+---
+
+[←Trước](https://web.archive.org/web/20240918052757//twem-vol-1-chapter-11/) | [Sau→](https://web.archive.org/web/20240918052757//twem-vol-1-chapter-13/)

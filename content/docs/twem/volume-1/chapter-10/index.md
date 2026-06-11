@@ -1,458 +1,413 @@
 ---
-title: Chương 10 – Finne
+title: "Chương 10 – Finne"
 weight: 10
 ---
 
 # Chương 10 – Finne
 
-Vì phải đợi thêm một ngày nữa để lấy thẻ mới nên sáng hôm sau tôi cùng Barnar và những người khác đi
-dạo quanh thị trấn.
+Vì phải đợi thêm một ngày nữa mới nhận được thẻ mới, sáng hôm sau tôi cùng Barnar và mấy người kia đi dạo quanh thị trấn.
 
-Vaana nổi tiếng về ẩm thực nên chúng tôi nhất trí rằng sẽ thật lãng phí nếu không đi nếm thử các món
-ngon địa phương.
+Vaana nổi tiếng với ẩm thực, nên ai cũng đồng ý rằng bỏ qua mấy món đặc sản nơi đây thì thật phí phạm.
 
-Điểm đến đầu tiên của chúng tôi là sự giới thiệu của Bacchus, quảng trường trung tâm của thị trấn.
+Điểm đến đầu tiên của chúng tôi là quảng trường trung tâm thị trấn – nơi Bacchus giới thiệu.
 
-“Nó thậm chí còn lớn hơn dự kiến.”
+"Lớn hơn mình tưởng."
 
-"Quá lớn."
+"Lớn thật."
 
-“Quả nhiên là lớn.”
+"Quả là lớn."
 
-Barnar và hai người đồng đội của anh ta choáng ngợp đến mức nhận xét của họ gần như giống nhau.
+Barnar cùng hai người đồng đội quá choáng ngợp nên nhận xét cứ na ná nhau.
 
-Quảng trường trung tâm có vẻ rộng bằng hai sân bóng đá. Ở trung tâm còn có một đài phun nước lớn.
+Quảng trường trung tâm rộng chừng hai sân bóng, hơn kém chút. Chính giữa còn có một đài phun nước lớn.
 
-Các quầy hàng trên đường phố với nhiều hình dạng và kích cỡ khác nhau được xếp dọc theo mép ngoài
-của quảng trường. Có những quầy hàng giữa đài phun nước và những quầy hàng bên ngoài, cũng như những
-bàn dành cho mọi người dùng bữa, nên nó khá hỗn loạn.
+Dọc rìa quảng trường là vô số sạp hàng đủ loại kích cỡ. Giữa đài phun nước và các sạp bên ngoài cũng có sạp hàng, thêm cả bàn ghế cho người ta ngồi ăn, nên nhìn chung khá lộn xộn.
 
-Quảng trường đông đúc người dân địa phương, thương nhân và khách du lịch, khiến nó trông giống như
-một lễ hội đang diễn ra.
+Quảng trường đông đúc dân địa phương, thương nhân và khách du lịch, trông như đang có lễ hội.
 
-“Các nhà thám hiểm, hãy nhìn đây! Nóng hổi mới ra lò! Hãy nếm thử đi, nó thực sự rất ngon!”
+"Mạo hiểm giả đây, nhìn bên này nè! Mới ra lò đó! Nếm thử đi, ngon lắm!"
 
-Chúng tôi đang nhìn quanh các quầy hàng thì một người đàn ông trung niên gọi chúng tôi.
+Chúng tôi đang nhìn ngắm các sạp hàng thì một người đàn ông trung niên gọi với theo.
 
-“Đó là cái gì vậy?”
+"Cái gì vậy?"
 
-“Đây là thịt Mouw, anh bạn ạ! Hàng cao cấp nhất!”
+"Đây là thịt Mouw đó, cậu trai ạ! Hàng loại một luôn!"
 
-Người đàn ông sau đó đưa cho tôi miếng thịt xiên.
+Ông ta đưa cho tôi một xiên thịt.
 
-Méo? Điều đó chắc chắn giống như thịt bò.
+Mouw? Nghe giống thịt bò phết.
 
-Nó có mùi khá thơm nên tôi cũng có thể thử… đó là những gì tôi đang nghĩ, nhưng Barnar và những
-người khác đã đưa cho người đàn ông những đồng xu lớn và bắt đầu nhai những xiên thịt.
+Nó có mùi thơm phức, nên tôi cũng định thử…nhưng tôi chưa kịp nghĩ xong thì Barnar và mấy người kia đã đưa cho ông ta mấy đồng tiền đồng lớn và bắt đầu gặm xiên thịt rồi.
 
-“Các bạn nhanh quá!!”
+"Bọn bay nhanh thật!!"
 
-Sau khi chọc ghẹo sự háo hức của họ, tôi đã tự mình trả một đồng xu lớn để mua xiên thịt của mình.
+Trêu đùa sự hăng hái của họ xong, tôi cũng trả một đồng tiền đồng lớn để lấy xiên thịt của mình.
 
-“Của bạn đây!”
+"Mời nè!"
 
-Tất cả chúng tôi đều ăn hết xiên của mình ngay tại chỗ.
+Cả nhóm ăn ngay tại chỗ.
 
-“Tốt quá!!”
+"Ngon quá!!"
 
-Rốt cuộc thì nó thực sự có vị như thịt bò.
+Hóa ra nó vị giống thịt bò thật.
 
-Chúng tôi rất vui khi được ăn thêm một xiên nữa, nhưng vì có rất nhiều loại đồ ăn khác nên cuối cùng
-chúng tôi phải rời khỏi quầy hàng.
+Tụi tôi muốn ăn thêm một xiên nữa, nhưng vì còn nhiều món khác nên cuối cùng đành rời sạp.
 
-Chúng tôi đi dạo quanh quảng trường một lúc, nếm thử đủ loại món ăn ngon.
+Chúng tôi đi vòng quanh quảng trường một lúc, nếm đủ thứ ngon lành.
 
-Đột nhiên, giọng nói cãi vã của một cô gái trẻ và một người đàn ông lọt vào tai chúng tôi.
+Đột nhiên, tiếng cãi vã giữa một cô gái trẻ và một người đàn ông vọng đến tai chúng tôi.
 
-"Làm ơn. Dừng lại đi!"
+"Làm ơn dừng lại đi!"
 
-“Đừng nói thế, đi với tôi một chút thôi, đi nào.”
+"Đừng nói vậy, đi với tôi một chút thôi mà, nào."
 
-Tôi nhìn về phía giọng nói và thấy một cô gái đội mũ trùm đầu đang bị quấy rầy bởi bốn người đàn
-ông, có lẽ là những nhà thám hiểm.
+Tôi nhìn về phía phát ra tiếng và thấy một cô gái đội mũ trùm đầu đang bị bốn người đàn ông, có lẽ là mạo hiểm giả, bám theo.
 
-Lúc này họ không dùng vũ lực với cô, nhưng có vẻ như họ sẽ không để cô yên.
+Lúc đó họ chưa ra tay với cô, nhưng trông bộ dạng thì chắc chắn không chịu buông tha.
 
-Nhìn thật kinh tởm nên tôi không thể không chen vào giữa cô gái đội mũ trùm đầu và bốn người đàn
-ông.
+Cảnh tượng đó khiến tôi ghê tởm, nên tôi không nhịn được mà chắn giữa cô gái và bốn tên kia.
 
-"Mày là cái quái gì!?"
+"Cái thằng ranh nào đây!?"
 
-Một trong bốn người đàn ông, có lẽ là người đứng đầu nhóm, tỏ ra khó chịu trước vẻ ngoài của tôi.
+Một trong bốn người, có lẽ là đầu lĩnh, tỏ ra vô cùng bực bội vì tôi xuất hiện.
 
-Tôi đang định giới thiệu bản thân thì—
+Tôi đang định tự giới thiệu thì—
 
-“Này Haruto! Chúng ta đi trước!”
+"Ê Haruto! Tụi tao đi trước nha!"
 
-“Anh ấy luôn vướng vào rắc rối, phải không…ồ? Nhìn xem, thịt ở quầy đó trông ngon quá!”
+"Anh ấy lúc nào chẳng dính vô chỗ phiền phức, đúng không…ơ? Nhìn kìa, thịt ở sạp đó trông ngon quá!"
 
-"Cái gì!? Haruto! Tiếp theo chúng ta sẽ đến đó, nhanh chóng bắt kịp nhé!”
+"Cái gì!? Haruto! Tụi tao qua đó tiếp theo, mày chạy theo mau lên!"
 
-Tôi mong đợi Barnar và những người khác sẽ giúp tôi ngăn chặn sự tiến bộ không mong muốn của bốn
-người đàn ông, nhưng thay vào đó họ lại bỏ rơi tôi.
+Tôi tưởng Barnar và mấy người kia sẽ giúp tôi ngăn bốn tên kia lại, nhưng họ lại bỏ tôi mà đi tiếp.
 
-"Huh!? Chờ đợi!! Tôi cũng muốn ăn thịt!!”
+"Hả!? Khoan đã!! Tao cũng muốn ăn thịt!!"
 
-Vì vậy, tôi đã hét lên với Barnar và những người khác khi họ rời đi, một cử chỉ mà bốn người đàn ông
-dường như không đánh giá cao lắm.
+Tôi hét với theo Barnar và đồng bọn đang bỏ đi, một hành động khiến bốn tên kia không vui chút nào.
 
-“Bây giờ bạn đang phớt lờ chúng tôi!? Tốt nhất bạn đừng đánh giá thấp người xếp hạng C!!”
+"Mày dám phớt lờ bọn tao à!? Đừng có khinh thường hạng C!!"
 
-Tên cầm đầu giận dữ giơ nắm đấm về phía tôi và các đồng đội của hắn cũng làm theo.
+Tên đầu lĩnh, giận đến tái mặt, giơ nắm đấm lên, đồng bọn cũng hùa theo.
 
-Cả bốn người đàn ông đều tấn công tôi cùng một lúc, trong khi những người xung quanh chúng tôi la
-hét bỏ chạy.
+Cả bốn đồng loạt tấn công tôi, trong khi những người xung quanh hét lên rồi bỏ chạy.
 
 "Coi chừng!"
 
-Tiếng hét của cô gái lọt vào tai tôi khi tôi dễ dàng né được đòn tấn công của bốn người đàn ông.
+Tiếng gọi của cô gái vọng đến tai tôi khi tôi nhẹ nhàng tránh đòn của cả bốn tên.
 
-“H-anh ấy đã né được?”
+"H-hắn tránh được á?"
 
-“Ừ, nhưng bất kỳ người dân làng ngẫu nhiên nào cũng có thể. Các bạn có thực sự xếp hạng C không? Làm
-tôi xấu hổ khi trở thành một nhà thám hiểm như bạn.”
+"Ừ, nhưng thằng ruộng vườn cũng tránh được. Bọn mày đúng là hạng C à? Làm mạo hiểm giả như bọn mày thấy xấu hổ ghê."
 
-Tôi chỉ nói ra những gì tôi đang nghĩ, nhưng rốt cuộc tôi lại càng khiến họ tức giận hơn.
+Tôi chỉ nói suy nghĩ của mình thôi, nhưng lại càng khiến chúng tức điên lên.
 
-“Chết tiệt, con nhóc hỗn láo…!!”
+"Chết đi, thằng ranh láo lếu…!!"
 
-Bốn người đàn ông lại vung nắm đấm, không đánh trúng gì ngoài không khí.
+Bốn tên vung nắm đấm lần nữa, nhưng chỉ đập vào không khí.
 
-Sau khoảng 10 phút trao đổi như vậy, cuối cùng họ cũng bỏ cuộc.
+Sau khoảng 10 phút qua lại như vậy, cuối cùng chúng đành bỏ cuộc.
 
-“Haah…haah…tại sao chúng ta không thể…cào anh ta…? Bạn có thực sự…chỉ là một nhà thám hiểm…?”
+"Hổng…hổng…sao bọn tao…không chạm được vào hắn…? Hắn thật sự…chỉ là mạo hiểm giả…thôi sao…?"
 
-“Tôi đây, nhìn này.”
+"Đúng vậy, nhìn nè."
 
-Tôi lấy tấm thẻ trong túi ra đưa cho lãnh đạo.
+Tôi lấy tấm thẻ trong túi ra cho tên đầu lĩnh xem.
 
-"Cái gì…? Hạng B…?”
+"Cái…? Hạng B…?"
 
-“Tuy nhiên, tôi sẽ không ở đó lâu đâu.”
+"Tạm thời thôi."
 
-"Huh? Bạn làm gì…?”
+"Hả? Ý mày là…?"
 
-Người lãnh đạo tiếp tục, nhưng tôi kích hoạt Đe dọa và ngắt lời anh ta.
+Tên đầu lĩnh nói tiếp, nhưng tôi kích hoạt Áp Chế và cắt ngang hắn.
 
-“Liên quan gì tới anh? Lạc đường rồi. Bạn mang lại sự xấu hổ cho các nhà thám hiểm ở khắp mọi nơi.
+"Liên quan gì đến mày? Cút đi. Bọn mày làm mạo hiểm giả khắp nơi mất mặt."
 
-Bốn người đàn ông sau đó buộc đôi chân run rẩy của mình phải di chuyển và bỏ chạy.
+Bốn tên gắng gượng đôi chân run rẩy rồi bỏ chạy.
 
-Thậm chí còn không kịp nói bất cứ điều gì với tôi như họ đã làm…
+Thậm chí còn không buông với tôi câu nào…
 
-Tôi thở dài khi nhìn họ rời đi, rồi nghe thấy cô gái đội mũ trùm đầu thì thầm điều gì đó với giọng
-điệu khá bối rối.
+Tôi thở dài nhìn theo chúng, rồi nghe cô gái đội mũ trùm thì thầm với giọng khá bối rối.
 
-“Anh ta né tránh các đòn tấn công của chúng như không, và thậm chí còn khiến chúng bỏ chạy như thế…”
+"Anh ấy tránh đòn của họ dễ dàng quá, lại còn đuổi được họ chạy luôn…"
 
-Giọng điệu của cô ấy cũng chứa đựng sự ngạc nhiên và tôn trọng, nên thực sự thì nó khá dễ chịu khi
-nghe.
+Giọng cô cũng chứa đựng sự ngạc nhiên và ngưỡng mộ, nên nghe thật sự rất dễ chịu.
 
-“Bạn ổn chứ?”
+"Cô có sao không?"
 
-Cô gái đáp lại bằng cách cúi đầu.
+Cô gái cúi đầu đáp lại.
 
-“V-vâng, cảm ơn bạn rất nhiều vì đã giúp tôi. Nếu điều đó đồng ý với bạn, xin vui lòng để tôi tặng
-lại bạn thứ gì đó.”
+"V-vâng, cảm ơn anh rất nhiều vì đã giúp tôi. Nếu anh không phiền, xin hãy để tôi đền đáp ơn này."
 
-Hmm, thật lòng tôi muốn đi ăn thịt, nhưng…
+Hmm, tôi thật ra muốn đi ăn thịt, nhưng…
 
-Tôi nói với cô gái rằng tôi không cần đền đáp gì cả nhưng cô ấy nài nỉ quá nên tôi đồng ý đi cùng cô
-ấy một lát.
+Tôi nói với cô ấy rằng không cần đền đáp, nhưng cô gái nài nỉ quá, nên tôi đành đi theo cô một lúc.
 
-Theo sự dẫn dắt của cô gái, tôi bước vào một quán cà phê gần quảng trường.
+Theo chân cô gái, tôi vào một quán cà phê gần quảng trường.
 
-Nó chật cứng các cặp đôi…cảm giác khá khó xử…
+Toàn cặp đôi ở đây…ngồi thấy ngượng ghê…
 
-Tôi vừa nghĩ vừa nhìn xung quanh, rồi cô gái cởi mũ trùm đầu và giới thiệu bản thân.
+Tôi nghĩ vậy khi nhìn quanh, rồi cô gái bỏ mũ trùm đầu và tự giới thiệu.
 
-“Tên tôi là Finne, tôi là một nhà thám hiểm. Cảm ơn bạn rất nhiều vì đã giúp tôi ở đó.
+"Tôi tên Finne, là một mạo hiểm giả. Cảm ơn anh rất nhiều vì đã cứu tôi lúc nãy."
 
-Cô gái khẽ cúi đầu, và khi cô ấy ngẩng đầu lên lần nữa, tôi cảm thấy tim mình lỡ nhịp.
+Cô gái cúi đầu nhẹ, và khi ngẩng lên tôi cảm thấy tim mình như lỡ nhịp.
 
-Làn da trắng ngần gần như trong suốt, mái tóc bạc, đôi mắt trong veo tuyệt đẹp màu trời, những đường
-nét đáng yêu.
+Làn da trắng mịn gần như trong suốt, mái tóc bạc, đôi mắt trong veo màu trời, nét mặt xinh đẹp.
 
-“……..”
+"…….."
 
-“Ừm, có chuyện gì à?”
+"Ơ, có chuyện gì sao ạ?"
 
-Bị quyến rũ bởi vẻ đẹp của cô ấy, tôi không nói nên lời, nên Finne nhìn tôi với vẻ ngạc nhiên.
+Bị vẻ đẹp của cô hớp hồn nên tôi đứng hình, Finne nhìn tôi đầy băn khoăn.
 
-“À, không, không có gì, không có gì cả, thưa bà!”
+"À, không, không có gì, cô nương!"
 
-“M-thưa bà!?”
+"C-cô nương!?"
 
-“À, xin lỗi, quên nó đi.”
+"À, xin lỗi, quên đi."
 
-“Tôi-là vậy sao…”
+"V-vậy ạ…"
 
-Lạy Chúa, tôi chưa bao giờ thấy một cô gái nào xinh đẹp đến thế…
+Trời ơi, tôi chưa bao giờ thấy cô gái nào xinh đẹp đến vậy…
 
-Tôi vội vàng giới thiệu bản thân với Finne.
+Tôi vội vàng tự giới thiệu với Finne.
 
-“Tên tôi là Haruto, tôi là một nhà thám hiểm. Đừng lo lắng về những gì đã xảy ra ở quảng trường. Con
-gái gặp khó khăn thì giúp đỡ là điều đương nhiên phải không? Tôi rất vui vì có thể bảo vệ được một
-cô gái dễ thương như em.”
+"Tôi tên Haruto, là mạo hiểm giả. Đừng bận tâm về chuyện lúc ở quảng trường. Nếu một cô gái gặp nạn, việc giúp đỡ là đương nhiên thôi, phải không? Tôi mừng vì đã bảo vệ được một cô gái dễ thương như cô."
 
-“Nó có thực sự tự nhiên không? Hầu hết mọi người đều giả vờ như không để ý, tôi nghĩ…”
+"Chuyện đó thật sự là đương nhiên sao? Phần lớn mọi người đều giả vờ không thấy, tôi nghĩ vậy…"
 
-Khi tôi khen cô ấy là “dễ thương”, Finne hơi đỏ mặt và bắt đầu bồn chồn.
+Khi tôi gọi cô là "dễ thương", Finne đỏ mặt rồi bắt đầu bối rối.
 
-![Finne](Finne.jpg)
+![](https://web.archive.org/web/20250116062031im_/https://i0.wp.com/shintranslations.com/wp-content/uploads/2020/10/Finne.jpg?w=1009&ssl=1)
 
-Ôi…! Rất dễ thương…! Cô ấy là thiên thần hay sao vậy!?
+Ôi…! Dễ thương quá…! Cô ấy là thiên thần hay gì vậy!?
 
-“Vậy cô Finne, cô cũng là một nhà thám hiểm à? Tôi có thể hỏi bạn cấp bậc gì không?”
+"Vậy cô Finne, cô cũng là mạo hiểm giả à? Cho tôi hỏi cô hạng mấy?"
 
-“Hãy gọi tôi là Finne nhé. Cấp bậc của tôi là C…ngài Haruto, bạn nói rằng của bạn là…”
+"Cứ gọi tôi là Finne là được. Hạng của tôi là C…anh Haruto, anh nói hạng của anh là…"
 
-“Được rồi Finne, cũng không cần dùng ngài với tôi đâu. Thứ hạng của tôi là B, như tôi đã chỉ cho họ
-trước đó. Tuy nhiên, chỉ cho đến ngày hôm nay thôi.”
+"Được rồi Finne, không cần gọi tôi là anh đâu. Tôi hạng B, như tôi cho mấy người kia xem lúc nãy. Nhưng chỉ đến hôm nay thôi."
 
-“Tôi xin lỗi, thật xấu hổ khi không…để tôi gọi cậu là Haruto.”
+"Em xin lỗi, nếu không gọi anh Haruto thì em thấy áy náy quá…xin phép em gọi anh là anh Haruto."
 
-Finne mỉm cười khi nói điều này, sau đó cô ấy trông hơi bối rối.
+Finne mỉm cười khi nói câu đó, rồi hơi nghiêng đầu bối rối.
 
-“Tôi định hỏi, nhưng…ý bạn nói “chỉ cho đến ngày hôm nay” là sao?”
+"Em định hỏi, nhưng…anh nói 'chỉ đến hôm nay' là sao ạ?"
 
-"À cái đấy thì."
+"À, cái đó."
 
-Tôi nói với Finne rằng tôi sẽ nhận được thẻ hạng A vào ngày hôm sau.
+Tôi kể với Finne rằng ngày mai tôi sẽ đi nhận thẻ hạng A.
 
-"Hở!? Ngày mai bạn sẽ được thăng hạng A!?
+"Eh!? Anh sẽ được thăng lên hạng A vào ngày mai!?"
 
-Finne kinh ngạc không khỏi cao giọng, thế là thu hút sự chú ý của cả quán cà phê.
+Finne quá bất ngờ nên không nhịn được mà lên tiếng, lập tức thu hút sự chú ý của cả quán cà phê.
 
-“Finne, im lặng chút đi.”
+"Finne, nhỏ hơn thôi."
 
-Tôi nói với cô ấy trong khi đưa ngón trỏ lên trước miệng. Finne nhìn quanh một lúc rồi đỏ bừng đến
-tận mang tai và nhìn xuống.
+Tôi nói khi giơ ngón trỏ lên trước miệng. Finne nhìn quanh một chút, rồi đỏ bừng đến tận vành tai và cúi mặt xuống.
 
-Thật là một điều nhỏ bé dễ thương…!!
+Dễ thương quá đi…!!
 
-“Aa, x-xin lỗi…”
+"A-a, e-em xin lỗi…"
 
-"Đừng lo lắng."
+"Không sao."
 
-Vì chúng tôi đã quen nhau nên chúng tôi đã nói chuyện về nhiều thứ khác nhau.
+Sau khi làm quen nhau xong, chúng tôi nói chuyện đủ thứ.
 
-Cuối cùng, chúng tôi đã đạt được chủ đề về phép thuật mà chúng tôi có thể sử dụng.
+Đến lúc đề cập đến phép thuật mà mỗi người có thể sử dụng.
 
-“Tôi có thể sử dụng phép thuật nước và phép thuật băng.”
+"Em có thể dùng phép thuật nước và phép thuật băng."
 
-“Vậy là cậu có thể sử dụng hai nguyên tố, Finne. Điều đó khá tuyệt vời.”
+"Vậy Finne dùng được hai hệ nguyên tố. Giỏi ghê."
 
-Một nhà thám hiểm hạng C với hai nguyên tố ma thuật có thể tùy ý sử dụng sẽ có một tương lai tươi
-sáng phía trước.
+Một mạo hiểm giả hạng C có hai hệ phép thuật chắc chắn có tương lai rất sáng.
 
-"Ồ? Tuy nhiên, bạn có vẻ không ngạc nhiên lắm.”
+"Ơ? Nhưng anh không có vẻ ngạc nhiên lắm."
 
-“Thực ra thì hoàn cảnh của tôi cũng tương tự như vậy.”
+"À, tình cảnh tôi cũng tương tự thôi."
 
-"Tôi hiểu rồi! Tôi hiếm khi gặp những người sử dụng nhiều nguyên tố khác, vì vậy tôi cảm thấy có mối
-quan hệ thực sự với bạn!
+"Tôi hiểu rồi! Hiếm khi tôi gặp được người dùng nhiều hệ nguyên tố khác, nên tôi cảm thấy rất đồng cảm với anh!"
 
-Ồ, điều đó thật tuyệt vời.
+Ôi, nghe hay quá.
 
-Về khả năng sử dụng nhiều nguyên tố, danh hiệu “Bậc thầy nghệ thuật ma thuật” mà tôi rõ ràng đã được
-trao cho những người đạt được thành thạo tất cả chín nguyên tố – lửa, nước, gió, đất, sét, băng,
-bóng tối, ánh sáng, phục hồi – và nâng cao cấp độ kỹ năng của mỗi người lên 10…Tôi tự hỏi liệu có ai
-khác từng đạt được danh hiệu này không?
+Về việc sử dụng nhiều hệ nguyên tố, danh hiệu "Bậc Thầy Phép Thuật" mà tôi có được trao cho những ai làm chủ được cả chín hệ nguyên tố – hỏa, thủy, phong, thổ, lôi, băng, ám, quang, hồi phục – và nâng cấp kỹ năng của mỗi hệ lên cấp 10…tôi tự hỏi có ai khác từng đạt được danh hiệu này không?
 
 ~
 
 Sau khi nói chuyện thêm một lúc, cuối cùng chúng tôi chia tay.
 
-Để ngăn Finne bị quấy rối lần nữa, tôi đi cùng cô ấy đến quán trọ cô ấy đang ở, gần quảng trường
-trung tâm.
+Để Finne khỏi bị quấy rối lần nữa, tôi đưa cô đến tận nhà trọ gần quảng trường trung tâm.
 
-“Cảm ơn bạn rất nhiều vì ngày hôm nay. Tôi đã có rất nhiều niềm vui."
+"Cảm ơn anh rất nhiều vì hôm nay. Em đã vui lắm."
 
-“Ở đây cũng vậy, hẹn gặp lại.”
+"Tôi cũng vậy, hẹn gặp lại."
 
-“Ừ, hẹn gặp lại.”
+"Vâng, mong chúng ta sẽ gặp lại."
 
-Tôi bắt tay Finne và quay lại quảng trường trung tâm.
+Tôi bắt tay Finne rồi quay lại quảng trường trung tâm.
 
-Một lần nữa, tôi nhanh chóng tìm thấy Barnar và những người khác, vì vậy tôi kích hoạt Che giấu Hiện
-diện và Tàng hình rồi lẻn đến chỗ họ.
+Lần này tôi nhanh chóng tìm được Barnar và mấy người kia, nên kích hoạt Che Giấu Khí Tức và Ẩn Thân rồi lẻn đến gần họ.
 
-“Haruto chắc chắn đã đến muộn…đây là gian hàng thứ ba chúng ta ghé thăm sau khi chia tay…”
+"Haruto trễ ghê…đây là sạp thứ ba tụi mình ghé sau khi chia tay đó…"
 
-"Uh, đúng vậy."
+"Ừ, đúng ha."
 
-“…anh ấy sẽ bất ngờ xuất hiện như ngày hôm qua, phải không…”
+"…hắn sẽ xuất hiện bất ngờ như hôm qua đúng không…"
 
-Lời nói của Oorde khiến cả ba quay lại nhìn.
+Lời Oorde khiến cả ba quay đầu nhìn lại.
 
-Tuy nhiên, tôi vẫn vô hình.
+Nhưng tôi vẫn đang tàng hình.
 
-“Phew…Này Oorde, đừng dọa chúng tôi như vậy.”
+"Phù…ê Oorde, đừng hù mấy đứa tao."
 
-Sau khi Barnar nói, tất cả họ lại nhìn về phía trước - và thấy tôi đang ngồi đó.
+Sau khi Barnar nói, cả nhóm lại nhìn về phía trước — rồi thấy tôi đang ngồi đó.
 
-“Các cậu đang ăn gì sau khi bỏ rơi tôi lần nữa vậy, các chàng trai?”
+"Mấy người ăn gì sau khi bỏ rơi tôi vậy, mấy chú?"
 
-“GWAAAAHHHH!!!”
+"GWOAAAAAAAA!!!"
 
-Sự xuất hiện đột ngột của tôi cũng gây sốc không kém gì ngày hôm trước.
+Sự xuất hiện bất ngờ của tôi làm họ giật mình không kém gì hôm qua.
 
-“Wwww-cậu làm thế khi nào vậy!? C-chúng tôi chỉ đơn giản là đi khắp nơi để thu thập thông tin về
-những món ăn ngon để báo cáo cho bạn, chúng tôi hoàn toàn không thưởng thức các món đặc sản địa
-phương…không thưa ngài!”
+"Đ-đ-đ-đ-đ-từ lúc nào!? T-tụi tôi chỉ đi vòng quanh thu thập thông tin về đồ ăn ngon để báo cáo cho anh thôi, tuyệt đối không phải tự thưởng thức đặc sản địa phương một mình đâu…thưa anh!"
 
-“V-vâng, chính xác là như vậy! Quý ngài!"
+"V-vâng, đúng vậy! Thưa anh!"
 
-“Ch-chúng tôi đã tìm thấy đủ loại đồ ăn ngon! Quý ngài!"
+"T-tụi tôi tìm được đủ món ngon luôn! Thưa anh!"
 
-Thực sự bây giờ…?
+Thật vậy hả…?
 
-“Thực ra, có một điều tôi chưa nói với ba người…Tôi có khả năng nhìn thấu những lời nói dối.”
+"À, mà có một chuyện tôi chưa nói với ba người…tôi có khả năng nhìn thấu lời nói dối."
 
-Tất cả đều nhờ vào Mắt Thần.
+Tất cả là nhờ Thần Nhãn.
 
-Ngay khi tôi nói điều đó, ba nhà thám hiểm bắt đầu đổ mồ hôi đầm đìa.
+Vừa dứt lời, ba tên mạo hiểm giả lập tức đổ mồ hôi đầm đìa.
 
-Sau đó Barnar hỏi một câu hỏi thăm dò.
+Rồi Barnar hỏi thăm dò.
 
-“Tôi-điều đó có thực sự đúng không?”
+"A-ani có thật không vậy?"
 
-"Vâng, tất nhiên nó được."
+"Đúng vậy, tất nhiên là thật rồi."
 
-Tôi trả lời bằng một giọng hoàn toàn nghiêm túc và cả ba nhanh chóng phủ phục trên mặt đất. Sự phối
-hợp của họ thực sự ấn tượng.
+Tôi đáp với giọng cực kỳ nghiêm túc và cả ba lập tức nằm bẹp xuống đất. Sự phối hợp nhịp nhàng của họ thật đáng nể.
 
-“Chúng tôi vô cùng xin lỗi!!!”
+"Tụi tôi vô cùng có lỗi!!!"
 
-Họ ồn ào đến mức sự chú ý của những người xung quanh lại tập trung vào chúng tôi.
+Họ la quá to nên mọi người xung quanh lại đổ dồn ánh mắt về phía chúng tôi.
 
-Những người xung quanh chúng tôi có lẽ nghĩ rằng họ đang thì thầm, nhưng tôi có thể nghe thấy tất cả
-những gì họ nói…đợi đã, ai vừa gọi tôi là kẻ phá hoại?
+Mấy người xung quanh chắc nghĩ họ đang thì thầm, nhưng tôi nghe rõ từng câu…khoan, ai vừa gọi tôi là kẻ cướp vậy?
 
-“Haah…ngẩng đầu lên đi, mọi người đang nhìn đấy.”
+"Haiz…ngẩng đầu lên đi, mọi người đang nhìn kìa."
 
-Tôi thở dài và bảo Barnar và những người khác đứng dậy.
+Tôi thở dài bảo Barnar và mấy người kia đứng dậy.
 
-Cậu đang làm cho tôi trông giống như một nhân vật phản diện đây…
+Các người làm tôi trông như phản diện ở đây…
 
-Cả ba ngẩng đầu lên một chút, lén nhìn tôi. Tôi có thể nghe thấy một âm thanh yếu ớt "bạn sẽ tha thứ
-cho chúng tôi chứ...?"
+Ba tên ngẩng đầu lên một chút, liếc nhìn tôi. Tôi nghe thấy ai đó khẽ nói "anh tha cho tụi tôi…?"
 
-“Được, được, đi ăn thôi nào. Tất nhiên là các bạn đang trả tiền.”
+"Được rồi, được rồi, đi ăn đi. Mấy người trả tiền nhé, tất nhiên rồi."
 
-“…vậy ra đây là cách mọi chuyện kết thúc…”
+"…vậy là kết thúc như này sao…"
 
-"Một cách tự nhiên. Điều quan trọng là phải biết khi nào nên từ bỏ và chấp nhận thực tế.”
+"Đương nhiên. Biết lúc nào nên bỏ cuộc và chấp nhận thực tế là quan trọng."
 
-Vai của Barnar, Norkas và Oorde rũ xuống khi họ gật đầu.
+Vai Barnar, Norkas và Oorde chùng xuống, gật đầu.
 
-Tôi bỏ đi mà không đợi họ và họ vội vã đuổi theo tôi.
+Tôi đi trước không đợi họ, và họ vội vã theo sau.
 
-Sau đó chúng tôi ăn ở nhiều quán ăn khác nhau mà họ hướng dẫn tôi đến, ghé thăm một số địa điểm nổi
-tiếng ở địa phương và trước khi chúng tôi nhận ra thì mặt trời đã lặn.
+Sau đó tụi tôi ăn ở đủ sạp hàng mà họ dẫn đi, ghé thăm mấy địa danh nổi tiếng, và trước khi nhận ra thì trời đã tối.
 
-Sau khi tận hưởng thị trấn Vaana theo cách này, chúng tôi trở về chỗ ở của mình.
+Sau khi tận hưởng thị trấn Vaana theo cách đó, chúng tôi quay về chỗ ở.
 
-Tôi ăn tối cùng nhóm của Barnar, trò chuyện và đùa giỡn; trời đã khuya khi chúng tôi trở về phòng.
+Tôi ăn tối với nhóm Barnar, vừa nói vừa đùa; đến khi về phòng thì đã khuya.
 
-Tôi nằm xuống giường và bắt đầu nghĩ xem phải làm gì tiếp theo.
+Tôi nằm trên giường và bắt đầu nghĩ xem nên làm gì tiếp theo.
 
-“Ngày mai, sau khi nhận được thẻ hạng A, tôi có thể tiến tới vương quốc Perdis…Tôi cần nhiều sức
-mạnh hơn để trả thù đất nước này, hơn nữa các anh hùng có lẽ vẫn còn ở thủ đô. Vì vậy tôi đoán ngày
-mai sẽ là lời tạm biệt với Barnar và những người khác…mặc dù tôi có cảm giác như mình sẽ gặp lại họ
-và Bacchus ở đâu đó.”
+"Ngày mai, sau khi nhận thẻ hạng A, có lẽ mình sẽ hướng đến vương quốc Perdis…mình cần nhiều sức mạnh hơn nữa để trả thù quốc gia này, mà mấy anh hùng kia chắc vẫn ở thủ đô. Vậy là ngày mai sẽ chia tay Barnar và mấy người kia rồi…dù tôi có cảm giác sẽ gặp lại họ và Bacchus ở đâu đó."
 
-Sau khi suy nghĩ kỹ, tôi chợt nảy ra ý tưởng kiểm tra trạng thái của mình.
+Nghĩ xong, tôi bỗng nảy ra ý định kiểm tra trạng thái.
 
-Gần đây tôi đã không kiểm tra nó…
+Dạo này tôi chưa kiểm tra chút nào…
 
-|                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TÊN:             | Yuki Haruto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| MỨC ĐỘ:          | 120                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| TUỔI:            | 17                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| GIỐNG LOÀI:      | Con Người (Người Thế Giới Khác)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| KỸ NĂNG ĐỘC ĐÁO: | Tất cả sự sáng tạo<br>Mắt Thần<br>Tăng trưởng kỹ năng tối đa<br>Tăng cường trải nghiệm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| KỸ NĂNG:         | Võ hiệp nhất<br>Hợp nhất phép thuật<br>Hiểu ngôn ngữ<br>Suy nghĩ song song<br>Tư duy tăng tốc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| TIÊU ĐỀ:         | Con Người (Người Thế Giới Khác)<br>Người sử dụng kỹ năng độc nhất<br>Bậc thầy võ thuật<br>Bậc thầy của nghệ thuật ma thuật<br><Thống nhất võ thuật><br>Kiếm thuật<br>Thương thuật<br>Khiên thuật<br>Nghệ thuật cung tên<br>nghệ thuật rìu<br>Nghệ thuật tay không<br>Đất co lại<br>Phát hiện sự hiện diện<br>Đe dọa<br>cứng lại<br>Giữ lại<br>Tầm nhìn ban đêm<br>Gầm<br>Nhảy<br>Thúc giục<br>Nghệ thuật vẽ nhanh<br>Che giấu sự hiện diện<br><Hợp nhất ma thuật><br>Phép thuật lửa<br>Phép thuật nước<br>Phép thuật gió<br>Phép thuật đất<br>Phép thuật sét<br>Phép thuật băng<br>Phép thuật ánh sáng<br>Phép thuật bóng tối<br>Phép thuật phục hồi<br>Phép thuật thời gian-không gian<br>Không có thánh ca<br>Tăng cường thể chất<br>Ngụy trang<br>Bùa mê<br>Ý chí tinh thần<br>Thao túng sức mạnh ma thuật<br>đúc<br>Phép thuật kết giới<br>tàng hình |
+| **TÊN:** | **Yuki Haruto** |
+| --- | --- |
+| **CẤP:** | **120** |
+| **TUỔI:** | **17** |
+| **CHỦNG TỘC:** | **Con người (Dị giới)** |
+| **KỸ NĂNG ĐỘC NHẤT:** | **Sáng Thế**  **Thần Nhãn**  **Tăng Trưởng Kỹ Năng Tối Đa**  **Tăng Cường Kinh Nghiệm** |
+| **KỸ NĂNG:** | **Hợp Nhất Võ Thuật**  **Hợp Nhất Phép Thuật**  **Lĩnh Hội Ngôn Ngữ**  **Tư Duy Song Song**  **Tư Duy Tăng Tốc** |
+| **DANH HIỆU:** | **Con người (Dị giới)**  **Người Dùng Kỹ Năng Độc Nhất**  **Bậc Thầy Võ Thuật**  **Bậc Thầy Phép Thuật** |
+| **<Hợp Nhất Võ Thuật>** | **Kiếm Thuật**  **Thương Thuật**  **Khiên Thuật**  **Cung Thuật**  **Búa Thuật**  **Tay Không Thuật**  **Thu Ngắn Khoảng Cách**  **Phát Hiện Khí Tức**  **Áp Chế**  **Hóa Cứng**  **Kiềm Chế**  **Tầm Nhìn Đêm**  **Gầm Thét**  **Bật Nhảy**  **Tăng Tốc**  **Rút Kiếm Nhanh**  **Che Giấu Khí Tức** |
+| **<Hợp Nhất Phép Thuật>** | **Hỏa Phép**  **Thủy Phép**  **Phong Phép**  **Thổ Phép**  **Lôi Phép**  **Băng Phép**  **Quang Phép**  **Ám Phép**  **Hồi Phục Phép**  **Không Gian Thời Gian Phép**  **Không Niệm Chú**  **Tăng Cường Thể Chất**  **Cải Trang**  **Phù Phép**  **Cường Hóa Tinh Thần**  **Thao Túng Ma Lực**  **Tạo Hình**  **Hộ Thuật**  **Ẩn Thân** |
 
-Ôi, cấp độ của tôi đã tăng lên rất nhiều…nhưng chết tiệt, tôi không biết mình đã có nhiều kỹ năng
-đến vậy.
+Ồ, cấp độ của tôi tăng nhiều thật, nhưng trời ơi, tôi không biết mình đã có nhiều kỹ năng đến vậy.
 
-Tôi phải duy trì điều này để không thua các bạn cùng lớp “Anh hùng” của mình…
+Tôi phải tiếp tục cố gắng để không thua mấy bạn cùng lớp "Anh Hùng" của mình…
 
 ~
 
-Sáng hôm sau, tôi tự mình đến hội mạo hiểm giả để nhận thẻ hạng A mới của mình.
+Sáng hôm sau, tôi một mình đến hội mạo hiểm giả để nhận tấm thẻ hạng A mới.
 
-Tôi đề cập đến công việc kinh doanh của mình tại quầy tiếp tân và nhanh chóng được dẫn đến văn phòng
-hội trưởng.
+Tôi nói lý do tại quầy lễ tân và được nhanh chóng dẫn đến văn phòng hội trưởng.
 
-Ballard đã ngồi ở bàn làm việc trong văn phòng.
+Ballard đã ngồi sẵn ở bàn làm việc trong văn phòng.
 
-“Tôi đang đợi cậu, Haruto. Đây là tấm thẻ mới của bạn…như trước đây, hãy đổ vài giọt máu vào đây. Ồ,
-và để tôi lấy tấm thẻ cũ ra khỏi người bạn nhé.”
+"Tôi đã chờ cậu, Haruto. Đây là tấm thẻ mới…như lần trước, xin nhỏ vài giọt máu vào đây. À, để tôi thu hồi tấm thẻ cũ của cậu."
 
-Tấm thiệp Ballard đưa cho tôi có màu vàng sáng bóng. Thẻ hạng B có màu bạc nên tôi có cảm giác như
-mình bước lên khu vực sang trọng.
+Tấm thẻ Ballard đưa cho tôi có màu vàng sáng bóng. Tấm thẻ hạng B màu bạc, nên tôi cảm thấy mình đã bước lên một tầm cao mới về sự sang trọng.
 
-Tôi nhỏ vài giọt máu lên tấm thẻ, như tôi đã được bảo, để khóa quyền sở hữu của nó, sau đó đưa cho
-Ballard tấm thẻ cũ.
+Tôi nhỏ vài giọt máu lên thẻ theo lời dặn để khóa quyền sở hữu, rồi đưa Ballard tấm thẻ cũ.
 
-"Cảm ơn. Về khoản tiền trả cho hai con thú… đó là tám đồng vàng trắng. Đó là một số tiền quá lớn để
-có thể đưa nó bằng tiền mặt, vì vậy tôi đã gửi nó vào một tài khoản mà bạn có thể sử dụng ở bất kỳ
-bang hội nào trên khắp đất nước. Rút tiền từ nó bất cứ khi nào bạn cần.”
+"Cảm ơn cậu. Về phần thưởng cho hai con thú…là tám đồng vàng trắng. Số tiền này quá lớn để đưa trực tiếp bằng tiền mặt, nên tôi đã gửi vào một tài khoản mà cậu có thể sử dụng ở bất kỳ hội nào trên toàn lãnh thổ. Khi nào cần thì cứ rút ra dùng."
 
-Tiền vàng trắng là đơn vị cao cấp hơn tiền vàng lớn nên số tiền thanh toán là… tám triệu gould!?
+Đồng vàng trắng là đơn vị cao hơn đồng vàng lớn, vậy phần thưởng là… tám triệu gould!?
 
-“Ồ ồ ồ!? Không phải thế là quá nhiều sao!?”
+"Khoan khoan!? Nhiều vậy sao!?"
 
-“Ngược lại, nó không nhiều chút nào. Khoản thanh toán tiêu chuẩn sẽ nhiều hơn một đồng vàng đen.”
+"Trái lại, ít quá mới đúng. Theo tiêu chuẩn thì phải hơn một đồng vàng đen."
 
-“Chúng đáng giá rất nhiều tiền…?”
+"Chúng đáng giá nhiều tiền vậy…?"
 
-“Bạn thậm chí còn không biết giá trị của lớp thảm họa…?”
+"Cậu thậm chí không biết giá trị của cấp thảm họa sao…?"
 
 Ballard thở dài bất lực trước phản ứng của tôi, nhưng tôi nghĩ đó là điều không thể tránh khỏi.
 
-“Dù sao thì tôi cũng có thẻ và tiền nên tôi đi đây.”
+"Thôi, tôi có thẻ và tiền rồi, tôi đi đây."
 
-Tôi đã sẵn sàng rời văn phòng và lên đường, nhưng tôi đã bị chặn lại.
+Tôi định rời văn phòng lên đường, nhưng bị giữ lại.
 
-"Đợi một chút."
+"Đợi chút."
 
-"Nó là gì?"
+"Có chuyện gì?"
 
-“Anh có thể cho tôi biết bây giờ anh dự định làm gì không?”
+"Cậu có thể cho tôi biết cậu định làm gì tiếp theo không?"
 
-Tôi trả lời Ballard bằng cách nói rằng tôi dự định đi đến vương quốc Perdis, như tôi đã quyết định
-vào đêm hôm trước.
+Tôi trả lời Ballard rằng tôi dự định sang vương quốc Perdis, như đã quyết định đêm qua.
 
-"…Tôi hiểu rồi. Nhưng nếu cậu đến thủ đô hoàng gia của Perdis, tốt nhất cậu nên cẩn thận với hội ở
-đó.”
+"…Tôi hiểu. Nhưng nếu cậu đến thủ đô hoàng gia Perdis, tốt nhất hãy cẩn thận với hội ở đó."
 
-"Ý bạn là như thế nào?"
+"Ý ông là sao?"
 
-“Chà, cậu sẽ thấy khi đến đó.”
+"À, cậu sẽ biết khi đến đó."
 
-Tại sao bạn lại làm tôi lo lắng nếu bạn không nói cho tôi biết phải lo lắng về điều gì!?
+Sao ông cứ làm tôi lo lắng nếu không chịu nói phải lo lắng cái gì!?
 
-Tôi liếc nhìn Ballard một chút, nhưng anh ấy chỉ mỉm cười và giả vờ như không để ý.
+Tôi liếc Ballard một cái, nhưng ông chỉ cười rồi giả vờ không nhận ra.
 
-Tôi từ bỏ việc ép anh ta cung cấp thông tin và rời khỏi văn phòng, sau đó đi đến quầy tiếp tân để
-hỏi về bất kỳ yêu cầu hộ tống nào đến vương quốc Perdis.
+Tôi từ bỏ việc ép hỏi thêm và rời văn phòng, rồi đến quầy lễ tân để hỏi về các yêu cầu hộ tống đến vương quốc Perdis.
 
-“Xin vui lòng đợi một lát — vâng, một nhóm chuẩn bị khởi hành đến thủ đô hoàng gia Perdis vào buổi
-chiều đã yêu cầu một người hộ tống. Bạn sẽ làm gì?"
+"Xin đợi chút — vâng, có một đoàn dự định khởi hành đến thủ đô hoàng gia Perdis vào buổi chiều đã đăng ký yêu cầu hộ tống. Anh sẽ làm gì?"
 
-Khá đột ngột, nhưng nó có tác dụng tốt với tôi.
+Khá đột ngột, nhưng lại vừa khớp với tôi.
 
-"Tôi sẽ lấy nó."
+"Tôi nhận."
 
-Tôi đưa thẻ mạo hiểm giả của mình và nhân viên tiếp tân sẽ lo các thủ tục cần thiết.
+Tôi đưa thẻ mạo hiểm giả cho nhân viên và người đó xử lý các thủ tục cần thiết.
 
-“…bạn đây rồi, thủ tục đã hoàn tất. Từ đây đến vương quốc Perdis mất khoảng sáu ngày. Cầu mong vận
-may sẽ giúp bạn trong trận chiến.”
+"…đây rồi, thủ tục hoàn tất. Từ đây đến vương quốc Perdis mất khoảng sáu ngày. Chúc anh may mắn trong chiến đấu."
 
-Nhân viên lễ tân trả lại thẻ cho tôi với những lời như vậy, sau đó tôi rời khỏi hội.
+Nhân viên lễ tân trả lại thẻ cho tôi cùng lời chúc, rồi tôi rời hội.
+
+---
+
+[←Trước](https://web.archive.org/web/20250116062031//twem-vol-1-chapter-9/) | [Sau→](https://web.archive.org/web/20250116062031//twem-vol-1-chapter-11/)

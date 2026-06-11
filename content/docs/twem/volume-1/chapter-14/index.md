@@ -1,437 +1,410 @@
 ---
-title: Chương 14 – Hầu gái và công chúa
+title: "Chương 14 – Hầu gái và công chúa"
 weight: 14
 ---
 
 # Chương 14 – Hầu gái và công chúa
 
-Sáng hôm sau, tôi đang ăn sáng với Finne thì Ryan và nhóm của anh ấy đến gặp chúng tôi.
+Sáng hôm sau, tôi đang ăn sáng với Finne thì Ryan và nhóm anh ấy đến chỗ chúng tôi.
 
-“Chào buổi sáng, Haruto, Finne. Chúng tôi đã tìm thấy yêu cầu hộ tống đến Vaana, vì vậy hôm nay chúng tôi sẽ rời thị
-trấn…nhân tiện, hai người đã thành lập một nhóm phải không?”
+"Chào buổi sáng, Haruto, Finne. Tụi tôi tìm được yêu cầu hộ tống đến Vaana, nên hôm nay sẽ rời thị trấn…tiện thể, hai người lập đội rồi à?"
 
-“Ừ, chúng tôi mới đăng ký ngày hôm qua…cảm ơn vì đã đến chào tạm biệt, Ryan. Tôi rất vui vì có thể làm quen với các
-bạn.”
+"Ừ, chúng tôi mới đăng ký hôm qua…cảm ơn vì đã đến chào tạm biệt, Ryan. Tôi vui vì được làm quen với mọi người."
 
 Sau tôi, Finne cũng nói lời tạm biệt.
 
-“Ngài Ryan, ngài Nathan, quý bà Anita, quý bà Iraly. Cảm ơn bạn vì tất cả mọi thứ.
+"Anh Ryan, anh Nathan, chị Anita, chị Iraly. Cảm ơn mọi người vì tất cả."
 
-Finne sau đó cúi đầu chào họ, nhưng không hiểu sao Ryan và những người khác lại cười toe toét.
+Finne cúi đầu trước họ, nhưng không hiểu sao Ryan và những người khác lại cười toe toét.
 
-“Tôi hiểu rồi, tôi hiểu rồi...này Haruto! Dù sao thì Finne cũng là con gái, tốt nhất cậu nên đảm bảo an toàn cho cô ấy
-nhé!”
+"Hiểu rồi, hiểu rồi…ê Haruto! Finne vẫn là con gái, cậu nhớ giữ an toàn cho cô ấy nhé!"
 
-“Có chuyện gì với các cậu vậy? Dĩ nhiên tôi sẽ! Tốt nhất là bạn cũng nên sống sót!
+"Các anh sao vậy? Tất nhiên tôi sẽ làm! Mấy anh cũng giữ mình nhé!"
 
-Ryan và Nathan giơ nắm đấm về phía trước.
+Ryan và Nathan đấm tay về phía trước.
 
-“Chắc chắn rồi, chúng ta sẽ không chết sớm đâu! Gặp bạn sau!"
+"Chắc chắn rồi, tụi tôi sẽ không chết sớm đâu! Hẹn gặp lại, anh bạn!"
 
-“Ừ, không đời nào tôi sắp chết rồi! Mạnh mẽ lên!"
+"Ừ, tôi cũng không có ý định chết sớm! Cố lên!"
 
-"Bạn đã nói như thế!"
+"Nói đúng!"
 
-Vì vậy, chúng tôi nắm tay nhau và chia tay nhau.
+Thế là chúng tôi đấm tay rồi chia tay.
 
-Finne cũng nói lời tạm biệt cuối cùng với Anita và Iraly trong khi đỏ mặt dữ dội.
+Finne cũng nói lời tạm biệt cuối cùng với Anita và Iraly, trong khi đỏ bừng mặt.
 
-Chúng tôi nhìn đoàn người vui vẻ rời khỏi quán trọ rồi thảo luận về kế hoạch trong ngày.
+Chúng tôi nhìn nhóm vui vẻ rời khỏi nhà trọ, rồi bàn kế hoạch trong ngày.
 
-“Tôi đang nghĩ đến việc đi thăm những nơi mà tôi không thể thấy ngày hôm qua…còn bạn thì sao, Finne?”
+"Tôi định đi thăm những nơi hôm qua chưa xem…còn em, Finne?"
 
-“Chà, tôi đã nghĩ đến việc đến hội và xem liệu có bất kỳ yêu cầu nào chúng tôi có thể nhận hay không…thực ra tôi đã xem
-qua ngày hôm qua, nhưng cũng vì khoảng cách về cấp bậc của chúng tôi nên không có nhiều yêu cầu hay ho…”
+"Em thì định đến hội xem có yêu cầu nào mình nhận được không…thật ra em đã xem qua hôm qua, nhưng vì chênh lệch hạng giữa hai anh em, nên cũng không có nhiều yêu cầu tốt…"
 
-Finne hơi cúi đầu khi nói xong.
+Finne nhìn hơi xuống khi kết thúc câu.
 
-Hmm, tôi nên làm gì đây…?
+Hmm, mình nên làm gì đây…?
 
-“Được rồi, thế này nhé: chúng ta sẽ đi tham quan vào buổi sáng, sau đó kiểm tra lại hội vào buổi chiều. Bạn nghĩ sao?"
+"Được rồi, thế này nhé: sáng mình đi tham quan, chiều mình kiểm tra lại hội. Em thấy sao?"
 
-Finne mỉm cười và hết lòng chấp nhận lời đề nghị của tôi.
+Finne mỉm cười và hồ hởi chấp nhận đề nghị của tôi.
 
-Nhìn thấy nụ cười như vậy, sao tôi lại không thấy vui?
+Thấy nụ cười như vậy, làm sao tôi không vui theo được?
 
-Tôi nói chúng tôi nên ăn xong bữa sáng rồi đi - cũng như một cách để che giấu đôi má đỏ bừng của mình - và nuốt nốt phần
-thức ăn còn lại.
+Tôi nói rằng nên ăn nốt phần sáng rồi đi — cũng là để giấu đi má đang đỏ — rồi nuốt phần thức ăn còn lại.
 
 ~
 
 Sau khi rời nhà trọ, chúng tôi bắt đầu đi dạo quanh thị trấn.
 
-“Cái này trông ngon quá!”
+"Trông ngon quá!"
 
-“Vậy chúng ta hãy thử một chút nhé. Xin vui lòng cho chúng tôi hai món bạn đang nấu.”
+"Vậy thử đi. Cho tôi hai phần anh đang nấu."
 
-“Đây rồi. Tổng cộng là 200 Gould.”
+"Của anh đây. Tổng cộng 200 Gould."
 
-Tôi trả tiền và lấy hai xiên. Sau khi đi loanh quanh một chút, tôi nhận thấy có hai sự hiện diện đang theo sau chúng
-tôi.
+Tôi trả tiền và lấy hai xiên. Đi dạo thêm một chút, tôi nhận ra có hai luồng khí tức đang theo dõi chúng tôi.
 
-Ừm? Chuyện gì đang xảy ra ở đây vậy? …Tôi nghĩ mình có thể thử dụ họ ra ngoài?
+Hmm? Có chuyện gì ở đây? …Hay là thử dẫn chúng ra?
 
-Tôi thì thầm với Finne về những vị khách không mời mà đến.
+Tôi thì thầm với Finne về những vị khách không mời.
 
-“Finne, có vẻ như có ai đó đang theo dõi chúng ta.”
+"Finne, hình như có ai đang theo mình."
 
-"Hở!? C-có thể là ai vậy?”
+"Eh!? A-ai vậy?"
 
-“Im lặng đi, họ sẽ phát hiện ra nếu chúng ta hành động kỳ lạ.”
+"Im lặng thôi, nếu mình kỳ quặc chúng sẽ biết mình biết."
 
-“N-nhưng…”
+"N-nhưng…"
 
-“Không sao đâu, tôi có một ý tưởng…đi với tôi.”
+"Không sao, anh có ý này…đi theo anh."
 
-Sau đó chúng tôi rẽ vào một góc của một con hẻm nhỏ hơn, đảm bảo rằng chúng tôi sẽ được nhìn thấy rõ ràng khi làm như
-vậy. Tôi bảo Finne ẩn nấp rồi kích hoạt Che giấu Hiện diện.
+Chúng tôi rẽ vào một con hẻm nhỏ, cố tình để chúng thấy rõ. Tôi bảo Finne ẩn nấp, rồi kích hoạt Che Giấu Khí Tức.
 
-“Tôi chắc chắn họ đã đến đây…? Họ đã đi đâu!?"
+"Chắc chắn chúng đã vào đây…? Chúng biến đi đâu rồi!?"
 
-Hai người đội mũ trùm đầu đi vào con hẻm và bắt đầu tìm kiếm chúng tôi. Tôi nhân cơ hội lẻn ra phía sau họ.
+Hai người đội mũ trùm đi vào hẻm và bắt đầu tìm kiếm. Tôi nhân cơ hội lẻn ra phía sau họ.
 
-"Tôi có thể giúp gì cho bạn?"
+"Tôi giúp được gì?"
 
-“Aaa!!”
+"Aaah!!"
 
-Hai nhân vật bí ẩn phát ra giọng nói tương đối dễ thương khi họ ôm nhau.
+Hai nhân vật bí ẩn hét lên tiếng khá dễ thương khi ôm chặt lấy nhau.
 
-Tôi hỏi một câu hỏi khác, luôn cảnh giác về bất cứ điều gì họ có thể làm.
+Tôi hỏi thêm câu khác, đề phòng bất cứ điều gì họ có thể làm.
 
-“Tại sao bạn lại theo dõi chúng tôi?”
+"Sao các người lại theo dõi chúng tôi?"
 
-“Tôi đang tìm ngài, thưa ngài Haruto!”
+"Tôi đang tìm anh, anh Haruto!"
 
-Một trong hai nhân vật trùm đầu tiết lộ mình là Asha, cô gái tôi gặp ngày hôm trước.
+Một trong hai người đội mũ trùm lộ diện là Asha, cô gái tôi gặp hôm qua.
 
-“….Asha? Bạn đang làm gì thế?"
+"….Asha? Em đang làm gì vậy?"
 
-“Tôi đã nói với bạn là tôi sẽ đến thăm bạn cùng với chủ nhân của tôi phải không? Tôi đã chờ đợi thời điểm thích hợp,
-nhưng…tôi xin lỗi vì đã làm phiền bạn.”
+"Em đã nói là em sẽ đến thăm anh cùng chủ nhân của em mà, phải không? Em đã đợi đúng thời điểm, nhưng…em xin lỗi vì làm phiền anh."
 
-“Tôi hiểu rồi, xin lỗi vì đã làm bạn ngạc nhiên…đợi đã, chủ nhân của bạn?”
+"Em hiểu rồi, xin lỗi vì đã làm em giật mình…khoan, chủ nhân của em?"
 
-"Vâng chủ tôi."
+"Vâng, chủ nhân của em."
 
-Người còn lại cùng với Asha bỏ mũ trùm đầu ra, lộ rõ ​​khuôn mặt.
+Người còn lại đi cùng Asha bỏ mũ trùm đầu, để lộ khuôn mặt.
 
-Cô ấy trông khoảng 13, 14 tuổi, cao khoảng 150 cm, với làn da trắng như ngọc. Mái tóc vàng dài ngang lưng được buộc
-thành hai bím, đôi mắt đỏ rực như hồng ngọc.
+Cô trông 13 hoặc 14 tuổi, cao khoảng 150 cm, với làn da trắng ngọc. Mái tóc vàng dài chấm eo buộc thành hai bím, đôi mắt đỏ rực như hồng ngọc.
 
-![PrincessAndTheMaid](PrincessAndTheMaid.jpg)
+![](https://web.archive.org/web/20241207052815im_/https://i0.wp.com/shintranslations.com/wp-content/uploads/2020/11/PrincessAndTheMaid.jpg?w=1009&ssl=1)
 
-Vậy ra đây chính là ý người ta khi nói con gái xinh như búp bê.
+Vậy đây là điều người ta muốn nói khi nói một cô gái đẹp như búp bê.
 
-Sau đó cô gái trẻ tự giới thiệu. Cô ấy tràn đầy năng lượng nhưng cũng có một đẳng cấp nào đó ở cô ấy.
+Cô gái trẻ rồi tự giới thiệu. Cô đầy năng lượng nhưng cũng có chút phong thái quý tộc.
 
-“Xin hãy để tôi cảm ơn vì đã giúp đỡ người hầu của tôi…không, bạn của tôi. Tôi là công chúa đầu tiên của vương quốc này,
-Iris Arclaidh Perdis! Tôi hiện đang ẩn danh, vì vậy hãy xưng hô với tôi một cách bình thường!”
+"Xin hãy để em cảm ơn anh vì đã giúp đỡ người hầu của em…không, người bạn của em. Em là công chúa đầu tiên của vương quốc này, Iris Arclaidh Perdis! Hiện em đang bí mật ra ngoài, nên hãy xưng hô bình thường với em nhé!"
 
-“Xin hãy giữ giọng nói nhỏ lại, Công chúa.”
+"Xin công chúa hạ giọng một chút."
 
-“Ôi, tôi xin lỗi!”
+"Ôi, em xin lỗi!"
 
-Iris giới thiệu bản thân một cách khá hoành tráng, sau đó Asha khuyên cô nên cẩn thận.
+Iris giới thiệu mình khá hoành tráng, rồi Asha thúc giục cô cẩn thận.
 
-Tôi nhận ra mình chưa tự giới thiệu nên đành làm theo.
+Tôi nhận ra mình chưa tự giới thiệu, nên đã làm.
 
-“Tên tôi là Haruto, tôi là một nhà thám hiểm…có thể nói bạn là đại công chúa một cách thản nhiên như vậy được không?”
+"Tôi tên Haruto, là mạo hiểm giả…nói mình là công chúa đầu tiên thoải mái vậy có ổn không?"
 
-“Tuy nhiên, bạn dường như không hề lo lắng chút nào khi đối mặt với công chúa đầu tiên của một vương quốc? Bạn đã cứu
-bạn tôi, tôi cảm ơn bạn là điều đương nhiên…Hơn nữa, Asha nói rằng bạn từ chối bất kỳ phần thưởng nào, điều đó có đúng
-không? Tôi có thể đề nghị cho anh một số tiền hoặc quyền lực đáng kể.”
+"Hình như anh không hề bối rối khi đối mặt với công chúa đầu tiên của vương quốc nhỉ? Anh đã cứu bạn của em, việc em cảm ơn là đương nhiên thôi….hơn nữa, Asha nói anh đã từ chối mọi phần thưởng, có đúng không? Em có thể cho anh một khoản tiền đáng kể hoặc quyền lực."
 
-Sau đó Iris nghiêng đầu sang một bên và nhìn tôi tò mò.
+Iris nghiêng đầu và nhìn tôi đầy tò mò.
 
-Hmm, tôi đã có đủ tiền trong tài khoản bang hội và tôi thực sự không cần bất kỳ quyền hạn nào…
+Hmm, tôi đã có đủ tiền trong tài khoản hội, và tôi thật sự không cần quyền lực…
 
-“Bạn là người ẩn danh, vì vậy tôi nên đối xử bình thường với bạn, phải không? Tôi thực sự không cần tiền hay quyền lực
-gì cả.”
+"Cô đang bí mật ra ngoài mà, nên tôi nên đối xử với cô bình thường đúng không? Tôi không cần tiền hay quyền lực, thật sự."
 
-“Thật là một người dũng cảm…và cũng hào phóng nữa. Bất cứ khi nào mọi người biết tôi là công chúa, họ sẽ làm mọi cách để
-nhận được sự sủng ái của tôi, bạn biết không?
+"Anh thật can đảm…và còn hào phóng nữa. Mỗi khi mọi người biết em là công chúa, họ làm mọi cách để lấy lòng em, biết không?"
 
-Vì lý do nào đó, Iris trông rất hài lòng với chính mình. Asha sau đó đưa ra một đề xuất.
+Không hiểu sao, Iris trông rất hài lòng. Rồi Asha đưa ra đề nghị.
 
-“Chỉ đứng nói chuyện thì không được, chúng ta uống một tách trà nhé? Nhân tiện…ngài Haruto, chuyện gì đã xảy ra với bạn
-đồng hành của ngài vậy?”
+"Đứng nói chuyện thế này thì không hay, dùng một tách trà nhé? À mà…anh Haruto, người đồng hành của anh đâu rồi?"
 
-“Ồ đúng rồi…Finne, an toàn rồi, cô có thể ra ngoài.”
+"À ừ…Finne, an toàn rồi, em ra đi."
 
-Tôi gọi cho Finne để giới thiệu cô ấy với hai người còn lại.
+Tôi gọi Finne, để giới thiệu cô với hai người kia.
 
-“Ồ-được rồi.”
+"V-vâng."
 
-Finne bước ra khỏi nơi ẩn nấp và lo lắng giới thiệu bản thân.
+Finne bước ra khỏi nơi ẩn nấp và giới thiệu mình một cách rụt rè.
 
-“T-tên tôi là Finne, tôi cũng là một nhà thám hiểm…Ngài Haruto và tôi cùng ở trong một nhóm.”
+"T-tên em là Finne, em cũng là mạo hiểm giả…Anh Haruto và em đang lập đội cùng nhau."
 
-“Vậy à, rất vui được gặp cậu. Bạn cũng có thể xưng hô với tôi một cách tự nhiên, Finne! Ồ vâng, một trong những quán cà
-phê tôi thường lui tới nằm ở gần đây. Hãy để chúng tôi đi.
+"Vậy sao, rất vui được gặp em. Em cũng có thể xưng hô bình thường với chị nhé, Finne! À đúng rồi, có một quán cà phê chị hay ghé gần đây. Mình đến đó nhé."
 
-Một công chúa “thường xuyên lui tới” một quán cà phê quanh đây?…ồ, sao cũng được.
+Một công chúa "hay ghé" một quán cà phê ở gần đây?…thôi kệ, đại khái vậy.
 
-Vì vậy, chúng tôi đi đến quán cà phê và ngồi xuống một chiếc bàn ở phía sau, khuất tầm nhìn một phần.
+Vậy là chúng tôi đến quán cà phê và ngồi xuống một bàn phía sau, phần nào khuất tầm nhìn.
 
-Iris sau đó bảo người chủ quán cà phê mang cho cô ấy “thứ thường lệ”.
+Iris rồi bảo chủ quán mang cho cô "món thường ngày".
 
 Finne và tôi đều bối rối, nhưng Iris cười toe toét.
 
-“Nước ép trái cây ở đây thực sự rất ngon. Hãy để tôi cũng tặng nó cho bạn.”
+"Nước ép trái cây ở đây thật sự rất ngon. Để em mời hai người luôn."
 
-Tôi hiểu rồi, đó là điều tôi có thể chấp nhận được.
+Tôi hiểu rồi, vậy cái này tôi nhận được.
 
-Người chủ nhanh chóng mang kính cho chúng tôi.
+Chủ quán nhanh chóng mang cốc đến.
 
-“Nước trái cây của cô, thưa cô.”
+"Nước ép trái cây của quý cô đây."
 
 "Cảm ơn."
 
-Iris cảm ơn người chủ quán, người đã đặt một chiếc ly trước mặt mỗi chúng tôi.
+Iris cảm ơn chủ quán, người đặt một cốc trước mặt mỗi người chúng tôi.
 
-“Xin mời, uống đi.”
+"Mời hai người dùng."
 
-Iris khuyến khích chúng tôi uống rượu một cách nhấn mạnh.
+Iris nhiệt tình mời chúng tôi uống.
 
-Nước ép trái cây nhìn và có mùi rất giống nước cam…
+Nước ép trái cây trông và có mùi rất giống nước cam…
 
-Nhấp một ngụm mới thấy nước ép không chỉ có vị chua ngọt của cam quýt mà còn có vị ngọt gợi nhớ đến táo và vị chát của
-nho, tất cả đều cân bằng hoàn hảo. Nó không quá ngọt nên hương vị không bao giờ gây nhàm chán.
+Một ngụm tiết lộ rằng nước ép không chỉ có vị chua ngọt của cam, mà còn có vị ngọt gợi nhớ đến táo và vị chát của nho, tất cả hài hòa hoàn hảo. Nó không quá ngọt, nên hương vị không bao giờ trở nên nhạt.
 
-"Khá tốt."
+"Khá lắm."
 
-“Đúng vậy, vị ngọt này đơn giản là hoàn hảo…”
+"Vâng, vị ngọt này thật sự hoàn hảo…"
 
-Cả Finne và tôi đều khen nước trái cây nên Iris nhìn chúng tôi đầy tự hào, rồi tự mình thưởng thức nước trái cây.
+Cả Finne và tôi khen nước ép, Iris nhìn chúng tôi đầy tự hào, rồi tự thưởng thức.
 
-Sau đó cô ấy yêu cầu chúng tôi kể về cuộc phiêu lưu của mình nên chúng tôi đã làm theo.
+Cô rồi yêu cầu chúng tôi kể về những cuộc phiêu lưu, nên chúng tôi chiều cô.
 
-Nhìn Iris đang tận hưởng việc nghe chúng tôi nói chuyện, tôi cũng cảm thấy muốn mỉm cười.
+Nhìn Iris say mê lắng nghe chúng tôi kể, tôi cũng cảm thấy muốn mỉm cười theo.
 
-Tôi đoán cảm giác có em gái là như thế này…?
+Đoán đây là cảm giác có em gái nhỉ…?
 
-Nhưng tôi không muốn bị nhìn thấy đang mỉm cười như thế này khi nhìn cô ấy…nên tôi đang nghĩ vậy, giọng nói robot quen
-thuộc vang lên trong đầu tôi.
+Nhưng tôi không muốn bị thấy mình cười như vậy khi nhìn cô…đang nghĩ vậy thì giọng máy móc quen thuộc vang lên trong đầu.
 
-<<Nhận được Kỹ năng “Mặt Poker”. Kỹ năng được thêm vào Hợp Nhất Võ.>>
+<<Kỹ năng "Mặt Không Đổi Sắc" đã đạt được. Kỹ năng được thêm vào Hợp Nhất Võ Thuật.>>
 
-Ồ, kỹ năng mới này sẽ hữu ích trong nhiều tình huống khác nhau…và việc căn thời gian cũng rất hoàn hảo!
+Ồ, kỹ năng mới này sẽ hữu ích trong nhiều tình huống…và thời điểm cũng hoàn hảo luôn!
 
-— và vì vậy, sau khi đến thành phố này, chúng tôi đã cùng nhau thành lập một nhóm.”
+"— và thế là, sau khi đến thành phố này, chúng tôi đã lập đội cùng nhau."
 
-“Tôi hiểu rồi… bạn sẽ ở lại đất nước này bao lâu?”
+"Em hiểu…hai người sẽ ở lại đất nước này bao lâu?"
 
-Iris trông hơi cô đơn.
+Iris nhìn hơi buồn.
 
-“Chà, tôi đang nghĩ đến khoảng một tuần, nhưng chúng tôi không vội đi đâu cả, nên có thể chúng tôi sẽ ở lại lâu hơn.”
+"À, em định khoảng một tuần, nhưng chúng tôi không vội đi đâu, nên có thể ở lâu hơn."
 
-Iris mỉm cười: sự nhẹ nhõm hiện rõ trên khuôn mặt cô ấy.
+Iris mỉm cười: sự nhẹ nhõm hiện rõ trên khuôn mặt cô.
 
-“Sao trông cậu vui vẻ thế?”
+"Sao chị lại vui thế?"
 
-“Câu chuyện của bạn chứa đựng rất nhiều điều mà tôi chưa từng nghe tới nên thực sự rất thú vị. Nếu bạn ở lại đây lâu hơn
-một chút, chúng ta cũng có thể gặp lại nhau. Những người khác luôn cố gắng xoa dịu tôi và tôi ghét điều đó…”
+"Câu chuyện của hai người chứa nhiều thứ em chưa từng nghe, nên thật sự rất thú vị. Nếu hai người ở lại đây thêm chút nữa, có lẽ chúng ta sẽ gặp lại. Người khác luôn cố nịnh em, và em ghét điều đó…"
 
-“Tôi hiểu rồi…chà, chúng ta có thể nói chuyện lại bất cứ lúc nào nếu bạn muốn.”
+"Em hiểu rồi…vậy nếu chị muốn, mình có thể nói chuyện bất cứ lúc nào."
 
-"Thật sự!?"
+"Thật sao!?"
 
-Nụ cười của Iris quý giá như một bông hoa nở rộ.
+Nụ cười của Iris quý giá như đóa hoa đang nở rộ.
 
-“Ừ, khi chúng ta có thời gian.”
+"Ừ, khi mình rảnh."
 
 "Cảm ơn!!"
 
-Iris có vẻ thực sự vui mừng khôn xiết.
+Iris có vẻ thật sự vui mừng.
 
-Tôi cảm thấy tim mình lỡ nhịp và môi tôi cong lên thành một nụ cười, nhưng Poker Face đã để tôi che giấu tất cả.
+Tôi cảm thấy tim mình lỡ nhịp và khóe môi cong lên, nhưng Mặt Không Đổi Sắc giúp tôi giấu hết.
 
-Tôi chỉ nở một nụ cười trông rất tự nhiên.
+Tôi chỉ để lộ một nụ cười tự nhiên.
 
-Asha và Finne tham gia và chúng tôi tiếp tục trò chuyện một lúc rồi nhận thấy bên ngoài trời đang tối dần.
+Asha và Finne cũng tham gia và chúng tôi tiếp tục trò chuyện thêm một lúc, rồi nhận ra bên ngoài bắt đầu tối.
 
-Đã đến lúc phải quay về nên tôi nói với Asha và Iris rằng chúng tôi sẽ đi cùng họ đến lâu đài.
+Đã đến lúc về, nên tôi nói với Asha và Iris rằng chúng tôi sẽ đưa họ về lâu đài.
 
-Tuy nhiên cả hai đều lắc đầu.
+Tuy nhiên, cả hai đều lắc đầu.
 
-“Không sao đâu, thưa ngài Haruto, thị trấn này khá an toàn.”
+"Không sao đâu anh Haruto, thị trấn này khá an toàn."
 
-“Có thể là vậy, nhưng cả hai đều rất dễ thương, nên có thể thu hút sự chú ý không mong muốn… như chuyện đã xảy ra với
-Asha mới hôm qua.”
+"Chắc vậy, nhưng hai người đều rất dễ thương, nên có thể thu hút sự chú ý không mong muốn… như chuyện xảy ra với Asha hôm qua."
 
-Asha có lẽ đã nhớ lại sự việc ngày hôm trước và thở dài đau đớn.
+Asha chắc nhớ lại sự kiện hôm qua và thở dài đau khổ.
 
-“Đ-đó là…bạn nói đúng. Vậy xin hãy đi cùng chúng tôi.”
+"T-t-thế…anh nói đúng. Xin hãy đi cùng chúng em."
 
 ~
 
-Vì thế chúng tôi bắt đầu đi về phía lâu đài hoàng gia. Asha và Iris đội mũ trùm đầu, nhưng có lẽ họ đã nhớ lại rằng tôi
-đã khen họ dễ thương. Tôi nhận thấy họ đỏ mặt suốt chặng đường quay trở lại lâu đài.
+Thế là chúng tôi bắt đầu đi về phía lâu đài hoàng gia. Asha và Iris đội mũ trùm, nhưng có lẽ họ nhớ rằng tôi khen họ dễ thương. Tôi nhận thấy họ đỏ mặt suốt đường về lâu đài.
 
-Tôi đang nghĩ họ trông còn dễ thương hơn khi đỏ mặt, rồi đột nhiên nhận ra xung quanh chúng tôi không có ai khác: xung
-quanh yên tĩnh đến lạ thường.
+Tôi đang nghĩ họ trông còn dễ thương hơn khi đỏ mặt, thì đột nhiên nhận ra không còn ai xung quanh: khu vực trở nên im ắng đến rợn người.
 
-Sau đó, Phát hiện Hiện diện của tôi đã phát hiện ra điều gì đó: 10 người đàn ông có vũ trang xuất hiện từ một con hẻm
-phía sau.
+Phát Hiện Khí Tức lập tức nhận ra: 10 người đàn ông vũ trang xuất hiện từ một con hẻm phía sau.
 
-Người đứng gần chúng tôi nhất, có lẽ là trưởng nhóm, nói trong khi nhìn chằm chằm vào chúng tôi.
+Người gần chúng tôi nhất, chắc là thủ lĩnh nhóm, nói trong khi nhìn chằm chằm vào chúng tôi.
 
-“…cô là Công chúa Iris phải không? Tôi rất buồn khi phải thông báo rằng cuộc đời của bạn đã kết thúc vào ngày hôm nay.”
+"…người là công chúa Iris, đúng không? Tôi lấy làm tiếc phải nói hôm nay mạng cô kết thúc ở đây."
 
-Linh cảm tồi tệ của tôi hóa ra lại là sự thật: họ là những sát thủ đang nhắm vào mạng sống của Iris. Thật tốt là tôi đã
-đề nghị đi cùng họ…
+Cảm giác xấu của tôi hóa ra đúng: chúng là sát thủ nhắm vào mạng sống của Iris. Tốt mình đã đề nghị đưa họ đi…
 
-Những suy nghĩ như vậy đang chạy trong đầu tôi khi Asha bước tới và hét lên.
+Những suy nghĩ đó đang chạy trong đầu thì Asha bước lên phía trước và hét lên.
 
-“Anh nghĩ mình có thể thoát khỏi chuyện như thế này sao!? Lính canh sẽ đến đây bất cứ lúc nào!!”
+"Các người nghĩ có thể làm chuyện như thế này rồi thoát sao!? Cận vệ sẽ đến bất cứ lúc nào!!"
 
-Tuy nhiên, tên cầm đầu không hề nao núng một inch mà mỉm cười đầy đe dọa.
+Tuy nhiên, thủ lĩnh không hề nao núng, nở nụ cười đe dọa.
 
-“Hahaha…không có lính canh nào đến đâu, thưa cô. Khu vực này đã bị phong tỏa…bạn không thể thấy ai khác ngoài chúng tôi
-quanh đây phải không? Đó là bằng chứng.”
+"Hahaha…không có cận vệ nào đến đâu, cô nhóc. Khu vực đã bị phong tỏa…cô không thấy quanh đây chẳng có ai ngoài bọn tôi sao? Đó là bằng chứng."
 
-“K-Không thể nào…”
+"K-không thể nào…"
 
-Asha nhận ra điều đó và quỳ xuống, run rẩy.
+Asha nhận ra và quỳ xuống, run rẩy.
 
-“Đừng nghĩ đến việc kháng cự…cuộc sống của bạn là của chúng tôi.”
+"Đừng nghĩ đến chuyện chống cự…mạng sống các người là của bọn tao."
 
-Sau khi người lãnh đạo nói xong, Iris cởi bỏ mũ trùm đầu.
+Sau khi thủ lĩnh nói xong, Iris bỏ mũ trùm đầu.
 
-“Tôi là công chúa đầu tiên của vương quốc này, Iris Arclaidh Perdis. Đừng động tay vào họ!”
+"T-tôi là công chúa đầu tiên của vương quốc này, Iris Arclaidh Perdis. Đừng động vào họ!"
 
-Lời nói của cô đầy tự hào nhưng chân cô lại run rẩy.
+Lời cô đầy tự hào, nhưng đôi chân cô đang run rẩy.
 
-“Hmm…tệ quá, nhưng chúng ta không thể có được thứ đó. Tất cả các nhân chứng phải bị loại bỏ… hãy làm đi, các bạn.”
+"Hmm…tiếc thật, nhưng chúng tôi không thể để vậy. Tất cả nhân chứng phải bị loại bỏ…làm đi, mấy người."
 
-"KHÔNG….!"
+"Không….!"
 
-Theo lệnh của người cầm đầu, chín người còn lại bắn tên vào chúng tôi cùng một lúc.
+Theo lệnh thủ lĩnh, chín tên còn lại bắn tên vào chúng tôi, đồng thời một lúc.
 
-Đầu mũi tên được phủ một thứ gì đó…có lẽ là một loại chất độc chết người.
+Đầu mũi tên phủ một thứ gì đó…chắc là loại chất độc chết người.
 
-Chậc, các cậu có gan mà phớt lờ tôi như thế.
+Tch, tụi mày gan to, dám bỏ qua tao vậy.
 
-Vì vậy, tôi thì thầm với chính mình khi kích hoạt phép thuật kết giới của mình.
+Tôi thì thầm với bản thân khi kích hoạt hộ thuật.
 
-Rào chắn được tạo ra ngay lập tức và đẩy lùi những mũi tên, khiến chúng rơi xuống đất.
+Bức hộ thuật tạo ra ngay lập tức và đẩy mũi tên ra, rơi xuống đất.
 
-“Anh thực sự nghĩ rằng chúng tôi sẽ đứng nhìn và để anh giết chúng tôi à?”
+"Các người thật sự nghĩ chúng ta sẽ đứng yên để mặc các người giết mình?"
 
 "Cái gì!?"
 
-Những người đàn ông phản ứng sốc sau khi nhìn thấy những mũi tên dường như không bị chặn lại.
+Những tên sát thủ sốc khi thấy mũi tên bị chặn bởi thứ gì đó không thể nhìn thấy.
 
-Khoảnh khắc tiếp theo, Iris hét lên tuyệt vọng.
+Khoảnh khắc tiếp theo, Iris thét lên tuyệt vọng.
 
-“Haruto, Finne, chạy đi!! Hiện nay!!"
+"Haruto, Finne, chạy đi!! Ngay!!"
 
-"Hở? Tôi không muốn.”
+"Eh? Tôi không muốn."
 
-Sự từ chối ngay lập tức của tôi khiến Iris choáng váng.
+Lời từ chối ngay lập tức của tôi khiến Iris sững sờ.
 
-"…Hở? Tại sao không!?"
+"…eh? Sao vậy!?"
 
-"Chết tiệt!! Hãy xử lý người đàn ông đó trước đã!!”
+"Chết tiệt!! Xử lý thằng đó trước!!"
 
-Các sát thủ bắn mũi tên lần nữa, nhưng kết giới đã chặn họ như trước.
+Lũ sát thủ bắn tên lần nữa, nhưng bức hộ thuật chặn như trước.
 
-Lờ đi sự ồn ào bên ngoài rào chắn, tôi mỉm cười với Iris.
+Phớt lờ sự hỗn loạn bên ngoài bức hộ thuật, tôi mỉm cười với Iris.
 
-“Chúng ta là bạn bè phải không? Lần sau chúng ta hãy trò chuyện lại ở quán cà phê đó nhé.”
+"Mình là bạn mà, đúng không? Lần sau mình lại nói chuyện ở quán cà phê nhé."
 
-“Lý do đó…làm ơn, chạy đi—”
+"Lý do kiểu đó…xin hãy, chạy—"
 
-"Bình tĩnh, bình tĩnh. Finne, tôi nghĩ chúng ta sẽ ổn thôi, nhưng hãy trông chừng họ để đề phòng nhé. Đừng đi ra khỏi
-rào chắn.”
+"Bình tĩnh, bình tĩnh. Finne, anh nghĩ sẽ ổn thôi, nhưng em trông chừng họ phòng khi cần. Đừng ra khỏi bức hộ thuật."
 
-"Hiểu."
+"Vâng."
 
-Finne gật đầu và Iris chăm chú nhìn tôi, không nói một lời.
+Finne gật đầu và Iris nhìn tôi chăm chú, không nói gì.
 
-Tôi bước ra khỏi rào chắn và tiếp cận bọn sát thủ, khi giọng nói của Asha và Iris lọt vào tai tôi.
+Tôi bước ra khỏi bức hộ thuật và tiến đến gần lũ sát thủ, khi tiếng Asha và Iris vọng đến tai tôi.
 
-“Tch! Giết nó!!"
+"Tch! Giết hắn!!"
 
-Sau mệnh lệnh của thủ lĩnh, một số sát thủ khác ném cung và rút kiếm. Lưỡi kiếm có lẽ cũng được tẩm chất độc.
+Theo lệnh thủ lĩnh, một số sát thủ khác vứt cung và rút kiếm. Lưỡi kiếm chắc cũng phủ độc.
 
-Tôi né đòn tấn công của ba sát thủ tấn công tôi trước và vòng ra phía sau chúng.
+Tôi tránh đòn của ba tên sát thủ tấn công tôi trước và vòng ra sau lưng họ.
 
-Đồng thời, tôi rút thanh Katana đen của mình ra thông qua Quickdraw Arts.
+Đồng thời, tôi rút Hắc Katana bằng Rút Kiếm Nhanh.
 
-Ba sát thủ gục xuống trước khi kịp quay về phía tôi, đầu họ lăn ra khỏi cổ.
+Ba tên sát thủ đổ xuống trước khi kịp quay lại, đầu lìa khỏi cổ.
 
-Tôi vung thanh Katana đen của mình để loại bỏ máu và nhiều mũi tên bay tới.
+Tôi vung Hắc Katana để vẩy máu và thêm mũi tên bay đến.
 
-Tôi chém lưỡi kiếm của mình giữa không trung, sau đó sử dụng Ground Shrink để ngay lập tức tiếp cận kẻ bắn và đâm thanh
-katana của mình vào cổ họng hắn.
+Tôi chém kiếm xuyên không trung, rồi dùng Thu Ngắn Khoảng Cách để lập tức tiến đến tên thợ săn và đâm katana vào cổ hắn.
 
-Có một tay súng khác ở gần nên tôi lại sử dụng Ground Shrink và đâm lưỡi kiếm của mình vào tim hắn.
+Có một tên thợ săn khác ở gần đó, nên tôi lại dùng Thu Ngắn Khoảng Cách và đâm lưỡi kiếm vào tim hắn.
 
-“Thật kinh ngạc…anh ta đã một mình giết chết năm người một cách dễ dàng như vậy…”
+"Tuyệt vời…anh ta giết năm người một mình dễ dàng vậy…"
 
-“Không thể tin được…”
+"K-không thể nào…"
 
-Tôi nghe thấy giọng nói ngạc nhiên của Asha và Iris phía sau mình.
+Tôi nghe giọng ngạc nhiên của Asha và Iris phía sau.
 
-Các sát thủ bàng hoàng khi thấy năm đồng đội của mình gục ngã nhanh chóng như vậy. Tôi kích hoạt Đe dọa và tiếp cận họ.
+Lũ sát thủ sốc khi thấy năm đồng bọn ngã xuống nhanh đến vậy. Tôi kích hoạt Áp Chế và tiến đến gần chúng.
 
-“Sao vậy, các người không tấn công tôi à? Vậy tôi sẽ đi trước.”
+"Sao vậy, mấy người không tấn công tôi à? Vậy tôi đi trước nhé."
 
-Tôi chỉ nghe có vẻ như tôi là kẻ xấu, nhưng họ mới là kẻ ác thực sự, tôi đứng về phía công lý ở đây… ít nhiều.
+Tôi chỉ nghe như mình là kẻ xấu, nhưng bọn chúng mới là ác quỷ thật sự, còn tôi đứng về phía chính nghĩa…đại khái vậy.
 
-“Đ-đừng mất tinh thần! Tấn công anh ta cùng một lúc!! Đi nào!!"
+"Đ-đừng mất tinh thần! Tấn công hắn cùng lúc!! Đi thôi!!"
 
-Sau mệnh lệnh của thủ lĩnh, năm sát thủ còn lại tấn công tôi cùng lúc.
+Theo lệnh thủ lĩnh, năm tên sát thủ còn lại đồng loạt tấn công tôi.
 
-Đầu tiên, tôi nhanh chóng xử lý hai kẻ gần tôi nhất bằng Thanh Katana đen của mình, sau đó tấn công một kẻ khác tiếp cận
-tôi bằng chuôi thanh katana, ngay vào đám rối thần kinh mặt trời của hắn.
+Tôi nhanh chóng xử lý hai tên gần nhất bằng Hắc Katana, rồi đánh tên tiếp theo đang tiến đến bằng chuôi katana, thẳng vào dạ dày.
 
-Tên thứ tư cố gắng nhảy đi, nên tôi sử dụng Thao tác Sức mạnh Phép thuật để tạo ra một viên đạn ma thuật và bắn vào ngực
-hắn.
+Tên thứ tư cố nhảy tránh, nên tôi dùng Thao Túng Ma Lực tạo đạn ma thuật và bắn vào ngực hắn.
 
-Tên cầm đầu có lẽ đã phân vân không biết nên chiến đấu hay bỏ chạy sau khi chứng kiến ​​tay sai của mình lần lượt bị hạ
-gục, khiến hắn như bị đóng băng trong giây lát.
+Thủ lĩnh chắc đang phân vân giữa đánh hay chạy sau khi thấy đàn em lần lượt ngã, vì hắn đứng sững trong khoảnh khắc.
 
-Tôi lợi dụng sơ hở để nhanh chóng tiếp cận và chặt đứt cánh tay phải của hắn.
+Tôi tận dụng kẽ hở để nhanh chóng tiến đến và chém đứt cánh tay phải hắn.
 
-“KAAAAAGGGHH!! Vòng tay của tôi..!! Chết tiệt..!!"
+"KWAAAAAGGGHH!! Cánh tay tao..!! Chết tiệt..!!"
 
-Tôi sử dụng phép thuật lửa để cầm máu ngay lập tức, nhưng cơn đau khiến anh ta càng la hét nhiều hơn, vì vậy tôi sử dụng
-phép thuật phục hồi chỉ để ngăn cơn đau.
+Tôi dùng hỏa phép để lập tức cầm máu, nhưng cơn đau khiến hắn gào thêm, nên tôi dùng hồi phục phép để chỉ cầm cơn đau.
 
-Cuối cùng khi tên cầm đầu im lặng, tôi đảm bảo rằng không còn kẻ thù nào xung quanh nữa rồi đưa hắn đến trước hàng rào.
+Khi thủ lĩnh cuối cùng im lặng, tôi kiểm tra xem còn kẻ địch nào không, rồi đưa hắn ra trước bức hộ thuật.
 
-Iris nhìn thẳng vào mắt người lãnh đạo và hỏi anh ta một câu với giọng điệu rất bình tĩnh.
+Iris nhìn thẳng vào mắt thủ lĩnh và hỏi hắn một câu, với giọng rất bình tĩnh.
 
-“Bạn có thể cho tôi biết bạn là ai và ai đã khiến bạn phải làm việc này không?”
+"Anh có thể cho tôi biết anh là ai và ai đã xúi giục các người làm việc này không?"
 
-“Ugh…bạn thực sự mong đợi tôi…nói chuyện…?”
+"Ugh…cô thật sự nghĩ tôi sẽ…nói…?"
 
-Người đàn ông sau đó nghiến răng và ngã xuống.
+Người đàn ông rồi nghiến răng và gục xuống.
 
-…anh ta có chất độc trong miệng, sẵn sàng cho tình huống như thế này.
+…hắn có giấu sẵn thuốc độc trong miệng, sẵn sàng cho tình huống như thế này.
 
-Tôi thở dài và chất xác bọn sát thủ vào một chỗ.
+Tôi thở dài và chất xác bọn sát thủ thành một đống.
 
-…Tôi đoán việc chặt đầu họ đã đi quá xa. Tôi liếc nhìn Asha và Iris, nhưng họ đang tỏ ra dũng cảm.
+…chắc chém đầu hơi quá tay. Tôi liếc Asha và Iris, nhưng cả hai vẫn gắng gượng bình tĩnh.
 
-Tôi trói tên sát thủ duy nhất mà tôi đã hạ gục và dỡ bỏ kết giới khi khu vực xung quanh đã an toàn.
+Tôi trói tên sát thủ duy nhất mà tôi đã hạ gục và dỡ bức hộ thuật khi khu vực đã an toàn.
 
-Iris và Asha sau đó chạy đến chỗ tôi.
+Iris và Asha rồi chạy đến chỗ tôi.
 
-“Cảm ơn, cậu đã cứu chúng tôi.”
+"Cảm ơn anh, anh đã cứu chúng em."
 
-“Cảm ơn ngài rất nhiều, ngài Haruto… ngài sẽ làm gì với người đàn ông ngài đã trói?”
+"Cảm ơn anh rất nhiều, anh Haruto…anh sẽ làm gì với người mà anh đã trói?"
 
-Tôi trả lời hai cô gái, hai cô gái có vẻ vẫn còn run rẩy một chút.
+Tôi đáp lại hai cô gái, người vẫn có vẻ còn đang run rẩy.
 
-“Tôi chỉ làm những gì tôi thích…và tôi để anh chàng này còn sống để bắt anh ta khai ra. Hai người ổn chứ?”
+"Tôi chỉ làm theo những gì mình thích…và tôi giữ hắn lại để hắn khai. Hai người có sao không?"
 
-“Ừ, vậy thì cậu có thể đưa anh ấy đến lâu đài như vậy.”
+"Vâng, anh có thể đưa hắn đến lâu đài như vậy, rồi chúng ta sẽ tính sau."
 
-Iris gật đầu nên tôi quyết định làm theo lời cô ấy.
+Iris gật đầu, nên tôi quyết định làm theo lời cô.
 
-Finne cũng đến gần và cảm ơn tôi nên tôi mỉm cười với cô ấy.
+Finne cũng tiến đến và cảm ơn tôi, nên tôi mỉm cười với cô.
 
-Do đó, chúng tôi đi cùng Iris và Asha đến lâu đài hoàng gia, kéo theo tên sát thủ bất tỉnh theo.
+Chúng tôi đưa Iris và Asha về lâu đài hoàng gia, kéo theo tên sát thủ bất tỉnh.
+
+---
+
+[←Trước](https://web.archive.org/web/20241207052815//twem-vol-1-chapter-13/) | [Sau→](https://web.archive.org/web/20241207052815//twem-vol-1-chapter-15/)

@@ -1,211 +1,190 @@
 ---
-title: Chương 1 – Được triệu hồi đến thế giới khác
+title: "Chương 1 – Triệu hồi đến thế giới khác"
 weight: 1
 ---
 
-# Chương 1 – Được triệu hồi đến thế giới khác
+# Chương 1 – Triệu hồi đến thế giới khác
 
-Một làn gió xuân ấm áp thổi vào lớp học. Đã gần đến giờ chủ nhiệm buổi sáng.
+Một làn gió xuân ấm áp đang thổi nhẹ trong lớp học. Sắp đến giờ chủ nhiệm buổi sáng rồi.
 
-Giáo viên phụ trách lớp chúng tôi, Usami Sayaka, chào theo thông lệ và tôi – Yuki Haruto – cùng với 39 bạn cùng lớp của
-mình đáp lại.
+Giáo viên chủ nhiệm của lớp chúng tôi, Usami Sayaka, cất lời chào theo thông lệ, và tôi – Yuki Haruto – cùng với 39 bạn cùng lớp đồng thanh đáp lại.
 
-Cô Usami vừa viết lên bảng vừa nói về lịch trình ngày hôm nay với giọng điệu rõ ràng, dễ hiểu như mọi khi. Về cơ bản là
-một giáo viên kiểu mẫu… tuy nhiên, thật không may cho cô ấy, cô ấy phải đứng trên bục để với tới phần trên của bảng đen.
+Cô Usami vừa viết bảng vừa nói về lịch trình hôm nay bằng giọng rõ ràng, dễ hiểu như thường lệ. Cơ bản thì đúng là một giáo viên mẫu mực… nhưng, tiếc thay cho cô, cô phải đứng trên bục mới với tới được phần trên của bảng đen.
 
-Ở tuổi 23, cô Usami đang đi dạy năm thứ hai nhưng chiều cao của cô hơi thấp, chỉ 1m50 - gần ngang bằng với một học sinh
-trung học cơ sở. Nét mặt của cô ấy cũng khá trẻ con nên trông cô ấy trẻ hơn những học sinh năm hai trung học chúng tôi.
+Ở tuổi 23, cô Usami đang vào năm thứ hai đi dạy, nhưng chiều cao của cô hơi thấp hơn 1m50 – gần tương đương một học sinh trung học cơ sở. Các đường nét trên gương mặt cô cũng khá trẻ con, nên trông cô còn trẻ hơn cả chúng tôi – những học sinh năm hai trung học phổ thông.
 
-Cô có mặc cảm về ngoại hình và chiều cao của mình, nhưng tính cách thân thiện khiến cô rất nổi tiếng ở trường.
+Cô có mặc cảm về ngoại hình và chiều cao, nhưng tính tình thân thiện khiến cô rất được lòng mọi người trong trường.
 
-“Mọi người, hôm nay chúng ta sẽ quyết định hai thành viên ủy ban cho lễ hội văn hóa sắp tới.”
+"Mọi người, hôm nay chúng ta sẽ chọn ra hai thành viên ban tổ chức cho lễ hội văn hóa sắp tới."
 
-Lời nói của cô Usami khiến cả lớp xôn xao một lúc.
+Lời cô Usami khiến cả lớp xôn xao một lúc.
 
-Suy cho cùng thì việc trở thành thành viên ủy ban cho lễ hội văn hóa là một khối lượng công việc rất lớn. Điều đó cũng
-có nghĩa là có rất ít hoặc không có thời gian rảnh, vì vậy hầu hết mọi người đều ghét ý tưởng này.
+Làm thành viên ban tổ chức lễ hội văn hóa thực ra là một gánh nặng khổng lồ. Nó cũng đồng nghĩa với việc gần như không có thời gian rảnh, nên hầu hết mọi người đều ngán ngẩm ý tưởng đó.
 
-Tất nhiên, tôi là một trong số họ nên tôi nhìn ra ngoài cửa sổ, cố gắng hết sức để thể hiện sự thiếu quan tâm của mình.
+Tất nhiên tôi cũng nằm trong số đó, nên tôi nhìn ra ngoài cửa sổ, cố gắng thể hiện ra vẻ chẳng mấy hứng thú.
 
-Hầu hết các bạn cùng lớp khác đều hành động tương tự, nên cô Usami khá bực tức.
+Phần lớn các bạn cùng lớp khác cũng đang giả vờ như vậy, nên cô Usami khá là bực mình.
 
-“Có ai hoàn thành nhiệm vụ không?”
+"Có ai nhận nhiệm vụ này không?"
 
-Theo lời cô, ba học sinh giơ tay.
+Nghe vậy, ba học sinh giơ tay.
 
-“Tôi giới thiệu Haruto cho vị trí này!”
+"Em đề cử Haruto cho vị trí này!"
 
-“Tôi cũng vậy, tôi nghĩ Haruto sẽ là một lựa chọn tuyệt vời!”
+"Em cũng vậy, em nghĩ Haruto là lựa chọn tuyệt vời!"
 
-"Tôi cung vậy, tôi cung vậy!"
+"Em nữa, em nữa!"
 
-Bộ ba quay về phía tôi, cười toe toét.
+Bộ ba quay sang phía tôi, cười nham hiểm.
 
-Tên của họ là Mitsurugi Kento, Suruga Hayato và Matsuba Ryo.
+Tên của chúng là Mitsurugi Kento, Suruga Hayato, và Matsuba Ryo.
 
-Ba người bạn cùng lớp đã tận dụng mọi cơ hội để bày ra những trò đùa khó chịu, gần như bắt nạt, đối với tôi.
+Ba bạn cùng lớp chuyên trêu đùa tôi theo kiểu ác ý, gần như bắt nạt, bất cứ khi nào có cơ hội.
 
-Tuy nhiên, “lớp trưởng” Tendo Koji và một số người bạn thời thơ ấu của anh ấy đã đến nói chuyện với tôi và giúp đỡ tôi
-bất cứ khi nào có chuyện gì xảy ra.
+Tuy nhiên, "lớp trưởng" Tendo Koji cùng vài người bạn thuở nhỏ của anh ấy lại thường xuyên đến bên tôi, giúp đỡ mỗi khi có chuyện.
 
-Vì lý do đó, Mitsurugi và những người hầu của hắn cuối cùng bị cô lập trong lớp…nhưng vẫn tiếp tục làm phiền tôi.
+Vì thế mà Mitsurugi và đám đàn em cuối cùng bị cô lập trong lớp… nhưng vẫn dai dẳng bám theo tôi không buông.
 
-“…họ nói vậy, nhưng cậu nghĩ sao, Yuki?”
+"…nghe các bạn nói vậy, nhưng cậu nghĩ sao, Yuki?"
 
-Cô Usami có lẽ nghi ngờ tôi đang bị bắt nạt nên nhìn tôi với vẻ mặt lo lắng.
+Cô Usami có lẽ nghi ngờ tôi đang bị bắt nạt, nên nhìn tôi với vẻ mặt lo lắng.
 
-Tuy nhiên, trước khi trả lời cô ấy, tôi quay sang Mitsurugi và những người khác.
+Tuy nhiên, trước khi trả lời cô, tôi quay sang Mitsurugi và những người khác.
 
-“Tại sao lại là tôi? Thay vào đó, hai trong số ba bạn có thể làm việc đó, phải không?”
+"Tại sao lại là tôi? Hai trong ba người các bạn làm thì có phải hơn không?"
 
-Câu hỏi của tôi đã bị Mitsurugi đáp lại một cách kiêu ngạo.
+Câu hỏi của tôi bị Mitsurugi gạt phăng đi một cách kiêu ngạo.
 
-"Huh? Tại sao chúng ta phải làm điều gì đó như vậy??”
+"Hả? Tại sao tụi tớ phải làm cái việc đó chứ?"
 
-Từ phản ứng của anh ấy, tôi kết luận rằng có nói gì với họ cũng vô ích, nên tôi lại quay sang cô Usami.
+Thấy phản ứng đó, tôi biết nói gì cũng vô ích với chúng, nên lại quay sang cô Usami.
 
-“Haiz…được rồi, tôi sẽ làm điều đó.”
+"Thôi được… được, tôi sẽ làm."
 
-“Bạn có thực sự ổn với điều đó không? Nếu bạn không muốn, người khác có thể…”
+"Cậu thực sự ổn với điều đó chứ? Nếu cậu không muốn, người khác cũng có thể…"
 
-Cô Usami nhìn tôi với vẻ quan tâm thực sự. Không muốn làm cô ấy lo lắng thêm nữa, tôi mỉm cười và lắc đầu.
+Cô Usami nhìn tôi với vẻ quan tâm thật sự. Không muốn làm cô thêm lo lắng, tôi mỉm cười rồi lắc đầu.
 
-“Không sao đâu.”
+"Không sao đâu ạ."
 
-Tôi liếc nhìn Mitsurugi và những người hầu của anh ta: họ có lẽ khá hài lòng với việc giao nhiệm vụ rắc rối đó cho tôi,
-khi họ đang cười toe toét.
+Tôi liếc nhìn Mitsurugi và đám đàn em: có vẻ chúng khá hài lòng khi đẩy cái nhiệm vụ phiền phức này sang cho tôi, nên đang cười toe toét.
 
-Trước khi Tendo và những người khác kịp nói bất cứ điều gì — như họ vẫn thường làm — một bạn cùng lớp khác đã giơ tay:
-Ichinomiya Suzuno.
+Trước khi Tendo và những người khác kịp lên tiếng – như họ vẫn thường làm – một bạn nữ khác giơ tay: Ichinomiya Suzuno.
 
-"Bệnh đa xơ cứng. Usami, tôi cũng muốn trở thành thành viên ủy ban.”
+"Cô Usami, em cũng muốn làm thành viên ban tổ chức ạ."
 
-Cô Usami gật đầu đồng ý với đề xuất của mình.
+Cô Usami gật đầu tán thành trước đề nghị của bạn ấy.
 
-Đó là điều đương nhiên đối với cô: Ichinomiya không chỉ xinh đẹp mà cô còn là một học sinh xuất sắc, luôn cư xử đúng mực
-và được tất cả giáo viên tin tưởng. Cô ấy là một trong những người bạn thời thơ ấu của Tendo và là một trong những thành
-viên nổi bật nhất trong lớp chúng tôi. Điều này khiến cô ấy trở thành học sinh nổi tiếng nhất trong lớp chúng tôi…hay
-thậm chí là cả trường.
+Việc cô làm vậy cũng dễ hiểu: Ichinomiya không chỉ xinh đẹp mà còn là một học sinh xuất sắc, luôn cư xử đúng mực và được tất cả giáo viên tin tưởng. Bạn ấy là bạn thuở nhỏ của Tendo và là một trong những học sinh nổi bật nhất lớp. Nhờ vậy mà bạn ấy trở thành học sinh được yêu thích nhất lớp… thậm chí là cả trường.
 
-Mitsurugi và lũ tay sai của hắn có lẽ không bao giờ ngờ Ichinomiya sẽ nói như vậy, nên nụ cười toe toét của họ chuyển
-thành ánh mắt trừng trừng. Có vẻ như họ muốn hét vào mặt tôi để đổi chỗ cho họ…nhưng ngay từ đầu họ là người đã đẩy thứ
-này vào tôi, phải không?
+Mitsurugi và đám đàn em chắc hẳn không ngờ Ichinomiya lại nói như vậy, nên nụ cười của chúng chuyển thành ánh mắt căm ghét. Có vẻ chúng muốn hét lên bắt tôi đổi chỗ cho chúng… nhưng chính chúng là người đẩy việc này cho tôi ngay từ đầu, phải không?
 
-Cô Usami không để ý đến ánh mắt thù địch của họ và yêu cầu Ichinomiya xác nhận.
+Cô Usami không nhận ra ánh mắt thù địch của chúng, và xác nhận lại với Ichinomiya.
 
-“Tôi thực sự rất vui vì bạn sẽ đảm nhận nhiệm vụ này, Ichinomiya, nhưng bạn có chắc không?”
+"Cô rất vui khi em nhận nhiệm vụ này, Ichinomiya, nhưng em chắc chứ?"
 
-“Đúng vậy, tôi luôn muốn làm điều đó ít nhất một lần.”
+"Vâng, em luôn muốn thử làm ít nhất một lần ạ."
 
-Ichinomiya đáp lại với nụ cười dịu dàng trên môi.
+Ichinomiya đáp lại, nở một nụ cười dịu dàng.
 
-“Được rồi, quyết định vậy đi.”
+"Vậy được, quyết định vậy đi."
 
-Sau đó cô Usami viết tên tôi và Ichinomiya lên bảng đen.
+Cô Usami liền viết tên tôi và Ichinomiya lên bảng đen.
 
-Tôi bắt đầu cảm thấy ánh mắt không chỉ của Mitsurugi và nhóm của cậu ấy mà còn của những chàng trai khác đang nhìn tôi…
+Tôi bắt đầu cảm thấy ánh mắt không chỉ của Mitsurugi và đám của cậu ta, mà còn của các bạn nam khác đang đổ dồn về phía mình…
 
-Tôi thở dài, nghĩ rằng nhiệm vụ mới này có thể trở thành một vấn đề khó giải quyết.
+Tôi thở dài, nghĩ rằng nhiệm vụ mới này có khi lại trở thành một mớ rắc rối.
 
-Tuy nhiên, đó là một cơ hội hiếm có và cùng với Ichinomiya, tôi tin rằng bằng cách nào đó mọi chuyện sẽ thành công.
+Dù sao thì đó cũng là một cơ hội hiếm có, và cùng với Ichinomiya, tôi tin rằng mọi chuyện sẽ ổn thôi.
 
-Bạn nên thử mọi thứ ít nhất một lần, như họ nói.
+Người ta vẫn nói, nên thử mọi thứ ít nhất một lần.
 
-Đó là những gì tôi đang nghĩ khi sàn lớp học đột nhiên phát sáng.
+Tôi đang nghĩ vậy thì sàn lớp học đột nhiên phát sáng.
 
-Mọi chuyện diễn ra quá nhanh khiến tôi không thể cử động.
+Mọi chuyện xảy ra quá nhanh, tôi còn chưa kịp cử động.
 
-“C-chuyện gì đang xảy ra vậy!?”
+"C-chuyện gì đang xảy ra vậy!?"
 
-Tôi nghe thấy ai đó hét lên. Các họa tiết hình học, giống như vòng tròn ma thuật bạn thấy trong anime, được hình thành
-trên sàn nhà.
+Tôi nghe ai đó hét lên. Những họa tiết hình học, giống như vòng trận pháp trong anime, hiện ra trên sàn nhà.
 
-Sau đó, ngay sau đó, không gian xung quanh chúng tôi thay đổi - biến thành một căn phòng lớn mà tôi chưa từng thấy trước
-đây.
+Rồi ngay sau đó, khoảng không gian xung quanh chúng tôi thay đổi – biến thành một căn phòng rộng lớn mà tôi chưa từng thấy bao giờ.
 
-"….Hở?"
+"….hả?"
 
-Không biết ai đã nói nhưng sự bối rối trong giọng điệu chung thể hiện rõ cảm xúc của cả lớp.
+Tôi không biết ai đã nói câu đó, nhưng sự bối rối trong giọng nói ấy đại diện cho cảm xúc của tất cả mọi người trong lớp.
 
-Có lúc chúng tôi đang ngồi ở bàn làm việc, như mọi ngày, và phút tiếp theo chúng tôi ở một nơi hoàn toàn xa lạ.
+Khoảnh khắc trước, chúng tôi còn đang ngồi ở bàn học như mọi ngày, khoảnh khắc sau đã ở một nơi hoàn toàn xa lạ.
 
-Những bức tường đá và sàn đá, giống như bạn thấy trong sách giáo khoa về châu Âu thời trung cổ. Đồ nội thất đơn giản ở
-đây và ở đó.
+Những bức tường đá và sàn đá, giống như trong sách giáo khoa về châu Âu thời trung cổ. Ở đây và đó có vài món đồ nội thất đơn giản.
 
-Vòng tròn ma thuật tương tự xuất hiện trong lớp hiện rõ trên sàn.
+Vòng trận pháp giống hệt vòng trận pháp lúc nãy trong lớp hiện rõ trên sàn.
 
-Trước mặt chúng tôi là một cánh cửa đá lớn cao khoảng ba mét.
+Phía trước chúng tôi là một cánh cửa đá lớn, cao khoảng ba mét.
 
-Có vẻ như cô Usami và cả lớp là những người duy nhất có mặt trong phòng.
+Có vẻ như chỉ có cô Usami và cả lớp là những người duy nhất có mặt trong phòng này.
 
-Không thể biết chuyện gì đã xảy ra, thậm chí không ai thốt ra một lời. Sau đó cánh cửa đá mở ra.
+Không ai hiểu chuyện gì đang xảy ra, thậm chí không ai thốt nên lời. Rồi cánh cửa đá mở ra.
 
-Một cô gái xinh đẹp, trạc tuổi chúng tôi, xuất hiện từ phía sau cánh cửa. Cô mặc một chiếc váy trắng lộng lẫy. Sáu người
-đàn ông mặc áo giáp đi theo cô: về cơ bản là những hiệp sĩ trong sách giáo khoa. Họ đứng thành đội hình để bảo vệ cô ấy
-nên cô ấy phải có cấp bậc khá cao.
+Một cô gái xinh đẹp, tầm tuổi chúng tôi, bước ra từ phía sau cánh cửa. Cô mặc một chiếc váy trắng lộng lẫy. Sáu người đàn ông mặc áo giáp đi theo sau cô: đúng kiểu hiệp sĩ trong sách giáo khoa. Họ xếp thành đội hình để hộ vệ cô, nên cô hẳn phải có địa vị khá cao.
 
-Cô gái và đoàn tùy tùng tiến tới giữa phòng và dừng lại trước mặt chúng tôi.
+Cô gái và đoàn tùy tùng tiến về giữa phòng rồi dừng lại trước mặt chúng tôi.
 
-Sau đó cô ấy bước tới, cúi chào chúng tôi một cách tao nhã và nói.
+Cô ấy bước lên phía trước, cúi chào một cách tao nhã với chúng tôi, rồi cất tiếng.
 
-“Tôi vô cùng biết ơn các bạn vì đã chấp nhận lời triệu tập của chúng tôi, những anh hùng cao quý.”
+"Thần vô cùng cảm kích vì các vị đã chấp nhận lời triệu hồi của chúng tôi, những Anh Hùng cao quý."
 
-Cô gái ngẩng đầu lên và nở một nụ cười ngọt ngào khiến một số bạn cùng lớp đỏ mặt.
+Cô gái ngẩng đầu lên và nở một nụ cười ngọt ngào, khiến một số bạn cùng lớp đỏ mặt.
 
-Về phần tôi, dựa trên cách cô gái sử dụng từ “anh hùng”, bộ áo giáp nam và môi trường chúng tôi đang ở, một ý tưởng đã
-hình thành trong đầu tôi.
+Còn tôi, dựa vào việc cô gái dùng từ "Anh Hùng", bộ áo giáp của đám đàn ông, và môi trường xung quanh, một ý nghĩ hình thành trong đầu tôi.
 
-— liệu chúng ta thực sự có thể được triệu hồi đến một thế giới khác không…?
+— Chẳng lẽ chúng tôi thực sự đã bị triệu hồi sang một thế giới khác…?
 
-Chúng tôi đột nhiên được bao bọc trong ánh sáng và được chuyển đến một nơi hoàn toàn khác và được gọi là anh hùng…đó là
-một tình huống kinh điển trong thể loại anime và manga “thế giới khác” mà bạn thường thấy gần đây.
+Chúng tôi bỗng dưng được bao bọc trong ánh sáng, vận chuyển đến một nơi hoàn toàn khác, rồi được gọi là Anh Hùng… đúng là tình huống kinh điển trong thể loại anime và manga "dị giới" mà dạo gần đây xuất hiện rất nhiều.
 
-Tất nhiên, tôi chưa bao giờ nghĩ mình sẽ thực sự trải nghiệm điều gì đó như thế.
+Tất nhiên, tôi không bao giờ nghĩ rằng mình sẽ thực sự trải qua chuyện như vậy.
 
-Tôi quan sát xung quanh, suy nghĩ xem phải làm gì tiếp theo thì cô gái mặc váy trắng hắng giọng.
+Tôi đang quan sát xung quanh, nghĩ xem nên làm gì tiếp theo, thì cô gái mặc váy trắng khẽ hắng giọng.
 
-Cô ấy từ từ nhìn vào mặt chúng tôi rồi bắt đầu nói.
+Cô ấy từ từ nhìn lướt qua gương mặt chúng tôi, rồi bắt đầu nói.
 
-"Hân hạnh được gặp bạn. Tôi là công chúa đầu tiên của vương quốc Glicente này, Mariana Forla Glicente. Đây là một thế
-giới khác với thế giới mà các bạn đến, những anh hùng cao quý, một thế giới mà chúng tôi gọi là Ar Silat. Bây giờ tôi sẽ
-dẫn bạn đến diện kiến ​​cha tôi…không, đức vua xuất sắc của ông ấy.”
+"Rất vui được gặp các vị. Thần là công chúa đệ nhất của vương quốc Glicente này, Mariana Forla Glicente. Đây là một thế giới khác với thế giới mà các vị đến, những Anh Hùng cao quý, một thế giới mà chúng tôi gọi là Ar Silat. Bây giờ thần sẽ dẫn các vị đến yết kiến cha thần… không, đức vua của người."
 
-Sau khi Mariana nói tất cả những điều đó, một số bạn cùng lớp cuối cùng cũng nhận ra chúng tôi đã được đưa đến một thế
-giới khác và bắt đầu la hét.
+Sau khi Mariana nói hết những lời đó, một số bạn cùng lớp cuối cùng cũng nhận ra rằng mình đã bị đưa đến một thế giới khác, và bắt đầu ồn ào phản đối.
 
-"Cái quái gì đây!?"
+"Cái quái gì vậy chứ!?"
 
-“Hãy gửi chúng tôi trở lại ngay bây giờ!!”
+"Đưa bọn tôi quay về ngay!!"
 
-Những tiếng la hét và lăng mạ khác liên tục ném vào Mariana, cho đến khi Tendo lên tiếng để khiến họ im lặng.
+Những tiếng hét và lời lăng mạ liên tục ném về phía Mariana, cho đến khi Tendo lên tiếng trấn tĩnh mọi người.
 
-“Mọi người hãy bình tĩnh một chút nhé! Đây không phải là lúc để nói điều đó. Chúng ta nên hiểu rõ tình huống này trước
-tiên. Chúng ta sẽ nói chuyện đó sau!”
+"Mọi người, hãy bình tĩnh một chút! Chưa phải lúc để nói những điều đó. Chúng ta cần hiểu rõ tình hình trước đã. Chuyện quay về sẽ bàn sau!"
 
-Mọi người im lặng chờ đợi câu nói tiếp theo của Tendo.
+Mọi người im lặng, chờ đợi lời tiếp theo của Tendo.
 
-“Nếu những gì công chúa nói là đúng thì chúng ta không còn ở trên trái đất nữa mà ở 'thế giới khác'. Hiện tại, chúng ta
-nên gặp nhà vua và nghe những gì ông ấy nói, phải không?”
+"Nếu những gì công chúa nói là thật, thì chúng ta không còn ở Trái Đất nữa, mà đang ở 'thế giới khác'. Trước mắt, chúng ta nên gặp nhà vua và nghe xem ngài ấy nói gì, đúng không?"
 
-Sau khi Tendo nói xong, những người bạn cùng lớp khác im lặng nhìn nhau.
+Sau khi Tendo nói xong, các bạn cùng lớp khác im lặng nhìn nhau.
 
-Tuy nhiên, sau vài giây, tiếng nói tán thành đã vang lên trong số họ.
+Tuy nhiên, vài giây sau, những tiếng đồng ý bắt đầu vang lên trong số họ.
 
-“Tôi đồng ý với đề nghị đó.”
+"Em đồng ý với đề nghị đó."
 
 "Tôi cũng vậy."
 
-"Hãy làm nó!"
+"Làm thử đi!"
 
 "Tôi cũng đồng ý."
 
-Chẳng bao lâu sau, hơn một nửa lớp đứng về phía Tendo.
+Chẳng mấy chốc, hơn một nửa số bạn trong lớp đã đứng về phía Tendo.
 
-Cô Usami không nắm bắt được tình hình nên băn khoăn, bối rối, nhưng sau khi một số cô gái giải thích tình hình, cô cũng
-quyết định đồng ý với đề nghị của Tendo.
+Cô Usami không nắm bắt được tình hình, đang luống cuống và lo lắng, nhưng sau khi vài bạn nữ giải thích tình hình, cô cũng quyết định đồng ý với đề nghị của Tendo.
 
-“Chúng ta đã ổn định chưa, mọi người…? Vậy xin hãy đi theo tôi. Tôi sẽ dẫn cậu tới phòng tiếp kiến.”
+"Mọi người đã thống nhất chưa…? Vậy xin hãy đi theo thần. Thần sẽ dẫn các vị đến điện tiếp kiến."
 
-Mariana đợi chúng tôi đạt được thỏa thuận rồi rời khỏi phòng.
+Mariana đợi chúng tôi đạt được thỏa thuận, rồi rời khỏi phòng.
 
-Các hiệp sĩ theo sau và chúng tôi cũng theo sau họ, với Tendo dẫn đầu.
+Các hiệp sĩ theo sau, và chúng tôi cũng bước theo, với Tendo dẫn đầu.
+
+---
+
+[←ToC](https://web.archive.org/web/20250118140608//twem-toc/) | [Next→](https://web.archive.org/web/20250118140608//twem-vol-1-chapter-2/)

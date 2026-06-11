@@ -1,449 +1,348 @@
 ---
-title: Chương 8 – Một vũ khí mới
+title: "Chương 8 – Một vũ khí mới"
 weight: 8
 ---
 
 # Chương 8 – Một vũ khí mới
 
-Tôi đi về phía cánh đồng cách làng một chút, rồi đột nhiên Phát hiện Hiện diện nhặt được thứ gì đó.
+Tôi hướng về phía các cánh đồng cách làng một đoạn, rồi đột nhiên Phát Hiện Sự Hiện Diện phát hiện điều gì đó.
 
-Sự hiện diện từ—
+Một sự hiện diện từ—
 
-“Ở trên à.”
+"Phía trên, hả.�?"
 
-Tôi nhìn lên trên và thấy một con chim khổng lồ đang sà xuống tôi…rồi sao!?
+Tôi nhìn lên trời và thấy một con chim khổng lồ đang sà xuống tôi…nhanh thật!?
 
-Tôi nhanh chóng né đòn bằng cách nhảy lùi lại, sau đó mặt đất rung chuyển và một đám bụi bay lên.
+Tôi nhanh chóng né đòn tấn công bằng cách nhảy lùi ra sau, rồi mặt đất rung chuyển và một đám bụi bay lên.
 
-Vài giây sau, khi bụi lắng xuống, tất cả những gì còn lại là một cái hố rộng khoảng hai mét. Con
-quái vật giống đại bàng lại bay lên bầu trời.
+Vài giây sau, khi bụi lắng xuống, tất cả những gì còn lại là một hố lớn rộng khoảng hai mét. Con quái vật giống đại bàng đã bay lên trời trở lại.
 
-Tốc độ và sức mạnh thế nào…đúng như mong đợi ở hạng A. Có lẽ tôi nên bắt đầu bằng việc đánh giá nó.
+Tốc độ và sức mạnh gì…quả là hạng A. Tôi đoán nên bắt đầu bằng việc đánh giá nó trước.
 
-|          |                                                      |
-|----------|------------------------------------------------------|
-| TÊN:     | Chim Mephistos                                       |
-| CẤP ĐỘ:  | 74                                                   |
-| KỸ NĂNG: | Chuyến bay LV 6<br>Phong thuật LV 4<br>Tăng tốc LV 3 |
-| TIÊU ĐỀ: | Phí điên                                             |
+| **TÊN:** | **Chim Mephistos** |
+| --- | --- |
+| **CẤP:** | **74** |
+| **KỸ NĂNG:** | **Bay LV 6**  **Phép Phong LV 4**  **Tăng Tốc LV 3** |
+| **DANH HIỆU:** | **Kẻ Cuồng Xông** |
 
-Được rồi, đó là một cái tên kỳ lạ...và Tăng tốc là loại kỹ năng gì?
+Được, cái danh hiệu đó thì kỳ lạ thật…và kỹ năng Tăng Tốc là loại gì vậy?
 
-<<Nhận được Kỹ năng “Tăng tốc”. Cấp độ kỹ năng đạt 10. Kỹ năng được thêm vào Hợp Nhất Võ Thuật.>>
+<<Kỹ năng "Tăng Tốc" đã có được. Cấp kỹ năng đạt 10. Kỹ năng được thêm vào Hợp Nhất Võ Thuật.>>
 
-Một lần nữa, All Creation lại tự động tạo kỹ năng cho tôi nên tôi đã kiểm tra nó một cách chi tiết.
+Một lần nữa, Toàn Năng tự động tạo kỹ năng cho tôi, nên tôi kiểm tra chi tiết.
 
-<Tăng tốc>
+**<Tăng Tốc>**
 
-Sử dụng sức mạnh ma thuật để tăng tốc độ trong giây lát.
+**Dùng ma lực để tăng tốc độ trong tích tắc.**
 
-Tôi hiểu rồi, vậy ra kỹ năng này giúp nó bay với tốc độ cao.
+Tôi hiểu rồi, vậy kỹ năng này là thứ giúp nó bay với tốc độ cao.
 
-Con chim Mephistos lại lao xuống tấn công tôi.
+Con Chim Mephistos đang lao xuống để sà vào tôi lần nữa.
 
-Vì tôi có thể nhìn thấy nên nó không phải là một đòn tấn công đáng sợ, thành thật mà nói…
+Vì tôi có thể thấy nó, nên thành thật mà nói, đòn tấn công này không đáng sợ lắm…
 
-Tôi sử dụng phép thuật gió để phá vỡ dòng không khí và con chim Mephistos đã rơi xuống một vị trí
-hoàn toàn khác.
+Tôi dùng phong thuật để phá vỡ dòng không khí và con Chim Mephistos đâm sầm xuống một vị trí hoàn toàn khác.
 
-“GGGYAAAHHHHH!!!
+"GGGYAAAHHHHH!!!
 
-Con quái vật đứng dậy và trừng mắt nhìn tôi, nhưng nỗi sợ bị đánh ngã lần nữa khiến nó không thể bay
-lên: thay vào đó nó lao thẳng vào tôi trên mặt đất.
+Con chim quái vật đứng dậy và trừng mắt nhìn tôi, nhưng nỗi sợ bị đánh ngã lại khiến nó không dám bay lên: nó lao vào tôi trên mặt đất thay thế.
 
-À, vậy đây là ý nghĩa của tựa đề “Charge Maniac”…?
+À, vậy đây là ý nghĩa của danh hiệu "Kẻ Cuồng Xông"…?
 
-Tôi sử dụng Tăng cường Vật lý để né đòn tấn công, đá vào ngực con quái vật và khiến nó bay lên vài
-mét.
+Tôi dùng Tăng Cường Thể Chất để né cú xông, đá vào ngực con quái vật, và hất nó bay lên vài mét.
 
-Tôi nhanh chóng làm theo bằng cách sạc những quả cầu lửa với lượng ma lực dồi dào và bắn chúng vào
-con thú chim.
+Tôi nhanh chóng theo sau bằng cách nạp cầu lửa với một lượng ma lực dồi dào và bắn chúng vào con chim thú.
 
-Những quả cầu lửa đáp xuống với một tiếng nổ lớn, giết chết con quái vật ngay tại chỗ và nướng chín
-toàn bộ. Mùi cho thấy nó đã được nấu vừa phải.
+Cầu lửa đáp xuống với một tiếng nổ, giết chết con quái vật tại chỗ và quay chín nó. Mùi cho thấy nó được nấu vừa chín tới.
 
-Tôi mở kho chứa không gian của mình và đặt con chim Mephistos đang rơi vào trong trước khi nó chạm
-đất.
+Tôi mở không gian lưu trữ và cất con Chim Mephistos đang rơi vào trong trước khi nó chạm đất.
 
-…điều đó dễ dàng hơn mong đợi. Thậm chí còn chưa đến giờ ăn tối.
+…Dễ hơn dự kiến. Còn chưa đến giờ ăn tối nữa.
 
-Tôi đã nghĩ sẽ khó giải quyết hơn một chút…đây thực sự là một thế giới có chế độ dễ dàng, phải
-không.
+Tôi nghĩ nó sẽ khó nhằn hơn một chút…đúng là thế giới chế độ dễ mà, phải không.
 
 ~
 
-Tôi quay lại làng và thấy dân làng, Bacchus và những người khác đang chuẩn bị cho bữa tiệc ở quảng
-trường làng. Trưởng lão nhận thấy sự trở lại của tôi và đến gặp tôi.
+Tôi quay lại làng và thấy dân làng, Bacchus và những người khác đang chuẩn bị cho bữa tiệc ở quảng trường làng. Trưởng làng nhận ra tôi quay về và bước đến.
 
-“Ồ, bạn về sớm quá…vừa rồi chúng tôi nghe thấy một tiếng động lớn…bạn có vấn đề gì không?”
+"Ồ, anh đã về sớm quá…chúng tôi nghe thấy một tiếng động lớn lúc nãy…có chuyện gì xảy ra à?"
 
-“Không, tôi quay lại vì việc tiêu diệt đã xong.”
+"Không, tôi quay về vì việc tiêu diệt đã xong rồi."
 
-Vì vậy, tôi vừa nói vừa lấy con chim Mephistos nướng giòn ra khỏi kho lưu trữ không gian của mình,
-khiến trưởng lão một lần nữa hoàn toàn không nói nên lời. Anh ấy chắc chắn không mong đợi tôi sẽ
-quay lại sớm như vậy.
+Tôi nói vậy khi kéo con Chim Mephistos đã quay chín ra khỏi không gian lưu trữ, khiến trưởng làng một lần nữa không nói nên lời. Chắc chắn ông ấy không ngờ tôi sẽ quay về sớm đến vậy.
 
-Dân làng chứng kiến ​​cuộc trao đổi của chúng tôi nhận ra rằng Chim Mephistos cuối cùng đã bị giết
-và bắt đầu hò reo ầm ĩ.
+Những người dân làng chứng kiến cuộc trao đổi của chúng tôi nhận ra rằng con Chim Mephistos cuối cùng đã bị giết và bắt đầu reo hò vang dội.
 
-“Đúng là như vậy…nó thực sự đã chết rồi…!!”
+"Thật sự là thật…thật sự đã chết…!!"
 
-“Đã đến lúc ăn mừng!! Mang rượu tới đây!!”
+"Đến lúc ăn mừng rồi!! Mang rượu ra!!"
 
-“Cảm ơn rất nhiều, nhà thám hiểm, thưa ngài!!”
+"Cảm ơn anh rất nhiều, mạo hiểm giả, thưa ngài!!"
 
-Hết dân làng này đến dân làng khác bày tỏ lòng biết ơn của họ đối với tôi, vì vậy tôi tuyên bố hoàn
-thành nhiệm vụ của mình cho tất cả những người có mặt nghe.
+Người dân nối tiếp nhau bày tỏ lòng biết ơn với tôi, nên tôi tuyên bố hoàn thành nhiệm vụ của mình cho tất cả mọi người nghe.
 
-“Chim Mephistos không còn nữa!! Hôm nay chúng ta sẽ mở tiệc!”
+"Chim Mephistos không còn nữa!! Hôm nay chúng ta sẽ có một bữa tiệc!!"
 
-Bacchus và những người khác reo hò đáp lại và việc chuẩn bị bữa tiệc bắt đầu một cách nghiêm túc.
+Bacchus và những người khác reo hò đáp lại và việc chuẩn bị bữa tiệc bắt đầu nghiêm túc.
 
-Mọi người chắc hẳn đã thực sự vui mừng khôn xiết vì việc chuẩn bị được hoàn thành rất nhanh chóng:
-Chim Mephistos đã được cắt và nấu chín cho mọi người. Bacchus thậm chí còn cung cấp miễn phí các
-nguyên liệu khác.
+Mọi người hẳn đã thực sự vui mừng, vì việc chuẩn bị hoàn tất rất nhanh: con Chim Mephistos được mổ và nấu cho mọi người. Bacchus thậm chí còn cung cấp miễn phí các nguyên liệu khác.
 
-Là người chịu trách nhiệm tiêu diệt con quái vật, dân làng mang đồ ăn đến cho tôi ngay khi xong
-việc, để tôi có thể thử đủ loại món ăn và thưởng thức bữa tiệc một cách trọn vẹn.
+Là người chịu trách nhiệm tiêu diệt con quái vật, dân làng mang cho tôi đồ ăn ngay khi nấu xong, nên tôi có thể thử đủ các món và tận hưởng bữa tiệc một cách trọn vẹn.
 
-“Anh là người đã giết quái vật, anh phải ăn cái này! Thêm bao nhiêu nước sốt tùy thích. Như vậy thậm
-chí còn ngon hơn.”
+"Anh là người đã giết con quái vật, anh phải ăn món này! Cho thêm bao nhiêu nước sốt cũng được. Như vậy còn ngon hơn đấy."
 
-"Cảm ơn, tôi sẽ làm vậy."
+"Cảm ơn, tôi sẽ ăn."
 
-Tôi lấy cái đĩa có miếng thịt nướng đơn giản, dùng tay cầm lấy và nhai.
+Tôi lấy đĩa thịt nướng đơn giản, cầm tay, và gặm xuống.
 
-Nó có vị rất giống thịt gà, nhưng nước ngọt hơn nhiều… Tôi không biết nước sốt có vị như thế nào?
+Nó có vị rất giống thịt gà, nhưng ngọt hơn nhiều…không biết nước sốt có vị gì nhỉ?
 
-Tôi thử thêm nước sốt giống miso mà người dân làng đưa cho tôi và tận hưởng hương vị khác biệt mà nó
-tạo ra.
+Tôi thử thêm nước sốt giống như miso mà người dân đưa cho và thưởng thức hương vị khác mà nó tạo ra.
 
-Vì vậy, tôi đang thưởng thức đồ ăn thì một người dân làng khác đến gần tôi, tay cầm ly đầy.
+Tôi đang thưởng thức đồ ăn thì một người dân khác tiến đến, tay bưng những ly đầy.
 
-“Cảm ơn vì đã cứu ngôi làng của chúng tôi và thậm chí còn cho chúng tôi ăn thịt Chim Mephistos!! Hãy
-kể cho tôi nghe về trận chiến hoặc chuyến đi của bạn, nào!”
+"Cảm ơn anh đã cứu ngôi làng của chúng tôi và thậm chí cho chúng tôi thưởng thức thịt Chim Mephistos!! Kể cho tôi nghe về trận chiến hoặc hành trình của anh đi, nào!!"
 
-Tôi bắt đầu trò chuyện với người dân làng trong khi uống ly nước trái cây mà anh ấy đưa cho tôi.
+Tôi bắt đầu trò chuyện với người dân trong khi uống ly nước ép mà anh ấy đưa.
 
-Một lúc sau, trưởng lão đến gặp tôi.
+Một lúc sau, trưởng làng đến chỗ tôi.
 
-"Ông. Haruto, chúng tôi thực sự biết ơn. Bạn là vị cứu tinh của ngôi làng này. Tôi biết số tiền
-không nhiều nhưng đây là phần thưởng tôi đã hứa, năm đồng vàng. Xin hãy nhận lấy chúng.”
+"anh Haruto, chúng tôi thực sự biết ơn. Anh là ân nhân của ngôi làng này. Tôi biết là không nhiều, nhưng đây là phần thưởng tôi hứa, năm đồng vàng. Xin nhận lấy."
 
-Người đàn ông đưa cho tôi một chiếc túi da nhưng tôi đẩy nó lại vào tay anh ta và nói rằng tôi không
-cần.
+Trưởng làng đưa tôi một chiếc túi da nhưng tôi đẩy nó lại vào tay ông ấy, nói rằng tôi không cần.
 
-“Nhưng, chúng ta không thể…”
+"Nhưng, chúng tôi không thể…"
 
-“Tôi không chấp nhận yêu cầu trả tiền của anh…Tôi chấp nhận nó vì anh nói với tôi rằng Mephistos
-Bird có vị rất ngon. Thế nên miếng thịt này là phần thưởng đủ cho tôi rồi.”
+"Tôi không nhận yêu cầu của ông vì tiền…tôi nhận vì ông nói với tôi rằng Chim Mephistos có vị ngon. Vậy nên phần thịt này là phần thưởng đủ cho tôi rồi."
 
-“Có thể là vậy, nhưng…”
+"Có thể là vậy, nhưng…"
 
-“Tôi đã tự nguyện làm điều đó nên không có gì phải lo lắng cả.”
+"Tôi làm vì ý muốn của mình, nên ông không cần phải lo lắng gì cả."
 
-Trưởng lão cuối cùng cũng bị thuyết phục và mỉm cười.
+Trưởng làng cuối cùng cũng bị thuyết phục và mỉm cười.
 
-"Hmm tôi thấy. Vậy hãy thưởng thức bữa tiệc một cách thỏa thích nhé.”
+"Hmm…tôi hiểu rồi. Vậy xin anh hãy thưởng thức bữa tiệc thỏa thích."
 
-"Bạn đặt cược tôi sẽ!"
+"Tất nhiên rồi!"
 
-Tôi mỉm cười đáp lại và tận hưởng trọn vẹn thời gian còn lại của buổi tối.
+Tôi mỉm cười đáp lại và tận hưởng trọn vẹn phần còn lại của buổi tối.
 
 ~
 
-Chúng tôi thưởng thức bữa tiệc thoải mái, nghỉ qua đêm tại quán trọ trong làng - được mời miễn phí
-như một lời tri ân - và rời đi vào sáng hôm sau, trong khi dân làng vẫy tay chào tạm biệt.
+Chúng tôi thưởng thức bữa tiệc không giới hạn, nghỉ đêm ở nhà trọ của làng — được cung cấp miễn phí như một cử chỉ cảm ơn — và rời đi sáng hôm sau, với người dân vẫy tay chào tạm biệt.
 
-Trong suốt cuộc hành trình, tôi để Barnar và những người khác làm nhiệm vụ canh gác và tập trung chế
-tạo vũ khí cho mình.
+Trong suốt hành trình, tôi để Barnar và những người khác đảm nhận việc canh gác và tập trung vào việc tạo một vũ khí cho bản thân.
 
-Dù sao thì tôi cũng chỉ có thanh kiếm mua ở chợ: tự mình đúc một vũ khí sẽ mang lại kết quả tốt hơn.
+Dù sao tôi cũng chỉ có thanh kiếm mua ở chợ: tự tạo hình một vũ khí sẽ cho ra thứ tốt hơn.
 
-Vì vậy tôi nghĩ đến việc tạo ra một thanh katana để tôi sử dụng.
+Vậy nên tôi nghĩ đến việc tạo một thanh katana cho mình sử dụng.
 
-Lý do tại sao tôi quyết định chọn một thanh katana chứ không phải một thanh kiếm bình thường rất đơn
-giản: nó trông ngầu hơn đối với tôi.
+Lý do tôi quyết định chọn katana, thay vì kiếm thường, thì đơn giản: nó trông ngầu hơn với tôi.
 
-Tuy nhiên, vì tôi định chế tạo vũ khí đầu tiên của mình nên tôi không muốn sử dụng những vật liệu
-thông thường.
+Vì đây là vũ khí đầu tiên tôi tạo ra, tôi không muốn dùng nguyên liệu thông thường.
 
-Vì vậy, điều đầu tiên tôi làm là sử dụng cát sắt thu được từ đất và nặn nó thành một khối sắt.
+Vậy nên việc đầu tiên tôi làm là dùng cát sắt thu thập từ đất và tạo hình nó thành một khối sắt.
 
-Sau đó tôi truyền sức mạnh ma thuật của mình vào khối sắt để thay đổi hình dạng của nó.
+Sau đó tôi rót ma lực vào khối sắt, để thay đổi hình dạng của nó.
 
-Tuy nhiên, phải mất rất nhiều thời gian để sức mạnh ma thuật của tôi hòa quyện tốt với bàn ủi.
+Tuy nhiên, phải mất rất nhiều thời gian để ma lực hòa quyện tốt với sắt.
 
-Điều đã giúp tôi rất nhiều trong trường hợp này là khả năng điều khiển dòng thời gian bên trong kho
-lưu trữ chiều.
+Điều giúp tôi đắc lực trong trường hợp này là khả năng thao túng dòng chảy thời gian bên trong không gian lưu trữ.
 
-Tôi đổ ma lực vào khối sắt và đặt nó vào kho chứa chiều không gian cho quá trình hòa trộn. Bước tiếp
-theo là tăng tốc dòng thời gian của khối sắt sao cho một phút trên thực tế tương ứng với một trăm
-năm. Sau một phút, tôi lấy khối đá ra, truyền thêm ma lực rồi đặt nó trở lại bên trong.
+Tôi rót ma lực vào khối sắt và đặt nó vào không gian lưu trữ cho quá trình hòa trộn. Bước tiếp theo là tăng tốc dòng chảy thời gian cho khối sắt sao cho một phút ngoài đời tương ứng với một trăm năm. Sau khi một phút trôi qua, tôi lấy khối ra, rót thêm ma lực, rồi lại đặt vào bên trong.
 
-Tôi lặp lại quá trình này cho đến khi một nghìn năm trôi qua bên trong kho chứa chiều, cuối cùng tạo
-ra được một loại khoáng vật sở hữu sức mạnh ma thuật với mật độ đáng kinh ngạc.
+Tôi lặp lại quá trình cho đến khi một nghìn năm trôi qua bên trong không gian lưu trữ, cuối cùng chế tạo ra một khoáng chất sở hữu ma lực với mật độ đáng kinh ngạc.
 
-TÊN :
+| **TÊN:** | **Khối Sắt Ma Thuật** |
+| --- | --- |
+| **ĐỘ HIẾM:** | **Huyền Thoại** |
+| **GHI CHÚ:** | **Sắt đen giàu ma lực.** |
 
-Khối sắt ma thuật
+Ồ, một vật phẩm cấp Huyền Thoại…thật á…? Chà, tôi đoán không ai khác có thể tạo ra nguyên liệu như thế này, nên có lẽ là tự nhiên…
 
-HIẾM :
+Hài lòng với kết quả Đánh Giá, tôi rót toàn bộ ma lực vào Khối Sắt Ma Thuật và tạo hình nó thành một thanh katana.
 
-Huyền thoại
+Sau khoảng 30 phút tạo hình, kết quả là một thanh katana với lưỡi đen, dài khoảng 75cm.
 
-LƯU Ý :
+Hào hứng, tôi lập tức dùng Đánh Giá lên nó.
 
-Sắt ma thuật đen-giàu sức mạnh ma thuật.
+| **TÊN:** | **Katana Đen LV 1** |
+| --- | --- |
+| **ĐỘ HIẾM:** | **Huyền Thoại** |
+| **GHI CHÚ:** | **Katana được tạo bởi Haruto.**  **Có thể hấp thụ quái vật bị đánh bại làm**  **điểm kinh nghiệm để tiến hóa.**  **Tiến hóa ở cấp 10.** |
 
-Wow, một vật phẩm cấp Huyền thoại…nghiêm túc đấy…? Chà, tôi đoán là không ai khác có thể tạo ra vật
-liệu như thế này, nên nó có thể là tự nhiên…
+Rất tốt, thành phẩm cũng cấp Huyền Thoại, đủ tốt cho tôi.
 
-Hài lòng với kết quả Thẩm định, tôi dồn toàn bộ sức mạnh ma thuật của mình vào Khối Sắt Ma thuật và
-đúc nó thành một thanh katana.
+Dù hóa ra nó có thứ như cấp kỹ năng, dù là một vật phẩm….
 
-Sau khoảng 30 phút đúc khuôn, thành quả là một thanh katana có lưỡi màu đen, dài khoảng 75cm.
+Theo ghi chú, nó hấp thụ điểm kinh nghiệm để lên cấp…
 
-Quá phấn khích, tôi ngay lập tức sử dụng Thẩm định lên nó.
+Chà, tôi chắc chắn có thể thử chuyện hấp thụ sau.
 
-TÊN :
+Tôi dùng nguyên liệu thừa để làm vỏ kiếm và đặt thanh katana vào bên trong.
 
-Katana đen LV 1
+Sau khoảng một tiếng di chuyển nữa, Phát Hiện Sự Hiện Diện của tôi phát hiện vài con quái vật.
 
-HIẾM :
+Một con trong số chúng lớn hơn nhiều so với những con khác…
 
-Huyền thoại
+Tôi nói với Barnar và những người khác về cuộc tiếp cận của quái vật và chúng tôi chuẩn bị cho trận chiến.
 
-LƯU Ý :
+Những con quái vật cuối cùng xuất hiện là 30 con quái vật nhỏ giống người màu xanh lá, tất cả đều cầm gậy, và một con quái vật có hình dạng giống vậy — nhưng kích thước gấp đôi — mang theo rìu.
 
-Katana được tạo bởi Haruto.
+Ồ, chẳng lẽ đây là những con quái vật xuất hiện thường xuyên trong tiểu thuyết giả tưởng kiểu "thế giới khác"? Goblin?
 
-Có thể hấp thụ quái vật bị đánh bại như
+Lần đầu tiên gặp quái vật không giống động vật, mà thực sự mang đặc trưng của thế giới giả tưởng, tôi cảm thấy hào hứng dâng lên khi tôi dùng Đánh Giá lên chúng.
 
-điểm kinh nghiệm để tiến hóa.
+| **TÊN:** | **Tướng Goblin** |
+| --- | --- |
+| **CẤP:** | **50** |
+| **KỸ NĂNG:** | **Thuật Rìu LV 5**  **Tăng Cường Thể Chất LV 4**  **Lãnh Đạo LV 3**  **Phép Bóng Tối LV 3** |
 
-Tiến hóa ở cấp 10.
+| **TÊN:** | **Goblin** |
+| --- | --- |
+| **CẤP:** | **5** |
+| **KỸ NĂNG:** | **Thuật Gậy LV 1** |
 
-Rất đẹp, sản phẩm cuối cùng cũng đạt cấp Legend, với mình là đủ tốt.
+"Tướng Goblin á!? Sao lại có thêm quái vật hạng B ở đây!? Lẽ ra không có quái vật hạng B hay A quanh con đường này!!"
 
-Mặc dù hóa ra nó có thứ gì đó giống như cấp độ kỹ năng, mặc dù là một vật phẩm….
+"Haruto, xin lỗi vì đã làm phiền, nhưng anh có thể xử lý Tướng Goblin không?"
 
-Theo ghi chú, nó hấp thụ điểm kinh nghiệm để tăng cấp…
+"Để mấy con nhỏ cho tụi tôi!!"
 
-Chà, tôi chắc là tôi có thể thử thứ hấp thụ sau.
+Barnar, Norkas, và Oorde nhảy xuống xe mà không đợi tôi trả lời.
 
-Tôi sử dụng những vật liệu còn sót lại để làm bao kiếm và đặt thanh katana vào bên trong.
+"Khoan, mọi người—"
 
-Sau khoảng một giờ di chuyển nữa, Phát hiện Hiện diện của tôi đã bắt được một vài con quái vật.
+Nếu tất cả các anh đi chiến đấu thì ai sẽ bảo vệ Bacchus và những người khác!?
 
-Một trong số chúng lớn hơn nhiều so với những cái khác…
+Tôi đang định nói với họ thì Tướng Goblin tung ra phép bóng tối cấp cơ bản, Cầu Tối, nên tôi phải né.
 
-Tôi nói với Barnar và những người khác về cách tiếp cận của lũ quái vật và chúng tôi chuẩn bị cho
-trận chiến.
+Trong lúc đó, Barnar và những người khác đã bắt đầu chiến đấu với lũ Goblin.
 
-Những con quái vật cuối cùng xuất hiện là 30 con quái vật nhỏ màu xanh lá cây giống con người, tất
-cả đều mang theo gậy và một con quái vật có ngoại hình giống nhau — nhưng kích thước gấp đôi — được
-trang bị một chiếc rìu.
+Họ không để tôi có lựa chọn nào khác…
 
-Ồ, đây có phải là những con quái vật thường xuyên xuất hiện trong tiểu thuyết giả tưởng theo phong
-cách “thế giới khác” không? Yêu tinh?
+Tôi dùng Toàn Năng tạo một kỹ năng hàng rào.
 
-Lần đầu tiên chạm trán với những con quái vật không giống động vật nhưng thực sự là đặc trưng của
-một thế giới giả tưởng, tôi cảm thấy phấn khích tăng lên khi thực hiện Thẩm định lên chúng.
+<<Kỹ năng "Ma Thuật Hàng Rào" đã có được. Cấp kỹ năng đạt 10. Kỹ năng được thêm vào Hợp Nhất Phép Thuật.>>
 
-TÊN :
+Hiệu ứng của kỹ năng ma thuật hàng rào như sau:
 
-Tướng quân yêu tinh
+**<Ma Thuật Hàng Rào>**
 
-MỨC ĐỘ :
+**Triển khai hàng rào tại vị trí được chỉ định.**
 
-50
+Được, vậy đặt hàng rào quanh xe ngựa và…
 
-KỸ NĂNG :
+Tướng Goblin tiến đến gần tôi và định vung rìu xuống đầu tôi, nên tôi phải lùi bước tránh. Hơi sát thương cho rồi.
 
-Nghệ Thuật Rìu LV 5
+"Suy Nghĩ Song Song cho tôi đủ khoảng trống, nhưng tùy đối thủ tôi có thể không có đủ thời gian để né…"
 
-Tăng cường thể chất LV 4
+Tôi vừa thì thầm với chính mình, thì nghe thấy giọng nói robot quen thuộc.
 
-Lãnh đạo LV 3
+<<Kỹ năng "Tăng Tốc Tư Duy" đã có được.>>
 
-Ma thuật bóng tối LV 3
+…không còn gì làm tôi ngạc nhiên nữa.
 
-TÊN :
+Tôi lập tức kích hoạt Tăng Tốc Tư Duy và cảnh tượng trước mắt dừng lại.
 
-Yêu tinh
+Chính xác hơn, nó chuyển động rất chậm, nhưng tư duy nhanh hơn của tôi cho phép tôi nhận thức mọi chuyển động là rất chậm.
 
-MỨC ĐỘ :
+Tôi đoán mình đã tăng tốc quá nhiều…nó khó kiểm soát, nên tôi quyết định tạm thời chỉ dùng Suy Nghĩ Song Song.
 
-5
+Tôi hủy kích hoạt Tăng Tốc Tư Duy và phản đòn Cầu Tối, bắn ở khoảng cách rất gần bởi Tướng Goblin, bằng đối trọng phép ánh sáng của nó, Cầu Sáng, và cả hai biến mất.
 
-KỸ NĂNG :
+"...GUH?"
 
-Câu lạc bộ nghệ thuật LV 1
+Tướng Goblin hình như ngẩn người trước diễn biến bất ngờ.
 
-“Một tướng Goblin!? Tại sao lại có một con quái vật hạng B khác ở đây!? Đáng lẽ không nên có quái
-vật hạng B hay A quanh con đường này!!”
+Tôi không để khoảng trống ấy trôi qua mà vung thanh katana mới tạo.
 
-“Haruto, xin lỗi vì đã làm phiền, nhưng cậu có thể chăm sóc Tướng quân được không?”
+<<Kỹ năng "Thuật Rút Kiếm" đã có được. Cấp kỹ năng đạt 10. Kỹ năng được thêm vào Hợp Nhất Võ Thuật.>>
 
-“Hãy để những cái nhỏ hơn cho ba chúng tôi!”
+Khi giọng nói vang lên trong đầu tôi, tôi đặt thanh katana trở lại vỏ.
 
-Barnar, Norkas và Oorde nhảy xuống xe mà không đợi tôi trả lời.
+Âm thanh "ka-ching" dễ chịu của chuôi kiếm đập vào bao kiếm vọng đến tai tôi và, đồng thời, đầu Tướng Goblin tuột ra khỏi cổ, tiếp theo là phần còn lại của cơ thể nó sụp đổ.
 
-“Chờ đã các bạn—”
+Quả là vật phẩm cấp Huyền Thoại…nó chém khá ngọt.
 
-Nếu tất cả các bạn cùng chiến đấu thì ai sẽ bảo vệ Bacchus và những người khác!?
+Tôi cũng nên thử khả năng hấp thụ được đề cập trong ghi chú của Katana Đen.
 
-Tôi định nói với họ rằng khi Goblin General tung ra một phép thuật bóng tối cấp cơ bản, Dark Ball,
-nên tôi phải né nó.
+Tôi lại rút katana, giữ trên xác Tướng Goblin, và ra lệnh cho nó hấp thụ con quái vật.
 
-Trong lúc đó, Barnar và những người khác đã bắt đầu chiến đấu chống lại lũ Goblin.
+Ngay khi tôi làm vậy, cơ thể con quái vật bắt đầu phát sáng đủ màu cầu vồng, rồi biến thành các hạt bị thanh katana hấp thụ.
 
-Họ không cho tôi lựa chọn nào khác…
+<<Katana Đen đã đạt cấp 2.>>
 
-Tôi đã sử dụng All Creation để tạo ra một kỹ năng rào chắn.
+Ồ, nó lên cấp rồi.
 
-<<Đã nhận được Kỹ năng “Ma thuật rào cản”. Cấp độ kỹ năng đạt 10. Kỹ năng được thêm vào Hợp nhất ma
-thuật.>>
+Tôi muốn lên cấp 10 nhanh để xem chuyện gì xảy ra, nhưng tôi không biết sẽ mất bao nhiêu thời gian. Chà, thực ra cũng không có lý do gì để vội, nên tôi quyết định từ từ và chờ đợi.
 
-Hiệu ứng của kỹ năng ma thuật rào chắn như thế này:
+Tôi nhìn về phía Barnar: anh ấy đã nhận ra những gì tôi làm và đang đi về phía tôi.
 
-<Ma thuật rào chắn>
+Barnar và hai đồng đội đã chứng kiến thanh katana của tôi hấp thụ xác Tướng Goblin và có vẻ muốn nói gì đó, nhưng khi tôi cười toe toét, họ chỉ thở dài và lắc đầu.
 
-Triển khai các rào cản ở một vị trí được chỉ định.
+"...Tôi thấy anh lại làm mấy chuyện bí ẩn như thường…và tôi chắc rằng dù có giải thích thì chúng tôi cũng không hiểu…dù sao, anh cũng xử lý nhanh gọn Tướng Goblin, đúng như dự kiến của anh, tôi đoán vậy."
 
-Được rồi, vậy hãy đặt một rào chắn xung quanh xe ngựa và…
+"Ừ, tôi cũng tò mò. Nhưng tôi cá là anh có thể giải thích bằng, 'Đó là Haruto mà'."
 
-Con Goblin General tiến lại gần tôi và định vung rìu vào đầu tôi nên tôi phải lùi lại để tránh
-đường. Đó là một chút quá gần để thoải mái.
+"Norkas nói trúng tim đen rồi đó, Barnar, 'Đó là Haruto mà'."
 
-“Suy nghĩ song song cho tôi đủ thời gian, nhưng tùy thuộc vào đối thủ, tôi có thể không có đủ thời
-gian để né tránh…”
+"Norkas, Oorde…tôi cho là các anh đúng, 'Đó là Haruto mà'!"
 
-Thế là tôi thì thầm với chính mình, rồi nghe thấy giọng nói quen thuộc của người máy.
+Ba mạo hiểm giả gật đầu chắc chắn với nhau.
 
-<<Nhận được Kỹ năng “Tăng Tốc Suy Nghĩ”.>>
+"Này này, 'Đó là Haruto mà' thì giải thích được cái gì chứ!?"
 
-…không có gì làm tôi ngạc nhiên nữa.
+Tôi bày tỏ sự bất mãn trước kết luận của họ, nhưng họ chỉ nhìn tôi như thể tôi là người tuyệt vọng và lắc đầu. Tôi thấy hơi khó chịu.
 
-Tôi ngay lập tức kích hoạt Suy nghĩ Gia tốc và khung cảnh trước mắt tôi dừng lại.
+Cùng lúc đó, Bacchus có lẽ đã xác nhận xung quanh an toàn và xuống xe.
 
-Chính xác hơn, nó chuyển động từng chút một, nhưng suy nghĩ nhanh hơn của tôi cho phép tôi cảm nhận
-bất kỳ chuyển động nào là rất chậm.
+"Cảm ơn mọi người vì tất cả. Chúng ta sắp đến Vaana rồi, nên hãy chăm sóc tụi tôi thêm một chút nữa nhé. Đồ ăn ở đó ngon lắm, anh biết đấy."
 
-Tôi đoán là tôi đã tăng tốc quá nhiều…rất khó để kiểm soát, nên tôi quyết định tạm thời chỉ sử dụng
-suy nghĩ song song.
+Nghe về món ngon đang chờ đợi, tất cả chúng tôi đều lên mây.
 
-Tôi vô hiệu hóa Suy nghĩ Gia tốc và chống lại Quả cầu Bóng tối, bị Tướng yêu tinh bắn ở khoảng cách
-rất gần, bằng đối tác ma thuật Ánh sáng của nó, Quả cầu Ánh sáng, và cả hai đều biến mất.
+Chúng tôi lại khởi hành và bị quái vật tấn công thêm vài lần nữa, nhưng nhờ sự hào hứng dâng cao, chúng không phải là đối thủ của chúng tôi.
 
-“…GUH?”
-
-Tướng Goblin dường như chết lặng trước diễn biến bất ngờ này.
-
-Tôi không để sơ hở đó lọt qua và tấn công bằng thanh katana mới chế tạo của mình.
-
-<<Nhận được Kỹ năng “Nghệ thuật vẽ nhanh”. Cấp độ kỹ năng đạt 10. Kỹ năng được thêm vào Hợp Nhất Võ
-Thuật.>>
-
-Khi giọng nói vang lên trong đầu tôi, tôi tra thanh katana vào vỏ.
-
-Âm thanh “ka-ching” dễ chịu của tay cầm chạm vào bao kiếm vang đến tai tôi, đồng thời, đầu của Tướng
-yêu tinh trượt và rơi khỏi cổ, sau đó là phần còn lại của cơ thể nó gục xuống.
-
-Đúng như mong đợi về một vật phẩm cấp Huyền thoại…nó khá tốt.
-
-Tôi cũng có thể thử khả năng hấp thụ được đề cập trong ghi chú của Thanh Katana Đen.
-
-Tôi rút thanh katana của mình ra một lần nữa, giơ nó lên trên xác của Tướng quân yêu tinh và ra lệnh
-cho nó hấp thụ con quái vật.
-
-Ngay sau khi tôi làm vậy, cơ thể con quái vật bắt đầu phát sáng với màu sắc cầu vồng, sau đó biến
-thành các hạt bị đồng hóa bởi lưỡi kiếm katana.
-
-<< Katana đen đạt cấp 2.>>
-
-Ồ, nó đã lên cấp rồi.
-
-Tôi muốn nhanh chóng tăng cấp lên cấp 10 và xem chuyện gì sẽ xảy ra, nhưng tôi không biết sẽ mất bao
-nhiêu thời gian. Chà, thực ra chẳng có lý do gì phải vội cả, nên tôi quyết định dành thời gian chờ
-đợi.
-
-Tôi nhìn về phía Barnar: anh ấy đã nhận thấy điều tôi làm và đang đi về phía tôi.
-
-Barnar và hai đồng đội của hắn đã chứng kiến ​​thanh katana của tôi hấp thụ xác của tên Goblin
-General và có vẻ muốn nói điều gì đó, nhưng khi tôi cười toe toét thì họ chỉ thở dài và lắc đầu.
-
-“…Tôi thấy bạn vẫn thích những thứ bí ẩn như thường lệ…và tôi chắc chắn rằng ngay cả khi bạn giải
-thích thì chúng tôi cũng sẽ không hiểu…dù sao thì, bạn chắc chắn đã xử lý được Goblin General một
-cách nhanh chóng, đúng như mong đợi của bạn, tôi phỏng đoán."
-
-“Ừ, tôi cũng tò mò. Nhưng tôi cá là bạn có thể giải thích điều đó bằng câu 'Đó là Haruto dành cho
-bạn'."
-
-“Norkas đã nói đúng rồi, Barnar, 'Đó là Haruto dành cho bạn'."
-
-“Norkas, Oorde…Tôi cho rằng bạn nói đúng, 'Đó là Haruto dành cho bạn'!"
-
-Ba nhà thám hiểm gật đầu chắc chắn với nhau.
-
-“Này, ‘Đó là Haruto dành cho bạn’ giải thích thế nào được!?”
-
-Tôi bày tỏ sự không hài lòng với kết luận của họ, nhưng họ chỉ nhìn tôi như thể tôi vô vọng và lắc
-đầu. Tôi thấy nó hơi khó chịu.
-
-Cùng lúc đó, Bacchus có lẽ đã xác nhận xung quanh vẫn an toàn và xuống xe.
-
-“Cảm ơn vì tất cả mọi thứ, tất cả các bạn. Chúng tôi rất thân với Vaana nên hãy quan tâm đến chúng
-tôi thêm chút nữa nhé. Đồ ăn ở đó ngon lắm đấy, cậu biết đấy.”
-
-Nghe về những món ăn ngon đang chờ đợi đã đưa tất cả chúng tôi lên chín tầng mây.
-
-Chúng tôi lại khởi hành và bị lũ quái vật tấn công thêm vài lần nữa, nhưng nhờ sự phấn khích tột độ
-nên chúng hoàn toàn không phải là đối thủ của chúng tôi.
-
-Vì thu hoạch các bộ phận của chúng có thể giúp kiếm được nhiều tiền lương thực hơn nên chúng tôi đã
-nhảy ra khỏi xe ngay khi phát hiện bất kỳ con quái vật nào và tiêu diệt chúng trong vài giây.
+Vì thu hoạch các bộ phận của chúng có thể kiếm thêm tiền ăn, nên chúng tôi nhảy xuống xe ngay khi phát hiện bất kỳ con quái vật nào và loại bỏ chúng trong vài giây.
 
 ~
 
-Cứ thế một giờ du hành trôi qua.
+Cứ thế một tiếng di chuyển trôi qua.
 
 Cuối cùng, một thị trấn hiện ra ở phía xa.
 
-“Đó là thị trấn biên giới Vaana!”
+"Đó là thị trấn biên giới Vaana!"
 
-Bacchus vui vẻ thông báo rằng chúng tôi đã gần đến đích và bụng chúng tôi bắt đầu cồn cào.
+Bacchus vui vẻ thông báo rằng chúng tôi sắp đến đích và bụng chúng tôi bắt đầu cồn cào.
 
-“Tất cả các bạn đều đói quá…?”
+"Mọi người đói thế…?"
 
-Bacchus vừa nói vừa cười gượng, nên tôi đáp lại một cách mạnh mẽ trong khi nắm chặt tay.
+Bacchus nói với nụ cười gượng, nên tôi đáp lại đầy quả quyết trong khi nắm chặt tay.
 
-“Tất nhiên là có rồi!! Khi chúng ta vào thị trấn, hãy bán các bộ phận của quái vật cho bang hội rồi
-đi nhét đầy bụng nhé!!”
+"Tất nhiên rồi!! Vào thị trấn là tụi mình bán bộ phận quái vật cho hội, rồi đi nhồi bụng!!"
 
-Barnar và những người khác cũng lên tiếng theo tôi.
+Barnar và những người khác cũng lớn tiếng theo tôi.
 
-“Cậu đã nói rồi đấy, Haruto!”
+"Nói chuẩn luôn, Haruto!"
 
-“Tối nay chúng ta sẽ say sưa!”
+"Tối nay sẽ ăn no nê!"
 
-“Không thể chờ đợi để thưởng thức!”
+"Chờ đã, sắp được ăn rồi!"
 
 Bacchus cười gượng về phía chúng tôi.
 
-Khi chúng tôi đến cổng thị trấn, Bacchus đi về phía lối vào dành cho thương nhân, giống như anh ấy
-đã làm ở Waxe.
+Khi chúng tôi đến cổng thị trấn, Bacchus hướng về lối vào dành cho thương nhân, như anh ấy đã làm ở Waxe.
 
-Chẳng bao lâu sau, đến lượt chúng tôi, và một người gác cổng tiến đến xe ngựa của chúng tôi.
+Đến lượt chúng tôi, một người canh cổng tiến đến xe ngựa.
 
-“Xin vui lòng cung cấp bằng chứng giao dịch của bạn - ồ, ông Bacchus! Tôi cho rằng những người đó là
-người hộ tống của bạn? Vui lòng xuất trình giấy tờ tùy thân của bạn.”
+"Giấy tờ thương nhân của ông, xin vui lòng — à, anh Bacchus! Mấy người đó là đoàn hộ tống của ông phải không? Xin cho xem giấy tờ tùy thân."
 
-Bacchus chắc chắn rất nổi tiếng…Tôi nghĩ thầm khi đưa thẻ mạo hiểm giả của mình ra, cùng với Barnar
-và những người khác.
+Bacchus đúng là nổi tiếng thật…tôi nghĩ thầm khi đưa ra thẻ mạo hiểm giả, cùng với Barnar và những người khác.
 
-Người bảo vệ rất ngạc nhiên khi một người trẻ tuổi như tôi đã là một nhà thám hiểm hạng B nhưng vẫn
-cho chúng tôi đi qua mà không gặp vấn đề gì.
+Người canh gác ngạc nhiên rằng một người trẻ như tôi đã là mạo hiểm giả hạng B, nhưng cho chúng tôi qua mà không gặp vấn đề gì.
 
-Cuối cùng chúng tôi cũng đến được Vaana!
+Cuối cùng, chúng tôi đã đến Vaana!
+
+---
+
+[←Trước](https://web.archive.org/web/20241206013446//twem-vol-1-chapter-7/) | [Tiếp→](https://web.archive.org/web/20241206013446//twem-vol-1-chapter-9/)

@@ -5,112 +5,110 @@ weight: 22
 
 # Chuyện bên lề phiên bản kỹ thuật số – Đón gái ở kinh thành – Báo cáo quan sát
 
-Tôi, Yuki Haruto, đang hướng tới quảng trường trung tâm thủ đô hoàng gia của vương quốc Perdis này.
+Tôi, Yuki Haruto, đang trên đường đến quảng trường trung tâm của thủ đô hoàng gia vương quốc Perdis này.
 
-Tôi đang đi mua sắm một mình để chuẩn bị cho yêu cầu tiếp theo, sau đó tôi phải gặp thành viên trong nhóm của mình,
-Finne, ở quảng trường trung tâm.
+Tôi đi mua sắm một mình để chuẩn bị cho yêu cầu tiếp theo, rồi sẽ gặp thành viên trong nhóm của mình, Finne, ở quảng trường trung tâm.
 
-Khi tôi đến quảng trường thì đã sớm năm phút so với thời gian quy định.
+Khi tôi đến quảng trường, vẫn còn năm phút trước giờ hẹn.
 
-Tôi nhìn quanh một chút và - tìm thấy cô ấy.
+Tôi nhìn quanh một chút và — tìm thấy cô ấy rồi.
 
-Finne đang đứng đó, chiếc mũ trùm đầu che khuất khuôn mặt.
+Finne đang đứng đó, chiếc mũ trùm che khuất khuôn mặt.
 
-Khoảnh khắc tiếp theo, một cơn gió mạnh thổi bay chiếc mũ trùm đầu của cô.
+Khoảnh khắc tiếp theo, một cơn gió tinh nghịch thổi bay chiếc mũ trùm khỏi đầu cô.
 
-Sự chú ý của những người đàn ông xung quanh hoàn toàn bị thu hút bởi nét đáng yêu của cô. Một số người trong số họ thậm
-chí còn đỏ mặt.
+Sự chú ý của những người đàn ông xung quanh hoàn toàn bị thu hút bởi nhan sắc xinh đẹp của cô. Có người thậm chí còn đỏ mặt.
 
-Trước khi tôi kịp đến gần Finne, hai người lạ đã đứng trước mặt cô ấy.
+Trước khi tôi kịp đến chỗ Finne, hai người lạ đã đứng trước mặt cô.
 
-“Nhìn em đáng yêu quá! Muốn uống cùng nhau không?”
+"Trông cô kìa, dễ thương quá! Muốn uống gì đó cùng nhau không?"
 
-“Chúng tôi là những mạo hiểm giả hạng B, bạn biết không?”
+"Bọn tôi là mạo hiểm giả hạng B, biết chứ?"
 
-Một cô gái tóc vàng và một cô gái tóc đỏ. Rõ ràng là họ đã tham gia vào cùng một hoạt động buôn bán của chúng tôi.
+Một gã tóc vàng và một gã tóc đỏ. Hóa ra họ cũng làm cùng nghề với chúng tôi.
 
-Tôi quyết định quan sát họ một chút và trốn trong bóng tối của một con hẻm gần đó.
+Tôi quyết định quan sát họ một lúc và nấp vào bóng tối của một con hẻm gần đó.
 
-“Không, tôi đang đợi ai đó, nên…”
+"Không, tôi đang đợi ai đó, nên…"
 
-“Nhưng cậu đã đợi được mười lăm phút rồi phải không? Tôi đang xem. Có lẽ họ không đến nữa?”
+"Nhưng cô đợi mười lăm phút rồi mà, đúng không? Tôi đang quan sát. Có lẽ họ không đến nữa rồi?"
 
-Finne, cậu đã đợi lâu quá à…?
+Finne, em đợi lâu vậy…?
 
-Tuy nhiên, Finne đã trả lời một cách chắc chắn.
+Tuy nhiên, Finne đáp lại một cách dứt khoát.
 
-“Không, anh ấy chắc chắn sẽ đến. Bây giờ còn năm phút nữa là tới giờ gặp mặt của chúng ta. Tôi chắc chắn bây giờ anh ấy
-đang ở gần và theo dõi chúng tôi.”
+"Không, anh ấy chắc chắn sẽ đến. Bây giờ vẫn còn năm phút trước giờ hẹn của chúng tôi. Tôi chắc chắn anh ấy đang ở gần và quan sát chúng ta."
 
-Hở? Có lẽ nào…cô ấy đã nhìn thấy tôi?
+Ế? Chẳng lẽ…cô ấy đã nhìn thấy mình?
 
-Không, cô ấy không nhìn về hướng này nên không thể nào được.
+Không, cô ấy không nhìn về hướng này, nên không thể nào.
 
-Tuy nhiên, cô gái tóc vàng lại cười nhạo lời nói của cô.
+Tuy nhiên, gã tóc vàng cười nhạo lời cô.
 
-“Haha! Nếu anh ta ở gần và theo dõi chúng ta, thì anh ta sợ chúng ta đến mức không dám ra ngoài!
+"Haha! Nếu anh ta ở gần và đang quan sát, thì anh ta sợ bọn tôi quá nên không dám ra mặt!"
 
-“Đ-điều đó không đúng!!”
+"K-không phải vậy đâu!!"
 
-Finne phản đối cô gái tóc vàng, nhưng cô ấy có vẻ hơi run.
+Finne phản đối gã tóc vàng, nhưng có vẻ cô hơi hoang mang.
 
-Sau đó cô ấy tiếp tục.
+Cô ấy tiếp tục.
 
-“Bởi vì Ngài Haruto là một nhà thám hiểm hạng A!!”
+"Bởi vì Haruto là mạo hiểm giả hạng A!!"
 
-Cô gái tóc vàng và tóc đỏ cười lớn hơn.
+Gã tóc vàng và gã tóc đỏ cười lớn hơn.
 
-“Hạng A!? Ôi làm ơn! Cậu chỉ đang bịa ra chuyện đó để chạy trốn khỏi chúng tôi thôi phải không?”
+"Hạng A á!? Ôi xin thôi! Cô chỉ bịa ra để chạy khỏi bọn tôi thôi đúng không?"
 
-“Ừ, tôi cá là cô ấy đang nói dối - đợi một chút. Cậu vừa nói tên anh ấy là gì?”
+"Ừ, tôi cá là cô ấy nói dối — chờ một chút. Cô vừa nói tên anh ta là gì?"
 
-Cô gái tóc vàng dường như nhận thấy có điều gì đó không ổn.
+Gã tóc vàng có vẻ nhận ra có gì đó không ổn.
 
-“Thưa ngài Haruto…”
+"H-Haruto ạ…"
 
-Chàng trai tóc vàng dường như nhớ lại điều gì đó: anh ta nhìn xuống và bắt đầu lẩm bẩm.
+Gã tóc vàng dường như nhớ ra điều gì đó: hắn cúi xuống và bắt đầu lẩm bẩm.
 
-“Này, cậu có chuyện gì vậy?”
+"Này, mày làm sao vậy?"
 
-Chàng trai tóc vàng ngẩng đầu lên và nhìn cô gái tóc đỏ.
+Gã tóc vàng ngẩng đầu lên và nhìn gã tóc đỏ.
 
-“…chúng ta đã nghe nói về nhà thám hiểm đã hạ gục băng đảng Ebony Wolves, phải không…?”
+"…chúng ta có nghe về mạo hiểm giả đã hạ gục băng Sói Gỗ Mun đúng không…?"
 
-“Ừ, người cuối cùng đã tiêu diệt được bọn cướp khốn nạn đó phải không? Tên anh ấy là – đừng nói cho tôi biết nhé!?”
+"Ừ, là gã cuối cùng đã tiêu diệt lũ cướp khốn kiếp đó đúng không? Tên hắn là — đừng nói là!?"
 
-Cô gái tóc đỏ cũng nhận ra nên tôi rời khỏi cái bóng mà tôi đang ẩn nấp và tiến lại gần Finne.
+Gã tóc đỏ cũng nhận ra, nên tôi rời khỏi bóng tối và tiến đến chỗ Finne.
 
-“Này, cậu đợi có lâu không?”
+"Ê, đợi lâu chưa?"
 
-Tôi vẫy tay chào Finne như thể không có chuyện gì xảy ra nhưng cô ấy lại trừng mắt nhìn tôi. Vậy là cô ấy đã thực sự tìm
-thấy tôi…
+Tôi vẫy tay với Finne như không có chuyện gì, nhưng cô ấy trừng mắt lại tôi. Vậy là cô ấy thật sự đã tìm thấy mình…
 
-Sau một hồi im lặng, Finne bĩu môi và hỏi tôi một câu.
+Sau một khoảng im lặng ngắn, Finne phụng phịu và hỏi tôi một câu.
 
-“…Ngài Haruto, ngài không có gì muốn nói sao?”
+"…Haruto, anh không có gì muốn nói sao?"
 
-Phu nhân Finne có vẻ đang có tâm trạng khá khó chịu.
+Có vẻ Finne đang khá giận.
 
-“Tôi xin gửi lời xin lỗi sâu sắc nhất vì nghĩ rằng việc trốn và nhìn có thể rất buồn cười!!”
+"Em xin lỗi vì đã nghĩ là trốn vào quan sát sẽ vui!!"
 
 Tôi lập tức quỳ xuống đất và xin lỗi.
 
-Cô gái tóc vàng và cô gái tóc đỏ không thể theo kịp diễn biến đột ngột, nhưng khi họ lấy lại bình tĩnh, cô gái tóc vàng
-nói chuyện với tôi.
+Gã tóc vàng và gã tóc đỏ không theo kịp tình huống đột ngột, nhưng khi họ lấy lại tỉnh táo, gã tóc vàng lên tiếng với tôi.
 
-"Bạn là Hà phải không- "
+"Anh có phải Ha—"
 
-"Câm miệng!! Biến đi ngay!!”
+"Câm đi!! Cút đi!!"
 
-Tôi ngắt lời anh ta và ném cho họ cái nhìn trừng trừng tồi tệ nhất, nên cả hai vừa chạy vừa la hét.
+Tôi ngắt lời hắn và quát cho hắn một cái lườm dữ dội nhất, nên cả hai vội vã bỏ chạy trong tiếng la hét.
 
-“Ơm…quý cô Finne…?”
+"Ờm…Finne…?"
 
-“……”
+"……"
 
-“Tôi thực sự vô cùng xin lỗi!!”
+"Em thật sự thành thật vô cùng xin lỗi!!"
 
-Không còn cách nào khác ngoài việc xin lỗi trước áp lực im lặng quá lớn của Finne.
+Không còn cách nào khác ngoài xin lỗi trước áp lực thầm lặng áp đảo của Finne.
 
-Sau đó tôi bị bắt ngồi quỳ trên nền đất cứng và bị la mắng suốt một tiếng đồng hồ.
+Tôi sau đó bị ép ngồi trên mắt cá chân trên mặt đất cứng và nhận một bài giáo huấn kéo dài một giờ.
 
+---
+
+[←ToC](../../..) | [Next→](../side-story-part-1)

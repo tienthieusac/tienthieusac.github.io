@@ -5,322 +5,307 @@ weight: 20
 
 # Ngoại Truyện – Trong khi đó, Những Anh Hùng…
 
-Khi vào trong, họ cảm thấy nhẹ nhõm khi nhận ra rằng nó không phải tối đen như mực mà chỉ có ánh sáng lờ mờ.
+Một khi vào trong, họ nhẹ nhõm nhận ra rằng nơi đây không tối đen mà chỉ có ánh sáng lờ mờ.
 
-“Nó sáng hơn tôi nghĩ.”
+"Sáng hơn tôi tưởng."
 
-“Ừ, tôi cứ tưởng trời sẽ tối hơn.”
+"Ừ, tôi cũng tưởng sẽ tối hơn."
 
-Ý kiến ​​của Asakura và Shinonome đã được Marvelle trả lời.
+Bình luận của Asakura và Shinonome được Marvelle trả lời.
 
-“Đó là vì một số viên đá tạo thành tường và trần nhà có thể phát ra ánh sáng. Hãy nhìn những viên đá đằng kia và bạn sẽ
-thấy.”
+"Bởi vì một số viên đá tạo nên tường và trần có thể phát sáng. Nhìn những viên đá ở đằng kia là các em sẽ thấy."
 
-Asakura và những người khác nhìn theo hướng Marvelle chỉ và bị thuyết phục.
+Asakura và những người khác nhìn theo hướng Marvelle chỉ và thuyết phục.
 
-“Tôi hiểu rồi, vậy ra đó là nơi ánh sáng phát ra.”
+"Hiểu rồi, vậy đó là nơi ánh sáng đến."
 
-“Thế giới mới này thật thú vị!”
+"Thế giới mới này thật thú vị!"
 
-Hầm ngục có hình dạng giống như một mê cung: mỗi con đường đều có nhiều khúc quanh. Con đường cũng bị chia cắt nhiều
-lần, vì vậy họ chưa bao giờ gặp bất kỳ nhóm nào khác vào ngục tối trước hoặc sau họ.
+Hầm ngục có hình mê cung: mỗi đường đi có nhiều khúc quanh. Đường đi cũng chia nhánh nhiều lần, nên họ không gặp bất kỳ đội nào khác vào trước hoặc sau họ.
 
-Trong một lúc, họ có thể tiếp tục mà không gặp phải bất kỳ con quái vật nào, nhưng đột nhiên Glifas và Marvelle bảo cả
-nhóm dừng lại.
+Một lúc, họ có thể tiến tới mà không gặp quái vật nào, nhưng đột nhiên Glifas và Marvelle bảo đội dừng lại.
 
-"Chuyện gì vậy?"
+"Có chuyện gì vậy?"
 
-“Quái vật đang đến. Sẵn sàng cho trận chiến."
+"Quái vật đang đến. Chuẩn bị chiến đấu."
 
-Glifas nhanh chóng trả lời câu hỏi của Tendo.
+Glifas nhanh chóng đáp lại câu hỏi của Tendo.
 
-Tendo và những người khác, cảm thấy căng thẳng, chuẩn bị chiến đấu.
+Tendo và những người khác, cảm thấy thần kinh căng thẳng, chuẩn bị chiến đấu.
 
-Tendo, Mogami và Shinonome ở phía trước, Ichinomiya và Asakura ở phía sau. Glifas và Marvelle đứng đằng sau họ: họ sẽ
-chỉ tham gia trong trường hợp thực sự cần thiết.
+Tendo, Mogami và Shinonome ở tuyến đầu, với Ichinomiya và Asakura ở hậu phương. Glifas và Marvelle đứng phía sau họ: họ sẽ chỉ tham gia trong trường hợp thật sự cần thiết.
 
-Tất cả thành viên đều chuẩn bị sẵn vũ khí, sẵn sàng chiến đấu. Sau khoảng 30 giây, ba con quái vật giống sói xuất hiện ở
-đầu bên kia hành lang.
+Tất cả thành viên sẵn sàng vũ khí, sẵn sàng chiến đấu. Sau khoảng 30 giây, ba con quái vật giống sói xuất hiện ở đầu kia của hành lang.
 
-“Những con quái vật đó được gọi là Greywulf. Chúng rất nhanh nhẹn và chiến đấu theo bầy phối hợp, hãy cẩn thận!”
+"Những quái vật đó được gọi là Greywulf. Chúng rất nhanh nhẹn và chiến đấu theo bầy có tổ chức, hãy cẩn thận!"
 
 Theo lời Glifas, Tendo và những người khác tấn công trước.
 
-Tendo rút thánh kiếm của mình, Shinonome rút kiếm, Mogami giơ nắm đấm được trang bị găng tay khi họ chạy về phía
-Greywulfs.
+Tendo rút thánh kiếm, Shinonome rút kiếm, Mogami giơ nắm đấm đeo găng khi họ lao về phía bầy Greywulf.
 
-Thánh kiếm là những thanh kiếm được ban phước với sức mạnh gây thêm sát thương cho quái vật, ác quỷ và những thứ tương
-tự.
+Thánh kiếm là những thanh kiếm được ban phước với sức mạnh gây thêm sát thương cho quái vật, ác quỷ và tương tự.
 
-Thánh kiếm của Tendo, một thanh kiếm cấp Huyền thoại tên là Mistilteinn, là một thanh kiếm rất mạnh cấp cho người dùng
-ba khả năng: “Thánh thuật”, có tác dụng hủy diệt lên quái vật, một “Rào cản” với sức mạnh tùy thuộc vào sức mạnh ma
-thuật của người dùng và “ Bất khả chiến bại” có sẵn trong 30 giây mỗi ngày.
+Thánh kiếm của Tendo, một thanh kiếm cấp Huyền Thoại tên Mistilteinn, là một thanh kiếm rất mạnh mẽ ban cho người dùng ba khả năng: "Thánh Quang" có hiệu ứng hủy diệt lên quái vật, "Hàng Rào" với sức mạnh tùy thuộc vào ma lực của người dùng và "Bất Khả Xâm Phạm" khả dụng 30 giây mỗi ngày.
 
-Vì nó chỉ có thể được sử dụng bởi người có sức mạnh ma thuật tương thích nên nó đã bị khóa trong kho của lâu đài trong
-nhiều năm, nhưng khi khả năng sử dụng thánh kiếm của Tendo được phát hiện, họ đã nhanh chóng rút nó ra để anh sử dụng.
+Vì nó chỉ có thể được sử dụng bởi người có ma lực tương thích, nên nó đã bị khóa trong kho của lâu đài nhiều năm, nhưng khi khả năng sử dụng thánh kiếm của Tendo được phát hiện, người ta nhanh chóng lấy ra cho cậu ấy sử dụng.
 
-Những anh hùng khác cũng nhận được vũ khí cao cấp, nhưng thanh thánh kiếm này vượt trội hơn hẳn những vũ khí còn lại.
+Các anh hùng khác cũng nhận được vũ khí cao cấp, nhưng thánh kiếm này vượt trội hơn hẳn.
 
-Do đó, Tendo đang lao về phía Greywulfs với vũ khí đáng gờm trong tay.
+Tendo vì vậy lao về phía bầy Greywulf với một vũ khí uy mãnh trong tay.
 
-Anh nhanh chóng vung kiếm, nhưng lũ quái vật né được dễ dàng.
+Cậu nhanh chóng vung kiếm, nhưng quái vật né một cách dễ dàng.
 
-Shinonome chém được một con nhưng chỉ gây được vết thương nhẹ.
+Shinonome kịp chém một con, nhưng chỉ gây được vết thương nhẹ.
 
-Mogami là người duy nhất đánh trúng trực tiếp nhưng anh ta cũng không thể gây sát thương chí mạng.
+Mogami là người duy nhất đánh trúng trực diện, nhưng cũng không gây được sát thương chí mạng.
 
-Ba chiến binh lùi lại, mỗi người đối mặt với một Greywulf.
+Ba chiến binh lùi lại, mỗi người đối diện một con Greywulf.
 
-Sự bế tắc cuối cùng đã bị phá vỡ bởi giọng nói trong trẻo của Ichinomiya.
+Bế tắc cuối cùng được phá vỡ bởi giọng nói trong trẻo của Ichinomiya.
 
-“Mọi người, nhắm mắt lại một giây thôi! Tôi sẽ làm chúng mù mắt!”
+"Mọi người, nhắm mắt một giây thôi! Em sẽ làm chúng mù tạm thời!"
 
-Tendo và những người khác làm theo theo bản năng và Ichinomiya kích hoạt một phép thuật.
+Tendo và những người khác theo bản năng tuân theo, và Ichinomiya kích hoạt phép thuật.
 
-" -Tốc biến!!"
+"—Chớp Lóa!!"
 
-Ngay cả khi họ quay lưng về phía nguồn sáng và nhắm mắt lại, Tendo và những người khác vẫn cảm nhận được ánh sáng rực
-rỡ. Lũ Greywulfs hứng chịu toàn bộ ánh sáng, khiến chúng không thể di chuyển.
+Ngay cả khi quay lưng về phía nguồn sáng và nhắm mắt, Tendo và những người khác vẫn cảm nhận được ánh sáng chói lóa. Bầy Greywulf chịu toàn bộ sức mạnh của ánh sáng, khiến chúng không thể cử động.
 
-Tận dụng sơ hở đó, Asakura thi triển câu thần chú mà cô đã chuẩn bị.
+Tận dụng kẽ hở đó, Asakura thi triển phép cô đã chuẩn bị.
 
-"Quả cầu lửa!!"
+"Hỏa Cầu!!"
 
-Quả cầu lửa do Asakura bắn bay về phía một trong những con Greywulf, đánh trúng nó và gây sát thương.
+Hỏa cầu Asakura phóng bay về phía một con Greywulf, đánh trúng gọn gàng và gây sát thương.
 
-Cùng lúc đó, Tendo và Shinonome tiếp cận hai con Greywulf khác và chặt đầu chúng.
+Cùng lúc đó, Tendo và Shinonome áp sát hai con Greywulf còn lại và chém đứt đầu chúng.
 
-Con Greywulf bị quả cầu lửa gây sát thương vẫn còn đang chùn bước khi Mogami kết liễu nó.
+Con Greywulf bị sát thương bởi hỏa cầu vẫn đang loạng choạng thì Mogami kết liễu nó.
 
-Trận chiến như vậy đã kết thúc: Glifas và Marvelle đợi cả nhóm bình tĩnh lại một chút rồi tiếp cận họ.
+Trận chiến vì vậy kết thúc: Glifas và Marvelle chờ nhóm bình tĩnh lại một chút, rồi tiến đến.
 
-"Làm tốt. Đối với trận chiến đầu tiên của bạn, nó đơn giản là xuất sắc.”
+"Làm tốt lắm. Với trận chiến đầu tiên, thật sự xuất sắc."
 
-“Tôi đồng ý với Glifas. Các bạn cũng đã làm việc cùng nhau rất tốt. Nhưng nếu bạn không chú ý hơn đến xung quanh khi di
-chuyển, bạn có thể khiến bản thân hoặc đồng đội gặp nguy hiểm. Hãy cẩn thận."
+"Tôi đồng ý với Glifas. Các em cũng phối hợp rất tốt. Nhưng nếu các em không chú ý hơn đến xung quanh khi di chuyển, các em có thể gây nguy hiểm cho bản thân hoặc đồng đội. Hãy cẩn thận."
 
-"Vâng thưa ba!!!"
+"Vâng ạ!!!"
 
-Tendo và những người khác đồng thanh trả lời.
+Tendo và những người khác đáp lại đồng thanh.
 
-Do đó, họ tiến nhanh về phía sâu của ngục tối.
+Họ vì vậy tiến nhanh về phía sâu của hầm ngục.
 
 ~
 
-Một tuần trôi qua kể từ khi các anh hùng bước vào ngục tối đầu tiên của họ.
+Một tuần trôi qua kể từ khi các anh hùng vào hầm ngục đầu tiên.
 
-Nhóm của Tendo, dưới sự bảo vệ của Glifas và Marvelle, là những người đầu tiên đến được phòng trùm ở tầng dưới cùng của
-ngục tối.
+Đội của Tendo, dưới sự bảo vệ của Glifas và Marvelle, là đội đầu tiên đến được phòng boss ở tầng dưới cùng của hầm ngục.
 
-"Vậy ông chủ ở đây à?"
+"Vậy boss ở đây sao?"
 
-“Vậy có vẻ như…ồ đúng rồi, hãy kiểm tra trạng thái của chúng ta trước khi bước vào.”
+"Có vẻ vậy…à đúng rồi, hãy kiểm tra trạng thái trước khi vào."
 
-Tendo gật đầu với Mogami, sau đó đề nghị họ nên kiểm tra trạng thái để xác minh khả năng chiến đấu của mình, nên tất cả
-đều thể hiện điều đó.
+Tendo gật đầu với Mogami, rồi đề nghị họ nên kiểm tra trạng thái để xác nhận khả năng chiến đấu, nên tất cả đều hiển thị trạng thái.
 
-Nhờ việc đi lại giữa thủ đô và ngục tối trong một tuần, chỉ số của nhóm đã tăng theo cấp số nhân.
+Nhờ qua lại giữa thủ đô và hầm ngục trong một tuần, chỉ số của đội đã tăng theo cấp số nhân.
 
-|             |                                                                                                                                                                                                                                                 |
-|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TÊN:        | Tendo Koji                                                                                                                                                                                                                                      |
-| MỨC ĐỘ:     | 43                                                                                                                                                                                                                                              |
-| TUỔI:       | 17                                                                                                                                                                                                                                              |
-| GIỐNG LOÀI: | Con Người (Người Thế Giới Khác)                                                                                                                                                                                                                 |
-| QUÀ:        | Người sử dụng Thánh Kiếm (Khả năng sử dụng tất cả các thánh kiếm. Cấp độ Kiếm thuật và Ma thuật Ánh sáng tăng dễ dàng hơn)                                                                                                                      |
-| KỸ NĂNG:    | Kiếm thuật LV 5<br>Hỏa thuật LV 3<br>Thủy thuật LV 3<br>Phong thuật LV 3<br>Thổ ma thuật LV 3<br>Ma thuật ánh sáng LV 4<br>Sự phát triển<br>Phát hiện sự hiện diện<br>Đất co lại LV 1<br>Tăng cường thể chất LV 4<br>Thẩm định<br>Hiểu ngôn ngữ |
-| TIÊU ĐỀ:    | người thế giới khác<br>Anh hùng<br>Người sử dụng thánh kiếm<br>Trạng thái của bốn thành viên còn lại cũng được hiển thị.                                                                                                                        |
-| TÊN:        | Ichinomiya Suzuno                                                                                                                                                                                                                               |
-| MỨC ĐỘ:     | 38                                                                                                                                                                                                                                              |
-| TUỔI:       | 17                                                                                                                                                                                                                                              |
-| GIỐNG LOÀI: | Con Người (Người Thế Giới Khác)                                                                                                                                                                                                                 |
-| QUÀ:        | Holy One (Khả năng sử dụng thánh thuật. Phép thuật ánh sáng và phép thuật phục hồi tăng cấp độ dễ dàng hơn)                                                                                                                                     |
-| KỸ NĂNG:    | Ma thuật ánh sáng LV 4<br>Ma thuật phục hồi LV 5<br>Thánh Ma Thuật LV 4<br>Tăng cường thể chất LV 3<br>Thẩm định<br>Hiểu ngôn ngữ                                                                                                               |
-| TIÊU ĐỀ:    | người thế giới khác<br>Anh hùng                                                                                                                                                                                                                 |
-| TÊN:        | Mogami Shinya                                                                                                                                                                                                                                   |
-| MỨC ĐỘ:     | 39                                                                                                                                                                                                                                              |
-| TUỔI:       | 17                                                                                                                                                                                                                                              |
-| GIỐNG LOÀI: | Con Người (Người Thế Giới Khác)                                                                                                                                                                                                                 |
-| QUÀ:        | Lực lượng kim cương (Nhận được "Sức mạnh". Nghệ thuật tay không và mức tăng cường thể chất tăng dễ dàng hơn)                                                                                                                                    |
-| KỸ NĂNG:    | Nghệ thuật tay không LV 5<br>Thổ ma thuật LV 4<br>Sức mạnh LV 4<br>Tăng cường thể chất LV 5<br>Độ bền LV 2<br>Thẩm định<br>Hiểu ngôn ngữ                                                                                                        |
-| TIÊU ĐỀ:    | người thế giới khác<br>Anh hùng                                                                                                                                                                                                                 |
-| TÊN:        | Shinonome Aoi                                                                                                                                                                                                                                   |
-| MỨC ĐỘ:     | 40                                                                                                                                                                                                                                              |
-| TUỔI:       | 17                                                                                                                                                                                                                                              |
-| GIỐNG LOÀI: | Con Người (Người Thế Giới Khác)                                                                                                                                                                                                                 |
-| QUÀ:        | Master of the Blade (Học được các kỹ năng liên quan đến kiếm và katana dễ dàng hơn; Cấp độ của các kỹ năng tương tự tăng dễ dàng hơn)                                                                                                           |
-| KỸ NĂNG:    | Kiếm thuật LV 5<br>Nghệ thuật Katana LV 5<br>Ma thuật sét LV 3<br>Tăng cường thể chất LV 4<br>Nghệ Thuật Vẽ Nhanh LV 4<br>Đất co lại LV 1<br>Chém Bay LV 2<br>Phát hiện sự hiện diện<br>Thẩm định<br>Hiểu ngôn ngữ                              |
-| TIÊU ĐỀ:    | người thế giới khác<br>Anh hùng                                                                                                                                                                                                                 |
-| TÊN:        | Asakura Natsuki                                                                                                                                                                                                                                 |
-| MỨC ĐỘ:     | 38                                                                                                                                                                                                                                              |
-| TUỔI:       | 17                                                                                                                                                                                                                                              |
-| GIỐNG LOÀI: | Con Người (Người Thế Giới Khác)                                                                                                                                                                                                                 |
-| QUÀ:        | Được thiên nhiên ban phước (Mức độ ma thuật Lửa, Gió, Đất và Nước tăng dễ dàng hơn)                                                                                                                                                             |
-| KỸ NĂNG:    | Hỏa thuật LV 4<br>Phong thuật LV 4<br>Thổ ma thuật LV 4<br>Thủy thuật LV 4<br>Tăng cường thể chất LV 3<br>Thẩm định<br>Hiểu ngôn ngữ                                                                                                            |
-| TIÊU ĐỀ:    | người thế giới khác<br>Anh hùng                                                                                                                                                                                                                 |
+| **TÊN:** | **Tendo Koji** |
+| --- | --- |
+| **CẤP:** | **43** |
+| **TUỔI:** | **17** |
+| **CHỦNG TỘC:** | **Người (Dị Giới)** |
+| **QUÀ TẶNG:** | **Người Dùng Thánh Kiếm (Khả năng sử dụng mọi thánh kiếm. Kiếm Thuật và Phép Ánh Sáng tăng cấp dễ dàng hơn)** |
+| **KỸ NĂNG:** | **Kiếm Thuật LV 5** **Phép Lửa LV 3** **Phép Nước LV 3** **Phép Gió LV 3** **Phép Đất LV 3** **Phép Ánh Sáng LV 4** **Tăng Trưởng** **Phát Hiện Sự Hiện Diện** **Co Ngắn Mặt Đất LV 1** **Tăng Cường Thể Chất LV 4** **Đánh Giá** **Hiểu Ngôn Ngữ** |
+| **DANH HIỆU:** | **Dị Giới** **Anh Hùng** **Người Dùng Thánh Kiếm** |
 
-Nhờ có Gift, những kỹ năng họ giỏi nhất đã tăng cấp đáng kể.
+Trạng thái của bốn thành viên khác cũng được hiển thị.
 
-Kỹ năng Tăng trưởng của Tendo cũng giúp anh nâng cao trình độ của mình hơn những người bạn đồng hành.
+| **TÊN:** | **Ichinomiya Suzuno** |
+| --- | --- |
+| **CẤP:** | **38** |
+| **TUỔI:** | **17** |
+| **CHỦNG TỘC:** | **Người (Dị Giới)** |
+| **QUÀ TẶNG:** | **Thánh Nhân (Khả năng sử dụng thánh quang. Phép Ánh Sáng và Phép Hồi Phục tăng cấp dễ dàng hơn)** |
+| **KỸ NĂNG:** | **Phép Ánh Sáng LV 4** **Phép Hồi Phục LV 5** **Thánh Quang LV 4** **Tăng Cường Thể Chất LV 3** **Đánh Giá** **Hiểu Ngôn Ngữ** |
+| **DANH HIỆU:** | **Dị Giới** **Anh Hùng** |
 
-Tuy nhiên, cấp độ của họ không hề thấp chút nào: tăng cấp nhiều như vậy chỉ trong một tuần là một kỳ tích rất hiếm.
+| **TÊN:** | **Mogami Shinya** |
+| --- | --- |
+| **CẤP:** | **39** |
+| **TUỔI:** | **17** |
+| **CHỦNG TỘC:** | **Người (Dị Giới)** |
+| **QUÀ TẶNG:** | **Lực Lượng Kim Cương (Có "Sức Mạnh". Quyền Pháp và Tăng Cường Thể Chất tăng cấp dễ dàng hơn)** |
+| **KỸ NĂNG:** | **Quyền Pháp LV 5** **Phép Đất LV 4** **Sức Mạnh LV 4** **Tăng Cường Thể Chất LV 5** **Bền Bỉ LV 2** **Đánh Giá** **Hiểu Ngôn Ngữ** |
+| **DANH HIỆU:** | **Dị Giới** **Anh Hùng** |
 
-Sau khi kiểm tra trạng thái của mình, cả nhóm đứng thành đội hình và mở cửa vào phòng trùm.
+| **TÊN:** | **Shinonome Aoi** |
+| --- | --- |
+| **CẤP:** | **40** |
+| **TUỔI:** | **17** |
+| **CHỦNG TỘC:** | **Người (Dị Giới)** |
+| **QUÀ TẶNG:** | **Bậc Thầy Lưỡi Kiếm (Có được kỹ năng liên quan đến kiếm và katana dễ dàng hơn; Cấp của cùng kỹ năng tăng dễ dàng hơn)** |
+| **KỸ NĂNG:** | **Kiếm Thuật LV 5** **Katana Thuật LV 5** **Phép Sấm Sét LV 3** **Tăng Cường Thể Chất LV 4** **Thuật Rút Kiếm Nhanh LV 4** **Co Ngắn Mặt Đất LV 1** **Chém Bay LV 2** **Phát Hiện Sự Hiện Diện** **Đánh Giá** **Hiểu Ngôn Ngữ** |
+| **DANH HIỆU:** | **Dị Giới** **Anh Hùng** |
 
-Cánh cửa mở ra một cách chậm rãi và nặng nề, để lộ ra một con quái vật đang chờ đợi ở căn phòng phía sau.
+| **TÊN:** | **Asakura Natsuki** |
+| --- | --- |
+| **CẤP:** | **38** |
+| **TUỔI:** | **17** |
+| **CHỦNG TỘC:** | **Người (Dị Giới)** |
+| **QUÀ TẶNG:** | **Được Thiên Nhiên Ban Phước (Phép Lửa, Phép Gió, Phép Đất và Phép Nước tăng cấp dễ dàng hơn)** |
+| **KỸ NĂNG:** | **Phép Lửa LV 4** **Phép Gió LV 4** **Phép Đất LV 4** **Phép Nước LV 4** **Tăng Cường Thể Chất LV 3** **Đánh Giá** **Hiểu Ngôn Ngữ** |
+| **DANH HIỆU:** | **Dị Giới** **Anh Hùng** |
 
-Con quái vật đó được gọi là Minotauros.
+Nhờ Quà Tặng của họ, các kỹ năng họ giỏi nhất đã tăng cấp đáng kể.
 
-Một con quái vật nửa người nửa bò, có thân hình người và đầu bò.
+Kỹ năng Tăng Trưởng của Tendo cũng giúp cậu nâng cấp nhanh hơn các đồng đội.
 
-Cơ thể to lớn của nó cao hơn ba metol và nó mang theo một chiếc rìu chiến lớn, có chiều cao gần bằng con trùm.
+Tuy nhiên, cấp của họ cũng không hề thấp: việc lên cấp nhiều như vậy chỉ trong một tuần là một thành tích rất hiếm.
 
-Tendo ngay lập tức sử dụng Thẩm định để kiểm tra sức mạnh của kẻ thù.
+Sau khi kiểm tra trạng thái, đội vào đội hình và mở cánh cửa đến phòng boss.
 
-|          |                                                                                       |
-|----------|---------------------------------------------------------------------------------------|
-| TÊN:     | Minotauros                                                                            |
-| MỨC ĐỘ:  | 41                                                                                    |
-| KỸ NĂNG: | Nghệ Thuật Rìu LV 5<br>Ma thuật sét LV 3<br>Tăng cường thể chất LV 2<br>Sức mạnh LV 4 |
-| TIÊU ĐỀ: | Ông chủ mê cung                                                                       |
+Cánh cửa mở chậm rãi và nặng nề, để lộ một con quái vật đang rình mồi trong căn phòng bên kia.
 
-“Nó có nhiều kỹ năng nhưng trình độ không có gì đặc biệt, nó sẽ là một miếng bánh đối với chúng ta!”
+Con quái vật được gọi là Minotauros.
 
-Mogami cảm thấy rất háo hức về cuộc chiến, nhưng Glifas đã khuyên nhủ họ.
+Nửa bò, nửa người, với thân người và đầu bò.
 
-“Đừng mất cảnh giác. Con quái vật đó không chỉ cao—”
+Cơ thể đồ sộ của nó dài hơn ba metol và nó mang theo một chiếc rìu lớn, cao xấp xỉ bằng boss.
 
-“Glifas! Đây là một bài kiểm tra cho Ngài Tendo và nhóm của ông ấy. Không cần phải nói gì cả.”
+Tendo lập tức dùng Đánh Giá để kiểm tra sức mạnh kẻ thù.
 
-Marvelle ngắt lời Glifas bằng một giọng nghiêm khắc khác thường với cô.
+| **TÊN:** | **Minotauros** |
+| --- | --- |
+| **CẤP:** | **41** |
+| **KỸ NĂNG:** | **Rìu Thuật LV 5** **Phép Sấm Sét LV 3** **Tăng Cường Thể Chất LV 2** **Sức Mạnh LV 4** |
+| **DANH HIỆU:** | **Maze Boss** |
 
-“Mmh, bạn nói đúng. Tôi xin lỗi, Marvelle…hãy cảnh giác nhé mọi người.”
+"Nó có nhiều kỹ năng nhưng cấp không có gì đặc biệt, sẽ là chuyện nhỏ với chúng ta!"
 
-Glifas gãi đầu và đưa ra lời cảnh báo cuối cùng cho cả nhóm, sau đó hai người hướng dẫn di chuyển đến một góc phòng,
-trong chế độ khán giả hoàn toàn.
+Mogami cảm thấy rất hăng hái về trận chiến, nhưng Glifas khiển trách họ.
 
-Tendo và những người khác đã ghi nhớ lời khuyên của anh ấy và chuẩn bị sẵn vũ khí, đồng thời quan sát cẩn thận kẻ thù.
+"Đừng mất cảnh giác. Con quái vật đó không chỉ cao lớn— "
 
-Trận chiến của họ chống lại Minotauros do đó đã bắt đầu.
+"Glifas! Đây là bài kiểm tra cho ngài Tendo và đội của cậu ấy. Không cần nói gì."
 
-Cuộc tấn công đầu tiên đến từ hậu quân, Ichinomiya và Asakura.
+Marvelle ngắt lời Glifas bằng giọng nghiêm khắc khác thường.
 
-“Mũi tên ánh sáng!”
+"Hừm, chị nói đúng. Tôi xin lỗi, Marvelle…hãy cẩn thận, mọi người."
 
-"Mũi tên lửa!"
+Glifas gãi đầu và đưa ra cảnh báo cuối cùng cho nhóm, rồi hai người hướng dẫn di chuyển đến một góc phòng, ở chế độ khán giả hoàn toàn.
+
+Tendo và những người khác ghi nhớ lời khuyên của ông và sẵn sàng vũ khí, đồng thời quan sát cẩn thận kẻ thù.
+
+Trận chiến của họ với Minotauros vì vậy bắt đầu.
+
+Đòn tấn công đầu tiên đến từ hậu phương, Ichinomiya, và Asakura.
+
+"Mũi Tên Ánh Sáng!"
+
+"Mũi Tên Lửa!"
 
 Cả hai đều sử dụng phép thuật cấp cơ bản.
 
-Phép thuật của họ nhắm vào mặt Minotauros nhưng cả hai đều dễ dàng bị vô hiệu hóa bởi rìu chiến của con quái vật.
+Phép của họ nhắm vào mặt Minotauros nhưng đều dễ dàng bị trung hòa bởi chiếc rìu của con quái vật.
 
-Tendo và Mogami lợi dụng sơ hở để tiến lại gần hơn.
+Tendo và Mogami tận dụng kẽ hở để tiến lại gần hơn.
 
-Thánh kiếm của Tendo bị chặn bởi rìu chiến.
+Thánh kiếm của Tendo bị rìu chặn lại.
 
-Tuy nhiên, Mogami đã cố gắng bước đến gần Minotauros hơn, dậm mạnh xuống đất và tung một quyền thẳng vào hai bên của con
-quái vật.
+Tuy nhiên, Mogami quản lý bước vào gần Minotauros, dẫm mạnh xuống đất, và tung một cú đấm thẳng vào sườn con quái vật.
 
-Một âm thanh ầm ầm trầm vang vọng khắp căn phòng, kèm theo tiếng hú đau đớn của lũ Minotauros.
+Một tiếng ùng ùng trầm vang khắp phòng, kèm theo tiếng gầm đau đớn từ Minotauros.
 
-Con quái vật bị buộc phải lùi lại một bước. Phía sau anh ta, Shinonome tận dụng sơ hở được tạo ra bởi đòn tấn công của
-bốn người bạn đồng hành của cô và kích hoạt kỹ năng Flying Slash.
+Con quái vật bị đẩy lùi một bước. Phía sau nó, Shinonome tận dụng kẽ hở được tạo ra từ đòn tấn công của bốn đồng đội và kích hoạt kỹ năng Chém Bay.
 
-Cú chém chém gọn gàng con Minotauros nhưng chỉ gây ra vết thương nhẹ, có lẽ là do lớp da dày của con quái vật.
+Vết chém đánh trúng Minotauros gọn gàng nhưng chỉ gây vết thương nhẹ, có lẽ do lớp da dày của con quái vật.
 
-Tức giận, con quái vật bò hú lên và vung rìu chiến về phía Shinonome.
+Tức giận, quái vật bò gầm lên và vung rìu về phía Shinonome.
 
-“Oa!!”
+"Waah!!"
 
-Cô cố gắng đỡ đòn tấn công bằng thanh kiếm của mình, nhưng không thể chịu đựng được đòn tấn công và bị thổi bay.
+Cô kịp đỡ đòn tấn công bằng kiếm, nhưng không chịu nổi sức mạnh của cú đánh và bị thổi bay.
 
-Cô bị đẩy vào tường rồi quỳ xuống trong đau đớn.
+Cô đập vào tường, rồi quỳ xuống trong đau đớn.
 
-“Ồ!?”
+"Aoi!?"
 
-Ichinomiya chú ý đến cô ấy và ngay lập tức hướng lòng bàn tay về phía cô ấy, niệm phép hồi phục.
+Ichinomiya nhận ra và lập tức hướng lòng bàn tay về phía cô, thi triển phép hồi phục.
 
-"…Chữa lành!"
+"…Chữa Lành!"
 
-Cơ thể Shinonome phát sáng mờ nhạt khi cơn đau rời khỏi cơ thể cô.
+Cơ thể Shinonome tỏa sáng ánh sáng nhạt khi cơn đau rời khỏi cơ thể cô.
 
-“Cảm ơn Suzuno! Lúc đó tôi đã mất cảnh giác, nhưng giờ tôi ổn rồi!”
+"Cảm ơn, Suzuno! Tớ bị bắt bất ngờ ở đó, nhưng giờ tớ ổn rồi!"
 
-Shinonome đứng dậy và đứng cạnh Tendo và Mogami vào vị trí của họ.
+Shinonome đứng dậy và gia nhập vị trí của Tendo và Mogami.
 
-Bộ ba tiền tuyến nhờ đó đã được đoàn tụ; họ tạo thành một đội hình nhỏ gọn, sát cánh bên nhau và đối mặt với Minotauros.
+Bộ ba tuyến đầu vì vậy đoàn tụ; họ giữ đội hình gọn, đứng cạnh nhau, và đối diện Minotauros.
 
-Cuộc nhìn chằm chằm tiếp tục diễn ra một lúc: cuối cùng, Tendo nhìn qua vai anh và gật đầu với Ichinomiya và Asakura.
+Cuộc đọ sức kéo dài một lúc: cuối cùng, Tendo nhìn qua vai và gật đầu với Ichinomiya và Asakura.
 
-Tendo sau đó quay về phía Minotauros và thực hiện những chuyển động cường điệu bằng thanh kiếm của mình, như thể anh ta
-đã sẵn sàng tấn công. Con quái vật nhận thấy nó và tập trung sự chú ý vào Tendo - ngay lập tức, phép thuật của người bảo
-vệ phía sau đánh vào mặt nó.
+Tendo quay sang Minotauros và làm động tác phóng đại với kiếm, như thể sẵn sàng tấn công. Con quái vật nhận ra và tập trung sự chú ý vào Tendo — ngay khoảnh khắc đó, phép thuật của hậu phương đánh vào mặt nó.
 
-Bất chấp sự bối rối của mình, con quái vật vẫn vung chiếc rìu chiến của nó xuống.
+Bất chấp sự bối rối, con quái vật vung rìu xuống.
 
-Shinonome chớp lấy cơ hội để di chuyển với sự điềm tĩnh lạnh lùng.
+Shinonome tận dụng cơ hội để di chuyển, với phong thái điềm tĩnh.
 
-“Phong cách Shinonome, đòn tấn công đầu tiên…Flowing Blade!”
+"Phong cách Shinonome, nhát đầu tiên…Lưỡi Kiếm Chảy!"
 
-Thanh kiếm của Shinonome khéo léo né được chiếc rìu chiến khi cô tiến đến gần con Minotauros và chém vào phần thân không
-có khả năng tự vệ của nó bằng một nhát chém thẳng lên.
+Kiếm của Shinonome khéo léo né rìu khi cô trượt sát Minotauros và chém phần thân không phòng thủ của nó bằng một nhát chém từ dưới lên.
 
-Cái bụng mềm mại của con Minotauros bị rạch toang, buộc con quái vật phải đánh rơi chiếc rìu chiến khi nó loạng choạng
-lùi lại một, hai bước.
+Bụng mềm của Minotauros bị mở ra, buộc con quái vật phải làm rơi rìu khi nó loạng choạng lùi lại một, hai bước.
 
-Mogami, người đã vòng ra sau lưng con quái vật, tận dụng cơ hội đó để thi triển phép thuật.
+Mogami, người đã vòng ra sau lưng con quái vật, tận dụng cơ hội đó để thi triển phép.
 
-“—Quả cầu đất!”
+"—Cầu Đất!"
 
-Khi Mogami phát âm tên của câu thần chú, một quả cầu đất rộng khoảng 10 cm xuất hiện trước mặt anh.
+Khi Mogami phát âm tên phép, một quả cầu đất rộng khoảng 10 cm xuất hiện trước mặt anh.
 
-Mogami sau đó kích hoạt kỹ năng “Might” để tăng sức mạnh tấn công của mình và đấm bóng.
+Mogami sau đó kích hoạt kỹ năng "Sức Mạnh", để tăng sức tấn công, và đấm quả cầu.
 
-Đạn đất bay với tốc độ đáng kinh ngạc và bắn trúng con Minotauros ngay tại nơi Shinonome đã làm nó bị thương, khiến con
-quái vật rên rỉ đau đớn.
+Đạn đất bay với tốc độ đáng kinh ngạc và đánh trúng Minotauros ngay chỗ Shinonome đã vết thương, khiến con quái vật gào thét trong đau đớn.
 
-“Mũi tên ánh sáng!”
+"Mũi Tên Ánh Sáng!"
 
-"Mũi tên lửa!"
+"Mũi Tên Lửa!"
 
-Ichinomiya và Asakura ngay lập tức thực hiện phép thuật của họ, và lũ Minotauros cuối cùng cũng ngừng di chuyển.
+Ichinomiya và Asakura lập tức tiếp theo với phép của họ, và Minotauros cuối cùng ngừng di chuyển.
 
-"Đi ngay!!"
+"Đi, ngay bây giờ!!"
 
-Shinonome, Mogami, Ichinomiya và Asakura đều đồng thanh nói.
+Shinonome, Mogami, Ichinomiya và Asakura tất cả đồng thanh nói.
 
-"Cảm ơn mọi người! Mistilteinn, hãy cho tôi sức mạnh..!”
+"Cảm ơn mọi người! Mistilteinn, hãy cho con sức mạnh…!"
 
-Tendo đã để bốn người còn lại phụ trách cuộc tấn công trong khi anh ta rèn luyện sức mạnh ma thuật của mình: bây giờ,
-sau khi gọi tên thánh kiếm của mình, anh ta lao về phía Minotauros.
+Tendo đã để bốn người kia phụ trách tấn công trong khi cậu ấy tạo hình ma lực: giờ, sau khi gọi tên thánh kiếm, cậu lao về phía Minotauros.
 
-Thanh thánh kiếm phát ra ánh sáng mạnh mẽ hơn, như thể đáp lại lời kêu gọi của anh.
+Thánh kiếm tỏa sáng rực rỡ hơn, như thể đáp lại lời gọi của cậu.
 
-Tendo ở ngay cạnh Minotauros ngay khi ánh sáng của thanh kiếm chạm tới đỉnh, rồi hét lên.
+Tendo ở ngay cạnh Minotauros ngay khoảnh khắc ánh sáng của kiếm đạt đến đỉnh, rồi hét lên.
 
-“Sự phán xét thiêng liêng!!”
+"Phán Quyết Thánh Thần!!"
 
-Thanh kiếm, được truyền một phép thuật thánh thuật cao cấp, cắt xuyên qua Minotauros không thương tiếc: do tác dụng của
-bùa chú, cơ thể của con quái vật biến mất trong không khí mỏng.
+Thanh kiếm, được rót vào phép thánh quang cấp cao, cắt xuyên Minotauros không thương tiếc: vì hiệu ứng của phép, cơ thể con thú biến mất vào hư không.
 
-Sau một lúc im lặng hoàn toàn, năm anh hùng đã reo hò ầm ĩ.
+Sau một khoảnh khắc im lặng hoàn toàn, năm anh hùng reo hò lớn.
 
-"Chúng ta làm được rồi!!!"
+"Chúng tôi đã làm được!!!"
 
-Glifas và Marvelle khen ngợi cả nhóm vui mừng khôn xiết bằng cách vỗ tay.
+Glifas và Marvelle khen ngợi đội đang vui mừng bằng cách vỗ tay.
 
-“Làm tốt lắm mọi người. Tinh thần đồng đội của bạn cũng thực sự tốt.”
+"Làm tốt lắm, mọi người. Sự phối hợp của các em cũng rất tốt nữa."
 
-“Xin chúc mừng, bạn đã hoàn thành ngục tối đầu tiên của mình. Bạn đã hợp tác tuyệt vời…đòn tấn công cuối cùng đặc biệt
-ấn tượng.”
+"Chúc mừng, các em đã hoàn thành hầm ngục đầu tiên. Các em hợp tác rất tốt…đòn tấn công cuối cùng đặc biệt ấn tượng."
 
 Tendo đỏ mặt và gãi má.
 
-"Cảm ơn rất nhiều. Nhưng tôi vẫn chưa thể sử dụng hết thanh kiếm này nên tôi sẽ luyện tập nhiều hơn.”
+"Cảm ơn rất nhiều. Nhưng con vẫn chưa thể sử dụng thanh kiếm này đến mức tối đa, nên con sẽ tập luyện thêm."
 
-“Khiêm tốn là một đức tính đáng khen ngợi, nhưng hôm nay bạn có lý do để hạnh phúc! Để xem nào, hãy để tôi chiêu đãi các
-bạn một món gì đó thật ngon khi chúng ta quay lại thủ đô nhé!”
+"Khiêm tốn là một phẩm chất đáng khen, nhưng hôm nay em có lý do để vui mừng! Để xem, để tôi đãi tất cả các em cái gì đó ngon khi chúng ta quay lại thủ đô!"
 
-Glifas cười toe toét và các anh hùng còn reo hò to hơn nữa.
+Glifas cười toe và các anh hùng reo hò lớn hơn nữa.
 
 ~
 
+---
+
+[←ToC](../../..) | [Next→](../side-story-part-3)
