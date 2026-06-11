@@ -1,516 +1,435 @@
 ---
-title: Chương 2 – Địa vị và sự lưu đày
+title: "Chương 2 – Trạng thái và sự lưu đày"
 weight: 2
 ---
 
-# Chương 2 – Địa vị và sự lưu đày
+# Chương 2 – Trạng thái và sự lưu đày
 
-Một lúc sau, chúng tôi đã tới phòng khán giả.
+Sau một lúc, chúng tôi đã đến điện tiếp kiến.
 
-Cánh cửa được trang trí sang trọng khắp nơi, đúng như mong đợi đối với phòng tiếp kiến ​​của một vị
-vua.
+Cánh cửa có đầy những họa tiết trang trí lộng lẫy, đúng như mong đợi cho sảnh tiếp kiến của một vị vua.
 
-“Như đã giải thích trước đó…bây giờ các bạn sẽ được diện kiến ​​Đức vua, những anh hùng cao quý. Khi
-đến gần nhà vua, hãy quỳ một chân xuống đất và cúi đầu.”
+"Như đã giải thích trước đó… giờ các vị sẽ được yết kiến Bệ Hạ, những Anh Hùng cao quý. Khi đến gần nhà vua, xin hãy quỳ gối một bên xuống đất và cúi đầu."
 
-“Ừ, chúng tôi hiểu.”
+"Vâng, chúng tôi hiểu ạ."
 
-Tất cả chúng tôi đều gật đầu sau câu trả lời của Tendo.
+Tất cả chúng tôi gật đầu sau câu trả lời của Tendo.
 
-Sau đó Mariana gõ cánh cửa xa hoa vài lần.
+Mariana sau đó gõ nhẹ vào cánh cửa sang trọng vài lần.
 
-Chẳng bao lâu sau, một giọng nói từ ngoài cửa ra lệnh cho chúng tôi tiếp tục.
+Ngay sau đó, một giọng nói từ bên kia cánh cửa truyền ra lệnh cho chúng tôi vào.
 
-Cùng lúc đó, cánh cửa mở ra và chúng tôi theo Mariana vào trong phòng khán giả.
+Cùng lúc đó, cánh cửa mở ra, và chúng tôi theo Mariana bước vào điện tiếp kiến.
 
-Căn phòng rộng hơn nhiều so với căn phòng chúng tôi ở trước đây và có các hiệp sĩ xếp hàng ở hai
-bên. Ở phía đối diện của căn phòng, có một chiếc ghế giống như ngai vàng và một ông già, có lẽ
-khoảng ngoài năm mươi, đang ngồi trên đó.
+Căn phòng lớn hơn nhiều so với căn phòng lúc trước, và có các hiệp sĩ xếp hàng dọc hai bên. Ở phía cuối phòng đối diện, có một chiếc ghế giống như ngai vàng và một ông lão, có lẽ ngoài năm mươi tuổi, đang ngồi trên đó.
 
-…mặc dù tôi đoán “ông già” sẽ thiếu tôn trọng vì ông ấy có thể là vua.
+…dù tôi đoán gọi "ông lão" thì hơi bất kính, vì người đó có lẽ là nhà vua.
 
-Mariana tiến về phía trước thêm vài bước rồi co một chân xuống đất và cúi đầu.
+Mariana bước tới thêm vài bước, rồi quỳ gối một bên xuống đất và cúi đầu.
 
-Chúng tôi làm theo muộn hơn một chút, do chưa quen với những phong tục như vậy.
+Chúng tôi làm theo một lúc sau, chậm hơn vì chưa quen với phong tục như vậy.
 
-“Hãy ngẩng đầu lên.”
+"Ngẩng đầu lên."
 
-Chúng tôi làm theo và thấy nhà vua đang nhìn chúng tôi với vẻ mặt rất nghiêm túc.
+Chúng tôi vâng lời, và thấy nhà vua đang nhìn chúng tôi với một vẻ mặt rất nghiêm túc.
 
-“Tôi cảm ơn vì đã đáp lại lời triệu tập của chúng tôi, hỡi những anh hùng. Tôi là vua của vương quốc
-Glicente này, Geil Forla Glicente. Tôi đã triệu tập bạn vì có điều gì đó tôi phải yêu cầu bạn.”
+"Trẫm cảm ơn các vị vì đã đáp lại lời triệu hồi, hỡi các Anh Hùng. Trẫm là quốc vương của vương quốc Glicente này, Geil Forla Glicente. Trẫm đã triệu hồi các vị vì có một việc trẫm cần nhờ các vị."
 
-Bài phát biểu của nhà vua cũng khá chuẩn mực.
+Bài phát biểu của nhà vua cũng khá giống những gì thường thấy trong khuôn mẫu.
 
-Vì vậy, tôi đoán rằng “yêu cầu” của anh ấy cũng sẽ là một câu kinh điển “làm ơn đánh bại quỷ vương”.
+Nên tôi đoán rằng "lời nhờ" của ngài cũng sẽ là kiểu kinh điển "xin hãy đánh bại Ma Vương".
 
-“Hiện tại ở thế giới này, vương quốc loài người đang bị đe dọa bởi thủ lĩnh của quân đội quỷ, người
-được gọi là quỷ vương. Vì vậy, yêu cầu của tôi là bạn hãy đánh bại quỷ vương và lực lượng của chúng.
-Tất nhiên, trước tiên bạn sẽ được huấn luyện, sau đó bạn sẽ có thêm sức mạnh thông qua việc khám phá
-và chinh phục các ngục tối, cuối cùng dẫn đến chiến đấu chống lại quỷ vương…bạn có chấp nhận lời cầu
-xin của chúng tôi không?”
+"Hiện tại ở thế giới này, các vương quốc loài người đang bị đe dọa bởi thủ lĩnh đạo quân yêu tộc, người được gọi là Ma Vương. Vậy nên lời nhờ của trẫm là xin các vị hãy đánh bại Ma Vương và đạo quân của hắn. Trước tiên, các vị sẽ được huấn luyện, sau đó sẽ tăng cường sức mạnh thông qua việc khám phá và chinh phục các hầm ngục, và cuối cùng là đối đầu với Ma Vương… các vị có chấp nhận lời thỉnh cầu của trẫm không?"
 
-Đúng, đúng như mong đợi.
+Đúng như dự đoán.
 
-Tôi bắt đầu cảm thấy khó chịu về việc chúng tôi bị ép phải triệu hồi thì một trong những người bạn
-thời thơ ấu của Tendo, Orihara Shoya, lên tiếng.
+Tôi đang bắt đầu cảm thấy bực mình vì bị triệu hồi một cách cưỡng ép, thì một người bạn thuở nhỏ của Tendo, Orihara Shoya, cất tiếng.
 
-“Thưa bệ hạ, trước khi chúng tôi đưa ra câu trả lời, tôi có thể hỏi một câu được không?”
+"Bệ Hạ, trước khi chúng tôi đưa ra câu trả lời, xin cho phép thần hỏi một câu."
 
-"Nó là gì?"
+"Là gì?"
 
-“Liệu chúng ta có thể quay trở lại thế giới của mình không?”
+"Chúng tôi có thể quay về thế giới của mình không ạ?"
 
-Sau câu hỏi của Orihara, tất cả chúng tôi đều nghiêm túc nhìn về phía nhà vua.
+Sau câu hỏi của Orihara, tất cả chúng tôi đều nhìn về phía nhà vua với vẻ nghiêm túc.
 
-Có thể quay trở lại hay không là một câu hỏi rất quan trọng: tất cả chúng tôi chắc chắn đều mong
-muốn.
+Có thể quay về hay không là câu hỏi rất quan trọng: chắc chắn ai cũng muốn quay về.
 
-Tuy nhiên, nhà vua đã trả lời với giọng xin lỗi.
+Tuy nhiên, nhà vua trả lời bằng giọng đầy áy náy.
 
-“…Tôi thực sự xin lỗi, nhưng hiện tại, cô không còn đường quay lại nữa.”
+"…Trẫm thực sự xin lỗi, nhưng ở thời điểm hiện tại, không có cách nào để các vị quay về."
 
-"Điều đó nghĩa là gì?"
+"Ý ngài là sao ạ?"
 
-Orihara nhấn ngay lập tức, giọng nói có chút lo lắng. Nhà vua gật đầu nghiêm túc và tiếp tục.
+Orihara hỏi ngay lập tức, giọng mang chút lo lắng. Nhà vua gật đầu nghiêm nghị rồi tiếp tục.
 
-“Như truyền thuyết kể, khi quỷ vương bị đánh bại, một lời tiên tri thiêng liêng sẽ được nhận, trình
-bày chi tiết cách quay trở lại thế giới cũ của mình. Tuy nhiên, hiện tại chúng tôi không biết đó là
-loại phương pháp nào…”
+"Như trong truyền thuyết, khi Ma Vương bị đánh bại, một lời tiên tri thần thánh sẽ được ban, ghi rõ cách để trở về thế giới cũ. Tuy nhiên, chúng tôi chưa biết phương pháp cụ thể là gì vào lúc này…"
 
-Tất cả nghe có vẻ khá đáng ngờ đối với tôi.
+Tất cả nghe có vẻ rất đáng nghi đối với tôi.
 
-Bất chấp những gì nhà vua đã nói, thực ra không có cách nào để quay trở lại…là một tác phẩm kinh
-điển khác trong số những câu chuyện “thế giới khác” này.
+Bất chấp những gì nhà vua nói, thực tế là không có cách nào để quay về… đúng là kiểu kinh điển khác trong những câu chuyện "dị giới" này.
 
-Trong trường hợp đó, các anh hùng sẽ bị coi là mối phiền toái sau khi quỷ vương bị đánh bại, hoặc họ
-sẽ nghe thấy những lời đe dọa như “Nếu muốn biết cách quay trở lại, hãy làm như chúng tôi nói” và
-buộc phải tuân theo mệnh lệnh của nhà vua…
+Trong trường hợp đó, các anh hùng sẽ bị coi là kẻ thừa thãi sau khi Ma Vương bị đánh bại, hoặc sẽ nghe những lời đe dọa kiểu "Nếu muốn biết cách quay về, hãy làm theo lời ta" và bị ép phải theo lệnh nhà vua…
 
-Tất nhiên, vẫn có khả năng có một cách để quay trở lại thực sự tồn tại…nhưng nếu chúng tôi không thể
-quay lại ngay lập tức, chúng tôi vẫn bị buộc phải tham gia vào nhiệm vụ tiêu diệt quỷ vương.
+Tất nhiên, vẫn có khả năng thực sự tồn tại cách quay về… nhưng nếu không thể trở về ngay, chúng tôi vẫn bị ép phải tham gia nhiệm vụ tiêu diệt Ma Vương.
 
-Có lẽ vì nhận ra điều đó nên một người bạn cùng lớp bắt đầu hét lên.
+Có lẽ vì cũng nhận ra điều đó, một bạn cùng lớp bắt đầu la lối.
 
-“Trò vớ vẩn của cậu đủ rồi!! Bạn triệu tập chúng tôi đến đây và thậm chí buộc chúng tôi phải chiến
-đấu!?
+"Thôi cái trò lừa bịp đó đi!! Triệu hồi bọn tôi đến đây rồi còn ép phải chiến đấu nữa á!?"
 
-Theo sau anh ta là một số giọng nói tương tự khác.
+Bạn ấy được vài tiếng đồng tình phía sau.
 
-"Anh ấy đúng!!"
+"Đúng rồi!!"
 
-“Đừng tự mình quyết định mọi thứ!!”
+"Đừng tự ý quyết định mọi thứ một mình!!"
 
-“Đây là thế giới của bạn, vì vậy hãy tự mình làm điều gì đó với nó đi!!”
+"Đây là thế giới của các người, tự giải quyết đi!!"
 
-“Đừng kéo người từ thế giới khác vào mớ hỗn độn của mình!!”
+"Đừng kéo người từ thế giới khác vào mớ hỗn độn của các người!!"
 
-Các cuộc biểu tình ngày càng lớn hơn cho đến khi Tendo thống trị chúng.
+Những lời phản đối ngày càng to, cho đến khi Tendo lên tiếng trấn áp.
 
-“Mọi người hãy nghe tôi nói một lát nhé!!”
+"Mọi người, xin hãy nghe tôi nói một lúc!!"
 
-Khán phòng hoàn toàn im lặng trong giây lát, khi mọi người có mặt đều quay về phía Tendo.
+Cả điện tiếp kiến im phăng phắc trong tích tắc, khi mọi người trong phòng quay sang Tendo.
 
-Tôi gần như tưởng tượng được điều anh ấy sắp nói nên tôi cau mày.
+Tôi phần nào đoán được anh ấy sẽ nói gì, nên tôi cau mày.
 
-Có lẽ anh ta định nói rằng hãy chấp nhận lời cầu xin của nhà vua và đánh bại quỷ vương.
+Có lẽ anh ấy sẽ bảo nên chấp nhận lời thỉnh cầu của nhà vua và đánh bại Ma Vương.
 
-Tendo thực sự là một chàng trai tốt, một người không bao giờ có thể để ai đó gặp rắc rối một mình.
-Đó là lý do vì sao cậu được các bạn cùng lớp khác quý mến và kính trọng, đồng thời các giáo viên
-cũng đánh giá cao cậu. Anh ấy có cái mà bạn gọi là sức thu hút.
+Tendo là một người rất tốt, kiểu không thể mặc kệ người khác gặp khó khăn. Đó là lý do anh ấy được các bạn cùng lớp yêu mến và kính trọng, các thầy cô cũng đánh giá rất cao. Anh ấy có thứ mà người ta gọi là uy tính cách.
 
-Lý do khiến trò hề của Mitsurugi và những người khác không leo thang thành bắt nạt thực sự cũng phần
-lớn là nhờ Tendo.
+Lý do mà trò đùa của Mitsurugi và đám của cậu ta không leo thang thành bắt nạt thực sự, phần lớn cũng nhờ Tendo.
 
-Tuy nhiên, thành thật mà nói…tôi thực sự không thể nói xấu anh ấy vì anh ấy đã giúp đỡ rất nhiều
-lần, nhưng Tendo đôi khi lại là một chàng trai quá tốt.
+Nói thật lòng thì… tôi không nỡ nói xấu anh ấy vì anh ấy đã giúp đỡ tôi rất nhiều lần, nhưng đôi khi Tendo quá tốt đến mức hơi quá đà.
 
-“Yêu cầu” đáng ngờ của nhà vua tốt hơn hết là nên từ chối nếu bạn nghĩ về nó một chút.
+"Lời 'nhờ' đáng ngờ của nhà vua tốt nhất là nên từ chối, nếu suy nghĩ một chút."
 
-Tôi định ngăn Tendo tiếp tục, nhưng—
+Tôi định ngăn Tendo lại, nhưng—
 
-“Tôi đang nghĩ đến việc chiến đấu chống lại quỷ vương, vì lợi ích của người dân trên thế giới này.”
+"Tôi đang nghĩ đến việc chiến đấu với Ma Vương, vì những người dân của thế giới này."
 
-Tôi đã không đến kịp.
+Tôi không kịp ngăn.
 
-Ôi, chết tiệt. Anh ấy thực sự đã đi và nói điều đó.
+Ối, chết tiệt. Anh ấy thực sự nói ra rồi.
 
-Lẽ ra bạn nên nghĩ về điều đó nhiều hơn…đó là điều tôi đang nghĩ khi Tendo tiếp tục nói.
+Anh nên suy nghĩ thêm một chút chứ… tôi đang nghĩ vậy thì Tendo tiếp tục nói.
 
-“Nếu điều đó có thể cứu được ít nhất một người, tôi sẽ chiến đấu. Nếu chúng ta là anh hùng, chúng ta
-sẽ giúp ích được gì đó. Mọi người, sẽ chiến đấu với tôi chứ!? Tôi biết điều này nghe có vẻ ích kỷ,
-nhưng… làm ơn!!”
+"Nếu có thể cứu được dù chỉ một người, tôi sẽ chiến đấu. Nếu chúng ta là Anh Hùng, chúng ta nên ích nước lợi dân. Mọi người, hãy cùng tôi chiến đấu chứ!? Tôi biết điều này nghe có vẻ ích kỷ, nhưng… xin mọi người!!"
 
-Tendo sau đó cúi đầu chào mọi người. Một trong những người bạn thời thơ ấu của anh, Mogami Shinya,
-là người đầu tiên trả lời.
+Tendo cúi đầu trước mọi người. Một người bạn thuở nhỏ của anh ấy, Mogami Shinya, là người đầu tiên đáp lại.
 
-“Anh luôn vì lợi ích của người khác, phải không…Tôi ở bên anh, anh bạn.”
+"Lúc nào cũng vì người khác đúng không… Tao đi cùng mày."
 
-Tôi đã mong đợi Mogami kiểu đầu cơ bắp sẽ nói vậy, nhưng lại thở dài và thì thầm "Anh cũng vậy
-à...?" đối với bản thân tôi cũng vậy.
+Tôi đoán trước được kiểu người cơ bắp Mogami sẽ nói vậy, nhưng vẫn thở dài và lẩm bẩm "Cậu cũng vậy sao…?" với chính mình.
 
-Tuy nhiên, sự chấp thuận đầu tiên đó đã kích hoạt một loạt những sự chấp thuận khác.
+Tuy nhiên, sự đồng ý đầu tiên đó đã kéo theo hàng loạt người khác.
 
-“Nếu cậu đi thì tôi cũng đi!”
+"Nếu cậu đi, tôi cũng đi!"
 
-“Tôi cũng sẽ chiến đấu!”
+"Tôi cũng sẽ chiến đấu!"
 
-“Là giáo viên của bạn, tôi cũng chấp thuận!”
+"Với tư cách là giáo viên chủ nhiệm, cô cũng tán thành!"
 
-Tôi nghĩ không chỉ học sinh mà ngay cả giáo viên cũng tham gia. Sẽ không có gì có thể lật ngược được
-nó nữa.
+Không chỉ học sinh, mà cả giáo viên cũng tham gia. Tôi nghĩ không gì có thể thay đổi được tình thế này nữa.
 
-Tôi không đủ can đảm hay bằng chứng để chống lại tâm trạng đó nên tôi giữ im lặng, tỏ ra mình cũng
-đồng ý.
+Tôi không đủ can đảm hay bằng chứng để chống lại một bầu không khí như vậy, nên tôi im lặng, tỏ vẻ đồng ý.
 
-Tôi nghĩ tôi đã nhìn thấy nhà vua đang mỉm cười với chúng tôi…nhưng không chắc đó là nụ cười chân
-thành hay nụ cười toe toét.
+Tôi nghĩ mình đã thấy nhà vua mỉm cười với chúng tôi… nhưng không rõ đó là nụ cười chân thành hay nụ cười nham hiểm.
 
-Một lúc sau, khi mọi người đã bình tĩnh lại, nhà vua lại lên tiếng.
+Sau một lúc, khi mọi người đã bình tĩnh lại, nhà vua lên tiếng lần nữa.
 
-“Tôi rất biết ơn sự hợp tác của bạn. Bây giờ chúng tôi sẽ xác nhận Gift nào mỗi người trong số các
-bạn đã nhận được…Mariana, nhiệm vụ chính thức của tôi đang chờ đợi. Tôi sẽ để phần còn lại cho bạn.”
+"Trẫm vô cùng cảm kích về sự hợp tác của các vị. Bây giờ chúng ta sẽ xác nhận xem mỗi người đã nhận được Quà tặng thần thánh nào… Mariana, nhiệm vụ chính thức của trẫm đang chờ. Phần còn lại trẫm sẽ giao lại cho con."
 
-"Hiểu."
+"Vâng ạ."
 
-Mariana nhìn nhà vua đi ra khỏi sảnh tiếp khách, rồi quay về phía chúng tôi và bắt đầu giải thích.
+Mariana nhìn theo nhà vua rời khỏi điện tiếp kiến, rồi quay về phía chúng tôi và bắt đầu giải thích.
 
-“Các anh hùng cao quý, bây giờ chúng tôi sẽ kiểm tra trạng thái và Gift của các bạn. Quà tặng là
-những món quà thần thánh ban tặng cho bạn trong quá trình triệu hồi. Theo ghi chép trong các tài
-liệu cổ, Quà tặng cũng là bằng chứng của việc trở thành Anh hùng.”
+"Những Anh Hùng cao quý, bây giờ chúng tôi sẽ kiểm tra trạng thái và Quà tặng thần thánh của các vị. Quà tặng thần thánh là ân huệ mà các vị nhận được từ thần linh, được ban cho trong quá trình triệu hồi. Như được ghi trong các tài liệu cổ, Quà tặng thần thánh cũng là bằng chứng của việc trở thành Anh Hùng."
 
-Khi Mariana nói chuyện, các hiệp sĩ mang một chiếc bàn và một viên pha lê đến bên cạnh cô ấy, rõ
-ràng là đang chuẩn bị cho điều gì đó.
+Khi Mariana nói, các hiệp sĩ mang đến một chiếc bàn và một viên pha lê đặt cạnh cô, rõ ràng là chuẩn bị cho thứ gì đó.
 
-Mariana đợi họ nói xong rồi lại nói.
+Mariana đợi họ xong rồi lại tiếp tục nói.
 
-“Pha lê này sẽ hiển thị trạng thái của bạn. Vui lòng đến đây từng người một, đặt tay lên viên pha lê
-và nghĩ đến dòng chữ 'Trạng thái mở' và nó sẽ được hiển thị…ai sẽ là người đầu tiên?”
+"Viên pha lê này sẽ hiển thị trạng thái của các vị. Xin hãy đến đây từng người, đặt một tay lên viên pha lê, và nghĩ đến những chữ 'Mở trạng thái', trạng thái sẽ hiện ra… ai sẽ là người đầu tiên?"
 
-"Tôi sẽ."
+"Tôi."
 
-“Tốt lắm, mời tới.”
+"Vậy phiền bạn đến đây."
 
-Tendo làm theo hướng dẫn của Mariana và đặt tay lên viên pha lê đặt trên bàn.
+Tendo làm theo hướng dẫn của Mariana và đặt một tay lên viên pha lê trên bàn.
 
-Khoảnh khắc tiếp theo, một cửa sổ trạng thái giống như trò chơi điện tử xuất hiện trước mặt Tendo.
-Nó đủ lớn để tôi có thể nhìn thấy nó ngay cả từ xa.
+Ngay lập tức, một cửa sổ trạng thái giống trong game hiện ra trước mặt Tendo. Nó đủ lớn để tôi có thể thấy ngay cả khi đứng từ xa.
 
-|             |                                                                                                                                                                                |
-|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TÊN:        | Tendo Koji                                                                                                                                                                     |
-| MỨC ĐỘ:     | 1                                                                                                                                                                              |
-| TUỔI:       | 17                                                                                                                                                                             |
-| GIỐNG LOÀI: | Con Người (Người Thế Giới Khác)                                                                                                                                                |
-| QUÀ:        | Người sử dụng Thánh Kiếm<br> (Khả năng sử dụng tất cả các thánh kiếm.<br> Cấp độ Kiếm thuật và Ma thuật Ánh sáng tăng dễ dàng hơn)                                             |
-| KỸ NĂNG:    | Kiếm thuật LV 1<br> Hỏa thuật LV 1<br> Thủy thuật LV 1<br> Phong thuật LV 1<br> Thổ ma thuật LV 1<br> Ma thuật ánh sáng LV 1<br> Sự phát triển<br> Thẩm định<br> Hiểu ngôn ngữ |
-| TIÊU ĐỀ:    | người thế giới khác<br> Anh hùng                                                                                                                                               |
+| **TÊN:** | **Tendo Koji** |
+| --- | --- |
+| **CẤP ĐỘ:** | **1** |
+| **TUỔI:** | **17** |
+| **CHỦNG TỘC:** | **Con người (Người dị giới)** |
+| **QUÀ TẶNG THẦN THÁNH:** | **Người Dùng Thánh Kiếm** **(Có khả năng sử dụng mọi thánh kiếm. Cấp độ Kiếm thuật và Ánh sáng ma pháp tăng nhanh hơn)** |
+| **KỸ NĂNG:** | **Kiếm thuật LV 1**  **Hỏa ma pháp LV 1**  **Thủy ma pháp LV 1**  **Phong ma pháp LV 1**  **Thổ ma pháp LV 1**  **Quang ma pháp LV 1**  **Trưởng thành**  **Thẩm định**  **Hiểu ngôn ngữ** |
+| **DANH HIỆU:** | **Người dị giới**  **Anh Hùng** |
 
-Sau khi nhìn vào trạng thái của Tendo, Mariana và các hiệp sĩ phản ứng ngạc nhiên.
+Sau khi nhìn trạng thái của Tendo, Mariana và các hiệp sĩ phản ứng đầy ngạc nhiên.
 
-“Anh ấy ở cấp độ 1, vậy mà…!”
+"Cấp 1 mà lại…!"
 
-Tôi không biết điều đó có nghĩa là anh ta mạnh hay yếu nên tôi tò mò nhìn.
+Tôi không biết điều đó có nghĩa là mạnh hay yếu, nên tôi tò mò nhìn tiếp.
 
-“Thông thường, một cá nhân cấp 1 sẽ không có nhiều khả năng như vậy. Hầu hết mọi người chỉ có thể sử
-dụng một nguyên tố ma thuật, hai trong những trường hợp hiếm hoi, ba trong những trường hợp cực kỳ
-hiếm… được cho là có tiềm năng đạt được sức mạnh đáng kinh ngạc… nói cách khác, trạng thái này cực
-kỳ hứa hẹn.”
+"Bình thường, một cá nhân cấp 1 sẽ không có nhiều năng lực như vậy. Hầu hết mọi người chỉ có thể sử dụng một hệ ma pháp, hai hệ trong trường hợp hiếm, ba hệ trong trường hợp cực hiếm… những người đó được cho là có tiềm năng đạt được sức mạnh đáng kinh ngạc… nói cách khác, trạng thái này cực kỳ hứa hẹn."
 
-Sau tiền đề đó, Mariana giải thích về trạng thái bằng những thuật ngữ đơn giản.
+Sau phần mở đầu đó, Mariana giải thích về trạng thái bằng những thuật ngữ đơn giản.
 
-“Cấp độ” là giá trị của kinh nghiệm tích lũy của một người: tăng nó có nghĩa là khả năng thể chất
-cao hơn và khả năng học được những kỹ năng mạnh mẽ hơn. Dung lượng sức mạnh phép thuật của một người
-cũng tăng lên.
+"Cấp độ" là giá trị tích lũy kinh nghiệm: tăng cấp đồng nghĩa với các chỉ số thể chất cao hơn và khả năng học được những kỹ năng mạnh hơn. Dung lượng ma lực cũng tăng theo.
 
-“Gift”, như Mariana giải thích, là một khả năng độc nhất của Anh hùng.
+"Quà tặng thần thánh", như Mariana giải thích, là năng lực đặc biệt chỉ có ở Anh Hùng.
 
-“Kỹ năng” là tên chung cho những khả năng mà những người có trạng thái có thể sử dụng, từ võ kỹ, kỹ
-năng phép thuật và các kỹ thuật như Thẩm định và Hiểu ngôn ngữ. Cấp độ kỹ năng tăng dần theo cấp độ,
-đạt tối đa là 10.
+"Kỹ năng" là tên gọi chung cho các năng lực mà những người có trạng thái có thể sử dụng, từ võ thuật, ma pháp, cho đến các kỹ thuật như Thẩm định và Hiểu ngôn ngữ. Cấp độ kỹ năng tăng theo cấp độ của bản thân, tối đa là 10.
 
-Rõ ràng là các ma thuật nguyên tố như lửa và nước đều có sẵn ở một dạng nào đó đối với hầu hết mọi
-người.
+Nguyên tố ma pháp như hỏa, thủy có vẻ sẵn có ở một mức độ nào đó với hầu hết mọi người.
 
-Ngoài ra còn có “Kỹ năng độc nhất”, mặc dù Tendo rõ ràng không có bất kỳ kỹ năng nào. Chúng là những
-kỹ năng rất mạnh mẽ, không thuộc bất kỳ loại nào và rõ ràng là rất khó để có được.
+Còn có "Kỹ năng Độc nhất", dù có vẻ Tendo không có. Đó là những kỹ năng cực kỳ mạnh không thuộc bất kỳ hệ nào và rất khó để có được.
 
-Cuối cùng, “Tiêu đề”… gần như là định nghĩa theo nghĩa đen của nó, giống như một mô tả.
+Cuối cùng, "Danh hiệu"… về cơ bản là đúng theo nghĩa đen, một thứ giống như mô tả.
 
-Sau khi giải thích, Mariana tiếp tục kiểm tra trạng thái của chúng tôi, từng cái một.
+Sau phần giải thích, Mariana tiếp tục kiểm tra trạng thái của chúng tôi, lần lượt từng người một.
 
-Tôi không mấy hứng thú với toàn bộ chuyện này nên tôi ở lại nhìn, nghĩ rằng mình sẽ là người cuối
-cùng.
+Tôi không mấy hào hứng với chuyện này, nên tôi đứng ở phía sau và quan sát, nghĩ rằng mình sẽ đi cuối cùng.
 
-Tất cả học sinh và cô Usami cũng có kỹ năng Đánh giá và Hiểu ngôn ngữ, cũng như nhiều phép thuật
-nguyên tố và các kỹ năng khác. Nhân tiện, thẩm định là một kỹ năng cho phép bạn xem thông tin về mục
-tiêu.
+Tất cả học sinh và cả cô Usami đều có Thẩm định và Hiểu ngôn ngữ trong kỹ năng của mình, cùng với nhiều nguyên tố ma pháp và các kỹ năng khác. Thẩm định, tiện thể, là kỹ năng cho phép bạn nhìn thấy thông tin về mục tiêu.
 
-Cuối cùng cũng đến lượt tôi nên tôi đặt tay lên viên pha lê như những người khác đã làm.
+Cuối cùng, đến lượt tôi, tôi đặt một tay lên viên pha lê giống như mọi người đã làm.
 
-Khoảnh khắc tiếp theo, các hiệp sĩ xung quanh tôi phản ứng đầy ngạc nhiên.
+Ngay lập tức, các hiệp sĩ xung quanh tôi phản ứng đầy ngạc nhiên.
 
-“L-làm sao chuyện này có thể xảy ra được!?”
+"L-làm sao có thể!?"
 
-“Chuyện gì đã xảy ra…cái gì thế!?”
+"Chuyện gì vậy… cái gì vậy!?"
 
 Mariana cũng có vẻ rất ngạc nhiên.
 
-Lý do là do cửa sổ trạng thái của tôi.
+Lý do là cửa sổ trạng thái của tôi.
 
-“Tất cả các anh hùng được triệu hồi đều phải có Gift…nhưng ở đây chẳng có gì cả…cũng không có danh
-hiệu Anh hùng!!”
+"Tất cả các Anh Hùng được triệu hồi đều phải có Quà tặng thần thánh… nhưng ở đây lại không có gì cả… cũng không có danh hiệu Anh Hùng!!"
 
-Như Mariana đã nói, trạng thái của tôi như sau.
+Đúng như Mariana nói, trạng thái của tôi như sau.
 
-|             |                                 |
-|-------------|---------------------------------|
-| TÊN:        | Yuki Haruto                     |
-| MỨC ĐỘ:     | 1                               |
-| TUỔI:       | 17                              |
-| GIỐNG LOÀI: | Con Người (Người Thế Giới Khác) |
-| KỸ NĂNG:    | Thẩm định<br> Hiểu ngôn ngữ     |
-| TIÊU ĐỀ:    | người thế giới khác             |
+| **TÊN:** | **Yuki Haruto** |
+| --- | --- |
+| **CẤP ĐỘ:** | **1** |
+| **TUỔI:** | **17** |
+| **CHỦNG TỘC:** | **Con người (Người dị giới)** |
+| **KỸ NĂNG:** | **Thẩm định**  **Hiểu ngôn ngữ** |
+| **DANH HIỆU:** | **Người dị giới** |
 
-Tôi không chỉ thiếu Gift hay danh hiệu Anh hùng mà thậm chí còn không có một kỹ năng ma thuật nguyên
-tố nào. Những gì tôi có chỉ là kỹ năng Đánh giá và Hiểu ngôn ngữ.
+Tôi không chỉ thiếu Quà tặng thần thánh và danh hiệu Anh Hùng, mà thậm chí còn không có lấy một kỹ năng nguyên tố ma pháp nào. Những gì tôi có chỉ là kỹ năng Thẩm định và Hiểu ngôn ngữ.
 
-"Làm sao có thể…? Chà…dù sao đi nữa…tôi sẽ báo cáo với Bệ hạ. Những anh hùng cao quý, xin hãy đợi ở
-đây.”
+"Làm sao có thể…? Vâng… dù sao thì… thần sẽ bẩm báo với Bệ Hạ. Những Anh Hùng cao quý, xin hãy đợi ở đây một lúc."
 
-Ngay khi Mariana rời đi, Mitsurugi và hai tay sai của hắn tiến đến chỗ tôi, với nụ cười khó chịu
-thường thấy trên khuôn mặt họ.
+Ngay khi Mariana rời đi, Mitsurugi cùng hai tên đàn em đến bên tôi, nở nụ cười đểu cáng như thường lệ.
 
-“Ồ, ồ, bạn có thấy anh chàng này vô dụng đến mức nào không?”
+"Ồ, ồ, cậu đã thấy thằng này vô dụng cỡ nào chưa?"
 
-"Nghiêm túc! Thứ rác rưởi vô giá trị nên bỏ đi!”
+"Đúng thật! Đồ rác rưởi vô dụng thì cút đi cho rồi!"
 
-"Bạn đã nói như thế! Với địa vị như vậy, anh ta có thể làm được gì?”
+"Nói chuẩn đấy! Với trạng thái thế này thì cậu ta làm được cái gì nổi?"
 
-Lại chuyện vớ vẩn của bạn nữa…Tôi càu nhàu với chính mình khi Ichinomiya đến gần chúng tôi, trừng
-mắt nhìn Mitsurugi và những người khác.
+Lại mấy trò cũ này… tôi lẩm bẩm trong đầu, thì Ichinomiya bước đến, trừng mắt nhìn Mitsurugi và đám của cậu ta.
 
-“Anh không nghĩ nói chuyện như vậy là không đúng sao?”
+"Các bạn nghĩ nói như vậy là đúng à?"
 
-Tuy nhiên, nhóm của Mitsurugi lại trả lời theo cách thiếu lịch sự như thường lệ.
+Mitsurugi và đám của cậu ta đáp lại theo cách bất cần đặc trưng.
 
-“Này Ichinomiya, cậu nên tránh xa một kẻ vô dụng như vậy đi.”
+"Này Ichinomiya, cậu nên tránh xa mấy kẻ vô dụng kiểu đó ra nhé."
 
-"Tuyệt."
+"Đúng, đúng."
 
-“Nào Ichinomiya, để thùng rác lại và đi với chúng tôi.”
+"Nào Ichinomiya, bỏ mấy thằng rác rưởi đó lại mà đi với bọn tớ đi."
 
-Đáp lại, Ichinomiya, nước mắt trào ra từ khóe mắt, khóc với họ.
+Đáp lại, Ichinomiya, nước mắt chực trào ở khóe mắt, cất tiếng gọi chúng.
 
-“Sao cậu có thể nói những điều tàn nhẫn như vậy!? Anh ấy là bạn cùng lớp của chúng ta!”
+"Sao các bạn lại nói những lời tàn nhẫn vậy!? Cậu ấy cũng là bạn cùng lớp của chúng ta mà!"
 
-Tendo và nhóm của anh ấy, những người đang trò chuyện ở xa hơn một chút, nhận thấy sự hỗn loạn.
+Tendo và nhóm của anh ấy, đang trò chuyện ở phía xa hơn một chút, nhận ra sự ồn ào.
 
-Tuy nhiên, Mitsurugi và hai người còn lại chỉ nhún vai.
+Tuy nhiên, Mitsurugi và hai tên kia chỉ nhún vai.
 
-“Ngay cả khi bạn nói rằng vô dụng là vô dụng…”
+"Dù có nói thế nào thì vô dụng vẫn là vô dụng…"
 
-“Chúng ta chưa nói điều gì kì lạ cả, phải không?”
+"Bọn tớ có nói gì quá đáng đâu mà?"
 
-"Vâng…"
+"Ừ…"
 
-Ichinomiya quay lưng lại với nhóm không ăn năn và cúi chào tôi.
+Ichinomiya quay lưng lại với đám không biết hối cải, rồi cúi đầu với tôi.
 
-“Tôi xin lỗi Haruto, tôi không bao giờ có thể khiến họ dừng lại…”
+"Xin lỗi Haruto, mình không thể nào ngăn chúng nổi…"
 
-“Xin hãy ngẩng đầu lên. Bạn không cần phải lo lắng về điều đó.”
+"Xin bạn, ngẩng đầu lên đi. Bạn không cần phải lo về chuyện đó đâu."
 
-“Nhưng sau đó cậu…”
+"Nhưng mà cậu…"
 
-Ichinomiya nhìn tôi xin lỗi nhưng tôi thực sự không quan tâm lắm.
+Ichinomiya nhìn tôi áy náy, nhưng tôi thực sự chẳng bận tâm lắm.
 
-Sự chế nhạo của Mitsurugi và nhóm của anh ấy thật khó chịu, nhưng phản ứng lại sẽ chỉ khiến họ phấn
-khích hơn. Cuối cùng, phớt lờ họ là lựa chọn tốt nhất.
+Việc chế giễu của Mitsurugi và đám của cậu ta thì đúng là khó chịu, nhưng phản ứng lại sẽ chỉ khiến chúng hứng thú hơn mà thôi. Cuối cùng, phớt lờ chúng vẫn là lựa chọn tốt nhất.
 
-Ngay sau đó, Mariana quay lại khán phòng.
+Ngay sau đó, Mariana quay lại điện tiếp kiến.
 
-Vừa bước vào trong, cô ấy đã đi thẳng về phía tôi.
+Ngay khi vào, cô ấy đi thẳng về phía tôi.
 
-“Thưa ngài Yuki, tôi thành thật xin lỗi, nhưng chúng ta có thể tiếp tục cuộc trò chuyện ở phòng
-riêng được không? Những người khác xin hãy đợi ở đây.”
+"Thưa ngài Yuki, thần vô cùng áy náy, nhưng có thể tiếp tục cuộc trò chuyện ở một căn phòng riêng không ạ? Những người khác, xin hãy đợi ở đây."
 
-Tôi gần như hiểu được cô ấy định nói gì, nhưng tôi không còn lựa chọn nào khác ngoài việc phải đi.
+Tôi phần nào đoán được cô ấy sẽ nói gì, nhưng tôi không có lựa chọn nào khác ngoài đi theo.
 
-"Hiểu."
+"Vâng ạ."
 
-“Haruto…”
+"Haruto…"
 
-Ichinomiya gọi tên tôi với giọng lo lắng. Tôi liếc nhìn những học sinh khác và thấy Tendo đang nhìn
-chúng tôi với vẻ lo lắng.
+Ichinomiya gọi tên tôi, giọng đầy lo lắng. Tôi liếc nhìn các bạn cùng lớp khác và thấy Tendo đang nhìn chúng tôi, vẻ mặt lo lắng.
 
-Tôi đã nói chuyện với Ichinomiya một cách nhẹ nhàng nhất có thể để giúp cô ấy thoải mái.
+Tôi nói chuyện với Ichinomiya nhẹ nhàng nhất có thể, để bạn ấy yên tâm.
 
-“Đừng lo lắng, mọi việc sẽ ổn thôi.”
+"Đừng lo, mọi chuyện rồi sẽ ổn thôi."
 
-"…Phải."
+"…vâng."
 
-“Có lẽ bây giờ họ sẽ đuổi tôi ra ngoài…nhưng chúng ta sẽ gặp lại nhau ở đâu đó thôi.”
+"Có lẽ họ sẽ đuổi tôi đi… nhưng chúng ta sẽ gặp lại nhau ở đâu đó."
 
-Tôi đáp lại giọng nói yếu ớt của Ichinomiya rồi theo Mariana ra khỏi khán phòng.
+Tôi đáp lại giọng nói yếu ớt của Ichinomiya, rồi theo Mariana ra khỏi điện tiếp kiến.
 
 ~
 
-Sau đó, ở một căn phòng khác—
+Rồi, ở một căn phòng khác—
 
-" -đó là tất cả."
+"—tất cả là như vậy."
 
-Mariana nói với tôi chính xác những gì tôi dự đoán.
+Mariana nói với tôi đúng những gì tôi dự đoán.
 
-"Tôi hiểu rồi. Về cơ bản, để một người không có Gift hoặc danh hiệu cùng với các Anh hùng khác sẽ
-rất rắc rối, vậy nên hãy ra ngoài… chỉ thế thôi à?”
+"Tôi hiểu rồi. Nói ngắn gọn thì, để một người không có Quà tặng thần thánh hay danh hiệu ở lại cùng các Anh Hùng khác thì sẽ gây phiền phức, nên đuổi tôi đi… là vậy đúng không?"
 
-Thành thật mà nói, tôi hiểu được quan điểm của cô ấy.
+Nói thật thì, tôi cũng phần nào hiểu được quan điểm của cô ấy.
 
-Tôi sẽ không muốn ở lại với những người khác nếu điều đó đồng nghĩa với việc giữ họ lại.
+Tôi cũng không muốn ở lại với mọi người nếu điều đó khiến họ bị kéo lùi.
 
-Vì tôi đang ở một thế giới khác các thứ nên tôi rất thích viễn cảnh được tự mình nhìn thấy nó.
+Vì đã ở một thế giới khác rồi, nên tôi cũng thấy háo hức phần nào với viễn cảnh tự mình khám phá thế giới này.
 
-“Tôi rất biết ơn vì sự hiểu biết của bạn. Như một lời xin lỗi…xin vui lòng chấp nhận số tiền này. Nó
-đủ để nuôi sống bạn trong ít nhất ba tháng ”.
+"Thần vô cùng biết ơn vì ngài đã thông cảm. Như một lời xin lỗi… xin hãy nhận khoản tiền này. Số tiền này đủ để ngài sống ít nhất ba tháng."
 
 Mariana sau đó đưa cho tôi một chiếc túi da.
 
-Bên trong tôi tìm thấy ba đồng tiền vàng và một vài đồng bạc.
+Bên trong, tôi tìm thấy ba đồng tiền vàng và vài đồng bạc.
 
-![HarutoMariana](HarutoMariana.jpg)
+![](https://web.archive.org/web/20241107001827im_/https://i0.wp.com/shintranslations.com/wp-content/uploads/2020/09/HarutoMariana.jpg?w=1009&ssl=1)
 
-Không biết về chi phí sinh hoạt ở thế giới này, tôi không thể chắc chắn rằng chúng sẽ thực sự đủ cho
-tôi trong ba tháng…nhưng tôi đoán như vậy vẫn tốt hơn là không có gì.
+Tôi không biết giá cả sinh hoạt ở thế giới này ra sao, nên không chắc chúng có thực sự dùng được ba tháng không… nhưng có còn hơn không.
 
-“Ngoài ra, nếu bạn ở lại thị trấn lâu đài quá lâu có thể dẫn đến việc chạm trán với nhóm anh hùng,
-vì vậy tôi muốn bạn rời đến thị trấn Waxe lân cận ngay khi bạn có được những trang bị cần thiết
-trong thị trấn. Khi đến đó, bạn có thể bắt đầu làm việc bình thường hoặc trở thành một nhà thám
-hiểm, một người thường đảm nhận các yêu cầu vận chuyển hoặc tiêu diệt quái vật hoặc hộ tống mọi
-người… bạn có thể tự do sống theo ý mình muốn.”
+"Ngoài ra, nếu ngài ở thị trấn của lâu đài quá lâu có thể sẽ gặp phải đoàn Anh Hùng, nên thần mong ngài hãy khởi hành đến thị trấn lân cận tên Waxe ngay khi đã chuẩn bị đầy đủ trang thiết bị ở thị trấn. Khi đến đó, ngài có thể bắt đầu làm việc bình thường, hoặc trở thành mạo hiểm giả, những người thường nhận yêu cầu vận chuyển, tiêu diệt yêu tinh hay hộ tống người khác… ngài được tự do sống theo cách mình muốn."
 
-"…hiểu. Hãy nói với những người khác rằng tôi đã tự mình rời đi.”
+"…tôi hiểu rồi. Xin hãy nói với những người khác rằng tôi đã tự mình rời đi."
 
-Chà, dù sao thì tôi cũng đã lên kế hoạch đi du lịch nên việc khởi hành chỉ đến sớm hơn, theo một
-cách nào đó.
+Ừ thì, tôi cũng đã tính lên đường du hành, nên chuyến đi này đến sớm hơn dự định, theo một cách nào đó.
 
-Trở thành một nhà thám hiểm nghe cũng khá thú vị. Trạng thái của tôi lúc này không có giá trị nhiều,
-nhưng nếu tôi lên cấp, tôi có thể mạnh mẽ hơn, có thể một ngày nào đó sẽ bắt kịp những người khác.
+Trở thành mạo hiểm giả nghe cũng khá thú vị. Trạng thái hiện tại của tôi chẳng đáng là bao, nhưng nếu lên cấp, có lẽ tôi sẽ mạnh hơn, và biết đâu một ngày nào đó sẽ theo kịp mọi người.
 
-Mariana mỉm cười trước lời nói của tôi.
+Mariana mỉm cười trước lời tôi.
 
-“Ừ, vậy thì hãy chăm sóc bản thân nhé. Xin Chúa ban phước lành cho bạn.”
+"Vâng, xin ngài hãy tự bảo trọng. Mong phúc lành của thần linh sẽ ở bên ngài."
 
-Các hiệp sĩ sau đó hộ tống tôi ra khỏi tòa nhà chúng tôi đang ở - lâu đài hoàng gia.
+Các hiệp sĩ sau đó hộ tống tôi ra khỏi tòa nhà chúng tôi đang ở — lâu đài hoàng gia.
 
 ~
 
-Nhìn từ bên ngoài, lâu đài hoàng gia là một khu phức hợp ấn tượng — và thị trấn lâu đài xung quanh
-dường như cũng rất năng động.
+Nhìn từ bên ngoài, lâu đài hoàng gia là một tổ hợp đồ sộ — và thị trấn xung quanh lâu đài cũng trông rất nhộn nhịp.
 
-Theo các hiệp sĩ hộ tống tôi ra ngoài, thị trấn gần nhất nằm ở phía sau khu rừng gần thủ đô hoàng
-gia này. Có vẻ như có thể vượt qua khu rừng trong vòng chưa đầy nửa ngày, vì vậy tôi quyết định
-nhanh chóng sửa chữa thiết bị của mình và rời đi.
+Theo lời các hiệp sĩ hộ tống tôi ra ngoài, thị trấn gần nhất nằm ở phía bên kia khu rừng gần thủ đô hoàng gia này. Khu rừng có thể vượt qua trong chưa đầy nửa ngày, nên tôi quyết định nhanh chóng sửa soạn trang thiết bị rồi lên đường.
 
-Đồng phục học sinh của tôi chắc chắn rất nổi bật, nên điểm đến đầu tiên của tôi là cửa hàng vũ khí
-và áo giáp gần lâu đài, nơi tôi mua một bộ trang bị giống như nhà thám hiểm, một chiếc áo choàng đen
-và một thanh kiếm sắt.
+Bộ đồng phục học sinh của tôi nổi bật quá, nên điểm đến đầu tiên là cửa hàng vũ khí và áo giáp gần lâu đài, nơi tôi mua một bộ trang bị mạo hiểm giả, một chiếc áo choàng đen, và một thanh kiếm sắt.
 
-Tôi chưa bao giờ sử dụng kiếm trước đây, nhưng có còn hơn không.
+Tôi chưa từng dùng kiếm bao giờ, nhưng có còn hơn không.
 
-Trong khi mua sắm, tôi nhìn quanh thị trấn lâu đài một chút và thu thập được ý tưởng chung về giá cả
-cũng như giá trị thực tế của đồng nội tệ.
+Trong lúc mua sắm, tôi cũng đi dạo quanh thị trấn một chút và nắm được sơ bộ giá cả cùng giá trị thực tế của đơn vị tiền tệ địa phương.
 
-Đơn vị ở đây được gọi là Gould: một mảnh Gould ít nhiều bằng một yên.
+Đơn vị ở đây được gọi là Gould: một Gould tương đương với khoảng một yên.
 
-Có những đồng tiền đồng, những đồng xu lớn, những đồng bạc, những đồng bạc lớn, những đồng vàng và
-những đồng tiền vàng lớn, trị giá lần lượt là 10 Gould, 100 Gould, 1000 Gould, 10.000 Gould, 100.000
-Gould và 1 triệu Gould.
+Có đồng tiền đồng, đồng tiền đồng lớn, đồng tiền bạc, đồng tiền bạc lớn, đồng tiền vàng, đồng tiền vàng lớn, lần lượt có giá trị 10 Gould, 100 Gould, 1.000 Gould, 10.000 Gould, 100.000 Gould, và 1 triệu Gould.
 
-Phía trên những đồng tiền vàng lớn, rõ ràng còn có những đồng tiền vàng trắng và vàng đen, nhưng tôi
-không nghĩ mình sẽ thường xuyên nhìn thấy thứ như vậy…
+Trên đồng tiền vàng lớn, còn có đồng vàng trắng và đồng vàng đen, nhưng tôi không nghĩ mình sẽ gặp những thứ đó thường xuyên…
 
-Tôi đã nhận được ba đồng vàng và một số đồng bạc từ Mariana, tổng cộng khoảng 300.000 yên. (*Khoảng
-2800 USD)
+Tôi nhận được ba đồng tiền vàng và vài đồng bạc từ Mariana, tổng cộng khoảng 300.000 yên. (\*Khoảng 2.800 USD)
 
-Xét đến việc tôi sẽ phải trả tiền cho một nơi để ngủ, tôi chắc chắn không thể có được một lối sống
-xa hoa, nhưng nếu tôi bắt đầu làm việc như một nhà thám hiểm thì hy vọng mọi chuyện sẽ ổn thỏa.
+Nghĩ rằng tôi sẽ phải trả tiền chỗ ở, tôi chắc chắn không thể sống xa hoa, nhưng nếu bắt đầu làm mạo hiểm giả, mọi chuyện có lẽ sẽ ổn thôi.
 
-Với những suy nghĩ như vậy trong đầu, tôi rời thủ đô hoàng gia và hướng tới khu rừng.
+Với những suy nghĩ đó trong đầu, tôi rời thủ đô hoàng gia và hướng về phía khu rừng.
 
 ~
 
-Khi tôi đến lối vào rừng, mặt trời đã lên cao. Với tốc độ này, có lẽ tôi sẽ đến được thị trấn tiếp
-theo vào lúc hoàng hôn.
+Khi tôi đến lối vào khu rừng, mặt trời đã lên cao trên bầu trời. Với tốc độ này, có lẽ tôi sẽ đến thị trấn tiếp theo trước hoàng hôn.
 
-Vào rừng được mấy phút, tôi nghe thấy tiếng vó ngựa từ phía sau vang lên.
+Vài phút sau khi tôi bước vào khu rừng, tôi nghe tiếng vó ngựa vang lên từ phía sau.
 
-Tôi quay lại và thấy ba hiệp sĩ cưỡi ngựa đang tiến lại gần tôi.
+Tôi quay lại và thấy ba hiệp sĩ trên lưng ngựa đang tiến đến chỗ tôi.
 
 Họ nhanh chóng đuổi kịp tôi, xuống ngựa và gọi tôi.
 
-“Ngài Yuki, cuối cùng chúng tôi cũng tìm thấy ngài. Chúng tôi đã thông báo cho nhóm anh hùng rằng
-các bạn đã tự nguyện rời đi, vì vậy hãy yên tâm nhé.”
+"Thưa ngài Yuki, cuối cùng chúng tôi cũng tìm thấy ngài. Chúng tôi đã thông báo với đoàn Anh Hùng rằng ngài đã tự mình rời đi, nên xin ngài cứ yên tâm."
 
-“Tôi hiểu rồi…và bạn đã đi đến tận đây để báo cáo điều đó với tôi?”
+"Tôi hiểu… vậy các anh đã đi đường xa như vậy chỉ để báo với tôi chuyện đó thôi sao?"
 
-Các hiệp sĩ trả lời câu hỏi của tôi bằng cách cười toe toét và rút kiếm ra.
+Các hiệp sĩ trả lời câu hỏi của tôi bằng cách cười nham hiểm và rút kiếm ra.
 
-“Không - như bạn có thể thấy. Mệnh lệnh đến từ Đức vua và công chúa, vì vậy xin đừng nghĩ xấu về
-chúng tôi, được chứ?”
+"Không — như ngài thấy đấy. Mệnh lệnh đến từ Bệ Hạ và công chúa, nên xin ngài đừng nghĩ xấu về chúng tôi nhé."
 
-Đợi chút, đó có phải ý của họ khi nói tôi *rời đi* không?
+Khoan đã, đó có phải là ý của họ khi nói tôi *rời đi*??
 
-“Vậy rốt cuộc đây là những gì xảy ra! Chết tiệt!"
+"Vậy là đây là chuyện sẽ xảy ra sau cùng! Chết tiệt!"
 
-Tôi cố với lấy thanh kiếm ở thắt lưng, nhưng hiệp sĩ nhanh hơn.
+Tôi cố với lấy thanh kiếm bên hông, nhưng hiệp sĩ nhanh hơn.
 
-Khoảnh khắc tiếp theo, thanh kiếm của anh ta đâm vào ngực tôi.
+Ngay khoảnh khắc sau, kiếm của hắn đã đâm xuyên ngực tôi.
 
-“Gha…”
+"Ốc…"
 
-Người hiệp sĩ rút kiếm ra và máu chảy ra. Tôi ngã xuống đất như thế.
+Hiệp sĩ rút kiếm ra và máu tuôn xối xả. Tôi đổ sập xuống đất ngay tại chỗ.
 
-Vết thương ở ngực tôi như đang bốc cháy, nhưng ngược lại, phần còn lại của cơ thể tôi ngày càng lạnh
-hơn.
+Vết thương ở ngực tôi nóng rực, nhưng ngược lại, phần còn lại của cơ thể tôi lại lạnh đi dần dần.
 
-Ý thức của tôi mờ đi nhanh chóng, nhưng tôi vẫn cố gắng nói được vài từ về phía các hiệp sĩ.
+Ý thức của tôi phai đi rất nhanh, nhưng tôi cố gắng rặn ra vài lời về phía đám hiệp sĩ.
 
-“Gah…! Tốt nhất các bạn nên nhớ điều này…! Một ngày nào đó, tôi chắc chắn…sẽ…giết…”
+"Kh…! Tụi bây nhớ lấy…! Một ngày nào đó, tao nhất định…sẽ giết…"
 
-Tôi không còn sức để nói bất cứ điều gì khác. Khi tầm nhìn của tôi mờ đi trong khi tôi nằm bất lực
-trên mặt đất, lời nói của các hiệp sĩ lọt vào tai tôi.
+Tôi không còn sức để nói thêm. Khi tầm nhìn tôi phai dần trong lúc nằm bất lực trên mặt đất, lời của các hiệp sĩ vọng đến tai tôi.
 
-“Được rồi, chúng ta được phép lấy tiền của hắn sau khi giết được hắn, phải không?”
+"Được rồi, sau khi giết xong thằng này thì chúng ta được lấy tiền của hắn đúng không?"
 
-“Này nhìn này, anh chàng đã quá tải rồi! Tối nay chúng ta sẽ mở tiệc!”
+"Này nhìn cái này, thằng này nhiều tiền thế! Tối nay mình sẽ có bữa tiệc lớn!"
 
-"Bạn đã nói như thế! Hahaha!”
+"Nói chuẩn đấy! Hahaha!"
 
-Chết tiệt tất cả các bạn...thậm chí còn lấy đi những gì tôi có...
+Đám khốn nạn… ngay cả thứ ít ỏi tao có cũng lấy…
 
-Một trong những hiệp sĩ sau đó dường như nhớ lại điều gì đó.
+Một trong các hiệp sĩ dường như chợt nhớ ra điều gì đó.
 
-“Này, anh ấy vẫn còn sống à?”
+"Này, nó còn sống không?"
 
-“Hả? Đợi đã, để tôi kiểm tra.”
+"Hm? Khoan, để tôi kiểm tra."
 
-Một hiệp sĩ khác đá bụng tôi lên.
+Một hiệp sĩ khác đá lật người tôi lên.
 
-Tôi không còn cảm thấy đau nữa và tầm nhìn của tôi gần như biến mất, nhưng tôi vẫn cố liếc nhìn các
-hiệp sĩ.
+Tôi không còn cảm thấy đau đớn gì nữa và thị lực gần như mất hẳn, nhưng tôi cố gắng trừng mắt nhìn đám hiệp sĩ.
 
-Tuy nhiên, hiệp sĩ vừa đá tôi lại khịt mũi chế nhạo tôi.
+Tuy nhiên, hiệp sĩ đã đá tôi khịt mũi đầy khinh miệt.
 
-“Đã quá muộn để nhìn tôi như thế, anh đã đi rồi. Không cần phải lãng phí thêm thời gian hay công sức
-ở đây nữa.”
+"Trừng mắt nhìn tao lúc này cũng vô ích thôi, mày chết rồi. Không cần lãng phí thêm thời gian hay công sức ở đây nữa."
 
 Hai hiệp sĩ còn lại gật đầu.
 
-"Uh, đúng vậy. Dù sao thì anh ấy cũng không thể di chuyển hay kêu cứu.”
+"Ừ, anh nói đúng. Nó không thể cử động hay gọi cứu được đâu."
 
-"Phải. Chúng ta không thấy ai trên đường tới đây, vì vậy nếu chúng ta để anh ta ở đây sớm, lũ quái
-vật sẽ bị thu hút bởi mùi máu và sẽ đến ăn thịt anh ta.”
+"Phải. Trên đường đến đây chúng ta không thấy ai cả, nên nếu mình bỏ nó lại đây, yêu tinh sẽ bị mùi máu thu hút đến và ăn thịt nó."
 
-Tôi rất tức giận trước những lời nói của họ nhưng lương tâm của tôi đã hoàn toàn phai nhạt.
+Tôi vô cùng phẫn nộ trước những lời của chúng, nhưng ý thức tôi hoàn toàn tắt dần.
 
-—và trước khi kịp nhận ra, tôi thấy mình được bao quanh bởi ánh sáng trắng.
+—Và trước khi tôi kịp nhận ra, tôi thấy mình được bao quanh bởi ánh sáng trắng.
+
+---
+
+[←Previous](https://web.archive.org/web/20241107001827//twem-vol-1-chapter-1/) | [Next→](https://web.archive.org/web/20241107001827//twem-vol-1-chapter-3/)

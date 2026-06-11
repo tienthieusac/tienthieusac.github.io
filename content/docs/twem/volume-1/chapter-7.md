@@ -1,500 +1,416 @@
 ---
-title: Chương 7 – Những trận chiến liên tiếp chống lại quái vật
+title: "Chương 7 – Những trận chiến liên tiếp với quái vật"
 weight: 7
 ---
 
-# Chương 7 – Những trận chiến liên tiếp chống lại quái vật
+# Chương 7 – Những trận chiến liên tiếp với quái vật
 
-Bầu trời đã chuyển sang chạng vạng khi xe ngựa của chúng tôi dừng lại.
+Bầu trời bắt đầu chuyển sang hoàng hôn khi xe ngựa của chúng tôi dừng lại.
 
-Hôm đó chúng tôi định cắm trại bên ngoài.
+Hôm đó chúng tôi sẽ cắm trại ngoài trời.
 
-Đó là trải nghiệm cắm trại ngoài trời đầu tiên của tôi ở thế giới này, vì vậy tôi khá hào hứng,
-nhưng Barnar và những người khác có vẻ khá có kinh nghiệm và hoàn thành việc dựng trại rất nhanh.
+Đây là lần đầu tiên tôi trải nghiệm cắm trại ngoài trời ở thế giới này, nên tôi khá hào hứng, nhưng Barnar và những người khác có vẻ khá có kinh nghiệm và dựng trại rất nhanh.
 
-Sau khi ăn bữa tối do Bacchus chuẩn bị, tôi và nhóm của Barnar bàn bạc về việc sẽ thay phiên nhau
-canh gác suốt đêm.
+Sau khi ăn tối do Bacchus chuẩn bị, nhóm của Barnar và tôi bàn bạc xem sẽ phân ca gác suốt đêm như thế nào.
 
-Cuối cùng, tôi là người đầu tiên nên tôi thấy mình đang nhìn lên các vì sao sau khi mọi người đã đi
-ngủ.
+Cuối cùng, tôi là người gác đầu tiên, nên tôi thấy mình đang ngước nhìn sao trời sau khi mọi người đã đi ngủ.
 
-“Bầu trời đêm ở đây trong hơn rất nhiều…Tôi có thể nhìn thấy rất nhiều ngôi sao.”
+"Bầu trời đêm ở đây trong hơn nhiều…tôi có thể thấy rất nhiều ngôi sao."
 
-Ở thế giới trước của tôi, tôi hầu như không nhìn thấy bất kỳ ngôi sao nào, nhưng ở đây không có đèn
-đường hay thiết bị chiếu sáng tương tự nào, nên các ngôi sao trên bầu trời có thể nhìn thấy rõ ràng.
+Ở thế giới cũ, tôi hầu như không thấy sao, nhưng ở đây không có đèn đường hay thiết bị chiếu sáng nào tương tự, nên các ngôi sao trên trời hiện ra rõ ràng.
 
-Tôi tiếp tục nhìn lên bầu trời trong khi cảnh giác mọi nguy hiểm xung quanh, và trước khi tôi kịp
-nhận ra thì đã đến lúc chuyển ca tiếp theo.
+Tôi tiếp tục ngắm bầu trời trong khi đề phòng mọi nguy hiểm xung quanh, và trước khi tôi nhận ra, đã đến lúc cho ca tiếp theo.
 
-Tôi đứng dậy, nghĩ rằng đã đến lúc đánh thức Barnar dậy, nhưng Phát hiện sự hiện diện của tôi đã
-phát hiện ra thứ gì đó.
+Tôi đứng dậy, đang định đánh thức Barnar dậy, thì Phát Hiện Sự Hiện Diện phát hiện điều gì đó.
 
-“Hả? Đây là gì?"
+"Hm? Cái gì vậy?"
 
-Vì vậy, tôi thì thầm với chính mình, khi một bóng đen khổng lồ xuất hiện trong khu rừng cách trại
-không xa, toát ra sự đe dọa vô cùng mạnh mẽ.
+Tôi vừa thì thầm với chính mình, thì một bóng đen khổng lồ xuất hiện trong khu rừng không xa khu trại, tỏa ra một áp lực vô cùng mạnh mẽ.
 
-Đó là sự hiện diện mạnh mẽ nhất mà tôi cảm nhận được sau khi đến thế giới này, vì vậy tôi đã sử dụng
-Thẩm định cho nó.
+Đó là sự hiện diện mạnh nhất mà tôi cảm nhận được kể từ khi đến thế giới này, nên tôi dùng Đánh Giá lên nó.
 
-|          |                                                                                                                                          |
-|----------|------------------------------------------------------------------------------------------------------------------------------------------|
-| TÊN:     | Hổ đen                                                                                                                                   |
-| CẤP ĐỘ:  | 108                                                                                                                                      |
-| KỸ NĂNG: | Tầm nhìn ban đêm<br>Tăng cường thể chất LV 7<br>Tiếng Gầm LV 6<br>Nhảy LV 6<br>Đe dọa LV 7<br>Đất co lại LV 8<br>Ma thuật bóng tối LV 10 |
-| TIÊU ĐỀ: | Lớp thảm họa                                                                                                                             |
+| **TÊN:** | **Hổ Đen** |
+| --- | --- |
+| **CẤP:** | **108** |
+| **KỸ NĂNG:** | **Thị Giác Đêm LV 7**  **Tăng Cường Thể Chất LV 7**  **Gầm Thét LV 6**  **Nhảy LV 6**  **Áp Chế LV 7**  **Thu Nhỏ Mặt Đất LV 8**  **Phép Thuật Bóng Tối LV 10** |
+| **DANH HIỆU:** | **Hạng Thảm Họa** |
 
-Hổ đen? Tất cả những gì tôi có thể nghĩ đến là một trong những món ăn yêu thích của tôi. Tôm sú. Vì
-cái tên làm tôi nhớ đến hải sản nên tôi nghĩ nó thật ngớ ngẩn. Bất chấp cái tên nghe có vẻ ngớ ngẩn
-đến thế nào, tôi vẫn coi trọng con thú này khi cấp độ của nó đạt tới ba chữ số.
+Hổ Đen? Tất cả những gì tôi có thể nghĩ đến là một trong những món ăn yêu thích của mình. Tôm hổ đen. Vì cái tên gợi cho tôi nhớ đến hải sản, tôi thấy nó ngớ ngẩn. Dù cái tên nghe ngớ ngẩn, tôi vẫn nghiêm túc đối với con thú, khi cấp của nó đã lên đến ba chữ số.
 
-Nó còn có tựa đề là “Lớp thảm họa” và những kỹ năng mà tôi lần đầu tiên nhìn thấy.
+Nó cũng có danh hiệu "Hạng Thảm Họa" và những kỹ năng tôi thấy lần đầu tiên.
 
-Tôi đang nghĩ rằng các kỹ năng của nó trông khá hữu ích thì đột nhiên giọng nói robot vang lên trong
-đầu tôi.
+Tôi đang nghĩ rằng kỹ năng của nó trông khá hữu ích, thì đột nhiên giọng nói robot vang lên trong đầu tôi.
 
-<<Nhận được các kỹ năng “Tầm nhìn ban đêm”, “Gầm”, “Nhảy”. Cấp độ kỹ năng “Gầm”, “Nhảy” đạt 10. Các
-kỹ năng “Tầm nhìn ban đêm”, “Gầm”, “Nhảy” được thêm vào Hợp nhất Võ thuật.>>
+<<Các kỹ năng "Thị Giác Đêm", "Gầm Thét", "Nhảy" đã có được. Cấp kỹ năng "Gầm Thét", "Nhảy" đạt 10. Các kỹ năng "Thị Giác Đêm", "Gầm Thét", "Nhảy" được thêm vào Hợp Nhất Võ Thuật.>>
 
-…một lần nữa, các kỹ năng đều tự được tạo ra.
+...một lần nữa, các kỹ năng lại tự tạo ra.
 
-Kể từ khi tôi nhận được kỹ năng từ thần, mọi thứ đã trở nên dễ dàng hơn…tôi không muốn phàn nàn nữa.
+Kể từ khi tôi nhận được các kỹ năng từ thần, mọi thứ đã trở thành chế độ dễ…không phải là tôi muốn phàn nàn.
 
-Dù sao thì tôi cũng phải sớm hạ gục con hổ đó nếu không mọi người sẽ gặp nguy hiểm.
+Dù sao, tôi phải hạ gục con hổ đó sớm nếu không mọi người sẽ gặp nguy hiểm.
 
-Nghĩ đến việc thử nghiệm một kỹ thuật mới, tôi tập trung sức mạnh ma thuật vào đầu ngón tay của
-mình.
+Nghĩ đến việc thử nghiệm một kỹ thuật mới, tôi tập trung ma lực vào đầu ngón tay.
 
-Tôi nén nó lại thật dày đặc, cuối cùng tạo thành những viên đạn ma thuật.
+Tôi nén nó lại thật chặt, cuối cùng hình thành đạn ma thuật.
 
-<<Đã nhận được Kỹ năng “Điều khiển sức mạnh phép thuật”. Cấp độ kỹ năng đạt 10. Kỹ năng được thêm
-vào Hợp nhất ma thuật.>>
+<<Kỹ năng "Thao Túng Ma Lực" đã có được. Cấp kỹ năng đạt 10. Kỹ năng được thêm vào Hợp Nhất Phép Thuật.>>
 
-Ồ, tôi cũng học được một kỹ năng mới.
+Ồ, tôi cũng học được kỹ năng mới.
 
-Trong khi tôi đang cân nhắc điều này, chiếc Black Tiger đã tiếp cận tôi với tốc độ rất cao.
+Trong khi tôi đang suy nghĩ chuyện này, con Hổ Đen tiến đến tôi với tốc độ rất cao.
 
-Có lẽ nó đánh giá sức mạnh ma thuật tập trung trong đầu ngón tay của tôi là nguy hiểm và quyết định
-tấn công. Những móng vuốt phía trước của nó đang bổ xuống tôi.
+Nó có lẽ đã đánh giá ma lực đang tập trung ở đầu ngón tay tôi là nguy hiểm, và quyết định tấn công. Những vuốt trước của nó đang chèn xuống tôi.
 
-Không cần chần chừ thêm nữa, tôi giải phóng sức mạnh ma thuật trên đầu ngón tay của mình.
+Không chần chừ, tôi giải phóng ma lực ở đầu ngón tay.
 
-Sức mạnh ma thuật tập trung, bắn với tốc độ âm thanh, tấn công Black Tiger như thể nó bị cơ thể con
-thú hút và thổi bay đầu nó với một âm thanh lớn và buồn tẻ.
+Ma lực được nén chặt, bắn ra với tốc độ âm thanh, đánh trúng con Hổ Đen như thể bị thân hình con thú hút vào, và thổi bay đầu nó đi với một tiếng động lớn, nặng nề.
 
-Con hổ đen không đầu rơi xuống đất khi Barnar và những người khác lao ra ngoài, hoảng hốt trước âm
-thanh đó.
+Con Hổ Đen mất đầu đổ xuống đất, khi Barnar và những người khác hối hả chạy ra ngoài, bị tiếng động đánh thức.
 
-“Haruto! Tiếng ồn vừa rồi là gì thế?”
+"Haruto! Tiếng động vừa rồi là gì vậy?"
 
-"Chuyện gì đã xảy ra thế!?"
+"Có chuyện gì vậy!?"
 
-“…Này, cơ thể đó là gì thế?”
+"...này, cái xác đó là gì vậy?"
 
-Barnar, Norkas và Oorde lần lượt gọi tôi, sau đó nhìn thấy xác của Hắc Hổ và chết lặng tại chỗ.
-Bacchus, người đứng sau họ, cũng phản ứng tương tự.
+Barnar, Norkas và Oorde mỗi người gọi tôi, rồi nhìn thấy xác con Hổ Đen và đứng đơ tại chỗ. Bacchus, người đứng phía sau họ, cũng phản ứng tương tự.
 
-“Đó là một chiếc Black Tiger…tôi nghĩ vậy.”
+"Là một con Hổ Đen…tôi nghĩ vậy."
 
-Thế là tôi trả lời và Barnar mở to mắt nhìn tôi.
+Tôi đáp vậy và Barnar nhìn tôi, mắt mở to.
 
-"Bạn nghĩ…?? Hắc Hổ là quái vật cấp thảm họa!! Đó không phải là thứ mà ai cũng có thể tự mình hạ gục
-được!!”
+"Cậu nghĩ…?? Hổ Đen là quái vật hạng Thảm Họa đấy!! Không phải thứ mà ai đó có thể một mình hạ gục!!"
 
-“Lớp thảm họa? Đó là cái gì vậy?”
+"Hạng Thảm Họa? Đó là gì vậy?"
 
-Tôi nhớ lại rằng trước đây tôi chưa từng phân tích danh hiệu đó bằng God Eye.
+Tôi nhớ ra rằng mình đã không phân tích danh hiệu bằng Thần Nhãn lúc nãy.
 
-“Bạn không biết à? Chà, dù sao thì bạn cũng chỉ mới đăng ký làm nhà thám hiểm ngày hôm qua…”Hạng
-thảm họa” là những quái vật cần 10 nhà thám hiểm hạng A trở lên hoặc cả một quân đội để đánh bại.
-Làm sao cậu giết được nó…?”
+"Cậu không biết à? Vâng, cậu mới đăng ký mạo hiểm giả hôm qua mà…"Hạng Thảm Họa" là những quái vật cần 10 mạo hiểm giả hạng A trở lên hoặc cả một quân đội để đánh bại. Cậu đã giết nó bằng cách nào…?"
 
-Hmm, tôi đoán sẽ nhanh hơn nếu chỉ cho họ xem.
+Hmm, chắc nhanh hơn là cứ cho họ xem.
 
 "Như thế này."
 
-Tôi tập trung sức mạnh ma thuật vào các đầu ngón tay và tạo ra một viên đạn ma thuật như tôi đã làm
-trước đây.
+Tôi tập trung ma lực vào đầu ngón tay và tạo một viên đạn ma thuật như lúc nãy.
 
-Dưới cái nhìn ngạc nhiên của Barnar và những người khác, tôi bắn viên đạn ma thuật vào một cái cây
-bên đường.
+Dưới ánh mắt ngạc nhiên của Barnar và những người khác, tôi bắn viên đạn ma thuật vào một cái cây bên đường.
 
-Viên đạn ma thuật bắn trúng gần gốc cây, thổi bay nó và tạo ra một hố nhỏ trên mặt đất.
+Viên đạn ma thuật đánh trúng gần gốc cây, thổi bay nó và tạo ra một hố nhỏ trên mặt đất.
 
-“Anh…anh bắn ma lực như vậy sao!? Chuyện như vậy có thể xảy ra sao!?”
+"Cậu…cậu bắn ma lực chỉ như thế thôi á!? Có chuyện đó xảy ra được không!?"
 
-“Không thể nào…Tôi biết, đây chắc chắn là một giấc mơ…”
+"Không thể nào…tôi biết rồi, đây chắc là mơ…"
 
-“Ừ, đúng rồi, cái hố trên mặt đất đó đã có ngay từ đầu rồi.”
+"Đúng rồi, đúng rồi, cái hố trên mặt đất đó cũng có sẵn từ đầu."
 
-Tất cả các bạn đang trốn tránh thực tế phải không?
+Mọi người đang trốn tránh thực tế à?
 
-Sau đó, tôi cất các bộ phận của Black Tiger vào kho lưu trữ không gian của mình, Barnar và những
-người khác nhìn thấy nó và ngạc nhiên trước kích thước của chiếc túi ma thuật của tôi. Nhiều chuyện
-đã xảy ra…nhưng vì ca làm việc của tôi đã kết thúc nên tôi đi về lều của mình để ngủ.
+Sau đó, tôi cất các bộ phận của con Hổ Đen vào không gian lưu trữ, Barnar và những người khác thấy vậy và ngạc nhiên trước kích thước của chiếc túi ma thuật của tôi. Đủ thứ chuyện đã xảy ra…nhưng vì ca gác của tôi đã hết, tôi đi về lều để ngủ.
 
 ~
 
-Sáng hôm sau, sau khi ăn sáng, chúng tôi lại lên đường đi Vaana.
+Sáng hôm sau, sau bữa sáng, chúng tôi lại lên đường đến Vaana.
 
-Ngày hôm trước chỉ là chuyến đi đầu tiên của chúng tôi, nhưng chúng tôi đã gặp phải một băng trộm và
-một con Hắc Hổ, nên tôi đã hy vọng rằng ngày thứ hai này sẽ yên bình, nhưng một chút trước bữa trưa,
-hy vọng của tôi đã bị tiêu tan bởi kỹ năng Phát hiện Hiện diện của tôi. Một con quái vật đang tiến
-về phía chúng tôi.
+Hôm trước mới chỉ là ngày đầu tiên của hành trình, nhưng chúng tôi đã gặp một bọn cướp và một con Hổ Đen, nên tôi hy vọng ngày thứ hai này sẽ yên bình, nhưng một chút trước bữa trưa, hy vọng của tôi đã bị kỹ năng Phát Hiện Sự Hiện Diện dập tắt. Một con quái vật đang tiến về hướng chúng tôi.
 
-Tôi nhanh chóng báo cáo cho Bacchus và những người khác, sau đó xuống xe cùng nhóm của Barnar để
-chuẩn bị tấn công.
+Tôi nhanh chóng báo cho Bacchus và những người khác, rồi xuống xe cùng nhóm của Barnar để chuẩn bị đón đánh.
 
-Chẳng bao lâu sau, một con thú với đôi mắt đỏ và bộ lông đen, giống một con gấu lớn, xuất hiện trước
-mặt chúng tôi.
+Chẳng bao lâu sau, một con thú với đôi mắt đỏ và bộ lông đen, trông giống như một con gấu lớn, xuất hiện trước mặt chúng tôi.
 
-“Chết tiệt, đó là Gấu Xám!! Sau một con quái vật hạng thảm họa, giờ nó là một con quái vật hạng A!?”
+"Damn, đó là Gấu Xám!! Sau quái vật hạng Thảm Họa, giờ đến hạng A à!?"
 
-Sau khi nghe phản ứng ngạc nhiên của Barnar, tôi dùng God Eye lên con quái vật.
+Sau khi nghe phản ứng ngạc nhiên của Barnar, tôi dùng Thần Nhãn lên con quái vật.
 
-|          |                                                                      |
-|----------|----------------------------------------------------------------------|
-| TÊN:     | Con gấu                                                              |
-| CẤP ĐỘ:  | 78                                                                   |
-| KỸ NĂNG: | Đe dọa LV 3<br>Tăng cường thể chất LV 4<br>Gầm LV 2<br>Sức Mạnh LV 3 |
+| **TÊN:** | **Gấu Xám** |
+| --- | --- |
+| **CẤP:** | **78** |
+| **KỸ NĂNG:** | **Áp Chế LV 3**  **Tăng Cường Thể Chất LV 4**  **Gầm Thét LV 2**  **Sức Mạnh LV 3** |
 
-Tôi hiểu rồi, nó trông khá khó khăn.
+Tôi thấy rồi, nó trông khá là cứng đấy.
 
-“Này, Barnar, quái vật hạng A mạnh đến mức nào vậy?”
+"Này, Barnar, quái vật hạng A mạnh đến mức nào?"
 
-“Quái vật đi từ lớp F đến lớp A, đó là loại quái thú cấp cao nhất..trừ thảm họa. Vậy ra đây cũng là
-một kẻ thù thực sự mạnh mẽ!!”
+"Quái vật chia từ hạng F đến hạng A, đó là hạng cao nhất..ngoại trừ quái thú hạng Thảm Họa. Vậy nên đây cũng là kẻ thù cực kỳ mạnh đấy!!"
 
-Barnar hét lên, giọng điệu bộc lộ sự lo lắng.
+Barnar hét lên, giọng phản bội sự căng thẳng của anh ấy.
 
-Tôi nghĩ rằng đối mặt với kẻ thù ở cấp độ này lần lượt chắc chắn sẽ là điều bất ngờ.
+Đối mặt với kẻ thù ở mức này liên tiếp thì chắc chắn sẽ là ngoài dự kiến, tôi nghĩ.
 
-“Tôi hiểu rồi… thực ra có thứ tôi muốn thử, bạn có thể để tôi xử lý việc này được không?”
+"Tôi hiểu rồi…thực ra có thứ tôi muốn thử, các anh để tôi xử lý con này được không?"
 
-Trước khi Barnar kịp trả lời, tôi đã tạo ra một kỹ năng với All Creation.
+Trước khi Barnar kịp đáp, tôi tạo một kỹ năng bằng Toàn Năng.
 
-<<Đã học được kỹ năng “Đúc”. Cấp độ kỹ năng đạt 10. Kỹ năng được thêm vào Hợp nhất ma thuật.>>
+<<Kỹ năng "Tạo Hình" đã có được. Cấp kỹ năng đạt 10. Kỹ năng được thêm vào Hợp Nhất Phép Thuật.>>
 
-Thứ tôi tạo ra là kỹ năng “Đúc”, sử dụng sức mạnh ma thuật làm phương tiện để tạo ra vật chất.
+Thứ tôi tạo ra là kỹ năng "Tạo Hình", dùng ma lực làm trung gian để tạo ra vật chất.
 
-Tôi đặt tay xuống đất, truyền ma lực vào nó và đúc nó thành kim loại. Một tia sét đỏ thẫm, biểu hiện
-vật chất của sức mạnh ma thuật, lóe lên trong giây lát, để lộ ra một ngọn giáo.
+Tôi đặt tay xuống đất, truyền ma lực vào đó và tạo hình nó thành kim loại. Một tia chớp đỏ thẫm, hiện thân vật lý của ma lực, lóe lên trong tích tắc, hiện ra một cây giáo.
 
-Sau đó, tôi sử dụng Enchant để gắn ngọn giáo với hiệu ứng “Thunderstrike” và “Fierce Blade”.
+Sau đó tôi dùng Phù Phép gắn cho cây giáo các hiệu ứng "Sét Đánh" và "Lưỡi Bền".
 
-“Haruto, cậu cũng có thể sử dụng Đúc khuôn!? Và cậu cũng đã sử dụng phép thuật Enchant phải không!?”
+"Haruto, cậu cũng dùng được Tạo Hình à!? Và cậu cũng dùng phép Phù Phép đúng không!?"
 
-Tôi phớt lờ sự ngạc nhiên của Barnar và đối mặt với Gấu Xám với ngọn giáo trong tay.
+Tôi phớt lờ sự ngạc nhiên của Barnar và đối mặt với con Gấu Xám, tay cầm giáo.
 
-Con quái vật đứng bằng hai chân sau để đe dọa chúng tôi. Chiều cao của nó dường như phải hơn bốn
-mét.
+Con quái vật đang đứng bằng hai chân sau để áp chế chúng tôi. Chiều cao của nó có vẻ trên bốn mét.
 
-Có thể đứng dậy khiến nó trông đáng sợ hơn cả Hắc Hổ.
+Việc đứng được bằng hai chân khiến nó trông đe dọa hơn con Hổ Đen.
 
-Tuy nhiên, tôi không cảm thấy sợ hãi khi lao vào nó.
+Tuy nhiên, tôi không cảm thấy sợ hãi, khi tôi xông vào nó.
 
-Con Gấu Xám giáng hai chân trước xuống tôi: sau khi né chúng bằng bước sang một bên, tôi đâm ngọn
-giáo có tia sét của mình vào bên không được bảo vệ của con quái vật.
+Con Gấu Xám hạ những bàn chân trước xuống tôi: sau khi né chúng bằng một bước tránh sang bên, tôi đâm cây giáo có gắn sấm sét vào sườn không được phòng bị của con quái vật.
 
-Dòng điện chạy qua cơ thể con quái vật, làm nó tê liệt trong giây lát, nhưng nó vẫn chịu được đòn
-tấn công mà không gục ngã.
+Dòng điện chạy khắp cơ thể con quái vật, tê liệt nó trong giây lát, nhưng nó chịu đựng được đòn tấn công mà không gục ngã.
 
-“Tch, có lẽ nó chưa đủ tốt. Vậy thì hãy để tôi cho bạn thứ gì đó còn ly kỳ hơn nữa nhé!!”
+"Tch, hóa ra chưa đủ. Vậy tôi sẽ cho anh thứ còn kích thích hơn nhé!!"
 
-Tôi để sức mạnh ma thuật của mình chảy vào ngọn thương, tăng sức tấn công của Thunderstrike.
+Tôi để ma lực chảy vào cây giáo, tăng sức mạnh tấn công của Sét Đánh.
 
-Tôi tập trung sức mạnh ma thuật vào đầu ngọn giáo, tạo ra một quả cầu điện, tôi đâm về phía Gấu Xám.
+Tôi tập trung ma lực ở đầu mũi giáo, tạo ra một quả cầu điện, rồi đâm về phía con Gấu Xám.
 
-Con Gấu Xám đã bị đòn tấn công trước đó của tôi xuyên thủng nên nó ngã gục xuống đất, bất lực và
-trút hơi thở cuối cùng.
+Con Gấu Xám đã bị đâm xuyên bởi đòn tấn công trước đó của tôi, nên nó đổ gục xuống đất, bất lực, và trút hơi thở cuối cùng.
 
-Phải mất nhiều thời gian hơn dự kiến, nhưng tôi có thể đánh bại nó mà không gặp vấn đề gì.
+Mất hơi lâu hơn dự kiến, nhưng tôi có thể đánh bại nó mà không gặp vấn đề gì.
 
-Với một tiếng thở dài nhẹ nhõm, tôi cất cái xác vào kho lưu trữ không gian của mình, và nhóm của
-Barnar đến gặp tôi.
+Với một tiếng thở phào nhẹ nhõm, tôi cất xác vào không gian lưu trữ, và nhóm của Barnar đi đến chỗ tôi.
 
-“Anh đã giết ngay cả một con Gấu Xám trong vài giây…chà, xét đến cách anh xử lý Hổ Đen ngày hôm qua,
-tôi không lo lắng, nhưng…mà cái ngọn giáo đó là sao vậy? Nó bắn sét phải không?”
+"Cậu giết cả Gấu Xám trong vài giây…à, nghĩ đến cách cậu xử lý con Hổ Đen hôm qua, tôi không lo lắng, nhưng…cây giáo đó là sao? Nó bắn sét đúng không?"
 
-“Ừ, tôi đã tạo hình một ngọn giáo và phù phép nó bằng ma thuật sét…Này, sao cậu lại nhìn tôi như
-vậy?”
+"Ừ, tôi tạo hình cây giáo và phù phép sấm sét lên nó…này, sao mọi người lại nhìn tôi như vậy?"
 
-Sau khi tôi giải thích về cây thương, Barnar, Norkas và Oorde nhìn tôi với ánh mắt ghen tị.
+Sau khi tôi giải thích về cây giáo, Barnar, Norkas, và Oorde nhìn tôi với ánh mắt ghen tị.
 
-Có lẽ nào…họ muốn một vũ khí như thế này?
+Có thể nào…họ muốn một vũ khí như thế này?
 
-“Tôi có thể làm cho bạn một thanh kiếm nếu bạn muốn?”
+"Tôi có thể tạo cho mọi người một thanh kiếm nếu muốn?"
 
-“R-thật sao!? …Thành thật mà nói, tôi không có nhiều tiền bên mình…”
+"T-thật á!? …nói thật, tôi không có nhiều tiền trong người…"
 
-“Không cần đâu, dù sao thì anh cũng đã dạy tôi rất nhiều thứ. Hãy để tôi đưa cho bạn mỗi người một
-cái như một cử chỉ cảm ơn.”
+"Không cần, dù sao mọi người cũng đã dạy tôi nhiều thứ. Hãy để tôi tặng mỗi người một thanh như một cử chỉ cảm ơn."
 
-Barnar và hai người đồng đội nhìn tôi với ánh mắt lấp lánh, vui mừng khôn xiết như những đứa trẻ có
-món đồ chơi mới.
+Barnar và hai đồng đội nhìn tôi với ánh mắt lấp lánh, vui mừng như trẻ con được đồ chơi mới.
 
-Tôi có thể đưa cây giáo tôi vừa làm cho Oorde nên tôi chỉ cần rèn kiếm cho Barnar và Norkas.
+Tôi có thể đưa cây giáo vừa tạo cho Oorde, nên tôi chỉ cần tạo kiếm cho Barnar và Norkas.
 
-Giống như lần trước, tôi đặt tay xuống đất và truyền sức mạnh ma thuật vào đó. Sau tia chớp đỏ thẫm,
-hai thanh kiếm xuất hiện.
+Giống như trước, tôi đặt tay xuống đất và đổ ma lực vào đó. Sau tia chớp đỏ thẫm, hai thanh kiếm xuất hiện.
 
-Tôi mê hoặc cả hai bằng “Fierce Blade”, sau đó thêm “Flamestrike” vào thanh kiếm của Barnar và
-“Windstrike” vào Norkas '.
+Tôi phù phép "Lưỡi Bền" lên cả hai, rồi thêm "Hỏa Đánh" vào kiếm của Barnar và "Phong Đánh" vào của Norkas.
 
-Vì tôi đã ở đó nên tôi cũng có thể đánh giá chúng.
+Tiện thể, tôi cũng đánh giá chúng luôn.
 
-|        |                                                                                              |
-|--------|----------------------------------------------------------------------------------------------|
-| TÊN:   | Lưỡi lửa                                                                                     |
-| HIẾM:  | Cổ vật                                                                                       |
-| LƯU Ý: | Cho phép sử dụng Hỏa thuật lên đến cấp 2.<br>Lưỡi kiếm có thể được bao bọc bởi ngọn lửa.     |
-| TÊN:   | Lưỡi gió                                                                                     |
-| HIẾM:  | Cổ vật                                                                                       |
-| LƯU Ý: | Cho phép sử dụng Phong thuật lên đến LV 2.<br>Lưỡi dao có thể được bao bọc bởi gió.          |
-| TÊN:   | Ngọn giáo sấm sét                                                                            |
-| HIẾM:  | Cổ vật                                                                                       |
-| LƯU Ý: | Cho phép sử dụng Lightning Magic lên tới LV 2.<br>Lưỡi kiếm có thể được bao bọc bởi tia sét. |
+| **TÊN:** | **Lưỡi Lửa** |
+| --- | --- |
+| **ĐỘ HIẾM:** | **Cổ Vật** |
+| **GHI CHÚ:** | **Cho phép sử dụng phép Hỏa đến LV 2.**  **Lưỡi kiếm có thể được bao bọc bởi lửa.** |
 
-Khá nhiều cái tên được đặt theo nghĩa đen… “sự hiếm có” này là gì?
+| **TÊN:** | **Lưỡi Gió** |
+| --- | --- |
+| **ĐỘ HIẾM:** | **Cổ Vật** |
+| **GHI CHÚ:** | **Cho phép sử dụng phép Phong đến LV 2.**  **Lưỡi kiếm có thể được bao bọc bởi gió.** |
 
-Tôi tập trung vào từ đó và một lời giải thích vang lên trong đầu tôi.
+| **TÊN:** | **Giáo Sấm Sét** |
+| --- | --- |
+| **ĐỘ HIẾM:** | **Cổ Vật** |
+| **GHI CHÚ:** | **Cho phép sử dụng phép Sấm Sét đến LV 2.**  **Lưỡi kiếm có thể được bao bọc bởi sấm sét.** |
 
-Có bảy loại vật phẩm hiếm: Thông thường, Hiếm, Cổ vật, Truyền thuyết, Phantasm, Thần thánh và Sáng
-thế.
+Đặt tên gần như theo nghĩa đen…thế "độ hiếm" này là gì vậy?
 
-Các vật phẩm cấp phổ thông, như tên gọi đã nói, là những vật phẩm thường được bán: những vật phẩm
-chất lượng cao có thể là loại Hiếm.
+Tôi tập trung vào từ đó và một lời giải thích vang lên trong đầu.
 
-Ngay cả những vật phẩm hiếm hơn với chất lượng độc đáo cũng được gắn nhãn cấp độ Cổ vật, loại vật
-phẩm này cũng có thể được tìm thấy trong ngục tối.
+Có bảy cấp độ hiếm của vật phẩm: Thường, Hiếm, Cổ Vật, Huyền Thoại, Ảo Giác, Thần Thánh, và Sáng Thế.
 
-Các vật phẩm cấp huyền thoại là những sáng tạo vĩ đại nhất của các nghệ nhân bậc thầy. Đây được cho
-là cấp độ tối đa đạt được thông qua chế tạo thông thường và có một số lượng đáng kể các vật phẩm như
-vậy tồn tại. Trong những trường hợp rất hiếm, vật phẩm cấp Artifact có thể được tăng lên cấp độ này.
-Hầu hết vũ khí được ban cho Anh hùng đều thuộc loại hiếm này.
+Vật phẩm cấp Thường, như cái tên, là những vật phẩm thường thấy khi bán: loại chất lượng cao có thể đạt cấp Hiếm.
 
-Vật phẩm cấp Phantasm ít hơn nhiều: hiện tại, bạn có thể đếm những vật phẩm đã biết trên đầu ngón
-tay. Các vật phẩm cấp Huyền thoại đã được cường hóa trong một thời gian dài. Cả hai đều cực kỳ mạnh
-mẽ và sở hữu những hiệu ứng đáng kinh ngạc.
+Những vật phẩm hiếm hơn nữa với phẩm chất độc đáo được gắn nhãn cấp Cổ Vật, cũng có thể tìm thấy trong các hầm ngục.
 
-Những vật phẩm có độ hiếm này có thể mua được ở thời đại hiện nay, mặc dù độ khó ngày càng tăng,
-nhưng những vật phẩm có độ hiếm cao hơn được coi là thực tế không thể lấy được.
+Vật phẩm cấp Huyền Thoại là những kiệt tác của các thợ thủ công bậc thầy. Đây được cho là cấp tối đa đạt được thông qua chế tạo thông thường, và có một số lượng đáng kể các vật phẩm như vậy tồn tại. Trong những trường hợp rất hiếm, vật phẩm cấp Cổ Vật có thể được nâng cấp lên cấp này. Hầu hết vũ khí ban cho các Anh Hùng đều thuộc cấp độ hiếm này.
 
-Các vật phẩm cấp thần thánh được tạo ra sau khi thế giới được sinh ra, trong thời đại của các vị
-thần. Chỉ những người được chính vật phẩm chấp nhận mới có thể sử dụng chúng. Có những tài liệu ghi
-lại việc sử dụng chúng, nhưng không có gì hơn: bản thân sự tồn tại của các vật phẩm này đã là một bí
-ẩn.
+Vật phẩm cấp Ảo Giác ít hơn nhiều: ở thời điểm hiện tại, bạn có thể đếm được những vật phẩm đã biết trên đầu ngón tay của cả hai bàn tay. Vật phẩm cấp Huyền Thoại được cường hóa qua một thời gian dài. Chúng vừa mạnh mẽ vừa sở hữu hiệu ứng đáng kinh ngạc.
 
-Vật phẩm cấp Genesis được cho là tồn tại khi thế giới được tạo ra. Sử dụng chúng có nghĩa là sử dụng
-đủ sức mạnh để hủy diệt cả thế giới, nhưng cũng giống như các vật phẩm cấp Thần thánh, chỉ những
-người được chọn mới có thể sử dụng chúng. Chúng được tìm thấy trong thần thoại nhưng không biết liệu
-chúng có thực sự tồn tại hay không.
+Vật phẩm với những cấp độ hiếm này có thể có được ở thời hiện tại, dù ngày càng khó khăn hơn, nhưng vật phẩm với độ hiếm cao hơn được coi là gần như không thể có được.
 
-Như vậy là đã kết thúc phần giải thích về độ hiếm của các vật phẩm trong thế giới này…nhưng ngay cả
-vũ khí mà tôi ngẫu nhiên nhặt được cũng được xếp vào cấp độ Tạo tác, huh.
+Vật phẩm cấp Thần Thánh được tạo ra sau khi thế giới sinh ra, trong thời đại của các vị thần. Chỉ những ai được bản thân vật phẩm chấp nhận mới có thể sử dụng chúng. Có tài liệu ghi chép về việc sử dụng chúng tồn tại, nhưng không có gì hơn: sự tồn tại của chính những vật phẩm ấy là một bí ẩn.
 
-Có lẽ cấp độ hiếm đã tăng lên sau khi tôi phù phép chúng.
+Vật phẩm cấp Sáng Thế được cho là tồn tại khi thế giới được tạo ra. Sử dụng chúng có nghĩa là sử dụng đủ sức mạnh để hủy diệt cả thế giới, nhưng giống như vật phẩm cấp Thần Thánh, chỉ những người được chọn mới có thể sử dụng. Chúng được tìm thấy trong thần thoại, nhưng không biết liệu chúng có thực sự tồn tại hay không.
 
-Chà, miễn là Barnar và nhóm của anh ấy vui vẻ thì không cần phải lo lắng về chi tiết.
+Như vậy là hết lời giải thích về độ hiếm của vật phẩm trong thế giới này…nhưng ngay cả vũ khí tôi tùy ý chế tạo cũng đạt cấp Cổ Vật, hả.
+
+Có lẽ cấp độ hiếm tăng lên sau khi tôi phù phép chúng.
+
+Ừ, miễn là Barnar và đồng đội vui là được, không cần bận tâm về chi tiết.
 
 ~
 
-Sau khi Barnar và các con trai bày tỏ niềm vui xong, chúng tôi lại tiếp tục chuyến hành trình.
+Sau khi Barnar và mấy đứa con trai thể hiện xong niềm vui, chúng tôi lại tiếp tục hành trình.
 
-Theo Bacchus, tối nay chúng tôi sẽ nghỉ đêm tại một ngôi làng nên không cần phải cắm trại ngoài
-trời.
+Theo Bacchus, đêm nay chúng tôi sẽ nghỉ qua đêm ở một ngôi làng, nên không cần cắm trại.
 
-Chúng tôi sẽ đến nơi trong khoảng ba giờ nữa, vì vậy chúng tôi tiếp tục cảnh giác theo yêu cầu của
-nhiệm vụ hộ tống: Tuy nhiên, Barnar và những người khác cũng rất hào hứng mong chờ cơ hội để thử vũ
-khí mới của họ.
+Chúng tôi sẽ đến nơi sau khoảng ba tiếng, nên chúng tôi tiếp tục cảnh giác, đúng như nhiệm vụ hộ tống đòi hỏi: tuy nhiên, Barnar và những người khác cũng háo hức chờ đợi cơ hội thử vũ khí mới của mình.
 
-Mỗi lần tôi nói rằng tôi đã phát hiện được sự hiện diện của kẻ thù, họ lại háo hức xuống xe, sau đó
-vui vẻ nói với tôi rằng họ thậm chí còn đánh bại được quái vật hạng B, một thành tích khó khăn đối
-với những mạo hiểm giả hạng C.
+Mỗi lần tôi nói rằng tôi phát hiện sự hiện diện của kẻ thù, họ hăng hái xuống xe, rồi vui vẻ kể rằng họ thậm chí còn hạ được quái vật hạng B, một kỳ tích khó khăn đối với mạo hiểm giả hạng C.
 
-Cuối cùng, chúng tôi đến ngôi làng như dự kiến, nhưng thấy ngôi làng bị bỏ hoang và hỗn loạn.
+Cuối cùng, chúng tôi cũng đến ngôi làng theo kế hoạch, nhưng phát hiện nó hoang vắng và đổ nát.
 
-"Ông. Bacchus, ngôi làng luôn như thế này à?”
+"anh Bacchus, ngôi làng này vốn dĩ đã như thế này sao?"
 
-“Không, theo cấp dưới của tôi, nó không nên ở trạng thái này…”
+"Không, theo thuộc hạ của tôi, nó không nên ở trong tình trạng này…"
 
-Bacchus lắc đầu trước câu hỏi của tôi, rồi Barnar chống cằm nói.
+Bacchus lắc đầu trước câu hỏi của tôi, rồi Barnar, cằm tựa vào tay, lên tiếng.
 
-“Đứng quanh đây cũng chẳng giải quyết được gì. Haruto, anh Bacchus, chúng ta nên đi tìm dân làng để
-biết chuyện gì đã xảy ra. Norkas và Oorde nên ở lại đây cùng những người khác để canh gác xe ngựa,
-ai mà biết được chuyện gì có thể xảy ra.”
+"Đứng đây sẽ không giải quyết được gì. Haruto, anh Bacchus, chúng ta nên đi tìm dân làng để xem có thể tìm hiểu chuyện gì đã xảy ra. Norkas và Oorde ở lại đây với những người khác để canh gác xe ngựa, biết đâu chuyện gì có thể xảy ra."
 
-Tôi gật đầu với đề nghị của Barnar và chúng tôi chia thành hai nhóm.
+Tôi gật đầu trước đề nghị của Barnar và chúng tôi chia thành hai nhóm.
 
-Bacchus, Barnar và tôi hướng tới tòa nhà lớn nhất trong làng.
+Bacchus, Barnar, và tôi hướng về tòa nhà lớn nhất trong làng.
 
-Chúng tôi gõ cửa và một ông già, có lẽ khoảng 70 tuổi, bước ra từ bên trong.
+Chúng tôi gõ cửa và một ông lão, có lẻ khoảng 70 tuổi, xuất hiện từ bên trong.
 
-"Điều gì mang bạn đến nơi này?"
+"Có chuyện gì vậy?"
 
-“Chúng tôi xin lỗi vì chuyến thăm đột ngột này. Chúng tôi là du khách, chúng tôi đến ngôi làng này
-với ý định nghỉ qua đêm…nhưng có vẻ như nó đang ở trong tình trạng rất hoang tàn, có chuyện gì đã
-xảy ra à?”
+"Xin lỗi vì đã đến đột ngột. Chúng tôi là khách lữ hành, chúng tôi đến ngôi làng này hy vọng qua đêm…nhưng có vẻ nó đang trong tình trạng hoang tàn, đã có chuyện gì xảy ra sao?"
 
-Ông già trả lời câu hỏi của tôi bằng cách mời chúng tôi vào trong nói chuyện.
+Ông lão trả lời câu hỏi của tôi bằng cách mời chúng tôi vào trong nói chuyện.
 
-Chúng tôi ngồi xuống nơi có vẻ như là phòng khách và ông già, với giọng điệu nặng nề, buồn bã, bắt
-đầu nói.
+Chúng tôi ngồi xuống trong căn phòng có vẻ là phòng khách và ông lão, với giọng nặng nề, buồn bã, bắt đầu kể.
 
-“Đầu tiên, cho phép tôi chào mừng các bạn đến với ngôi làng của chúng tôi, những du khách. Tôi là
-Karl, già làng. Về chuyện đã xảy ra với ngôi làng này—”
+"Trước hết, cho phép tôi chào đón các vị đến với làng của chúng tôi, những người lữ hành. Tôi là Karl, trưởng làng. Về chuyện đã xảy ra với ngôi làng này— "
 
-Sau đó già làng giải thích lý do đằng sau tình trạng đáng tiếc của làng.
+Trưởng làng sau đó giải thích lý do đằng sau tình trạng thảm hại của ngôi làng.
 
-Hóa ra gần đây ngôi làng đã hứng chịu sự tấn công của một số quái vật.
+Hóa ra gần đây ngôi làng phải hứng chịu các cuộc tấn công của một số quái vật nào đó.
 
-Những con quái vật tàn phá các cánh đồng, phá hủy mọi thứ mà dân làng trồng trọt, vì vậy họ hầu như
-không thể sống sót bằng nguồn dự trữ của mình.
+Lũ quái vật tàn phá các cánh đồng, phá hủy bất cứ thứ gì dân làng gieo trồng, nên họ sống sót chật vật bằng dự trữ của mình.
 
-Họ nghĩ rằng lũ quái vật sẽ rời đi sau một thời gian, nhưng thật không may, điều đó không phải như
-vậy: nguồn lương thực dự trữ của làng gần như đã cạn kiệt, nên họ nghĩ đến việc đến thị trấn tiếp
-theo để đưa ra yêu cầu tiêu diệt…và rồi chúng tôi đã đến nơi ở làng.
+Họ nghĩ rằng lũ quái vật sẽ rời đi sau một thời gian, nhưng tiếc thay, không phải vậy: nguồn dự trữ lương thực của làng gần như cạn kiệt, nên họ đang tính đến thị trấn kế tiếp để đăng yêu cầu tiêu diệt…rồi thì chúng tôi đến ngôi làng.
 
-“Tôi hiểu rồi, vậy ra đó là chuyện đã xảy ra…”
+"Tôi hiểu, hóa ra là vậy…"
 
-“Vì vậy, nếu các du khách là mạo hiểm giả, tôi muốn hỏi về cấp bậc của các bạn…”
+"Vậy nên, nếu các vị lữ hành tình cờ là mạo hiểm giả, tôi muốn hỏi về hạng của các vị…"
 
-Barnar gật đầu với lời nói của trưởng lão và trả lời.
+Barnar gật đầu trước lời của trưởng làng và đáp lại.
 
-“Người đàn ông này là một thương gia và chúng tôi là những nhà thám hiểm hiện đang thực hiện nhiệm
-vụ hộ tống anh ta. Có thêm một số người nữa trên xe ngựa mà chúng ta đã đi tới đây, cũng như thêm
-hai nhà thám hiểm nữa trong nhóm của tôi.”
+"Người này là thương nhân và chúng tôi là mạo hiểm giả hiện đang làm nhiệm vụ hộ tống ông ấy. Có thêm vài người nữa trong xe ngựa mà chúng tôi đi đến đây, cũng như hai mạo hiểm giả nữa trong nhóm tôi."
 
-Barnar ra hiệu cho Bacchus và tôi rồi giải thích tình hình của chúng tôi.
+Barnar ra hiệu về phía Bacchus và tôi và giải thích tình hình của chúng tôi.
 
-“Tên tôi là Barnar, tôi là một nhà thám hiểm hạng C. Hai thành viên khác trong nhóm của tôi cũng
-hạng C.”
+"Tôi tên Barnar, mạo hiểm giả hạng C. Hai thành viên khác trong nhóm tôi cũng là hạng C."
 
-Người lớn tuổi lẩm bẩm “Tôi hiểu rồi, hạng C…”, trông hơi chán nản rồi quay về phía tôi.
+Trưởng làng lầm bầm "Tôi hiểu, hạng C…", trông có vẻ hơi chán nản, rồi quay về phía tôi.
 
-“Tên tôi là Haruto, tôi hạng B.”
+"Tôi tên Haruto, tôi là hạng B."
 
-“Ồ, còn quá trẻ và đã xếp hạng B…rất ấn tượng…nhưng con quái vật mà chúng ta phải đối mặt lần này
-là…”
+"Ồ, trẻ mà đã là hạng B rồi…thật ấn tượng…nhưng con quái vật chúng tôi đối mặt lần này là…"
 
-Vẻ mặt trưởng lão càng thêm đau khổ, sau đó Bacchus lên tiếng.
+Vẻ mặt trưởng làng trở nên đau khổ hơn, rồi Bacchus lên tiếng.
 
-“Tôi xin lỗi vì đã cắt ngang, tôi là Bacchus, thương gia đã thuê những nhà thám hiểm này. Đó là loại
-quái vật gì vậy…?”
+"Xin lỗi vì đã ngắt lời, tôi là Bacchus, thương nhân đã thuê các mạo hiểm giả này. Con quái vật đó là loại gì…?"
 
-“Nó thực ra là một con quái vật hạng A, một con chim Mephistos…nó có thể bay với tốc độ cao và có
-lớp da rất dày nên rất khó bị sát thương, nên vũ khí thông thường hầu như không làm xước nó. Nhiều
-dân làng cố gắng chiến đấu đã trở thành nạn nhân của nó…”
+"Thực ra đó là quái vật hạng A, một con Chim Mephistos…nó có thể bay với tốc độ cao và có bộ da rất dày, khiến việc gây sát thương rất khó khăn, nên vũ khí thông thường hầu như không làm nó xước. Nhiều dân làng đã cố chiến đấu và trở thành nạn nhân của nó…"
 
-Trưởng lão thở dài và nói tiếp.
+Trưởng làng thở dài rồi tiếp tục.
 
-“Tôi e rằng để đánh bại một con quái vật như vậy, chúng ta cần ít nhất một tổ đội hạng A. Thế nên
-tôi đã hỏi về cấp bậc của cậu, nhưng…”
+"Để đánh bại một con quái vật như vậy, chúng tôi sợ rằng ít nhất cần một tổ đội hạng A. Vậy nên tôi mới hỏi hạng của các vị, nhưng…"
 
-Trưởng lão trông có vẻ tuyệt vọng, nhưng Barnar trả lời với giọng tươi sáng.
+Trưởng làng trông tuyệt vọng, nhưng Barnar đáp lại bằng giọng sáng sủa.
 
-“Tôi hiểu rồi, trong trường hợp đó, bạn có thể để việc đó cho chúng tôi.”
+"Tôi hiểu, vậy trong trường hợp đó, các anh có thể để chuyện đó cho chúng tôi."
 
-Tò mò về câu trả lời của anh ấy, tôi nhìn Barnar và thấy Bacchus cũng đang nhìn về phía này.
+Tò mò về câu trả lời của anh ấy, tôi nhìn Barnar và thấy Bacchus cũng đang nhìn về hướng này.
 
-…điều này có đi đến nơi mà tôi nghĩ không…?
+…Chẳng lẽ nó đang đi đúng hướng mình nghĩ…?
 
-“Cậu có thể đánh bại nó phải không Haruto?”
+"Anh có thể hạ nó đúng không, Haruto?"
 
 Vâng, đúng như tôi nghĩ.
 
-“Chà, tôi chưa bao giờ chiến đấu chống lại một con quái vật biết bay…”
+"Ừ, tôi chưa từng đánh với quái vật bay, dù sao thì…"
 
-Trưởng lão đáp lại lời tôi bằng một cái gật đầu.
+Trưởng làng phản ứng trước lời tôi bằng một cái gật đầu.
 
-“Điều đó sẽ khiến mọi chuyện trở nên khó khăn hơn nhiều. Khoảng cách thứ hạng cũng rất rộng…”
+"Điều đó sẽ làm mọi chuyện khó hơn nhiều. Khoảng cách hạng cũng rộng nữa…"
 
-“Ồ không, Haruto sẽ ổn thôi.”
+"Không sao đâu, Haruto sẽ ổn thôi."
 
-Bacchus và Barnar đồng thanh trả lời.
+Bacchus và Barnar đáp lại cùng lúc.
 
-“…có lẽ tôi không còn lựa chọn nào khác nhỉ.”
+"...Chắc là tôi không có lựa chọn nào khác, nhỉ."
 
-Tôi thở dài với chính mình và người lớn tuổi nhìn tôi ngạc nhiên. Có lẽ anh ấy không bao giờ mong
-đợi chúng tôi sẽ đảm nhận nhiệm vụ này.
+Tôi thở dài với chính mình và trưởng làng nhìn tôi, ngạc nhiên. Có lẽ ông ấy không bao giờ nghĩ rằng chúng tôi sẽ nhận nhiệm vụ.
 
-“Cơ sở cho sự tự tin của bạn là gì, nếu tôi được phép hỏi?”
+"Cơ sở cho sự tự tin của anh là gì, nếu tôi có thể hỏi?"
 
-Barnar trả lời trưởng lão thay tôi rằng “Haruto, chỉ cho anh ấy xem cái đó đi.”
+Barnar trả lời thay tôi, nói "Haruto, chỉ cho ông ấy xem đi."
 
-Tôi gật đầu và dẫn mọi người ra ngoài, nơi tôi lấy thi thể không đầu của Black Tiger ra khỏi kho lưu
-trữ không gian của mình và đặt nó xuống đất.
+Tôi gật đầu và dẫn mọi người ra ngoài, nơi tôi lấy thân con Hổ Đen đã mất đầu ra khỏi không gian lưu trữ và đặt xuống đất.
 
-Trưởng lão, bị sốc khi nhìn thấy cơ thể to lớn của con quái vật, gần như không thể phản ứng được.
+Trưởng làng, sốc trước cảnh tượng cơ thể khổng lồ của con quái vật, vắt kiệt sức để bật ra một phản ứng.
 
-“Một chiếc túi ma thuật…? Nhưng quan trọng hơn…đây là…”
+"Túi ma thuật…? Nhưng quan trọng hơn…đây là…"
 
-Bacchus, Barnar và tôi đồng thanh trả lời.
+Bacchus, Barnar, và tôi đáp lại cùng lúc.
 
-“Một con hổ đen.”
+"Một con Hổ Đen."
 
-“Có lẽ nào…người đã đánh bại nó là…”
+"Chẳng lẽ…người đã hạ gục nó là…"
 
-Bacchus và Barnar lặng lẽ chỉ vào tôi.
+Bacchus và Barnar lặng lẽ chỉ về phía tôi.
 
-“Tôi đã làm, một mình.”
+"Em đã làm, một mình."
 
-Trưởng lão nhìn tôi chằm chằm, há hốc mồm, không thể thốt nên lời.
+Trưởng làng nhìn tôi, há hốc mồm, không thốt nên lời.
 
-Tôi cất Black Tiger vào kho và khuyến khích mọi người quay vào trong.
+Tôi cất con Hổ Đen vào không gian lưu trữ và khuyến khích mọi người quay lại bên trong.
 
-Khi tất cả chúng tôi đã ngồi xuống, trưởng lão có lẽ đã lấy lại bình tĩnh và cúi chào chúng tôi thật
-sâu.
+Khi tất cả chúng tôi ngồi xuống, trưởng làng có lẽ đã lấy lại bình tĩnh, và ông cúi đầu thật sâu với chúng tôi.
 
-“Tôi sẽ tin vào lời nói của bạn. Bạn nói tên bạn là Haruto…Tôi muốn nhờ bạn tiêu diệt Chim
-Mephistos. Phần thưởng chúng tôi có thể đưa ra là năm đồng vàng…Tôi biết nó không nhiều, nhưng làm
-ơn…cứu ngôi làng của chúng tôi!”
+"Tôi sẽ tin vào lời các vị. Anh nói tên mình là Haruto phải không…tôi muốn nhờ anh tiêu diệt Chim Mephistos. Phần thưởng chúng tôi có thể trả là năm đồng vàng…tôi biết là không nhiều, nhưng xin hãy…cứu ngôi làng của chúng tôi!"
 
-“…có một điều tôi phải biết.”
+"...Có một điều tôi cần biết."
 
-Trưởng lão ngẩng đầu lên sau câu trả lời của tôi.
+Trưởng làng ngẩng đầu lên sau câu trả lời của tôi.
 
-“Chim Mephistos có ngon không?”
+"Chim Mephistos có ngon không?"
 
-Trưởng lão có vẻ ngơ ngác một lúc rồi gật đầu.
+Trưởng làng có vẻ lúng túng một lúc, rồi gật đầu.
 
-“Tôi-quả thực là vậy. Thịt chim Mephistos không có mỡ thừa nên nổi tiếng với hương vị thơm ngon.
-Thực ra nó thường được bán với giá cao.”
+"Đ-đúng là vậy. Thịt Chim Mephistos không có mỡ thừa, nó nổi tiếng vì hương vị thơm ngon. Nó thường được bán với giá cao, thực ra."
 
-Chà, có vẻ như tôi có điều gì đó để mong chờ.
+Chà, có vẻ tôi có thứ đáng để mong đợi rồi.
 
-"Tôi hiểu rôi, cảm ơn bạn. Vậy thì tôi sẽ nhận yêu cầu tiêu diệt.”
+"Tôi hiểu, cảm ơn ông. Vậy tôi nhận yêu cầu tiêu diệt."
 
-“C-bạn thực sự sẽ làm vậy sao!? Cảm ơn bạn rất nhiều!!"
+"A-anh thật sự nhận sao!? Cảm ơn anh rất nhiều!!"
 
-Trưởng lão có vẻ không thể tin được vào những gì mình nghe được.
+Trưởng làng trông như không thể tin nổi những gì mình vừa nghe.
 
-“Được rồi, các cậu nên chuẩn bị đi: tối nay chúng ta sẽ mở tiệc.”
+"Được rồi, mọi người chuẩn bị đi: tối nay chúng ta sẽ có một bữa tiệc."
 
-"Hở? Tối nay?"
+"Eh? Tối nay á?"
 
-“Ừ, tôi sẽ đi tiêu diệt con quái vật ngay bây giờ.”
+"Ừ, tôi sẽ đi xử lý con quái vật ngay bây giờ."
 
-Tôi nói một cách thản nhiên như thể đang đi mua hàng tạp hóa nên anh cả lớn tiếng ngăn cản tôi.
+Tôi nói một cách tùy ý như thể đang đi mua đồ ăn vậy, nên trưởng làng lớn tiếng ngăn tôi lại.
 
-“Đ-điều đó quá nguy hiểm! Ngay cả khi bạn đủ mạnh để đánh bại Hắc Hổ, con quái vật đó cũng không thể
-bị hạ gục nếu không có sự chuẩn bị thích hợp!! Xin hãy nói điều gì đó đi, hai người!”
+"N-nguy hiểm quá! Dù cho anh có đủ mạnh để hạ một con Hổ Đen, con quái vật đó không thể bị hạ gục nếu không chuẩn bị kỹ!! Xin hãy nói gì đó đi, hai người!"
 
-Trưởng lão nhìn Bacchus và Barnar, nhưng cả hai đều cười gượng.
+Trưởng làng nhìn Bacchus và Barnar, nhưng cả hai đều cười khổ.
 
-“Ồ, trưởng lão, ngài chỉ nên tin tưởng vào anh Haruto thôi.”
+"Thôi nào, trưởng làng, ông chỉ cần tin tưởng anh Haruto thôi."
 
-"Đúng rồi. Hơn thế nữa, nếu chúng ta không bắt đầu chuẩn bị nhanh chóng, Haruto sẽ kết thúc cuộc đi
-săn trước khi chúng ta sẵn sàng cho bữa tiệc.”
+"Đúng vậy. Hơn nữa, nếu chúng ta không bắt đầu chuẩn bị nhanh lên, Haruto sẽ kết thúc cuộc săn trước khi chúng ta sẵn sàng cho bữa tiệc."
 
-Một lần nữa, trưởng lão không nói nên lời.
+Một lần nữa, trưởng làng không nói nên lời.
 
-“Được rồi, tôi đi đây…chờ tin tốt nhé, trưởng lão.”
+"Được rồi, vậy tôi đi nhé…hãy mong chờ tin tốt đẹp, trưởng làng."
 
-“V-vâng…”
+"V-vâng…"
 
-"Xin hãy chăm sóc."
+"Xin hãy cẩn thận."
 
-“Mong được thưởng thức món thịt ngon!”
+"Mong chờ được thưởng thức miếng thịt ngon đây!"
 
-Trưởng lão, Bacchus và Barnar tiễn tôi rời làng.
+Trưởng làng, Bacchus, và Barnar tiễn tôi khi tôi rời làng.
+
+---
+
+[←Trước](https://web.archive.org/web/20250116053706//twem-vol-1-chapter-6/) | [Tiếp→](https://web.archive.org/web/20250116053706//twem-vol-1-chapter-8/)

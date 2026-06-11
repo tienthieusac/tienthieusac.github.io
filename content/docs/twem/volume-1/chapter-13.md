@@ -1,447 +1,412 @@
 ---
-title: Chương 13 – Đến Thủ đô Hoàng gia!
+title: "Chương 13 – Đến Thủ đô Hoàng gia!"
 weight: 13
 ---
 
 # Chương 13 – Đến Thủ đô Hoàng gia!
 
-Sau khi vượt qua cuộc kiểm tra để vào thủ đô, chúng tôi giải thích rằng chúng tôi đã tiêu diệt Sói Ebony, bắt được thủ
-lĩnh của chúng và trói các thành viên khác ở một nơi cụ thể: chúng tôi ngay lập tức cảm thấy biết ơn.
+Sau khi qua kiểm tra để vào thủ đô, chúng tôi giải thích rằng đã đánh sập Sói Mun, bắt giữ thủ lĩnh, và để những thành viên còn lại bị trói ở một địa điểm cụ thể: lập tức chúng tôi được tới mưa lời cảm ơn.
 
-“Bạn không chỉ xác định được nơi ẩn náu của Sói Ebony mà còn đánh bại thủ lĩnh của chúng…cảm ơn bạn rất nhiều!! Chúng
-tôi sẽ liên hệ với bạn về phần thưởng thông qua hội mạo hiểm giả sau khi chúng tôi bắt được những tên trộm khác, vì vậy
-vui lòng tìm nó tại quầy lễ tân của hội. Cuối cùng, tôi xin lỗi vì sự bất tiện này, nhưng bạn có thể đợi ở đây một lát
-được không?
+"Các vị không chỉ xác định được căn cứ của Sói Mun, mà còn đánh bại cả thủ lĩnh…cảm ơn rất nhiều!! Chúng tôi sẽ liên lạc với các vị về phần thưởng qua hội mạo hiểm giả sau khi đã bắt giữ những tên trộm còn lại, nên xin hãy nhận tại quầy lễ tân của hội. Cuối cùng, tôi xin lỗi vì sự bất tiện này, nhưng các vị có thể đợi ở đây một lúc được không?"
 
-Chúng tôi gật đầu đồng ý và giao thủ lĩnh của bọn trộm cho lính canh.
+Chúng tôi gật đầu đồng ý và giao thủ lĩnh bọn trộm cho lính canh.
 
-Năm phút sau khi lính canh đưa người lãnh đạo đến nơi có vẻ như là đồn bốt của họ, họ quay lại - theo sau là khoảng 20
-binh sĩ. Ngoài ra còn có ba chiếc xe ngựa mà những người lính có lẽ sẽ lên để đón những con Sói Đen khác.
+Năm phút sau khi lính canh đưa thủ lĩnh đến cái có vẻ là trạm gác của họ, họ quay lại — theo sau bởi khoảng 20 binh sĩ. Cũng có ba cỗ xe ngựa, mà các binh sĩ chắc sẽ lên để đi bắt số Sói Mun còn lại.
 
-"Xin lỗi đã để bạn đợi lâu. Chúng tôi sẽ bảo vệ những tên trộm khác và xác nhận vị trí nơi ẩn náu, vậy bạn có thể đánh
-dấu chúng trên bản đồ này không?”
+"Xin lỗi đã để các vị đợi. Chúng tôi sẽ bắt giữ số trộm còn lại và xác nhận vị trí căn cứ, nên các vị có thể đánh dấu lên tấm bản đồ này được không?"
 
-"Vâng tất nhiên."
+"Vâng, tất nhiên rồi."
 
-Tôi nhìn vào tấm bản đồ đơn giản được đưa cho và sử dụng God Eye để đánh dấu các vị trí chính xác.
+Tôi nhìn tấm bản đồ đơn giản được đưa cho và dùng Thần Nhãn để đánh dấu chính xác vị trí.
 
-“Thật ấn tượng khi bạn có thể cho biết vị trí một cách chi tiết như vậy…cảm ơn rất nhiều vì sự hợp tác của bạn.”
+"Thật ấn tượng khi anh có thể xác định vị trí chi tiết như vậy…cảm ơn rất nhiều về sự hợp tác."
 
-"Không. Nó chẳng có gì cả."
+"Không, chẳng có gì."
 
-Thế là tôi đáp lại người lính canh đang cúi đầu thật sâu. Sau khi nhìn đoàn quân rời đi, chúng tôi tiến vào thị trấn.
+Tôi đáp với người lính canh cúi đầu sâu. Sau khi xem quân đoàn rời đi, chúng tôi vào thị trấn.
 
-Nhiệm vụ hộ tống đã hoàn thành nên Youte và các thương nhân khác lên đường,
+Nhiệm vụ hộ tống như vậy là hoàn tất, nên Youte và các thương nhân khác lên đường.
 
-Finne, nhóm của Ryan và tôi đã hỏi người dân thị trấn địa phương về vị trí của hội mạo hiểm giả và tiến về phía đó.
+Finne, nhóm Ryan, và tôi hỏi dân thị trấn địa phương về vị trí hội mạo hiểm giả và hướng về phía đó.
 
-Đúng như bạn mong đợi từ thủ đô hoàng gia của một vương quốc, thành phố này hối hả và nhộn nhịp khắp mọi nơi.
+Đúng như mong đợi từ thủ đô của một vương quốc, thành phố nhộn nhịp khắp nơi.
 
-Trên đường phố rải rác những quầy hàng, bán đủ loại món ăn trông rất ngon miệng.
+Các con phố có đầy sạp hàng, bán đủ thứ món ăn trông ngon mắt.
 
-Chúng tôi đi bộ một lúc, thỉnh thoảng dừng lại để mua đồ ăn ở các quầy hàng thực phẩm thì nghe thấy tiếng ai đó la hét.
+Chúng tôi đi bộ một lúc, thỉnh thoảng dừng lại mua đồ ăn ở sạp hàng khi nghe ai đó hét lên.
 
-Nguyên nhân trở nên rõ ràng chỉ trong vài giây.
+Nguyên nhân trở nên rõ ràng trong vài giây.
 
-- một người đàn ông khỏa thân hoàn toàn, toàn thân bị trói bằng những sợi dây mỏng.
+— một người đàn ông hoàn toàn khỏa thân, toàn thân bị trói bằng những sợi dây thừng mỏng.
 
-“Hahaha!! Được cảm nhận ánh mắt của mọi người trên cơ thể trần truồng bị trói của tôi…thật sự không có niềm vui nào lớn
-hơn…! Làm sao tôi có thể dừng lại được…!?”
+"Hahaha!! Được cảm nhận ánh mắt của muôn dân trên thân xác trần trụi bị trói của mình…quả thật không có niềm vui nào lớn hơn…! Làm sao mình có thể dừng lại…!?"
 
-Tôi đang đứng đó, bị sốc và bối rối trước lời nói của người đàn ông thì đội tuần tra an ninh thành phố, cảnh giác trước
-vụ náo động, đã hét vào mặt người đàn ông.
+Tôi đang đứng đó, sốc và bối rối trước lời người đàn ông, thì tuần tra an ninh thành phố, bị tiếng ồn thu hút, hét lên với hắn.
 
-“Lại là ngươi, đồ biến thái bẩn thỉu!! Hãy mặc thứ gì đó đi, Chúa ơi!!”
+"Lại là mày, kẻ biến thái bẩn thỉu!! Mặc quần áo vào, trời ơi!!"
 
-“Hngh!? Họ đã tìm thấy tôi một lần nữa! Đã đến lúc rút lui!! Nhân tiện, tôi thích khỏa thân hơn!!”
+"Hự!? Lại tìm thấy mình rồi! Đến lúc rút lui!! À mà, mình thích ở trần!!"
 
-"Bạn nghĩ bạn đang đi đâu!? Dừng lại!!"
+"Mày nghĩ mày chạy đi đâu!? Dừng lại!!"
 
-Sau khi nhanh chóng tháo sợi dây trói anh ta, người đàn ông khỏa thân bỏ chạy, thực sự bằng cách nào đó khiến nỗ lực này
-trông thật dũng cảm.
+Sau khi nhanh chóng tháo sợi dây trói, người đàn ông khỏa thân chạy đi, bằng cách nào đó lại trông có vẻ oai phong.
 
-Vì vậy, chúng tôi nhìn người đàn ông khỏa thân và các nhân viên bảo vệ đuổi theo anh ta đi ngang qua chúng tôi, la hét
-và la hét.
+Chúng tôi đứng xem người đàn ông khỏa thân và đội tuần tra truy đuổi hắn chạy qua, la hét và ầm ĩ.
 
-"…Đi nào."
+"…đi thôi."
 
-“…vâng, đi thôi.”
+"…vâng, đi nào."
 
-"…Phải."
+"…ừ."
+
+"…ừ."
 
 "…vâng."
 
-"…Đúng."
+"…đúng."
 
-"…Chắc chắn."
-
-Cả sáu người chúng tôi đều phản ứng một cách trái ngược nhau, rồi tiếp tục đi về phía hội mạo hiểm giả.
+Cả sáu người chúng tôi phản ứng theo kiểu bối rối, rồi lại tiếp tục đi về phía hội mạo hiểm giả.
 
 ~
 
-“Cuối cùng thì chúng ta cũng ở đây…mặc dù nó thực sự rất lớn.”
+"Cuối cùng cũng đến nơi…nhưng nó to thật đấy."
 
-Tòa nhà bang hội thực sự rất đồ sộ.
+Tòa nhà hội thật sự rất đồ sộ.
 
-Tôi nghĩ hội Vaana cũng khá lớn, nhưng tòa nhà này lại ở một đẳng cấp hoàn toàn khác.
+Tôi cũng nghĩ hội ở Vaana khá lớn, nhưng tòa nhà này đẳng cấp hoàn toàn khác.
 
-Quá ấn tượng, tôi mở cửa và nhìn vào trong: giống như ở Vaana, hội có một quán rượu bên trong.
+Ấn tượng, tôi mở cửa và nhìn vào trong: giống ở Vaana, hội cũng có một quán rượu bên trong.
 
-Tôi cảm thấy chúng tôi đã thu hút sự chú ý trong giây lát, nhưng mọi người nhanh chóng quay lại bàn và trò chuyện.
+Tôi cảm thấy mình thu hút chú ý một lúc, nhưng mọi người nhanh chóng quay lại bàn và câu chuyện của họ.
 
-Ồ, ở đây không có sự kiện kinh điển “làm phiền người mới đến” à? Có một cô gái dễ thương như Finne trong nhóm của chúng
-tôi lần này, nên tôi chắc chắn điều gì đó sắp xảy ra…có lẽ hội này là một hội hòa bình?
+Ồ, không có sự kiện "làm phiền người mới" cổ điển ở đây sao? Lần này trong đội mình có cô gái dễ thương như Finne, nên tôi cứ tưởng sẽ có chuyện gì đó xảy ra…có lẽ hội này yên bình thật?
 
-Vì vậy, tôi tự nghĩ khi nhìn quanh hội trường, cuối cùng nhận ra một bóng dáng quen thuộc: một nhóm đàn ông để tóc
-mohawk, mặc quần da và đeo miếng đệm vai có gai.
+Tôi nghĩ vậy khi nhìn quanh sảnh, rồi cuối cùng phát hiện một nhóm hình dạng quen thuộc: một nhóm đàn ông với kiểu tóc mohawk, quần da, và đệm vai có đinh.
 
-“Hyahahahaha!! Một ngày khác, lại một mẻ cá lớn nữa!!”
+"Hyahahaha!! Một ngày nữa, một mẻ lớn nữa!!"
 
-“Tôi cá là họ sẽ không sớm đặt chân lên lãnh địa của chúng ta đâu!!”
+"Tao cá bọn hắn sẽ không dám lấn sân chỗ tụi mình đâu!!"
 
-“Hyahahahaha!!!”
+"Hyahahahaha!!!"
 
-…nhóm đó đã thoát ra khỏi kịch bản hậu tận thế, phải không? Đây là hội mạo hiểm giả phải không?
+…Nhóm đó trông như trong bối cảnh hậu tận thế, đúng không? Đây là hội mạo hiểm giả đúng không?
 
-Trong khi vẫn cảnh giác với nhóm đó, chúng tôi tiến về phía quầy tiếp tân, đưa thẻ mạo hiểm giả của mình và báo cáo về
-yêu cầu đã hoàn thành.
+Trong khi vẫn cảnh giác với nhóm đó, chúng tôi đi về phía quầy lễ tân, đưa thẻ mạo hiểm giả và báo cáo về yêu cầu đã hoàn thành.
 
-“…đúng, yêu cầu đã được xác nhận. Đây là phần thưởng của bạn. Cảm ơn sự nỗ lực của bạn."
+"…vâng, xác nhận yêu cầu. Đây là phần thưởng. Cảm ơn vì đã cố gắng."
 
-Sau khi lấy tiền, tôi quay sang Ryan và những người khác và hỏi họ một câu.
+Sau khi nhận tiền, tôi quay sang nhóm Ryan và hỏi họ một câu.
 
-“Các cậu định ở đâu?”
+"Mấy người định ở đâu?"
 
-“Chúng tôi vẫn chưa quyết định, tôi đang nghĩ đến việc đi tìm một nơi.”
+"Chưa quyết định, tôi đang nghĩ sẽ đi tìm chỗ bây giờ."
 
-“Đây cũng là lần đầu tiên tôi đến thành phố này, nên…”
+"Tôi cũng lần đầu đến thành phố này, nên…"
 
-Ryan và Finne đã trả lời như vậy. Nhóm của Ryan có lẽ luôn để anh ấy quyết định, vì họ chỉ gật đầu trước lời nói của anh
-ấy.
+Ryan và Finne đáp. Nhóm Ryan có lẽ luôn để anh ấy quyết, nên chỉ gật đầu theo lời anh.
 
-Tôi quay lại phía nhân viên tiếp tân và hỏi cô ấy về chỗ ở.
+Tôi lại quay sang nhân viên lễ tân và hỏi về chỗ ở.
 
-“Xin lỗi, có nhà trọ nào bạn muốn giới thiệu quanh đây không?”
+"Xin lỗi, có nhà trọ nào cô khuyên ở gần đây không?"
 
-“Trong trường hợp đó, cậu nên thử 'New Moon Inn'. Đi thẳng từ hội, sau đó rẽ trái đầu tiên.”
+"Nếu vậy, anh nên thử 'Nhà trọ Trăng Non'. Đi thẳng bên phải từ hội, rồi rẽ trái ở ngã rẽ đầu tiên."
 
 "Cảm ơn."
 
-“Không có gì đâu, tôi thường xuyên nhận được câu hỏi này.”
+"Không có gì, tôi hay được hỏi câu đó."
 
-Chúng tôi cảm ơn cô lễ tân tươi cười vui vẻ và quyết định đi thẳng về nhà trọ.
+Chúng tôi cảm ơn nhân viên lễ tân đang mỉm cười dễ chịu và quyết định đến nhà trọ ngay.
 
-Chỉ đường rất dễ theo dõi nên chúng tôi đến nơi mà không gặp khó khăn gì: một tấm bảng lớn có dòng chữ “New Moon Inn”
-treo trước tòa nhà.
+Chỉ dẫn dễ theo, nên chúng tôi đến nơi mà không gặp khó khăn: một tấm biển lớn với dòng chữ "Nhà trọ Trăng Non" treo trước tòa nhà.
 
-Chúng tôi bước vào trong và một cô gái trẻ, có lẽ đang ở độ tuổi thiếu niên bước ra.
+Chúng tôi bước vào, và một cô gái trẻ, có lẽ mới mười mấy tuổi, bước ra.
 
-“Chào mừng đến với Nhà trọ Trăng Mới. Tên tôi là Sophia, tôi là chủ quán trọ…hôm nay bạn có ở lại với chúng tôi không?
+"Chào mừng đến Nhà trọ Trăng Non. Tôi tên Sophia, là chủ nhà trọ…hôm nay quý vị sẽ ở lại chứ?"
 
-“Vâng, chúng tôi cần phòng cho sáu người chúng tôi.”
+"Vâng, chúng tôi cần phòng cho sáu người."
 
-Có đủ phòng trống: Ryan và Anita, Nathan và Iraly mỗi người ở phòng đôi, trong khi Finne và tôi ở phòng đơn.
+Có đủ phòng trống: Ryan và Anita, Nathan, Iraly mỗi người một phòng đôi, còn Finne và tôi mỗi người một phòng đơn.
 
-Đã gần đến giờ ăn tối nên sau khi nhận được lời giải thích về hệ thống của nhà trọ, chúng tôi cất hành lý xuống phòng và
-tập trung tại phòng ăn.
+Sắp đến giờ ăn tối, nên sau khi nghe giải thích về hệ thống của nhà trọ, chúng tôi đặt hành lý trong phòng rồi tập trung tại phòng ăn.
 
-Có lẽ tất cả chúng tôi sẽ có những kế hoạch khác nhau vào ngày hôm sau, nên rất có thể đây sẽ là bữa tối cuối cùng mà cả
-sáu chúng tôi chia sẻ cùng nhau.
+Ngày mai có lẽ mỗi người sẽ có kế hoạch khác nhau, nên khả năng đây là bữa tối cuối cùng của cả sáu người chúng tôi.
 
-Sau bữa tối vui vẻ, chúng tôi chia tay và tôi về phòng đơn để thư giãn.
+Sau bữa tối vui vẻ, chúng tôi chia tay và tôi về phòng đơn của mình để thư giãn.
 
-Tôi đang nằm đó, nhìn vào khoảng không một lúc thì nghe thấy tiếng gõ cửa.
+Tôi vừa nằm đó, mắt nhìn lên trời một lúc, thì nghe tiếng gõ cửa.
 
-"…đó là ai?"
+"…ai vậy?"
 
-“Là tôi đây, Finne. Có chuyện này tôi muốn nói.”
+"Là em, Finne. Có chuyện em muốn nói."
 
-Tôi không biết nó có thể là gì, nhưng tôi cũng không có lý do gì để từ chối nên tôi bảo cô ấy vào nhà.
+Tôi không biết chuyện gì, nhưng cũng không có lý do để từ chối, nên bảo cô vào.
 
-Finne bước vào trong và cúi đầu chào tôi.
+Finne bước vào và cúi đầu trước mặt tôi.
 
-“Ngài Haruto, tôi muốn cảm ơn vì tất cả sự giúp đỡ của bạn cho đến bây giờ…nếu điều đó ổn với bạn, bạn có muốn thành lập
-một nhóm với tôi không?”
+"Anh Haruto, em muốn cảm ơn anh vì mọi sự giúp đỡ cho đến giờ…nếu anh không phiền, anh có thể lập đội với em không?"
 
-Lời nói của Finne làm tôi suy nghĩ một lúc.
+Lời của Finne khiến tôi suy nghĩ một lúc.
 
-Có bạn đồng hành bản thân nó không phải là vấn đề, nhưng tôi muốn biết lý do đằng sau yêu cầu đột ngột như vậy.
+Có đồng đội bản thân không phải vấn đề, nhưng tôi muốn biết lý do đằng sau yêu cầu đột ngột này.
 
-“Điều đó khá đột ngột. Tôi không phản đối việc thành lập đảng, nhưng bạn có lý do cụ thể nào không?
+"Đột ngột thật. Em lập đội thì anh không ngại, nhưng em có lý do cụ thể nào không?"
 
-Vì thế tôi hỏi, Finne ngẩng đầu lên và bắt đầu nói một cách nghiêm túc.
+Tôi hỏi vậy, Finne ngẩng đầu lên và bắt đầu nói với vẻ mặt nghiêm túc.
 
-"…Đúng. Trước tiên tôi cần phải giải thích một số hoàn cảnh cá nhân nhất định…thực ra, tôi không có gia đình. Cha mẹ tôi
-đã bỏ rơi tôi khi tôi còn rất nhỏ nên tôi lớn lên trong trại trẻ mồ côi. Tôi luôn mơ ước trở thành một nhà thám hiểm, vì
-vậy tôi đã học cách sử dụng kiếm và phép thuật khi còn ở trại trẻ mồ côi.”
+"…Vâng. Em sẽ cần giải thích hoàn cảnh cá nhân trước…thật ra, em không có gia đình. Bố mẹ bỏ rơi em khi em còn rất nhỏ, nên em được nuôi lớn ở trại trẻ mồ côi. Em luôn mơ ước trở thành mạo hiểm giả, nên đã học cách dùng kiếm và phép thuật trong trại trẻ mồ côi."
 
-Finne dừng lại một lúc rồi tiếp tục.
+Finne dừng lại một lúc, rồi tiếp tục.
 
-“Khi tôi trưởng thành và rời khỏi trại trẻ mồ côi, tôi có thể đạt được ước mơ của mình và trở thành một nhà thám hiểm.
-Tôi đã tăng thứ hạng của mình kể từ đó, để trả ơn những món nợ của mình với lòng biết ơn đối với những người đã giúp đỡ
-tôi, nhưng tôi bắt đầu cảm thấy lo lắng không biết một người yếu đuối như tôi có thể tiếp tục phiêu lưu trong bao lâu…đó
-là lúc tôi gặp anh, anh Haruto, trong đó quảng trường ở Vaana. Khi đó cậu đã cứu tôi, và trong nhiệm vụ này, tôi đã
-chứng kiến ​​sức mạnh của cậu… Haruto, cậu có vui lòng thành lập một nhóm với tôi và huấn luyện tôi không?”
+"Khi em đến tuổi trưởng thành và rời trại trẻ mồ côi, em đã đạt được ước mơ và trở thành mạo hiểm giả. Em đã nâng hạng từ đó, để đền đáp món nợ ân nghĩa với những người đã giúp em, nhưng em bắt đầu lo lắng không biết một người yếu ớt như em có thể tiếp tục làm mạo hiểm giả được bao lâu…đó là lúc em gặp anh, anh Haruto, ở quảng trường tại Vaana. Anh đã cứu em lúc đó, và trong nhiệm vụ này, em đã chứng kiến sức mạnh của anh…anh Haruto, anh có thể lập đội với em và huấn luyện em không?"
 
-Sau lời yêu cầu tha thiết của cô, Finne lại cúi đầu thật sâu.
+Sau lời thỉnh cầu chân thành, Finne cúi đầu sâu thêm lần nữa.
 
-Hmm...cô ấy tự gọi mình là yếu, nhưng Finne đã ở hạng C rồi nên cô ấy phải mạnh mẽ đáng kể.
+Hmm…cô tự gọi mình là yếu, nhưng Finne đã hạng C rồi, nên cô ấy chắc chắn khá mạnh.
 
-Có lẽ cô ấy muốn tôi huấn luyện cô ấy để tiến xa hơn nữa.
+Có lẽ cô muốn tôi huấn luyện cô để tiến xa hơn nữa.
 
-Việc huấn luyện cô ấy không phải là vấn đề, nhưng tôi dự định đi du lịch khắp thế giới nên cô ấy phải đi cùng tôi trong
-chuyến đi.
+Việc huấn luyện cô không phải vấn đề, nhưng tôi dự định đi khắp thế giới, nên cô sẽ phải đi cùng tôi trong hành trình.
 
-Tôi đi đến kết luận và trả lời Finne, nhìn thẳng vào mắt cô ấy.
+Tôi đi đến kết luận và trả lời Finne, nhìn vào mắt cô.
 
-“Tôi hiện đang đi du lịch vòng quanh thế giới. Nếu muốn tôi huấn luyện bạn, bạn phải tham gia cùng tôi trong chuyến du
-lịch của tôi…điều đó có ổn với bạn không?”
+"Hiện tại anh đang đi vòng quanh thế giới. Nếu em muốn anh huấn luyện em, em sẽ phải đi cùng anh trong hành trình…em thấy được chứ?"
 
-Finne chăm chú lắng nghe và trả lời với giọng nghiêm túc.
+Finne lắng nghe chăm chú và đáp lại với giọng nghiêm túc.
 
-"Đúng. Tôi mong muốn được mạnh mẽ hơn. Ngoài ra, nếu tôi có thể đi du lịch cùng ngài Haruto, tôi…”
+"Vâng. Em muốn mạnh hơn. Hơn nữa, nếu được đi cùng anh Haruto, em…"
 
-Tôi không hiểu được cuối câu của cô ấy, nhưng nếu cô ấy đồng ý đi du lịch cùng nhau thì quyết định là như vậy.
+Tôi không nghe hết câu của cô, nhưng nếu cô ấy ổn với việc đi cùng nhau, thì quyết định xong rồi.
 
-"Hiểu rồi. Ngày mai chúng ta nên đến hội và nộp đơn đăng ký tổ đội.”
+"Được rồi. Ngày mai mình đến hội để đăng ký đội."
 
-"Đúng! Cảm ơn rất nhiều!"
+"Vâng! Cảm ơn anh rất nhiều!"
 
-Nụ cười rạng rỡ của Finne khiến tôi bất ngờ và tim tôi đập rộn lên một chút.
+Nụ cười rạng rỡ của Finne khiến tôi bất ngờ và tim đập nhanh hơn một chút.
 
 ~
 
-Sáng hôm sau, sau khi ăn sáng, chúng tôi tiến tới hội mạo hiểm giả.
+Sáng hôm sau, sau bữa sáng, chúng tôi hướng về phía hội mạo hiểm giả.
 
-Theo Sophia, Ryan và những người khác đã rời khỏi quán trọ.
+Theo lời Sophia, Ryan và những người khác đã rời nhà trọ rồi.
 
-Chúng tôi đến hội mạo hiểm giả: khi vào trong, tôi nhận ra một người mà tôi đã gặp ngày hôm trước.
+Chúng tôi đến hội mạo hiểm giả: vừa vào, tôi nhận ra ai đó mà mình đã thấy ngày hôm qua.
 
-“Tôi khỏa thân và bị trói trên đường phố trung tâm, trong khi mọi người đang nhìn tôi! Nó cảm thấy rất tốt!!"
+"Hôm qua tôi đã cởi trần và bị trói ở phố trung tâm, với mọi người nhìn tôi! Cảm giác tuyệt vời quá!!"
 
 Đó là người đàn ông khỏa thân hoàn toàn.
 
-“Tôi không mong đợi gì hơn ở bạn! Được rồi, hôm nay tôi sẽ làm việc đó!!”
+"Tôi không mong gì hơn ở anh! Được rồi, hôm nay tôi sẽ làm!!"
 
-“Ồồồ!!!”
+"Ôoooooh!!!"
 
-Những người xung quanh anh ấy chắc chắn rất ồn ào…tốt hơn hết hãy tránh xa họ để chúng ta không bị lôi kéo vào.
+Những người xung quanh hắn đúng là ồn ào thật…tốt nhất nên tránh xa để khỏi bị cuốn vào.
 
-Finne và tôi giả vờ như không nhìn thấy họ và đi thẳng tới quầy tính tiền.
+Finne và tôi giả vờ không thấy họ và đi thẳng đến quầy.
 
-Tôi nhận thấy hai người đàn ông ngồi ở bàn gần đó liếc nhìn chúng tôi và bắt đầu thì thầm.
+Tôi nhận ra hai người đàn ông ngồi ở bàn gần đó liếc nhìn chúng tôi và bắt đầu thì thầm.
 
-“Nhìn này, đó là cái của ngày hôm qua. Cơ thể khá ngọt ngào nhỉ…”
+"Nhìn kìa, thằng hôm qua. Thân hình ngon lành ghê…"
 
-Tôi nhặt được những lời như vậy và cảm thấy mình cần phải cảnh giác: họ có đang nhắm vào Finne không?
+Tôi nghe được mấy lời đó và cảm thấy mình cần cảnh giác: chẳng lẽ họ nhắm vào Finne?
 
-Tuy nhiên, những lời tiếp theo khiến tôi như chết đứng.
+Tuy nhiên, những lời tiếp theo khiến tôi đứng chôn chân tại chỗ.
 
-“Hãy nhìn những cơ bắp đó, khí chất đó…anh chàng đó chỉ hét lên sức mạnh thuần túy! Tôi muốn chiến đấu với anh ta!! Hãy
-chiến đấu với hắn ngay bây giờ!!”
+"Nhìn cơ bắp kìa, khí chất kìa…thằng đó toát ra sức mạnh thuần khiết! Tao muốn đánh với hắn!! Đánh ngay bây giờ!!"
 
-“Bạn nghĩ vậy phải không!? Tôi cũng vậy!!"
+"Mày cũng nghĩ vậy đúng không!? Tao cũng vậy!!"
 
-Mục tiêu của bạn là tôi!?
+Mục tiêu là tôi sao!?
 
-Tôi cảm thấy ớn lạnh chạy dọc sống lưng, nhưng cố hết sức phớt lờ chúng và bước đến quầy tính tiền.
+Tôi cảm thấy ớn lạnh sống lưng, nhưng cố gắng làm ngơ và đi đến quầy.
 
-Chúng tôi đã nói với nhân viên tiếp tân về việc muốn thành lập một nhóm và quá trình đăng ký kết thúc trong nháy mắt.
+Chúng tôi nói với nhân viên lễ tân về việc muốn lập đội, và thủ tục đăng ký hoàn tất trong tích tắc.
 
-“…đây rồi. Phần thưởng cho việc định tuyến băng trộm cũng đã được quyết định, vì vậy chúng tôi đã gửi nó vào tài khoản
-tương ứng của các bạn.”
+"…đây rồi. Phần thưởng cho việc đánh tan băng trộm cũng đã được quyết định, nên chúng tôi đã gửi vào tài khoản tương ứng của các vị."
 
-Ồ, việc đó khá nhanh.
+Ồ, nhanh thật.
 
 "Cảm ơn."
 
-Chúng tôi cảm ơn nhân viên tiếp tân và rời khỏi hội. Finne nói có một nơi cô ấy muốn đến nên chúng tôi chia tay nhau.
+Chúng tôi cảm ơn nhân viên lễ tân và rời hội. Finne nói có nơi cô ấy muốn đến, nên chúng tôi tạm chia tay.
 
-Finne cúi chào tôi, đội mũ trùm đầu và bước đi.
+Finne cúi đầu trước tôi, đội mũ trùm, rồi bước đi.
 
-Tôi để ý thấy mỗi khi ở một mình, Finne luôn đội mũ trùm đầu. Tôi đoán cô ấy không muốn nổi bật.
+Tôi nhận ra mỗi khi ở một mình, Finne luôn đội mũ trùm đầu. Tôi đoán cô ấy không muốn nổi bật.
 
-Lần đầu tiên tôi ở một mình sau khi đến thủ đô, nên tôi đi loanh quanh không mục đích, tìm kiếm điều gì thú vị.
+Lần đầu tiên tôi ở một mình kể từ khi đến thủ đô, nên tôi đi dạo vô định, tìm kiếm thứ gì đó thú vị.
 
-Tôi đang đi bộ trên một con phố nọ thì phát hiện một cô gái trẻ ăn mặc sang trọng đang bị ba người đàn ông, có lẽ là
-những nhà thám hiểm, quấy rối.
+Tôi đang đi trên một con phố thì thấy một cô gái trẻ ăn mặc lịch sự đang bị ba người đàn ông, chắc là mạo hiểm giả, bám theo.
 
-Cô gái trẻ rõ ràng rất sợ hãi, nhưng mặc dù có rất nhiều người đến và đi nhưng tất cả họ đều chỉ nhìn cảnh hỗn loạn từ
-xa mà không có ai thèm giúp đỡ cô.
+Cô gái trẻ rõ ràng rất sợ, nhưng dù có nhiều người qua lại, họ chỉ đứng nhìn đám đông từ xa, không ai tìm cách giúp cô.
 
-Chiếc giỏ mà cô gái trẻ có lẽ đang mang đã bị đập xuống đất, làm hoa quả vương vãi khắp nơi.
+Giỏ hoa quả mà cô gái chắc đang mang rơi xuống đất, trái cây tung tóe khắp nơi.
 
-…Tôi có cảm giác như gần đây tôi đã nhìn thấy một tình huống tương tự vậy…
+…Mình cảm thấy mình đã thấy tình huống rất giống gần đây…
 
-Cảm thấy khó chịu, tôi hỏi một người qua đường gần đó chuyện gì đã xảy ra.
+Cảm thấy bực mình, tôi hỏi người qua đường gần đó chuyện gì đang xảy ra.
 
-"Chuyện gì đang xảy ra ở đằng kia thế?"
+"Chuyện gì ở kia vậy?"
 
-“Cô bé đang đi mua sắm thì các nhà thám hiểm bắt đầu quấy rối cô ấy…họ hạng C, nên không ai có thể giúp cô ấy…”
+"Cô bé đang đi mua sắm thì mấy mạo hiểm giả kia bắt đầu quấy rối…họ hạng C, nên không ai giúp cô ấy được…"
 
-“Tôi hiểu rồi, cảm ơn.”
+"Tôi hiểu, cảm ơn."
 
-Tham gia vào có thể đồng nghĩa với việc bị tổn thương, nên rõ ràng là không ai có thể giúp cô một tay.
+Hóa ra dính vào thì có thể bị thương, nên không ai có thể giúp cô ấy.
 
-Tuy nhiên, tôi có thể đánh bại họ mà không gặp khó khăn gì nên tôi bước tới chỗ họ.
+Tôi thì có thể đánh bại chúng mà không gặp khó khăn, nên tôi bước đến.
 
-“Thỏa thuận của anh thế nào, anh bạn?”
+"Có chuyện gì vậy, anh?"
 
-Một trong những nhà thám hiểm đã nói với tôi như vậy, nhưng tôi phớt lờ anh ta và nhặt trái cây cho cô gái.
+Một trong các mạo hiểm giả lên tiếng với tôi như vậy, nhưng tôi phớt lờ hắn và nhặt trái cây cho cô gái.
 
-"Bạn có ổn không? Bạn biết rằng bạn phải chọn chúng một cách nhanh chóng nếu không chúng sẽ bị hỏng, phải không?
+"Em có sao không? Em biết là phải nhặt nhanh lên nếu không chúng sẽ bị hỏng đúng không?"
 
-"Hở? A, cám ơn bạn rất nhiều."
+"Eh? A, cảm ơn anh rất nhiều."
 
-Sau khi nhặt trái cây lên, tôi liếc nhìn các mạo hiểm giả rồi lại nói chuyện với cô gái.
+Sau khi nhặt trái cây xong, tôi liếc nhìn mấy mạo hiểm giả, rồi nói chuyện với cô gái thêm lần nữa.
 
-“Ở đây nguy hiểm lắm, tôi có nên đi cùng bạn về nhà không? Thành thật mà nói, tôi cảm thấy xấu hổ khi trở thành một nhà
-thám hiểm như những người này.”
+"Ở đây nguy hiểm, để anh đưa em về nhé nhé? Thật sự, em thấy xấu hổ khi là mạo hiểm giá giống mấy người này."
 
-Thế là tôi mỉm cười nói với cô gái đó. Thái độ và lời nói của tôi rõ ràng đã chọc tức các nhà thám hiểm: người đã gọi
-tôi trước đó và bắt đầu la hét.
+Tôi nói với cô gái trong khi mỉm cười. Thái độ và lời nói của tôi rõ ràng đã chọc tức bọn mạo hiểm giả: tên vừa gọi tôi trước đó bắt đầu gào lên.
 
-“Anh vừa nói cái quái gì vậy!? Cậu chết rồi, nhóc!!”
+"Mày nói cái gì vậy!? Mày chết rồi, thằng ranh!!"
 
-Tôi ném một cái nhìn Đe dọa vào nhà thám hiểm đang đe dọa tôi, càu nhàu “Cái gì?” bằng một giọng trầm.
+Tôi bắn ánh nhìn Áp Chế về phía tên mạo hiểm giả đe dọa mình, gầm gừ "Gì?" với giọng trầm.
 
-Đám mạo hiểm giả lùi về phía sau một bước rồi quay gót bỏ chạy, kêu la thảm thiết.
+Mấy tên mạo hiểm giả lùi lại một bước, rồi quay gót bỏ chạy, rít lên thảm hại.
 
-Cô gái chứng kiến ​​sự việc đột ngột này với vẻ mặt hoàn toàn không thể tin được. Cuối cùng, cô ấy rũ bỏ nó và điên
-cuồng cúi đầu trước tôi.
+Cô gái chứng kiến tình huống bất ngờ với vẻ mặt hoàn toàn không thể tin nổi. Cuối cùng cô lấy lại bình tĩnh và vội vã cúi đầu trước tôi.
 
-“C-cảm ơn bạn rất nhiều vì đã giúp tôi! Tên tôi là Asha. Hãy để tôi trả món nợ ân tình này vào một ngày nào đó.”
+"C-cảm ơn anh rất nhiều vì đã cứu em! Em tên Asha. Hãy để em đền đáp món nợ ân nghĩa này một ngày nào đó."
 
-“Tôi không làm gì đặc biệt nên không cần phải đền đáp gì cả. Thay vào đó, tôi có nên đưa bạn về nhà không?
+"Em không cần đền đáp gì đâu, anh chẳng làm gì ghê gớm. Hơn thế, để anh đưa em về nhé?"
 
-“Không, không sao đâu…Tôi sẽ đến thăm bạn với chủ nhân của tôi trong thời gian sắp tới, hẹn gặp lại sau nhé.”
+"Không, em ổn…em sẽ đến thăm anh với chủ nhân của em trong tương lai gần, hẹn gặp lại."
 
-"Bậc thầy? Ý cậu là sao, Asha—”
+"Chủ nhân? Ý em là sao, Asha—"
 
-Tôi chưa kịp nói hết câu thì cô gái trẻ tên Asha đã bỏ chạy.
+Trước khi tôi nói hết câu, cô gái trẻ tên Asha đã chạy đi.
 
-Không thể suy nghĩ được chuyện gì đã xảy ra, tôi đứng đó, chết lặng một lúc.
+Không thể hiểu nổi chuyện gì vừa xảy ra, tôi đứng đó, ngẩn người một lúc.
 
 ~
 
-Tôi tiếp tục chuyến tham quan thị trấn trong khi ngẫm nghĩ xem lời nói của Asha có nghĩa là gì.
+Tôi tiếp tục dạo quanh thị trấn trong khi suy nghĩ lời Asha có thể có ý gì.
 
-Tôi sẽ đến thăm bạn cùng với chủ nhân của tôi…điều đó thực sự có nghĩa là gì? Cô ấy ăn mặc rất đẹp, nên chủ nhân của cô
-ấy có thể là một quý tộc hay gì đó, nhưng…
+Em sẽ đến thăm anh với chủ nhân của em…thật sự nghĩa là gì? Cô ấy ăn mặc lịch sự, nên chủ nhân của cô có thể là quý tộc hay gì đó, nhưng…
 
-Tôi vừa đi vừa suy nghĩ như vậy thì một cửa hàng bán dụng cụ mà tôi chưa từng thấy trước đây đập vào mắt tôi.
+Tôi vừa đi vừa cân nhắc những suy nghĩ đó thì một cửa hàng bán dụng cụ mà tôi chưa từng thấy trước đây thu hút ánh mắt.
 
-Tuy nhiên, tôi nghĩ rằng tôi đã nhìn thấy một số hàng hóa này trước đây…
+Tôi nghĩ mình đã thấy một số đồ này trước đây, nhưng…
 
-“Cái này là cái gì thế?”
+"Cái này là gì vậy?"
 
-Tôi lấy một trong những dụng cụ trên tay và đưa nó cho người chủ cửa hàng, người này nhìn tôi với vẻ sửng sốt.
+Tôi cầm một trong những dụng cụ lên và đưa cho chủ cửa hàng xem, người nhìn tôi với vẻ sốc.
 
-"Điều? Bạn chưa bao giờ nhìn thấy một công cụ ma thuật trước đây?
+"Đồ vật? Anh chưa bao giờ thấy công cụ ma thuật sao?"
 
-“Công cụ ma thuật…?”
+"Công cụ ma thuật…?"
 
-Đoán từ cái tên, nó là một công cụ cho phép bạn sử dụng phép thuật…?
+Đoán theo tên gọi, đó là công cụ cho phép dùng phép thuật…?
 
-“Bạn thực sự không biết…?”
+"Anh thật sự không biết…?"
 
-“Tôi lớn lên ở nông thôn, vì vậy… bạn có thể cho tôi biết họ làm gì không?”
+"Em được nuôi lớn ở nông thôn, nên…chị có thể cho em biết chúng hoạt động thế nào không?"
 
-Chủ cửa hàng, một phụ nữ khá lớn tuổi, gật đầu và bắt đầu giải thích.
+Chủ cửa hàng, một bà cụ khá lớn tuổi, gật đầu rồi bắt đầu giải thích.
 
-Rõ ràng, các công cụ ma thuật trong đó các vật phẩm có ghi phép thuật: truyền sức mạnh ma thuật vào chúng sẽ kích hoạt
-phép thuật, khiến vật phẩm đó di chuyển hoặc có các tác dụng khác. Họ có khoảng năm trăm năm lịch sử.
+Hóa ra, công cụ ma thuật là những vật phẩm được khắc phép thuật: rót ma lực vào sẽ kích hoạt phép, khiến vật phẩm chuyển động hoặc có các hiệu ứng khác. Chúng có khoảng 500 năm lịch sử.
 
-“Tôi hiểu rồi, rất thú vị. Cám ơn vì đã giải thích."
+"Em hiểu rồi, rất thú vị. Cảm ơn chị đã giải thích."
 
-“Không thành vấn đề, mua một cái thì sao?”
+"Không có gì, sao không mua một cái?"
 
-“Tôi xin lỗi phải nói điều này sau khi bạn vui lòng giải thích về chúng cho tôi, nhưng tôi nghĩ tôi sẽ quay lại vào một
-ngày khác.”
+"Em xin lỗi vì nói điều này sau khi chị vừa tử tế giải thích, nhưng em nghĩ hôm khác em sẽ quay lại."
 
-Tôi gật đầu xin lỗi bà già rồi rời khỏi cửa hàng.
+Tôi gật đầu xin lỗi bà cụ và rời cửa hàng.
 
-Khi bước đi, tôi nghĩ rằng một ngày nào đó có thể sẽ rất thú vị khi tự mình tạo ra các công cụ ma thuật.
+Trong khi bước đi, tôi nghĩ rằng việc tự tạo công cụ ma thuật có lẽ sẽ thú vị.
 
-<<Nhận được Kỹ năng “Kỹ thuật ma thuật”. Cấp độ kỹ năng đạt 10. Kỹ năng được thêm vào Hợp nhất ma thuật.>>
+<<Kỹ năng "Ma Công Học" đã đạt được. Cấp kỹ năng đã đạt 10. Kỹ năng được thêm vào Hợp Nhất Phép Thuật.>>
 
-…vâng, tôi biết điều đó.
+…ừ, tôi biết rồi.
 
-Khi giọng nói robot vang lên, kiến ​​thức cần thiết để chế tạo công cụ ma thuật tràn vào đầu tôi.
+Khi giọng máy móc vang lên, kiến thức cần thiết để chế tạo công cụ ma thuật tràn vào đầu tôi.
 
-Các kỹ thuật liên quan khá chi tiết…nếu tôi không có Suy nghĩ Song song và Suy nghĩ Gia tốc, tôi cá là tôi không thể
-thực hiện được tất cả cùng một lúc.
+Kỹ thuật liên quan khá chi tiết…nếu không có Tư Duy Song Song và Tư Duy Tăng Tốc, tôi đoán mình không thể tiếp nhận hết một lúc.
 
-Kiến thức cũng bao gồm những tài liệu cần thiết nên tôi cũng có thể thu thập một ít khi có thời gian.
+Kiến thức cũng bao gồm vật liệu cần thiết, nên có lẽ tôi cũng nên thu thập khi rảnh.
 
 ~
 
-Tôi đã đi được ít nhiều một nửa thủ đô hoàng gia khi mặt trời bắt đầu lặn, nên tôi quyết định quay lại quán trọ.
+Tôi đã đi được khoảng nửa thủ đô hoàng gia thì trời bắt đầu lặn, nên tôi quyết định quay lại nhà trọ.
 
-“Ồ, thưa ngài Haruto, ngài cũng về rồi à?”
+"Ô, anh Haruto, anh vừa về à?"
 
-"Vâng bạn cũng vậy?"
+"Ừ, em cũng vậy sao?"
 
-Finne và tôi cười khúc khích với nhau, rồi tôi mở cửa cho cô ấy đi trước.
+Finne và tôi cười khúc khích với nhau, rồi tôi mở cửa cho cô vào trước.
 
-Đã gần đến giờ ăn tối nên chúng tôi ngồi xuống bàn và tôi kể cho cô ấy nghe về cuộc gặp gỡ của tôi với Asha.
+Sắp đến giờ ăn tối, nên chúng tôi ngồi xuống bàn và tôi kể cho cô nghe về cuộc gặp gỡ với Asha.
 
-Nhân tiện, có vẻ như Ryan và những người khác vẫn chưa quay lại.
+Tiện thể, Ryan và những người khác hình như chưa quay lại.
 
-“—và đó là những gì đã xảy ra. Nhân tiện thì Finne, hôm nay cậu làm gì thế?”
+"—rồi chuyện là như vậy. À mà Finne, hôm nay em làm gì vậy?"
 
-“Tôi hiểu rồi…Tôi nghe nói về một cửa hàng bán phụ kiện mà bạn chỉ có thể tìm thấy ở đây, nên tôi đã đi mua một ít.”
+"Em hiểu rồi…em nghe nói có cửa hàng bán phụ kiện chỉ có ở đây, nên em đã đi mua một số."
 
-Finne sau đó cho tôi xem một chiếc vòng cổ được trang trí bằng những viên đá quý nhỏ.
+Finne rồi khoe cho tôi chiếc vòng cổ trang trí bằng những viên đá quý nhỏ.
 
 "Nó rất đẹp."
 
-Vì vậy, tôi đã trả lời trong khi nhìn vào những viên đá quý, sau đó Finne cười rạng rỡ và nói, “Đúng vậy phải không!!”.
+Tôi đáp trong khi nhìn những viên đá quý, Finne hớn hở nói, "Đúng không!!".
 
-Tôi ngẩng đầu lên và lại bị mê hoặc bởi nụ cười của cô ấy.
+Tôi ngẩng đầu lên và lại bị nụ cười của cô mê hoặc.
 
-“…ơm, trên mặt tôi có dính gì à…?”
+"…ơ, có gì đó trên mặt em sao…?"
 
-“À, không, không có gì.”
+"A, không, không có gì."
 
-"Được rồi…?"
+"Vậy sao…?"
 
-Để che giấu sự bối rối của mình, tôi bắt đầu ngấu nghiến món ăn trước mặt.
+Để che giấu sự ngượng ngùng, tôi bắt đầu ngấu nghiến thức ăn trước mặt.
 
 ~
 
-Sau bữa tối, chúng tôi mượn Sophia một chiếc khăn tắm và một cái xô.
+Sau bữa tối, chúng tôi mượn khăn và xô từ Sophia.
 
-“Khăn tắm giá 500 Gould, thùng 1000. Bạn có cần nước không?”
+"Khăn 500 Gould, xô 1000. Cô có cần nước không?"
 
-“Không, chúng ta sẽ vượt qua bằng phép thuật. Làm ơn cho chúng tôi mỗi người hai cái.”
+"Không, chúng tôi dùng phép thuật là được. Cho chúng tôi mỗi thứ hai cái."
 
-“Tôi thấy bạn rất có tay nghề. Vậy thì sẽ là 3000 Gould.”
+"Cô khéo léo thật, vậy sẽ là 3000 Gould."
 
-Tôi trả ba đồng bạc, nhận khăn tắm và xô rồi đưa cho Finne mỗi thứ một cái.
+Tôi trả bằng ba đồng bạc, nhận khăn và xô rồi đưa Finne mỗi thứ một cái.
 
-Chúng tôi đến trước cửa phòng và tôi nói chuyện với Finne.
+Chúng tôi đến trước cửa phòng mình và tôi nói với Finne.
 
-“Finne, thùng của bạn.”
+"Finne, xô của em."
 
-Cô ấy trông có vẻ bối rối khi đưa nó cho tôi.
+Cô nhìn bối rối rồi đưa cho tôi.
 
-“Cứ giữ như vậy đi.”
+"Cứ cầm như vậy."
 
-Sau đó tôi bắt đầu đổ đầy nước nóng vào thùng của cô ấy.
+Tôi bắt đầu đổ nước nóng vào xô của cô.
 
-"Hở? Nó đang bốc hơi…?”
+"Eh? Nó bốc hơi…?"
 
-“Ma thuật tổng hợp. Tôi đã tự làm nó."
+"Phép thuật tổng hợp. Tôi tự tạo ra."
 
-Bằng cách kết hợp phép thuật lửa và nước, tôi có thể trực tiếp tạo ra nước nóng.
+Bằng cách kết hợp hỏa phép và thủy phép, tôi có thể tạo nước nóng trực tiếp.
 
-“A-tuyệt vời! Ồ, nhưng tôi gần như quên mất! Tôi phải trả phần của mình cho cái khăn và cái xô.”
+"Tuyệt vời! À, nhưng em suýt quên! Em phải trả phần khăn và xô của em."
 
-Finne bắt đầu lục túi, nhưng tôi nói với cô ấy rằng cô ấy không cần phải trả tiền cho tôi và bước vào phòng tôi trước
-khi cô ấy kịp trả lời.
+Finne bắt đầu lục túi, nhưng tôi bảo cô không cần trả lại rồi vào phòng mình trước khi cô kịp đáp.
 
-"Hở? À, ờ, phần của tôi…”
+"Eh? A, ơ, phần của em…"
 
-Hãy để tôi làm ít nhất điều đó cho bạn, thôi nào.
+Để tôi làm ít nhất thế này cho em đi, nào.
 
+---
+
+[←Trước](https://web.archive.org/web/20250116055641//twem-vol-1-chapter-12/) | [Sau→](https://web.archive.org/web/20250116055641//twem-vol-1-chapter-14/)

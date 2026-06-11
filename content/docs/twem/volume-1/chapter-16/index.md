@@ -1,487 +1,437 @@
 ---
-title: Chương 16 – Nhà thám hiểm hạng S
+title: Chương 16 – Mạo hiểm giả hạng S
 weight: 16
 ---
 
-# Chương 16 – Nhà thám hiểm hạng S
+# Chương 16 – Mạo hiểm giả hạng S
 
-Ngày hôm sau, Finne và tôi ngủ đến khuya vì mệt mỏi của ngày hôm trước: khi thức dậy thì đã quá trưa.
+Ngày hôm sau, Finne và tôi ngủ đến tận trưa vì mệt mỏi của ngày hôm trước: khi tỉnh dậy thì đã quá trưa.
 
-Sau bữa trưa lười biếng, chúng tôi quyết định đi đến hội mạo hiểm giả vì ngày hôm trước chúng tôi không thể đi được.
+Sau bữa trưa lười biếng, chúng tôi quyết định đến hội mạo hiểm giả, vì hôm qua chúng tôi không thể đến được.
 
-Trên đường đến đó, chúng tôi hào hứng trò chuyện về bữa tối hôm trước ăn gì.
+Trên đường đi, chúng tôi hào hứng bàn tán về bữa tối hôm qua.
 
-“Thịt trong món chính rất mềm và ngon!”
+"Phần thịt trong món chính mềm và ngon quá trời!"
 
-“Đúng vậy, nó tan chảy trong miệng bạn, nó rất ngon và ngọt ngào…”
+"Ừ, tan trong miệng, vừa mọng vừa đậm đà…"
 
-“Tôi thực sự muốn ăn nó lần nữa!”
+"Mình thật sự muốn ăn lại lần nữa!"
 
-“Ở đây cũng vậy. Lần sau chúng ta nên ghé thăm lâu đài để ăn trưa.”
+"Tôi cũng vậy. Lần tới mình nên vào lâu đài ăn trưa."
 
-"Hở? Ừm…Tuy nhiên, tôi không biết liệu lý do của chúng tôi là đến thăm nó với đồ ăn có ổn không..”
+"Ế? Ờm…mình không biết có nên vào lâu đài chỉ vì ăn không nữa…"
 
-Finne trông có vẻ mâu thuẫn.
+Finne có vẻ lưỡng lự.
 
-Họ đã nói rằng chúng tôi có thể ghé thăm bất cứ lúc nào, vậy tại sao không?
+Họ đã nói mình có thể đến thăm bất cứ lúc nào, vậy thì tội gì không đến chứ.
 
-Trong khi trò chuyện như vậy, cuối cùng chúng tôi cũng đến được hội.
+Trong lúc trò chuyện như vậy, cuối cùng chúng tôi cũng đến hội.
 
-Khi vào bên trong, tôi nhận thấy những anh chàng thời trang “hậu tận thế”, kẻ biến thái khỏa thân và bạn bè của anh ta -
-mặc dù bây giờ anh ta đang mặc quần áo, nghe có vẻ kỳ lạ - và hai người đàn ông trông điên cuồng.
+Vừa vào trong, tôi đã nhận ra mấy tay theo phong cách "hậu tận thế", tên biến thân khỏa thân, và đám đàn em của hắn — dù hắn đang mặc quần áo, nghe thì kỳ lạ thật — cùng hai gã trông như berserker.
 
-Những kẻ điên cuồng đang nhìn tôi và cười toe toét, giống như trước đây. Tôi nghe thấy họ thì thầm "Hãy thử gây chiến
-nhé, được không?" nhưng tôi không định để ý đến họ.
+Hai tên berserker đang nhìn tôi và cười nham hiểm, giống như lần trước. Tôi nghe chúng thì thầm "Thử gây sự một trận nhé?", nhưng tôi không định để ý đến chúng.
 
-Chúng tôi đến quầy và tôi nhớ ra mình vẫn còn nguyên liệu để bán.
+Chúng tôi đến quầy, và tôi nhớ ra mình vẫn còn nguyên liệu cần bán.
 
-"Rất tốt. Vui lòng cho tôi xem thẻ mạo hiểm giả của bạn và đặt nguyên liệu lên bàn này.”
+"Vâng. Xin vui lòng cho tôi xem thẻ mạo hiểm giả và đặt nguyên liệu lên bàn này."
 
-"Cảm ơn. Tôi có chúng trong túi ma thuật của mình…chúng quá nhiều cho cái bàn này. Tôi nên làm gì?"
+"Cảm ơn. Tôi để trong túi ma pháp…nhiều quá không đặt vừa cái bàn này. Tôi phải làm sao?"
 
-Tôi vừa nói vừa đưa thẻ của mình cho nhân viên tiếp tân.
+Tôi vừa nói vừa đưa thẻ cho cô tiếp tân.
 
-“Ồ, chiếc túi ma thuật của bạn có sức chứa lớn đến thế à? Và bạn xếp hạng A…? Ah, tôi-tôi xin lỗi! Hãy theo tôi đến phía
-sau hội nhé!”
+"Ồ, túi ma pháp của anh có sức chứa lớn vậy? Và anh hạng A…? À, t-tôi xin lỗi! Xin mời đi theo tôi ra phía sau hội!"
 
-Cô tiếp tân cất cao giọng, thu hút sự chú ý của những người xung quanh.
+Cô tiếp tân lên giọng, thu hút sự chú ý của những người xung quanh.
 
-Cô ấy nhanh chóng nhận ra điều đó và xin lỗi, rồi dẫn chúng tôi ra phía sau tòa nhà.
+Cô nhanh chóng nhận ra và xin lỗi, rồi dẫn chúng tôi ra phía sau tòa nhà.
 
-"Mời đi lối này."
+"Mời đi theo lối này."
 
-Tôi đi theo nhân viên tiếp tân và lấy tài liệu ra đúng nơi quy định.
+Tôi đi theo cô tiếp tân và lấy nguyên liệu ra ở khu vực được chỉ định.
 
-“Vì vậy, rất nhiều…và tôi cũng thấy vật liệu của quái vật hạng B…Tôi-tôi rất xin lỗi, tôi không thể tự mình xử lý hết
-chúng, tôi sẽ gọi hỗ trợ. Sẽ mất một chút thời gian, vì vậy hãy đợi bên trong. Chúng tôi sẽ gọi cho bạn ngay khi hoàn
-tất.”
+"N-nhiều quá…lại còn có nguyên liệu quái vật hạng B…T-tôi vô cùng xin lỗi, tôi không thể xử lý hết một mình, tôi sẽ gọi hỗ trợ. Sẽ mất một chút thời gian, xin hãy vào trong chờ. Chúng tôi sẽ gọi anh ngay khi xong."
 
-Chúng tôi quay trở lại tòa nhà chính của hội và ngồi vào một chiếc bàn.
+Chúng tôi quay lại tòa nhà chính của hội và ngồi xuống một cái bàn.
 
-Một lúc sau, một nhân viên mang đồ uống đến cho chúng tôi. Một cái trông giống như cà phê, trong khi cái kia là nước ép
-trái cây mà chúng tôi đã uống ngày hôm trước.
+Một lúc sau, một nhân viên mang đồ uống đến cho chúng tôi. Một cốc trông giống cà phê, còn cốc kia là nước ép trái cây y như hôm qua.
 
-Tôi chọn thứ đồ uống giống như cà phê và ngửi nó…đúng là cà phê.
+Tôi chọn cốc giống cà phê và ngửi thử…đúng là cà phê thật.
 
-"Khá tốt."
+"Ngon đấy."
 
-“Anh thậm chí còn không thêm đường hay sữa…?”
+"Anh uống không thêm đường hay sữa…?"
 
-“Ừ, thế thì sao? Bạn không thích điều này à?”
+"Ừ, sao thế? Em không thích à?"
 
-“Nó quá đắng đối với tôi…Tuy nhiên, tôi có thể uống nó với nhiều đường…”
+"Đắng quá với tôi…tôi có thể uống nếu cho thật nhiều đường…"
 
-Cái gì? Bạn không thể uống được thứ đắng? Bạn có thể dễ thương đến mức nào?
+Gì? Em không uống được đồ đắng á? Dễ thương ghê.
 
-Finne nhấp một ngụm nước trái cây và mỉm cười.
+Finne nhấp một ngụm nước ép trái cây và mỉm cười.
 
-Cùng lúc đó, hai gã trông có vẻ điên cuồng tiến đến chỗ chúng tôi.
+Cùng lúc đó, hai gã trông như berserker tiến đến chỗ chúng tôi.
 
-Một trong số họ là một người đàn ông cơ bắp cao khoảng 180 cm, có mái tóc và đôi mắt màu nâu. Anh ta mang một thanh kiếm
-bản rộng dài ngang lưng.
+Một tên là gã cơ bắp cao khoảng 180cm, tóc và mắt nâu. Hắn vác trên lưng một thanh kiếm rộng dài bằng người.
 
-Người kia cũng là một người đàn ông to lớn, có lẽ cao khoảng 190 cm, đôi mắt đỏ tươi và đầu hói. Anh ta mặc áo giáp toàn
-thân và đeo găng tay.
+Tên còn lại cũng to con, chắc khoảng 190cm, mắt đỏ tía và đầu trọc. Hắn mặc giáp toàn thân và găng tay.
 
-“Này, nhóc con. Bây giờ bạn có thời gian không? Bạn biết, phải không?”
+"Ê thằng nhóc. Giờ rảnh không? Rảnh đúng không?"
 
-Người đàn ông với thanh kiếm rộng lên tiếng trước.
+Gã cầm kiếm rộng lên tiếng trước.
 
-Tôi biết họ sẽ đến…có lẽ nếu tôi xin lỗi thì họ sẽ đi đâu đó…
+Tôi biết chúng sẽ đến mà…chắc nếu xin lỗi thì chúng sẽ chịu đi chỗ khác…
 
-“Aah, xin lỗi, tôi đang chờ bán nguyên liệu nên không có thời gian rảnh. Rất xin lỗi.”
+"À, tôi xin lỗi, tôi đang chờ bán nguyên liệu, nên không có thời gian rảnh. Rất xin lỗi."
 
-Tuy nhiên, hai người đàn ông này vẫn không chịu lùi bước.
+Tuy nhiên, hai tên này không chịu lùi bước.
 
-“Chuyện đó sẽ không kết thúc sớm đâu, anh bạn, họ vừa mới đi đến cửa hàng nguyên liệu thôi! Phía sau có đấu trường, hãy
-đi với chúng tôi.”
+"Chuyện đó chẳng xong sớm đâu, ê, họ vừa vào kho nguyên liệu! Ở đằng sau có đấu trường, đi với bọn tao."
 
-“Ừ, chúng tôi biết bạn mạnh mẽ. Hãy đấu một trận ngay bây giờ.”
+"Ừ, tao biết mày mạnh. Giao đấu một trận đi, ngay bây giờ."
 
-Bạn không nghe, phải không?
+Mấy người không nghe ai nói gì hết…
 
-Sheesh, thật là đau đớn…Tôi sẽ để họ thắng…
+Trời ơi, mệt thật…thôi để chúng thắng vậy…
 
-“Nhân tiện, đừng nghĩ đến việc đi dễ dàng. Chúng tôi có thể nói. Nếu bạn làm thế, chúng tôi sẽ chiến đấu với bạn hết lần
-này đến lần khác.
+"Đừng nghĩ đến chuyện nương tay nha. Bọn tao biết hết. Nếu mày làm vậy, bọn tao sẽ đấu với mày đi đấu lại mãi."
 
-Chết tiệt, họ đã phát hiện ra kế hoạch của tôi rồi…
+Đshit, chúng đoán được ý đồ của tôi rồi sao…
 
-Tôi nhìn quanh, hy vọng có ai đó giúp đỡ nhưng chỉ thấy mọi người đang nhìn chúng tôi với nụ cười gượng gạo và ánh mắt
-liếc nhìn.
+Tôi nhìn quanh, hy vọng có ai giúp, nhưng chỉ thấy mọi người nhìn với nụ cười gượng và quay mặt đi.
 
-“…được, được, tôi sẽ làm. Tại sao tôi phải trải qua chuyện này, thành thật mà nói…”
+"…thôi thôi, tôi làm. Thật sự tại sao tôi phải chịu chuyện này cơ chứ…"
 
-Tôi không còn lựa chọn nào khác ngoài việc phải đi. Khi tôi đứng dậy, tôi nhận thấy Finne đang nhìn tôi và cười rạng rỡ.
+Tôi đành phải đi. Khi tôi đứng dậy, tôi nhận ra Finne đang nhìn tôi, nở nụ cười rạng rỡ.
 
-“Cố lên nhé, thưa ngài Haruto!! Tôi chưa từng thấy bạn chiến đấu với người khác ngoài ngày hôm qua, vì vậy tôi thực sự
-mong chờ điều đó!!”
+"Cố lên, Haruto!! Tôi chưa thấy anh đấu với người khác kể từ hôm qua, nên tôi đang rất mong chờ!!"
 
-Tôi đang thắc mắc tại sao Finne không nói một lời…hmm.
+Tôi tự hỏi sao Finne không nói gì…hừm.
 
-Nhìn nụ cười đáng yêu của cô ấy, tôi cảm thấy như được tiếp thêm năng lượng.
+Nhìn nụ cười dễ thương của cô ấy, tôi thấy tràn đầy năng lượng.
 
-"Phải!! Hai người, ra đấu trường đi!!”
+"Được rồi!! Hai người, lên đấu trường thôi!!"
 
-Tôi nhìn hai kẻ điên cuồng với nụ cười rạng rỡ trên môi và họ trả lời “Ừ…chắc chắn rồi.”, kinh hãi trước sự thay đổi đột
-ngột của tôi. Các người mời tôi đấy, bây giờ đừng như thế nữa…
+Tôi quay sang hai tên berserker với nụ cười rộng trên môi, và chúng đáp "Ừ…được.", trông hơi rợn người vì sự thay đổi đột ngột của tôi. Hai người mời tôi mà, đừng có nhìn thế chứ…
 
-Hai kẻ điên cuồng, Finne và tôi bắt đầu đi về phía đấu trường, theo sau là những nhà thám hiểm trong hội đang có thời
-gian.
+Hai tên berserker, Finne và tôi bắt đầu đi về phía đấu trường, theo sau là những mạo hiểm giả rảnh rỗi trong hội.
 
-Một người trong số họ vỗ nhẹ vào vai tôi.
+Một người trong số họ vỗ vai tôi.
 
-"Chào bạn. Tôi chưa bao giờ thấy bạn quanh đây nên có thể bạn không biết, nhưng hai người đó đều là mạo hiểm giả hạng S.
-Họ không phải kẻ xấu, nhưng mỗi khi thấy ai đó mạnh mẽ, họ luôn lôi kéo họ vào những trận đấu tay đôi. Ừm, tôi đoán là
-gãy chân.”
+"Này anh bạn. Tôi chưa từng thấy anh ở đây, nên có lẽ anh không biết, nhưng hai tên đó là mạo hiểm giả hạng S. Họ không phải người xấu, nhưng cứ thấy ai mạnh là lôi vào giao đấu. À, chúc may mắn nhé."
 
-Người đàn ông nói xong rồi nháy mắt rời đi.
+Người đàn ông nói hết rồi, nháy mắt và bỏ đi.
 
-Tại sao tôi lại phải nháy mắt với một người mà tôi thậm chí còn không quen biết…?
+Tại sao tôi lại bị một gã lạ mặt nháy mắt với chứ…?
 
-Nhưng quan trọng hơn, hai người đó đều là hạng S? Họ nói rằng trên toàn thế giới chỉ có năm nhà thám hiểm hạng S và họ
-làm những việc ngu ngốc như thế này?
+Nhưng quan trọng hơn, hai tên này là hạng S á? Có người nói cả thế giới chỉ có năm mạo hiểm giả hạng S và họ làm mấy chuyện ngu ngốc thế này sao?
 
-Tôi nghĩ về lý do của họ một lúc, mặc dù tôi không thể nghĩ ra bất cứ điều gì, và trong lúc đó, chúng tôi đã đến đấu
-trường.
+Tôi suy nghĩ một lúc xem lý do của họ là gì, dù không nghĩ ra, và trong lúc đó, chúng tôi đã đến đấu trường.
 
-“Vậy ra đây là đấu trường…lớn hơn tôi mong đợi.”
+"Vậy đây là đấu trường…lớn hơn tôi tưởng."
 
-Vì vậy, tôi thì thầm với chính mình, và người điên cuồng với thanh kiếm rộng trả lời.
+Tôi lẩm bẩm với bản thân, và tên berserker cầm kiếm rộng đáp lại.
 
-“Tôi đoán là vì nó được dùng để huấn luyện, hay gì đó…dù sao thì, bạn đã sẵn sàng chiến đấu chưa?”
+"Chắc tại nó dùng để huấn luyện, hay gì đó…nói gì thì nói, sẵn sàng chưa?"
 
-Bạn thực sự đang ngứa ngáy vì nó, huh. Nhưng trước khi chúng ta bắt đầu…
+Mày đúng là ngứa đấu thật. Nhưng trước khi bắt đầu…
 
-“Bạn có thể đợi một chút được không? Bạn đã đưa tôi đến đây trái với ý muốn của tôi, nên sẽ công bằng nếu tôi chỉ yêu
-cầu một điều thôi, phải không?”
+"Có thể chờ một chút không? Mấy người dẫn tôi đến đây gần như trái ý, nên thật công bằng khi tôi đưa ra một yêu cầu, đúng không?"
 
-Thực ra tôi cũng mong chờ điều đó, nhưng trong tình huống như thế, tôi phải tỏ ra thờ ơ.
+Thật ra tôi cũng đang mong chờ, nhưng trong tình huống này, tôi phải giả vờ thờ ơ.
 
-"Những gì yêu cầu?"
+"Yêu cầu gì?"
 
-"Vâng. Nếu đằng nào chúng ta cũng phải chiến đấu, tại sao chúng ta không đặt cược cái gì đó vào đó?”
+"Ừ. Nếu đã đấu rồi, sao mình không cá cược một chút nhỉ?"
 
-Hai kẻ điên cuồng nhìn nhau và cười toe toét.
+Hai tên berserker nhìn nhau rồi cười nham hiểm.
 
-“Chắc chắn rồi, tại sao không? Tôi sẽ đặt cược thanh kiếm của chính mình!”
+"Được thôi, sao không? Tao sẽ cá kiếm của tao!"
 
-“Vậy thì tôi sẽ đặt cược đôi găng tay của mình! Không phải là tôi nghĩ chúng ta sẽ thua! Hahaha!”
+"Vậy tao cá găng tay của tao! Không phải là tao nghĩ mình sẽ thua đâu! Hahaha!"
 
-"Hở? Nhưng tôi thực sự không cần những thứ đó…”
+"Ế? Thật ra tôi không cần mấy thứ đó…"
 
-Tôi thực sự muốn một điều gì đó giống như một điều kiện, chẳng hạn như họ sẽ không thách đấu tôi trong một trận chiến
-giả nữa…ngay cả khi tôi giành được vũ khí của họ, tôi cũng sẽ không sử dụng chúng…
+Tôi thành thật muốn thứ gì đó kiểu điều kiện, như là họ sẽ không thách đấu tôi nữa…kể cả khi thắng được vũ khí của họ, tôi cũng đâu có dùng…
 
-Nhưng mà, việc cá cược vũ khí cũng có vẻ thú vị đấy.
+Nhưng mà, cá cược vũ khí nghe cũng vui đấy chứ.
 
-“…Vậy tôi cũng sẽ đặt cược thanh katana này của mình.”
+"…vậy tôi sẽ cá thanh katana này."
 
-"Ồ? Bạn thật sự chắc không? Cậu sẽ không nhìn thấy nó nữa đâu, biết không?”
+"Hả? Anh chắc chứ? Sẽ không gặp lại nó đâu nhé?"
 
-“Đó là lời thoại của tôi, bạn biết không?”
+"Câu đó tôi nói mới đúng, biết không?"
 
-Người đàn ông cầm thanh kiếm rộng đáp lại lời chế nhạo của tôi bằng một nụ cười toe toét.
+Gã cầm kiếm rộng cười đáp lại lời chọc ghẹo của tôi.
 
-Khi Finne và những mạo hiểm giả khác đi theo chúng tôi ngồi vào ghế trong đấu trường, tôi đang đối mặt với hai mạo hiểm
-giả ở trung tâm đấu trường.
+Khi Finne và các mạo hiểm giả khác theo dõi đã yên vị trên khán đài, tôi đối diện hai mạo hiểm giả ở trung tâm đấu trường.
 
-“Ồ đúng rồi, cậu bé, vẫn chưa nhớ được tên cậu.”
+"À này, thằng nhóc, tao chưa biết tên mày."
 
-“Đừng gọi tôi là cậu bé. Tôi là Haruto, mạo hiểm giả hạng A – đến lượt bạn.”
+"Đừng gọi tôi là nhóc. Tôi là Haruto, mạo hiểm giả hạng A — đến lượt anh."
 
-Tôi có thể nghe thấy một tiếng động nhỏ từ hàng ghế khán giả. Họ chắc chắn rất ngạc nhiên về thứ hạng của tôi.
+Tôi có thể nghe thấy một trận ồn ào nhỏ từ khán đài. Chắc chắn họ ngạc nhiên về hạng của tôi.
 
-Tôi liếc về hướng đó và thấy Finne đang tỏ vẻ tự mãn.
+Tôi liếc nhìn về hướng đó và thấy Finne trông đầy kiêu ngạo.
 
-Tôi lại quay về phía đối thủ của mình và người cầm thanh kiếm rộng tự giới thiệu mình trước.
+Tôi quay lại phía đối thủ, và gã cầm kiếm rộng tự giới thiệu trước.
 
-“Vậy cậu là Haruto à. Khá ấn tượng khi được xếp hạng A ở độ tuổi của bạn…tên tôi là Dyne, tôi hạng S. Chúng ta hãy có
-một trận đấu đáng nhớ nhé!”
+"Thì ra mày là Haruto hả. Ấn tượng đấy, trẻ thế mà đã hạng A…tao là Dyne, hạng S. Hãy có một trận đấu đáng nhớ!"
 
-Người đàn ông đeo găng tay theo sau.
+Gã đeo găng tay tiếp lời.
 
-“Không có gì ngạc nhiên khi bạn trông mạnh mẽ nếu bạn ở hạng A…Tôi cũng ở hạng S, tên tôi là Norverne. Cái này chắc sẽ
-rất vui!"
+"Không lạ gì khi mày trông có vẻ mạnh nếu mày hạng A…Tao cũng hạng S, tên Norverne. Trận này sẽ vui lắm đây!"
 
-Các bạn chắc chắn sẽ rất hào hứng với một trận đấu tập…
+Hai người thật sự rất hào hứng với một trận giao đấu…
 
-Một nhân viên của bang hội mà tôi từng gặp trước đây đóng vai trò là trọng tài. Tôi nghe thấy anh ấy thở dài “Họ lại làm
-vậy nữa à…?” với chính mình, nên tôi đoán chuyện đó xảy ra thường xuyên. Cười lên chàng trai.
+Một nhân viên hội mà tôi đã thấy trước đó làm trọng tài. Tôi nghe ông thở dài "Họ lại làm nữa à…?", nên tôi đoán chuyện này xảy ra thường xuyên. Cố lên nhé, ông anh.
 
-Dyne và Norverne nói chuyện với nhau và quyết định Dyne sẽ chiến đấu trước.
+Dyne và Norverne bàn bạc với nhau và quyết định Dyne sẽ đấu trước.
 
-Norverne sẽ là người tiếp theo nếu tôi vẫn có thể chiến đấu sau trận đấu với Dyne.
+Norverne sẽ là người tiếp theo nếu tôi vẫn còn sức đấu sau trận với Dyne.
 
-…Tôi có cảm giác hắn sẽ buộc tôi phải chiến đấu lần nữa, ngay cả khi họ phải tìm một người sử dụng phép thuật hồi phục ở
-đâu đó.
+…tôi có cảm giác hắn sẽ ép tôi đấu tiếp, ngay cả khi phải tìm một pháp sư hồi phục nào đó.
 
-Trong khi tôi đang suy nghĩ về điều này, Dyne rút thanh kiếm rộng của mình ra và vào tư thế chiến đấu; Norverne bước ra
-khỏi trung tâm đấu trường.
+Trong lúc đang trầm ngâm, Dyne rút kiếm rộng ra và vào thế chiến đấu; Norverne bước ra khỏi trung tâm đấu trường.
 
-Tôi cũng đặt tay lên vỏ thanh Katana đen của mình, sẵn sàng rút nó ra bất cứ lúc nào.
+Tôi cũng đặt tay lên vỏ của Black Katana, sẵn sàng rút bất cứ lúc nào.
 
-Tôi có thể nghe thấy mọi người “cổ vũ” cho tôi từ ghế ngồi, hét lên những câu như “Cố lên nhé chàng trai!!”, “Đừng chết
-bây giờ nhé!!”, “Tệ nhất là cậu sẽ bị gãy cả đống xương!” .
+Tôi có thể nghe mọi người "cổ vũ" tôi từ khán đài, hét lên kiểu "Cố lên nhóc ơi!!", "Đừng có chết giờ!!", "Xương gãy vài cái là may rồi đó!".
 
-Trọng tài xác nhận chúng tôi đã sẵn sàng chiến đấu rồi cao giọng.
+Trọng tài xác nhận cả hai sẵn sàng, rồi lên tiếng.
 
-“Trong trận đấu này, các đòn tấn công chết người và phép thuật gây chết người đều bị cấm. Trong trường hợp vi phạm quy
-tắc, thẻ mạo hiểm giả của bạn sẽ bị thu hồi và bạn sẽ bị cấm tham gia bang hội trong ba năm. Hơn nữa, trong trận chiến
-này, vũ khí của bạn đang bị đe dọa - đây là quy tắc, bạn đã sẵn sàng chưa?
+"Trong trận giao đấu này, nghiêm cấm các đòn tấn công chí mạng và phép thuật chí mạng. Trong trường hợp vi phạm luật, thẻ mạo hiểm giả sẽ bị thu hồi và anh sẽ bị cấm khỏi hội trong ba năm. Hơn nữa, trong trận chiến này, vũ khí của anh đang được đặt cược — đó là luật, các anh đã sẵn sàng chưa?"
 
-Dyne và tôi gật đầu và tín hiệu của trọng tài vang vọng khắp đấu trường.
+Dyne và tôi gật đầu, và tín hiệu của trọng tài vang khắp đấu trường.
 
-“Vậy…chúc trận chiến bắt đầu!!”
+"Vậy…trận đấu bắt đầu!!"
 
-Tôi đã mong đợi Dyne sẽ lao tới tôi ngay khi trận chiến bắt đầu, nhưng thay vào đó anh ta lại đứng yên và mở miệng.
+Tôi kỳ vọng Dyne sẽ xông vào tôi ngay khi trận đấu bắt đầu, nhưng hắn đứng yên và mở miệng thay vào đó.
 
-“Anh không định rút kiếm ra à?”
+"Anh không định rút kiếm à?"
 
-“Đây là lập trường tôi sử dụng. Nếu cậu định tấn công thì hãy làm điều đó.”
+"Đây là thế tôi dùng. Nếu anh định tấn công, thì cứ làm đi."
 
-“Hừm! Bạn đã yêu cầu nó!!”
+"Hừm! Mày đã chọn điều đó!!"
 
-Dyne giậm mạnh xuống đất và lao về phía tôi.
+Dyne dẫm mạnh xuống đất và lao về phía tôi.
 
-Cú vung kiếm của anh ta nhanh đáng kể, nhưng tôi vẫn bình tĩnh đi theo đường đi của nó, nhanh chóng rút thanh katana của
-mình để tấn công vào giữa thanh kiếm rộng và làm chệch hướng nó.
+Đường kiếm của hắn khá nhanh, nhưng tôi bình tĩnh theo dõi quỹ đạo, nhanh chóng rút katana gạt thanh kiếm rộng vào giữa, đẩy lệch hướng nó.
 
 "Cái gì!?"
 
-Dyne chắc chắn không ngờ tôi lại né tránh như vậy, bằng chứng là anh ta thốt lên ngạc nhiên.
+Dyne chắc chắn không ngờ tôi né theo cách đó, như chứng tỏ qua tiếng kinh ngạc của hắn.
 
-Khoảnh khắc tiếp theo, tôi bước đến bên cạnh anh ấy mà không cần sử dụng kỹ năng nào và vung thanh katana của mình.
+Khoảnh khắc tiếp theo, tôi bước sang bên hắn, không dùng kỹ năng, và vung katana.
 
-Tuy nhiên, Dyne đã tránh được nó bằng cách nhảy sang một bên.
+Dyne, tuy nhiên, né được bằng cách nhảy sang bên.
 
-"Không tệ không tệ!! Tấn công vào thanh kiếm rộng của tôi để né đòn tấn công đầu tiên của tôi…và thậm chí phản công sau
-đó, bạn quả thật rất can đảm.”
+"Không tệ, không tệ!! Gạt kiếm rộng của tao để né đòn đầu tiên…rồi còn phản công nữa, mày gan thật."
 
-Dyne nghe có vẻ khá ấn tượng, và khán giả lại bắt đầu xôn xao nhỏ.
+Dyne có vẻ khá ấn tượng, và khán giả lại xôn xao một lần nữa.
 
-“Có chuyện gì với chuyển động của đứa trẻ đó vậy!?”
+"Thằng nhóc kia di chuyển cái gì vậy!?"
 
-“Không, kỹ thuật của anh ấy mới là thứ bạn nên xem xét ở đây. Tôi không biết ai có thể tránh được thanh kiếm bản rộng
-của Dyne bằng cách đánh bật nó khỏi đường đi như thế!”
+"Không anh bạn, kỹ thuật của nó mới đáng xem đây. Tao không biết ai có thể gạt được kiếm rộng của Dyne bằng cách đẩy lệch quỹ đạo như vậy!"
 
-Những lời nhận xét đó lọt vào tai tôi khi tôi cảm thấy áp lực của Dyne ngày càng lớn. Tôi rút thanh Katana đen của mình
-ra và chuẩn bị cho cuộc đụng độ tiếp theo.
+Những lời bình luận đó lọt vào tai tôi khi tôi cảm thấy áp lực từ Dyne tăng lên. Tôi rút Black Katana và chuẩn bị cho cuộc đụng độ tiếp theo.
 
-“Raahhh!!!”
+"Rraahhh!!!"
 
-Dyne lao về phía tôi với tốc độ đáng kinh ngạc.
+Dyne xông về phía tôi với tốc độ đáng kinh ngạc.
 
-Anh ta nhanh hơn trước: có lẽ anh ta đã sử dụng Tăng cường vật lý hoặc tương tự.
+Hắn nhanh hơn lúc trước: chắc hẳn đã dùng Tăng Cường Thể Chất hoặc tương tự.
 
-Giây tiếp theo, thanh kiếm rộng của anh quét không khí.
+Khoảnh khắc tiếp theo, kiếm rộng của hắn quét ngang không khí.
 
-Tôi nhanh chóng nhảy lùi lại, nhưng khi mũi thanh kiếm hướng về phía tôi, lưỡi kiếm dừng lại ngay lập tức và Dyne chuyển
-sang một cú đâm mạnh mẽ.
+Tôi nhanh chóng nhảy lùi, nhưng khi mũi kiếm rộng hướng về phía tôi, lưỡi kiếm dừng lại ngay lập tức và Dyne chuyển sang một cú đâm mạnh.
 
-“Wah!”
+"Wah!"
 
-Tôi phản ứng theo bản năng bằng cách vung thanh Katana đen của mình và đẩy thanh kiếm bản rộng lên trên.
+Tôi phản xạ vung Black Katana và đẩy kiếm rộng lên trên.
 
-![HarutoKatana](HarutoKatana.jpg)
+![](https://web.archive.org/web/20241113082928im_/https://i0.wp.com/shintranslations.com/wp-content/uploads/2020/12/HarutoKatana.jpg?w=1009&ssl=1)
 
-Tuy nhiên, Dyne đã hạ thanh kiếm rộng của mình xuống tôi ngay lập tức.
+Tuy nhiên, Dyne ngay lập tức chém kiếm rộng xuống tôi.
 
-Lần này tôi kịp thời né được nó, nhưng lưỡi kiếm của Dyne lại dừng ngay lập tức ở độ cao ngang eo tôi, rồi chuyển sang
-quét ngang.
+Lần này tôi né dư dả, nhưng lưỡi kiếm của Dyne lại dừng ngay ở ngang eo tôi, rồi chuyển sang quét ngang.
 
-Vì những đòn tấn công bất thường liên tục, tôi không khỏi hét lên.
+Vì những đòn tấn công bất thường liên tục, tôi không nhịn được phải hét lên.
 
-"Cái quái gì thế!?"
+"Cái quái gì vậy!?"
 
-Tôi dừng đòn quét bằng thanh katana của mình, để đà đẩy tôi đi.
+Tôi chặn đòn quét bằng katana, để đà đẩy mình bay ra xa.
 
-Sau khi giữ khoảng cách giữa chúng tôi, tôi hỏi lại.
+Sau khi tạo khoảng cách, tôi hỏi lại.
 
-“Đòn tấn công vừa rồi là gì vậy!? Bạn dừng lại ngay lập tức và thay đổi hướng tấn công, phải không?
+"Đòn vừa rồi là gì!? Anh dừng ngay lập tức rồi đổi hướng tấn công, đúng không?"
 
-“Hahaha!! Đó là cách tôi chiến đấu!! Tuy nhiên, tôi không thể nhớ lần cuối cùng ai đó chặn đòn tấn công đó là khi
-nào…bạn thực sự là một thứ gì đó, Haruto! Sự hồi hộp này…! Trận chiến này vui thật!! Hahaha!!”
+"Hahaha!! Đó là cách tao đánh!! Tao không nhớ lần cuối cùng có ai chặn được đòn đó…mày đúng là thứ gì đó đấy, Haruto! Cảm giác hồi hộp này…! Trận đấu này thật sự rất vui!! Hahaha!!"
 
-Chết tiệt, anh chàng này là một kẻ điên cuồng xuyên suốt…tốt hơn hết hãy kết thúc chuyện này nhanh chóng.
+Chết tiệt, gã này đúng là berserker đến tận xương tủy…phải kết thúc nhanh thôi.
 
-"Đến lượt của tôi bây giờ. Tôi đi đây…!”
+"Đến lượt tôi. Tôi ra tay đây…!"
 
-Tôi bắt đầu bằng việc phóng ra 20 quả cầu lửa.
+Tôi bắt đầu bằng cách phóng ra 20 quả cầu lửa.
 
-“Ồ, phép thuật à? Tôi sẽ cắt chúng ra từng mảnh!”
+"Ồ, phép thuật á? Tao sẽ chẻ hết!"
 
-Những quả cầu lửa bay về phía Dyne, người đang chuẩn bị thanh kiếm rộng để chống lại chúng.
+Những quả cầu lửa bay về phía Dyne, hắn chuẩn bị kiếm rộng để đối phó.
 
-Anh ta cố gắng cắt giảm những quả cầu lửa bay về phía mình, nhưng tôi có thể di chuyển những quả cầu lửa theo ý muốn.
+Hắn cố chẻ những quả cầu lửa bay về phía mình, nhưng tôi có thể điều khiển chúng theo ý muốn.
 
-Tôi bảo chúng né những nhát chém của Dyne và đặt chúng vào vị trí, sau đó cử tất cả chúng tấn công anh ta cùng một lúc.
+Tôi cho chúng né đường chém của Dyne và vào vị trí, rồi phái tất cả tấn công hắn cùng lúc.
 
-Dyne trông có vẻ ngạc nhiên, nhưng xoay thanh kiếm rộng tại chỗ nhiều lần, cuối cùng cắt xuyên qua tất cả các quả cầu
-lửa.
+Dyne trông ngạc nhiên, nhưng xoay người tại chỗ với kiếm rộng vài lần, cuối cùng chẻ sạch tất cả cầu lửa.
 
-Có vẻ như anh ta vẫn còn dư thừa năng lượng.
+Hắn trông vẫn còn dư dả sức lực.
 
-“Này Dyne, cậu định nghiêm túc hay sao vậy? Cứ thế này tôi sẽ chán mất!”
+"Này Dyne, mày định nghiêm túc chưa đấy? Tao sẽ chán với mức này đó!"
 
-“Anh đã nói rồi mà!! Tôi sẽ dùng hết sức bây giờ, chuẩn bị sẵn sàng nhé!!”
+"Mày vừa nói câu đó đấy!! Tao sẽ bung hết sức, sẵn sàng đi!!"
 
-Dyne cười toe toét trước lời chế nhạo của tôi, vào tư thế chiến đấu và giải phóng áp lực.
+Dyne cười nham hiểm trước lời chọc ghẹo của tôi, vào thế chiến đấu, rồi giải phóng áp lực.
 
-Anh ta tiếp tục bằng cách bọc thanh kiếm rộng của mình trong tia chớp và nụ cười của anh ta nở rộng.
+Hắn tiếp tục bằng cách bao bọc kiếm rộng bằng sấm sét và nụ cười nở rộng hơn.
 
-“Haha, cậu thậm chí còn chịu được áp lực của tôi…cậu cũng nên nghiêm túc đi!!”
+"Haha, mày thậm chí còn chịu được áp lực của tao…mày cũng nên nghiêm túc đi!!"
 
-“…được rồi.”
+"…được thôi."
 
-Tôi kích hoạt Tăng cường Vật lý và sử dụng Thao tác Sức mạnh Phép thuật để truyền sức mạnh phép thuật cho Thanh Katana
-Đen của mình.
+Tôi kích hoạt Tăng Cường Thể Chất và dùng Thao Túng Ma Lực để rót ma lực vào Black Katana.
 
-Tôi vào thế chiến đấu, sau đó giải phóng Đe dọa.
+Tôi vào thế chiến đấu, rồi giải phóng Áp Chế.
 
-“!? Không tệ không tệ!! Tôi đi đây!!”
+"!? Không tệ, không tệ!! Tao xông vào đây!!"
 
-Dyne ngập ngừng trong giây lát rồi bước về phía trước, mạnh mẽ hơn trước.
+Dyne chùng một giây, rồi bước tới, mạnh mẽ hơn trước.
 
-Tôi né cú quét ngang của hắn bằng cách lùi lại phía sau, giống như lần trước. Tuy nhiên, tôi biết một lực đẩy về phía
-trước sẽ theo sau.
+Tôi né đường quét ngang bằng cách lùi lại, giống như lúc trước. Tuy nhiên, tôi biết một cú đâm tới sẽ theo sau.
 
-Tuy nhiên, trái ngược với mong đợi của tôi, những gì tiếp theo là một tia sét phóng ra từ thanh kiếm rộng.
+Trái với dự đoán của tôi, thứ theo sau là một luồng sấm sét từ thanh kiếm rộng.
 
-“!?”
+"!?"
 
-Tôi phản ứng theo bản năng bằng cách tạo ra một rào cản phía trước.
+Tôi phản xạ tạo một bức tường ma pháp trước mặt.
 
-Kết giới đẩy lùi đòn tấn công sấm sét, nhưng Dyne — sau khi thì thầm “Tốc độ tia chớp” — biến mất khỏi tầm mắt tôi, xuất
-hiện phía sau tôi ngay sau đó.
+Bức tường đẩy lui đòn sấm sét, nhưng Dyne — sau khi thì thầm "Tốc Độ Sấm Sét" — biến mất khỏi tầm mắt tôi, xuất hiện phía sau tôi khoảnh khắc tiếp theo.
 
-Tốc độ đó thật điên rồ. Nếu không có Phát hiện sự hiện diện, có lẽ tôi đã mất anh ấy hoàn toàn.
+Tốc độ đó điên thật. Nếu không có Phát Hiện Sự Hiện Diện, có lẽ tôi đã hoàn toàn mất dấu hắn.
 
-Tôi cố gắng quay lại mà không mất bình tĩnh: Sau đó tôi tạo ra một rào cản nhỏ trên lòng bàn tay để chặn cú vung của
-Dyne.
+Tôi xoay người lại mà không mất bình tĩnh: rồi tôi tạo một bức tường ma pháp nhỏ trên lòng bàn tay, để chặn đường kiếm của Dyne.
 
 "Cái gì!?"
 
-Trong khi Dyne phản ứng với sự ngạc nhiên, tôi “trả ơn” anh ta bằng cách vòng ra sau lưng anh ta và đặt thanh katana của
-mình lên cổ anh ta.
+Trong khi Dyne ngạc nhiên phản ứng, tôi "đáp lễ" bằng cách vòng ra sau lưng hắn và đặt katana lên cổ hắn.
 
-Trong khi cảm thấy lưỡi dao kề vào cổ và đổ mồ hôi lạnh, Dyne giơ cả hai tay lên và tuyên bố đầu hàng.
+Cảm nhận lưỡi kiếm trên cổ và toát mồ hôi lạnh, Dyne giơ cả hai tay lên và đầu hàng.
 
-“Trận đấu kết thúc!! Người chiến thắng là Haruto!!”
+"T-trận đấu kết thúc!! Người thắng là Haruto!!"
 
-Sau một lúc im lặng, tiếng tuyên bố của trọng tài vang vọng khắp đấu trường.
+Sau một khoảnh khắc im lặng, tuyên bố của trọng tài vang khắp đấu trường.
 
-Đôi mắt của khán giả đang tập trung vào tôi, nhưng không ai có thể thốt ra một lời…Finne là người duy nhất di chuyển, vỗ
-tay và nói “Đó là Ngài Haruto dành cho bạn!”
+Ánh mắt khán giả đổ dồn về tôi, nhưng không ai nói nên lời…Finne là người duy nhất cử động, vỗ tay và nói "Đó mới là Haruto chứ!"
 
-Sau khi tôi để Dyne đi, tôi có thể nghe thấy những nhà thám hiểm khác nói những điều như “Anh chàng đó có thật không…?
-Anh ta đã thắng Dyne…?” và “Anh ấy có thực sự hạng A không…?”
+Sau khi tôi thả Dyne, tôi có thể nghe các mạo hiểm giả khác nói kiểu "Gã đó thật sự á…? Hắn thắng Dyne sao…?" và "Hắn thật sự hạng A sao…?"
 
-Dyne cất thanh kiếm của mình rồi gọi tôi.
+Dyne cất kiếm, rồi gọi tôi.
 
-“Tôi đã thua hoàn toàn…nhưng cậu vẫn cố nhịn phải không?”
+"Tao thua hoàn toàn…nhưng mày vẫn nương tay đúng không?"
 
-“Ai biết được…giờ đến lượt bạn nhảy của bạn. Đi xem từ khán đài hay gì đó đi.”
+"Ai biết được…đến lượt đồng đội của anh rồi. Đi xem từ khán đài đi."
 
-“Ừ, tôi sẽ làm điều đó…mặc dù đó là một trận chiến tuyệt vời. Không ngờ còn có nhiều người mạnh hơn tôi! Tôi rất vui
-được gặp anh, anh bạn! Hãy chiến đấu một lần nữa vào một ngày nào đó!”
+"Ừ, tao sẽ làm vậy…trận đấu vui thật đấy. Ai mà nghĩ lại có người mạnh hơn tao! Tao vui vì được gặp mày! Hãy đấu lại vào một ngày nào đó nhé!"
 
-Sau đó cậu vẫn muốn chiến đấu à…? Ồ đúng rồi, tôi nên tiếp tục và thử Thẩm định khi có thể.
+Mày vẫn muốn đấu sau chuyện này sao…? À phải, tôi nên thử Đánh Giá khi còn có thể.
 
-|                  |                                                                                                                                                   |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| TÊN:             | Dyne                                                                                                                                              |
-| MỨC ĐỘ:          | 98                                                                                                                                                |
-| TUỔI:            | 34                                                                                                                                                |
-| GIỐNG LOÀI:      | Nhân loại                                                                                                                                         |
-| KỸ NĂNG ĐỘC ĐÁO: | Trance trả thù                                                                                                                                    |
-| KỸ NĂNG:         | Ma thuật sét LV 7<br>Tăng cường thể chất LV 7<br>Tinh Thần Chiến Đấu LV 8<br>Kiếm thuật LV 8<br>Công tắc điên cuồng<br>Độ bền LV 6<br>Đe dọa LV 6 |
-| TIÊU ĐỀ:         | Nhà thám hiểm hạng S<br>Kẻ điên cuồng<br>Tốc độ ánh sáng<br>Lưỡi dao điên cuồng<br>Trận chiến cuồng nhiệt                                         |
+| **TÊN:** | **Dyne** |
+| --- | --- |
+| **CẤP:** | **98** |
+| **TUỔI:** | **34** |
+| **CHỦNG TỘC:** | **Người** |
+| **KỸ NĂNG ĐỘC NHẤT:** | **Trầm Phản Đòn** |
+| **KỸ NĂNG:** | **Phép Sấm Sét LV 7** **Tăng Cường Thể Chất LV 7** **Chiến Ý LV 8** **Kiếm Thuật LV 8** **Bật Berserk** **Bền Bỉ LV 6** **Áp Chế LV 6** |
+| **DANH HIỆU:** | **Mạo Hiểm Giả Hạng S** **Berserker** **Tốc Độ Sấm Sét** **Lưỡi Kiếm Điên Loạn** **Cuồng Chiến** |
 
-Ồ, đúng như mong đợi của hạng S…và có những kỹ năng tôi chưa từng thấy trước đây.
+Ồ, đúng như mong đợi của hạng S…và còn có cả kỹ năng mà tôi chưa từng thấy nữa.
 
-<Sự trả đũa xuất thần>
+**<Trầm Phản Đòn>**
 
-Cho phép sử dụng các đòn tấn công dẫn đường vào mục tiêu.
+**Cho phép sử dụng các đòn tấn công nhắm vào mục tiêu.**
 
-Các đòn tấn công vật lý hướng tới người dùng được phản ánh với tốc độ gấp đôi và sức mạnh tấn công.
+**Các đòn tấn công vật lý nhằm vào người dùng được phản lại với tốc độ và sức mạnh tấn công gấp đôi.**
 
-<Tinh thần chiến đấu>
+**<Chiến Ý>**
 
-Người dùng có thể tạo ra hào quang tinh thần chiến đấu để tăng cường sức mạnh chiến đấu.
+**Người dùng có thể tạo ra hào quang chiến ý để tăng sức mạnh chiến đấu.**
 
-<Sự kiên cường>
+**<Bền Bỉ>**
 
-Tăng khả năng chống lại các đòn tấn công vật lý.
+**Tăng sức đề kháng với các đòn tấn công vật lý.**
 
-<Công tắc điên cuồng>
+**<Bật Berserk>**
 
-Với cái giá phải trả là mất đi phần lớn khả năng suy luận, tất cả các khả năng đều được tăng cường và người dùng rơi vào
-trạng thái điên cuồng. Sau khi kích hoạt, trạng thái tiếp tục cho đến khi người dùng mất hết sức chịu đựng, bất tỉnh
-hoặc chết. Trong một số trường hợp rất hiếm, người dùng giữ lý do của mình trong quá trình kích hoạt, nó có thể bị dừng
-theo ý muốn của người dùng.
+**Với cái giá là mất phần lớn khả năng lý trí, tất cả năng lực được tăng cường và người dùng rơi vào trạng thái giống berserk. Sau khi kích hoạt, trạng thái tiếp tục cho đến khi người dùng hết sức lực, bất tỉnh hoặc chết. Trong trường hợp rất hiếm, người dùng giữ được lý trí trong khi kích hoạt, nó có thể được dừng lại bằng ý chí.**
 
-Vậy ra sự thay đổi hướng kỳ lạ của lưỡi kiếm của anh ta là do sự phản chiếu của Kỹ năng Độc nhất.
+Vậy sự thay đổi hướng kỳ lạ của lưỡi kiếm hắn là do Kỹ Năng Độc Nhất phản đòn.
 
-…Tuy nhiên, kỹ năng Berserk Switch đó chắc chắn là điên rồ.
+…nhưng kỹ năng Bật Berserk đó thật sự điên thật.
 
-Tôi chắc chắn muốn có kỹ năng phản ánh đó cho riêng mình…nhưng Tất cả Sáng tạo không thể tạo ra Kỹ năng Độc nhất…
+Tôi thật muốn kỹ năng phản đòn đó cho mình…nhưng Sáng Tạo Toàn Năng không thể tạo Kỹ Năng Độc Nhất…
 
-<<Nhận được kỹ năng “Sao Chép”.>>
+<<Kỹ năng "Sao Chép" đã có.>>
 
-Ừm? Tôi có nhận được một kỹ năng khác với phản xạ không?
+Hả? Tôi có một kỹ năng khác ngoài phản đòn sao?
 
-Tự hỏi điều gì đã gây ra nó, tôi sử dụng Thẩm định.
+Tò mò không biết nguyên nhân, tôi dùng Đánh Giá.
 
-<Sao chép>
+**<Sao Chép>**
 
-Cho phép sao chép các đối tượng vật lý. Vũ khí lên đến cấp Rare có thể được nhân đôi.
+**Cho phép sao chép các đối tượng vật lý. Có thể sao chép vũ khí đến cấp Hiếm.**
 
-Cũng có thể sao chép các kỹ năng và kỹ năng độc đáo.
+**Cũng có thể sao chép kỹ năng và kỹ năng độc nhất.**
 
-Tuy nhiên, việc sao chép các kỹ năng độc đáo sẽ tạo ra một kỹ năng có khả năng kém hơn.
+**Tuy nhiên, sao chép kỹ năng độc nhất sẽ tạo ra kỹ năng có năng lực kém hơn.**
 
-Ồ, bây giờ điều này sẽ hữu ích. Tôi không cần sao chép các kỹ năng nhờ All Creation, nhưng sao chép các kỹ năng độc đáo
-là một phần thưởng tuyệt vời.
+Ồ, cái này sẽ rất hữu ích. Tôi không cần sao chép kỹ năng nhờ Sáng Tạo Toàn Năng, nhưng sao chép kỹ năng độc nhất là phần thưởng tuyệt vời.
 
-Tôi ngay lập tức kiểm tra kỹ năng này bằng cách sao chép “Trance Retaliation”.
+Tôi lập tức thử kỹ năng bằng cách cố sao chép "Trầm Phản Đòn".
 
-<<Đã học được Kỹ năng “Phản ánh”. Kỹ năng được thêm vào Hợp Nhất Phép Thuật.>>
+<<Kỹ năng "Phản Đòn" đã có. Kỹ năng được thêm vào Hợp Nhất Ma Pháp.>>
 
-<Phản ánh>
+**<Phản Đòn>**
 
-Cho phép người dùng phản ánh các cuộc tấn công vật lý hướng tới người dùng.
+**Cho phép người dùng phản lại các đòn tấn công vật lý nhằm vào mình.**
 
-Vì vậy, đó là ý nghĩa của bản sao kém chất lượng. Tôi đoán tôi cũng nên sao chép Fighting Spirit vì tôi đang ở đó.
+Vậy đó là ý nghĩa của bản sao kém hơn. Tôi đoán mình cũng nên sao chép Chiến Ý luôn, vì đã làm rồi.
 
-Trong khi tôi đang bận rộn với những kỹ năng mới, cuộc trò chuyện của Dyne và Norverne lọt vào tai tôi.
+Trong lúc tôi bận với các kỹ năng mới, cuộc trò chuyện của Dyne và Norverne lọt vào tai tôi.
 
-“Dyne…việc “Lightning Speed ​​Crazed Blade” thực sự thua…anh ấy thế nào rồi?”
+"Dyne…'Lưỡi Kiếm Điên Loạn Tốc Độ Sấm Sét' thật sự thua…hắn thế nào?"
 
-“Mạnh, mạnh hơn tôi rất nhiều. Có cảm giác như anh ấy vẫn còn nhiều điều để thể hiện, mặc dù tôi không thể hiểu được là
-bao nhiêu. Norverne, đừng giữ lại bất cứ điều gì…nếu không cố gắng hết sức, bạn sẽ bị giết trong vài giây!”
+"Mạnh, mạnh hơn tao nhiều. Có cảm giác hắn vẫn còn nhiều thứ để giấu, dù tao không đoán được bao nhiêu. Norverne, đừng nương tay…nếu mày không bung hết sức, mày sẽ bị hạ trong tích tắc!"
 
-Ờ, tôi sẽ không giết ai cả, được chứ?
+Ơ, tôi không giết ai đâu, được chứ?
 
-Norverne đấm tay với Dyne rồi đi về phía tôi.
+Norverne đấm tay vào Dyne, rồi bước về phía tôi.
 
-“Hãy cho tôi một trận chiến hay nhé, Haruto!”
+"Cũng cho tao một trận tử tế nhé, Haruto!"
 
-“Ừ, hãy vui vẻ nhé.”
+"Ừ, hãy có một trận hay."
 
-Sau khi trả lời, tôi lấy thanh Katana đen của mình và cất nó vào kho lưu trữ không gian của mình.
+Sau khi đáp lời, tôi cầm Black Katana và đặt vào không gian chiều.
 
-“…ý nghĩa của việc đó là gì?”
+"…ý anh là gì vậy?"
 
-Norverne nhìn tôi, bối rối.
+Norverne nhìn tôi, ngơ ngác.
 
-“Bạn chiến đấu bằng nắm đấm của mình, phải không? Vì vậy tôi nghĩ tôi cũng sẽ làm như vậy…Tôi không muốn mọi người nghĩ
-rằng tôi thắng chỉ nhờ vào thanh katana của mình.”
+"Anh đánh bằng nắm đấm đúng không? Nên tôi nghĩ mình cũng làm vậy…Tôi không muốn người ta nghĩ rằng tôi chỉ thắng nhờ katana."
 
-Sau khi nghe những lời của tôi, Norverne cười toe toét.
+Sau khi nghe lời tôi, Norverne cười nham hiểm không sợ hãi.
 
-“Haha, cậu chắc chắn hành động cứng rắn, ngay cả khi đối thủ của cậu hạng S. Chà, nếu cậu có thể chiến đấu như vậy thì
-chắc chắn…đừng làm tôi thất vọng, được chứ?”
+"Haha, anh gan thật, ngay cả khi đối thủ là hạng S. Vậy, nếu anh đánh được như vậy, thì được…đừng làm tao thất vọng đấy nhé?"
 
-Tôi trả lời đơn giản bằng cách giơ nắm đấm trong tư thế chiến đấu.
+Tôi chỉ đáp lại bằng cách giơ nắm đấm lên tư thế chiến đấu.
 
+---
+
+[←ToC](../../..) | [Next→](../chapter-17)

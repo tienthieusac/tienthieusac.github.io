@@ -1,340 +1,295 @@
 ---
-title: Chương 17 – Người xếp hạng S khác
+title: Chương 17 – Tên hạng S còn lại
 weight: 17
 ---
 
-# Chương 17 – Người xếp hạng S khác
+# Chương 17 – Tên hạng S còn lại
 
-“Cầu mong trận chiến…bắt đầu!!”
+"Trận đấu…bắt đầu!!"
 
 Khoảnh khắc trọng tài ra hiệu, Norverne đã ở ngay trước mặt tôi.
 
-Sau đó anh ta bao bọc chiếc găng tay bên phải của mình trong ngọn lửa và cố gắng đấm tôi.
+Hắn liền bao bọc găng tay phải bằng lửa và cố đấm tôi.
 
-Tôi phản công bằng cách truyền sức mạnh ma thuật vào nắm tay trái của mình và đẩy lùi đòn tấn công của hắn.
+Tôi phản đòn bằng cách rót ma lực vào nắm đấm trái và đẩy lùi đòn tấn công của hắn.
 
-Norverne ngay lập tức tung nắm đấm trái ra, nhưng tôi cũng đẩy lùi được, rồi nhảy lùi lại để né cú đá của anh ta.
+Norverne ngay lập tức tiếp theo bằng cách đấm nắm đấm trái, nhưng tôi cũng đẩy lùi, rồi nhảy lùi để né cú đá.
 
-Đúng như tôi dự đoán, anh ta hầu như không có bất kỳ sơ hở nào.
+Như tôi đoán, hắn hầu như không có kẽ hở nào.
 
-“Ồ, cậu thậm chí còn né được cú đá đó…thế này thì sao!!”
+"Ồ, mày còn né được cả cú đá đó…vậy thì thử cái này!!"
 
-Norverne lại áp sát tôi và tung ra một loạt cú đấm.
+Norverne áp sát tôi lần nữa và giải phóng một loạt đấm.
 
-Tôi làm chệch hướng hoặc chặn nắm đấm rực lửa của anh ta bằng những nắm đấm có sức mạnh ma thuật của chính mình.
+Tôi đánh gạt hoặc chặn những nắm đấm bốc cháy của hắn bằng nắm đấm có ma lực của mình.
 
-Khi làm vậy, tôi có thể nghe thấy hàng ghế khán giả bình luận về cuộc trao đổi của chúng tôi.
+Trong lúc làm vậy, tôi có thể nghe khán đài bình luận về cuộc trao đổi của chúng tôi.
 
-“Chết tiệt, nhìn anh ta theo kịp cuộc tấn công của Norverne…”
+"Chết tiệt, nhìn hắn theo kịp tấn công của Norverne kìa…"
 
-“Ừ, nhưng tôi cá đó chỉ là vấn đề thời gian thôi.”
+"Ừ, nhưng tớ cá là chỉ còn vấn đề thời gian thôi."
 
-“Không biết nữa, có vẻ như anh ấy vẫn còn dư năng lượng.”
+"Không chắc, hắn trông vẫn còn dư sức."
 
-Điều tiếp theo tôi nghe được là Norverne đang chế nhạo tôi.
+Tiếp theo tôi nghe là Norverne chọc ghẹo tôi.
 
-“Bằng cách phòng thủ à? Không có thời gian để tấn công!?”
+"Cứ bám trận thủ à? Không có thời gian phản công á?"
 
-"Nếu bạn yêu cầu nó, thì tôi không có lựa chọn nào khác!"
+"Nếu mày đã yêu cầu thì tôi không còn lựa chọn nào khác!"
 
-Tôi quyết định chấp nhận thử thách của Norverne và tăng cường các bước tấn công của mình từng chút một.
+Tôi quyết định nhận lời thách thức của Norverne và tăng dần động tác tấn công.
 
-“Hahaha!! Bây giờ chúng ta sẽ có một vài niềm vui thực sự!!”
+"Hahaha!! Giờ thì vui rồi!!"
 
-Tôi mỉm cười khi giữ khoảng cách xa hơn với Norverne, sau đó kích hoạt Tăng cường Vật lý.
+Tôi mỉm cười khi tăng khoảng cách với Norverne, rồi kích hoạt Tăng Cường Thể Chất.
 
-Sau đó, tôi sử dụng Ground Shrink để đến gần anh ta ngay lập tức và bắt đầu đòn tấn công của riêng mình.
+Sau đó tôi dùng Co Ngắn Mặt Đất để tiến gần hắn trong tích tắc và bắt đầu loạt tấn công của riêng mình.
 
-Những cú đấm được tăng cường vật lý của tôi có thể đã giết chết Norverne, vì vậy tôi cũng sử dụng “Hold Back” một cách
-tự nhiên.
+Cú đấm được tăng cường bởi Tăng Cường Thể Chất của tôi có thể giết Norverne, nên tôi cũng dùng "Kiềm Chế", tự nhiên thôi.
 
-“Kh…!”
+"Kh…!"
 
-Sức tấn công của tôi cao đến mức Norverne không thể không càu nhàu khi cố gắng rút lui khỏi tôi.
+Sức tấn công của tôi quá mạnh, Norverne không nhịn được phải rên rỉ khi cố rút lui khỏi tôi.
 
-Tuy nhiên, tôi đã không để sơ hở mà đá thẳng vào bụng anh ta.
+Tôi không bỏ lỡ kẽ hở, và đá thẳng vào bụng hắn.
 
-“Gwah!!”
+"Gwah!!"
 
-Norverne nhận toàn bộ cú đá và bị hất văng vào tường.
+Norverne chịu toàn bộ sức mạnh của cú đá và bị đập bay vào tường.
 
-Tôi định tiếp tục tấn công khác ngay lập tức, nhưng sau khi Norverne ổn định lại thế đứng, tôi dừng lại.
+Tôi định tiếp tục tấn công ngay lập tức, nhưng sau khi Norverne lấy lại tư thế, tôi dừng lại.
 
-“Sẽ đau lắm nếu tôi không có Tăng cường thể chất!”
+"Đau thật nếu tôi không có Tăng Cường Thể Chất!"
 
-“Mặc dù vậy, bạn chắc chắn trông có vẻ như đang tận hưởng chính mình!”
+"Nhưng anh trông vẫn rất thích thú kìa!"
 
-“Tôi là loại người như thế đấy! Bây giờ đến lượt tôi…hãy ăn thứ này đi!!”
+"Đó là kiểu người tôi vậy! Giờ đến lượt tôi…xem đây!!"
 
-Norverne sau đó hiện thực hóa những quả cầu lửa trước mặt mình.
+Norverne liền ngưng tụ những quả cầu lửa trước mặt.
 
-Anh ta tiếp tục đấm những quả cầu lửa, khiến chúng bay đi.
+Hắn tiếp tục đấm những quả cầu lửa, phóng chúng đi.
 
-Họ đang lao về phía tôi nhanh hơn nhiều so với tôi mong đợi.
+Chúng bay về phía tôi nhanh hơn tôi mong đợi nhiều.
 
-Bạn đang đùa tôi à!? Tôi chưa bao giờ thấy ai đấm quả cầu lửa cả!!
+Mày đùa đấy á!? Tôi chưa từng thấy ai đấm cầu lửa!!
 
-Bất chấp sự ngạc nhiên của mình, tôi đã đánh bay hoặc né từng quả cầu lửa một.
+Bất chấp sự ngạc nhiên, tôi gạt hoặc né từng quả cầu lửa một.
 
-Tuy nhiên, trước khi tôi kịp nhận ra thì đã không thấy Norverne đâu cả.
+Trước khi tôi kịp nhận ra, Norverne đã biến mất.
 
-Tôi có một cảm giác khó chịu về điều đó, nhưng cảm giác đó lập tức trở thành hiện thực: một chiếc găng tay rực lửa sượt
-qua tôi, bay qua đầu tôi.
+Tôi có linh cảm xấu, và nó trở thành hiện thực ngay lập tức: một chiếc găng tay bốc lửa vụt qua tôi, bay trên đầu.
 
-Cùng lúc đó, giọng nói robot vang lên trong đầu tôi.
+Cùng lúc đó, giọng robot vang lên trong đầu tôi.
 
-<<Nhận được Kỹ năng “Phát hiện nguy hiểm”. Kỹ năng được thêm vào Hợp Nhất Võ.>>
+<<Kỹ năng "Phát Hiện Nguy Hiểm" đã có. Kỹ năng được thêm vào Hợp Nhất Võ Thuật.>>
 
-Ừm? Không phát hiện sự hiện diện? Tốt hơn là tôi nên kiểm tra nó.
+Hả? Không phải Phát Hiện Sự Hiện Diện à? Tôi nên kiểm tra nó.
 
-<<Phát hiện nguy hiểm>>
+**<<Phát Hiện Nguy Hiểm>>**
 
-Cảnh báo người dùng khi nguy hiểm đến gần. Kích hoạt tự động.
+**Cảnh báo người dùng khi nguy hiểm đến gần. Tự động kích hoạt.**
 
-Ồ, điều này sẽ hữu ích. Nó có thể giúp tôi giải quyết những sự việc bất ngờ.
+Ồ, cái này sẽ hữu ích đây. Nó có thể giúp tôi đối phó với những sự kiện bất ngờ.
 
-Trong khi nghĩ vậy, tôi cúi xuống và thử quét chân vào Norverne.
+Trong lúc nghĩ vậy, tôi cúi người và thử một cú quét chân với Norverne.
 
-Tuy nhiên, có lẽ anh ta đã đoán trước được điều đó khi lùi lại và tránh nó.
+Hắn chắc hẳn đã đoán trước, vì hắn bước lùi lại và né được.
 
-Trong khi duy trì khoảng cách giữa chúng tôi, anh ấy hỏi tôi một câu, giọng điệu đầy hoài nghi.
+Trong khi duy trì khoảng cách giữa chúng tôi, hắn hỏi tôi một câu với giọng đầy nghi ngờ.
 
-“Tôi chắc chắn là tôi đã khiến bạn mất cảnh giác, làm sao bạn né được điều đó?”
+"Tôi dám chắc mình đã tóm được anh bất ngờ, làm sao anh né được?"
 
-“Chỉ theo bản năng thôi.”
+"Chỉ bằng bản năng."
 
-“Haha, thật giàu có. Nhưng lần này tôi sẽ không bỏ lỡ đâu!!”
+"Haha, thú vị đấy. Nhưng lần này tôi sẽ không bỏ lỡ!!"
 
-Norverne sau đó lao về phía tôi, nhưng tôi đã sử dụng Ground Shrink trước để di chuyển đến cạnh anh ta, sau đó đá.
+Norverne xông về phía tôi, nhưng tôi dùng Co Ngắn Mặt Đất trước để di chuyển cạnh hắn, rồi đá.
 
-“Gwah!?”
+"Gwah!?"
 
-Một lần nữa, cú đá của tôi khiến anh ta bay đi.
+Lần nữa, cú đá của tôi đập hắn bay đi.
 
-Tuy nhiên, lần này cũng vậy, anh ta lập tức đứng dậy.
+Lần này cũng vậy, hắn lập tức bật dậy ngay.
 
-Anh ấy thực sự rất cứng rắn…Tôi nghĩ mình đã dồn khá nhiều sức vào cú đá đó…
+Hắn đúng là cứng cáp thật…tôi tưởng mình đã dồn đủ sức vào cú đá đó rồi…
 
-“Tchah, chuyện đó thậm chí còn tệ hơn trước nữa! Nhưng vẫn chưa đủ…Tôi sắp phát điên rồi, tốt hơn hết là cậu nên ngăn
-tôi lại đi!!”
+"Tchah, còn tệ hơn lúc trước! Nhưng vẫn chưa đủ…tôi sẽ điên lên đây, anh phải ngăn được tôi đấy!!"
 
-Ngay khi Norverne nói xong, cơ thể anh ta được bao bọc trong ngọn lửa màu đỏ và tím.
+Vừa dứt lời, cơ thể Norverne được bao bọc trong ngọn lửa đỏ và tím.
 
-Có lẽ nào Dyne cũng có kỹ năng “Berserk Switch”?
+Chẳng lẽ đó là kỹ năng "Bật Berserk" mà Dyne cũng có?
 
-Tôi nghe nói khán giả trở nên ồn ào hơn sau khi xem nó.
+Tôi nghe khán giả ồn ào hơn khi thấy vậy.
 
-“Này, tôi chưa bao giờ thấy Norverne làm điều đó…”
+"Này, tôi chưa từng thấy Norverne làm thế…"
 
-“Ừ, anh ấy đang chơi hết mình, tôi đoán vậy…dù sao thì, Haruto đó có thực sự hạng A không…? Nhưng anh ta lại khiến một
-người xếp hạng S trở nên nghiêm túc như vậy…?”
+"Ừ, hẳn là hắn ra tay hết sức rồi…mà, Haruto thật sự hạng A sao…? Nhưng hắn khiến một tên hạng S phải nghiêm túc thế…?"
 
-Khi các mạo hiểm giả tiếp tục bình luận, Norverne tiếp cận tôi với tốc độ cao.
+Trong khi các mạo hiểm giả tiếp tục bình luận, Norverne tiến lại gần tôi với tốc độ cao.
 
-Anh ấy nhanh gấp đôi so với trước đây…vẫn chưa đủ để sánh ngang với tôi.
+Hắn nhanh gần gấp đôi lúc trước…dù vậy, vẫn chưa đủ để theo kịp tôi.
 
-Tôi né đòn tấn công của anh ta, đấm và đá trong khi đó, nhưng Norverne không có dấu hiệu dừng lại.
+Tôi né các đòn tấn công của hắn, đấm và đá trong quá trình đó, nhưng Norverne không có dấu hiệu dừng lại.
 
-Tôi chắc chắn rằng anh ta đang tích lũy sát thương, nhưng ít nhất hành vi tấn công của anh ta không bị cản trở.
+Tôi chắc chắn hắn đang tích lũy sát thương, nhưng tấn công của hắn không hề giảm đi chút nào.
 
-Hmm, nếu tôi tiếp tục tấn công như thế này thì anh ta có thể gặp nguy hiểm…nhưng tôi không chắc liệu trạng thái điên
-cuồng có tắt khi anh ta cạn kiệt thể lực hay không…
+Hừm, nếu tôi tiếp tục tấn công kiểu này, hắn có thể gặp nguy…nhưng tôi không chắc trạng thái berserk có tắt khi hắn hết sức không…
 
-Tôi đoán tôi nên ngăn chặn anh ta bằng một cuộc tấn công lớn sau đó.
+Tôi đoán mình nên dùng một đòn lớn để dừng hắn lại.
 
-Tôi kích hoạt ma thuật băng dưới chân Norverne để ngăn chặn hắn, sau đó sử dụng Thu nhỏ mặt đất để thoát khỏi hắn.
+Tôi kích hoạt phép băng dưới chân Norverne để làm hắn chậm lại, rồi dùng Co Ngắn Mặt Đất để tách khỏi hắn.
 
-Sau đó, tôi thấm vào nắm đấm của mình một phép thuật sét cao cấp, sau đó sử dụng Thu nhỏ mặt đất một lần nữa để đến gần
-Norverne và đâm nắm đấm của mình vào bụng anh ta.
+Sau đó tôi rót vào nắm đấm một phép sấm sét nâng cao, rồi dùng lại Co Ngắn Mặt Đất để tiến gần Norverne và đấm thẳng vào bụng hắn.
 
-Tôi chọn sử dụng ma thuật sét vì ngay cả khi sát thương từ cú đấm không đủ để hạ gục anh ta, cú sốc do ma thuật sét gây
-ra có thể, hoặc tôi nghĩ vậy.
+Tôi chọn dùng phép sấm sét vì ngay cả khi sát thương đấm không đủ để hạ hắn, cú sốc từ phép sấm sét có thể, tôi nghĩ vậy.
 
-“Gwaahhh!!!”
+"Gwaaahhh!!!"
 
-Norverne chịu tác động từ nắm đấm sét của tôi, nhưng ma thuật băng dưới chân khiến anh ta không thể bay đi nên anh ta
-ngã gục tại chỗ.
+Norverne chịu lực từ nắm đấm sấm sét, nhưng phép băng dưới chân hắn khiến hắn không bay đi, nên hắn gục ngay tại chỗ.
 
-Đấu trường trở nên im lặng đến chết người.
+Đấu trường chìm trong im lặng chết chóc.
 
-Trọng tài cũng không nói nên lời nên tôi gọi ông ấy.
+Trọng tài cũng không nói nên lời, nên tôi gọi ông.
 
-“Trọng tài không định triệu tập trận đấu à?”
+"Anh không định tuyên bố trận đấu à, trọng tài?"
 
-"….Hở? À, vâng!! Người chiến thắng là Haruto!!”
+"….Ế? À, vâng!! Người thắng là Haruto!!"
 
-Lời tuyên bố của trọng tài vang vọng khắp đấu trường.
+Tuyên bố của trọng tài vang khắp đấu trường.
 
-Có lẽ khán giả vẫn chưa nắm bắt được tình hình và chỉ đứng nhìn mà chết lặng.
+Khán giả dường như chưa hiểu chuyện gì đang xảy ra, và chỉ nhìn, ngơ ngác.
 
-Tôi không trách họ: rốt cuộc thì có hai nhà thám hiểm hạng S, trong đó chỉ có năm người trên toàn thế giới, vừa thua một
-nhà thám hiểm hạng A.
+Tôi không trách họ: hai mạo hiểm giả hạng S, trong số chỉ năm người trên toàn thế giới, vừa thua một mạo hiểm giả hạng A, rốt cuộc cũng vậy.
 
-Một lúc sau, Dyne cố gắng giữ bình tĩnh và chạy tới.
+Sau một lúc, Dyne lấy lại bình tĩnh và chạy đến.
 
-Sau đó anh quỳ xuống bên cạnh Norverne đang bất tỉnh.
+Rồi hắn quỳ xuống bên cạnh Norverne bất tỉnh.
 
-“Norverne, cậu ổn chứ!? Tôi sẽ đưa bạn đến phòng y tế ngay— ”
+"Norverne, cậu ổn không!? Tôi sẽ đưa cậu đến phòng y tế ngay— "
 
-“Không cần phải làm thế đâu. Hồi máu cao.”
+"Không cần làm vậy. Đại Chữa Lành."
 
-Tôi ngắt lời Dyne và niệm phép hồi phục lên Norverne.
+Tôi ngắt lời Dyne và thi triển phép hồi phục lên Norverne.
 
-“C-cậu cũng có thể sử dụng phép thuật phục hồi à? Và…một phép thuật cao cấp nữa…?”
+"A-anh cũng dùng được phép hồi phục? Và…còn là phép cấp cao nữa…?"
 
-"Vâng tốt."
+"Ừ, cũng được."
 
-“Anh bạn, anh thực sự có kỹ năng cao…không, tôi nên cảm ơn anh vì đã chữa lành vết thương cho Norverne trước.”
+"Anh, anh thật sự có kỹ năng đến mức…không, tôi nên cảm ơn anh đã chữa cho Norverne trước."
 
-Trọng tài xác nhận Norverne đã bình phục rồi vội vàng quay trở lại hội. Có chuyện gì với anh ấy vậy?
+Trọng tài xác nhận Norverne đã hồi phục, rồi vội vã quay lại hội. Có chuyện gì với ông ấy vậy?
 
-Ồ, bây giờ tôi nên thử Thẩm định Norverne.
+Thôi kệ, giờ tôi nên thử Đánh Giá Norverne.
 
-TÊN :
+| **TÊN:** | **Norverne** |
+| --- | --- |
+| **CẤP:** | **96** |
+| **TUỔI:** | **31** |
+| **CHỦNG TỘC:** | **Người** |
+| **KỸ NĂNG ĐỘC NHẤT:** | **Ma Chiến Đồ Tàn Sát** |
+| **KỸ NĂNG:** | **Quyền Pháp LV 8** **Tăng Cường Thể Chất LV 7** **Phép Lửa LV 7** **Chiến Ý LV 8** **Bật Berserk** **Áp Chế LV 6** **Bền Bỉ LV 6** |
+| **DANH HIỆU:** | **Mạo Hiểm Giả Hạng S** **Berserker** **Song Quyền Hừng Hực Lửa** **Cuồng Chiến** |
 
-Norverne
+Ồ, hắn cũng có kỹ năng độc nhất. Đúng như mong đợi.
 
-MỨC ĐỘ :
+**<Ma Chiến Đồ Tàn Sát>**
 
-96
+**Trong khi kích hoạt kỹ năng hỗ trợ thể chất, hiệu quả của chúng được tăng lên 200%. Hiệu quả tăng khi người dùng gần chết, lên tối đa 800%.**
 
-TUỔI :
+Tôi đoán mình cũng nên sao chép cái này.
 
-31
+<<Kỹ năng "Ma Chiến Đồ" đã có.>>
 
-GIỐNG LOÀI :
+**<Ma Chiến Đồ>**
 
-Nhân loại
+**Trong khi kích hoạt kỹ năng hỗ trợ thể chất, hiệu quả của chúng được tăng lên 150%.**
 
-KỸ NĂNG ĐỘC ĐÁO:
+Hơi yếu hơn, nhưng vẫn đủ cho tôi.
 
-Chiến đấu với cuộc tàn sát quỷ
+Sau khi tôi sao chép xong, Norverne lấy lại ý thức.
 
-KỸ NĂNG :
+"Ugh…..Ế? Dyne…? Tôi thua Haruto sao?"
 
-Nghệ thuật tay không LV 8
+"Ừ, đúng vậy. Nhưng Haruto đã chữa cho cậu rồi. Nghĩ mà xem, cậu thậm chí không thắng được với Bật Berserk…"
 
-Tăng cường thể chất LV 7
+Norverne nhìn thẳng vào tôi và cảm ơn.
 
-Hỏa thuật LV 7
+"Thật sự…cảm ơn anh. Trông anh vẫn còn nhiều thứ chưa dùng, Haruto."
 
-Tinh Thần Chiến Đấu LV 8
+Dyne tiếp lời sau Norverne.
 
-Công tắc điên cuồng
+"Chuyện tương tự cũng xảy ra với tôi…tôi đoán Haruto đơn giản là vượt xa chúng tôi về năng lực."
 
-Đe dọa LV 6
+Sau khi nói vậy, cả hai đều chìa vũ khí của mình, thanh kiếm rộng và đôi găng tay, về phía tôi.
 
-Độ bền LV 6
+Dù vậy…
 
-TIÊU ĐỀ :
+"Không, tôi không thể nhận. Chúng là đối tác đã cùng các anh chiến đấu nhiều năm, đúng không?"
 
-Nhà thám hiểm hạng S
+Tôi cố gắng nói một cách cao thượng, nhưng thật ra tôi chỉ không cần chúng.
 
-Kẻ điên cuồng
+Tuy nhiên, Dyne và Norverne xúc động đến mức rơi nước mắt.
 
-Đôi nắm đấm rực lửa
+"Haruto…! Không, từ giờ tôi sẽ gọi anh là sếp!!"
 
-Trận chiến cuồng nhiệt
+"Ừ, Dyne, anh nói đúng!! Chúng tôi sẽ gọi anh là sếp!!"
 
-Ồ, vậy ra anh ta cũng có một kỹ năng độc đáo. Như mong đợi.
+"DỪNG LẠI!! Ngay bây giờ!! Cứ gọi tôi là Haruto…chẳng có lựa chọn nào khác sao…?"
 
-<Chiến đấu với cuộc tàn sát của quỷ>
+Dyne và Norverne nhìn nhau một lúc, rồi quay về phía tôi và cười rộng.
 
-Trong quá trình kích hoạt các kỹ năng hỗ trợ vật lý, hiệu ứng của chúng được tăng lên 200%. Hiệu ứng tăng lên khi người
-dùng cận kề cái chết, lên tới tối đa 800%.
+"Không!! Sếp ơi!!"
 
-Tôi cho rằng tôi cũng nên sao chép cái này.
+"Không có, hả…"
 
-<<Nhận được Kỹ năng "Chiến đấu với quỷ".>>
+Tôi thở dài và lắc đầu. Cùng lúc đó, Finne từ khán đài xuống và vui vẻ chạy đến chỗ tôi.
 
-<Quỷ chiến đấu>
+"Trận đấu tuyệt vời, Haruto. Thật sự rất đáng kinh ngạc! Tôi cũng phải cố gắng nhiều hơn!!"
 
-Trong quá trình kích hoạt các kỹ năng hỗ trợ vật lý, hiệu ứng của chúng được tăng lên 150%.
+"À, cảm ơn. Tôi sẽ huấn luyện em cho đến khi em có thể chiến đấu như vậy, Finne."
 
-Nó yếu hơn một chút nhưng vẫn đủ với tôi.
+"Cảm ơn anh rất nhiều!!"
 
-Sau khi tôi sao chép xong, Norverne lấy lại bình tĩnh.
+Finne nở nụ cười rạng rỡ.
 
-“Ờ…..ơ? Dyne…? Mình đã thua Haruto à?”
+Dyne nhìn cô ấy, rồi hỏi tôi một câu.
 
-"Vâng đúng rồi. Nhưng Haruto đã chữa lành vết thương cho bạn rồi. Nghĩ đến việc bạn không thể thắng ngay cả với Berserk
-Switch…”
+"Sếp, cô gái xinh đẹp này cũng ở trong hội với sếp đúng không?"
 
-Norverne nhìn thẳng vào tôi và cảm ơn tôi.
+"Ừ, tôi đã không giới thiệu cô ấy, phải không. Cô ấy là Finne, chúng tôi ở chung nhóm."
 
-"Chân thanh cảm ơn bạn. Trông cậu vẫn có vẻ hiểu được nhiều điều hơn từ đâu nhỉ, Haruto.”
+"Tôi hiểu! Vậy cô ấy là sếp phu nhân của chúng tôi!!"
 
-Dyne tiếp tục theo sau Norverne.
+"Chắc chắn là sếp phu nhân rồi!!"
 
-“Điều tương tự đã xảy ra với tôi…Tôi đoán khả năng của Haruto vượt xa chúng ta.”
+Sau khi tôi giới thiệu Finne, Dyne và Norverne lại bắt đầu nói những điều vô nghĩa.
 
-Sau khi nói điều này, cả hai đều chĩa vũ khí tương ứng của mình, thanh kiếm rộng và găng tay, về phía tôi.
+"L-làm ơn!! Tôi chỉ hạng C thôi!!"
 
-Ngay cả như vậy…
+Finne rõ ràng bị sốc, nhưng họ dường như chẳng quan tâm.
 
-“Không, tôi không thể chấp nhận chúng. Họ là đối tác mà bạn đã chiến đấu cùng nhau trong nhiều năm, phải không?
+"Thật á? Nhưng nếu ở chung nhóm với sếp, thì cô là sếp phu nhân!"
 
-Tôi đã cố gắng tạo cho nó một vòng quay cao quý, nhưng thực lòng tôi không cần chúng.
+"….."
 
-Tuy nhiên, Dyne và Norverne đã cảm động đến rơi nước mắt.
+Sự tự tin không biết xấu hổ của Dyne khiến Finne câm lặng.
 
-“Haruto…! Không, từ giờ tôi sẽ gọi anh là sếp!!”
+Đúng lúc đó, một nhân viên hội tiến đến chỗ chúng tôi.
 
-“Ừ, Dyne, cậu nói đúng!! Chúng tôi sẽ gọi bạn là ông chủ!!”
+"Mấy người!! Nếu trận giao đấu kết thúc rồi, thì vào trong hội ngay đi!!"
 
-"Dừng lại!! Ngay lập tức!! Cứ gọi tôi là Haruto…không còn lựa chọn nào khác sao…?”
+Tôi quay lại và thấy một gã to khỏe, đầu trọc…cởi trần từ thắt lưng trở lên.
 
-Dyne và Norverne nhìn nhau một lúc rồi quay về phía tôi và cười tươi.
+Gã này là ai? Và tại sao hắn lại cởi nửa người…?
 
-"Không!! Ông chủ!!"
+Dyne và Norverne phản ứng dữ dội khi thấy gã đó.
 
-“Không, à…”
+"Hội trưởng!!"
 
-Tôi thở dài và lắc đầu. Cùng lúc đó, Finne bước xuống khỏi ghế khán giả và vui vẻ chạy đến chỗ tôi.
+Hả? Ông già kỳ lạ cởi trần này là hội trưởng á?
 
-“Trận chiến tuyệt vời, Ngài Haruto. Nó thực sự không thể tin được! Tôi cũng phải làm việc chăm chỉ!!”
+Nhưng nếu hội trưởng tự mình xuất hiện, thì mọi chuyện sẽ trở nên phiền phức…tôi có linh cảm xấu thật sự.
 
-“À, cảm ơn. Tôi sẽ huấn luyện cậu cho đến khi cậu có thể chiến đấu như vậy, Finne.”
+---
 
-"Cảm ơn bạn rất nhiều!!"
-
-Finne nở một nụ cười rạng rỡ.
-
-Dyne nhìn cô ấy rồi hỏi tôi một câu.
-
-“Sếp, cô gái xinh đẹp này cũng ở cùng hội với anh phải không?”
-
-“Ừ, tôi chưa giới thiệu cô ấy. Cô ấy là Finne, chúng tôi cùng tham gia một bữa tiệc.”
-
-"Tôi hiểu rồi! Vậy ra cô ấy là bà chủ của chúng tôi!!”
-
-“Chắc chắn là bà chủ!!”
-
-Sau khi tôi giới thiệu Finne, Dyne và Norverne bắt đầu nói những điều vô nghĩa hơn.
-
-“X-làm ơn!! Tôi chỉ hạng C thôi!!”
-
-Rõ ràng là Finne rất bối rối, nhưng họ dường như không quan tâm.
-
-"Thật sự? Nhưng nếu bạn ở trong nhóm với ông chủ thì bạn sẽ là bà chủ!”
-
-“…..”
-
-Sự tự tin không hề nao núng của Dyne khiến Finne không nói nên lời.
-
-Ngay lúc đó, một nhân viên của bang hội đến gần chúng tôi.
-
-“Các người!! Nếu trận đấu kết thúc, hãy quay lại hội ngay thôi!!”
-
-Tôi quay lại và thấy một anh chàng vạm vỡ, hói đầu…trần truồng từ thắt lưng trở lên.
-
-Gã đó là ai? Và tại sao anh ấy lại bán khỏa thân…?
-
-Dyne và Norverne phản ứng lớn tiếng khi nhìn thấy người đàn ông đó.
-
-“Hội trưởng!!”
-
-Cái gì? Ông già kỳ lạ này là hội trưởng à?
-
-Nhưng nếu chủ hội đích thân xuất hiện, mọi chuyện sẽ trở nên khó chịu…Tôi có một linh cảm thực sự tồi tệ.
-
+[←ToC](../..) | [Next→](../chapter-18)

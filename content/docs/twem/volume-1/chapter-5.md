@@ -1,5 +1,5 @@
 ---
-title: Chương 5 – Kiểm tra năng lực
+title: "Chương 5 – Kiểm tra năng lực"
 weight: 5
 ---
 
@@ -7,415 +7,388 @@ weight: 5
 
 Khi chúng tôi đến đấu trường, đã có ba người đàn ông đang nói chuyện ở đó.
 
-Neena ra hiệu cho họ và nói với tôi.
+Neena hất cằm về phía họ rồi nói với tôi.
 
-“Bạn có thể chọn một người từ nhóm ba nhà thám hiểm hạng B này. Trận chiến giả sẽ kết thúc khi một người bất tỉnh hoặc
-thừa nhận thất bại.”
+"Em có thể chọn một người từ nhóm ba mạo hiểm giả hạng B này. Trận đấu giả sẽ kết thúc khi một người bất tỉnh hoặc đầu hàng."
 
-“Rõ.”
+"Rõ."
 
-Khi tôi trả lời, ba nhà thám hiểm nhận thấy sự hiện diện của chúng tôi và tiếp cận chúng tôi.
+Khi tôi đáp lại, ba mạo hiểm giả nhận ra sự có mặt của chúng tôi và bước đến gần.
 
-“Neena, đây là kẻ sẽ chiến đấu với chúng ta à?”
+"Neena, đây là thằng sẽ đấu với bọn tụi tao à?"
 
-Câu hỏi được hỏi với giọng điệu khá khó chịu đến từ một người đàn ông cơ bắp mang theo một thanh kiếm rộng.
+Câu hỏi ấy được hỏi bằng một giọng khá khó chịu, từ một gã đàn ông cơ bắp vác theo thanh kiếm rộng.
 
-Đằng sau anh ta có một người đàn ông mặc áo choàng có mũ trùm đầu và cầm một cây trượng, có lẽ là một người sử dụng phép
-thuật, và một người đàn ông cầm giáo, người này liếc nhìn tôi và thở dài trước khi nói.
+Phía sau hắn là một gã mặc áo choàng trùm đầu và cầm trượng, chắc là pháp sư, cùng một gã cầm giáo thoáng liếc tôi rồi thở dài mới lên tiếng.
 
-“Bạn là người đã nhận yêu cầu này, nói rằng nó sẽ dễ dàng…đừng hành động như thể đó là một điều khó khăn.”
+"Là người đã nhận yêu cầu này đấy, cậu ta còn nói nó sẽ dễ nữa…đừng có vẻ mặt khó ở thế chứ."
 
-“Này này, không phải bạn còn quá trẻ để làm những việc này sao? Đừng có chết trước mặt tôi bây giờ!”
+"Này này, cậu còn trẻ quá mà, làm mấy chuyện này chi? Đừng có chết dưới tay tụi tôi nhé!"
 
-Neena hơi cau mày trước giọng điệu kiêu kỳ của ba người đàn ông.
+Neena hơi nhíu mày vì giọng điệu kiêu ngạo của ba người họ.
 
-"Vì thế? Sẽ là ai đây?”
+"Thế? Chọn ai?"
 
-Người đàn ông có vẻ ngoài kiếm sĩ ném câu hỏi cho tôi, nên tôi nghĩ về nó một chút.
+Gã trông như kiếm sĩ ném câu hỏi về phía tôi, nên tôi suy nghĩ một lúc.
 
-Ừm, tôi cũng có thể…
+Hmm, hay là…
 
-“Tôi đoán là cả ba cùng một lúc.”
+"Cả ba luôn, chắc vậy."
 
-Vì vậy, tôi nói với một tiếng cười khúc khích, dẫn đến ba cuộc phiêu lưu và Neena nhìn tôi không nói nên lời.
+Tôi nói vậy với một tiếng cười khẽ, khiến ba mạo hiểm giả và Neena nhìn tôi đờ ra không nói nên lời.
 
-Kiếm sĩ sau đó nở một nụ cười và nói lại.
+Gã kiếm sĩ sau đó nặn ra một nụ cười và lên tiếng lại.
 
-“Này…đây có phải là một trò đùa không? Tôi có nghe nhầm không?”
+"Này…đây là trò đùa à? Tôi nghe nhầm à?"
 
-“Không, bạn đã không làm vậy. Tôi nói bạn có thể chiến đấu với tôi cùng một lúc. Tôi đoán đó sẽ là một trải nghiệm tốt.”
+"Không, anh không nghe nhầm đâu. Tôi nói là mấy người có thể đánh tôi cùng lúc luôn. Coi như một trải nghiệm hay ho."
 
-Tôi lặp lại quyết định của mình và ba nhà thám hiểm hét lên, khuôn mặt họ tái mét vì giận dữ.
+Tôi nhắc lại quyết định của mình và ba mạo hiểm giả hét lên, mặt đỏ gay vì tức giận.
 
-“Tch! Đừng gây rối với chúng tôi, nhóc con!!”
+"Tch! Đừng có trêu tụi này, thằng nhóc!!"
 
-“Bạn có thể bị tổn thương nghiêm trọng với thái độ đó, bạn biết không?”
+"Cậu có thể bị thương nặng vì cái thái độ đó đấy, biết không?"
 
-“Bạn sẽ không dám nói rằng bạn muốn trở thành một nhà thám hiểm nữa sau khi chúng tôi xong việc với bạn!!”
+"Sau khi tụi tôi xử xong thì cậu sẽ không dám nói muốn làm mạo hiểm giả nữa đâu!!"
 
-Neena, mặt trắng bệch, kéo tay áo tôi.
+Neena, mặt trắng bệch, giật tay áo tôi.
 
-"Ông. Haruto! Chuyện vớ vẩn gì thế này? Một người mới bắt đầu không thể có ba nhà thám hiểm hạng B cùng một lúc được!”
+"anh Haruto! Anh nói vậy nghĩa là sao? Một tân binh sao có thể một mình chống ba mạo hiểm giả hạng B!"
 
-"Bệnh đa xơ cứng. Neena, bạn vẫn chưa biết khả năng thực sự của tôi phải không? Hơn nữa, cậu không hề nói rằng tôi chỉ
-có thể chọn một trong số họ.”
+"chị Neena, chị còn chưa biết năng lực thật của tôi mà, đúng không? Mà chị cũng có nói là tôi chỉ được chọn một người trong số họ đâu."
 
-“Điều đó, điều đó đúng, nhưng…”
+"Đ-đúng là vậy, nhưng…"
 
-Người kiếm sĩ, vẫn còn giận dữ, ngắt lời chúng tôi.
+Gã kiếm sĩ, vẫn còn đang tức giận, cắt ngang cuộc nói chuyện của chúng tôi.
 
-“Nếu đó là điều anh ấy muốn làm thì tại sao không? Làm thôi nào!"
+"Nếu hắn muốn thế thì cứ để hắn! Làm thử đi!"
 
 "Vâng, không vấn đề gì."
 
-Neena có lẽ hiểu rằng tôi sẽ không thay đổi ý định nên cô ấy thở dài và từ bỏ việc cố gắng.
+Neena có lẽ hiểu rằng tôi sẽ không đổi ý, nên chị thở dài và từ bỏ việc thuyết phục.
 
-“…hiểu rồi, vậy thì tôi sẽ cho phép điều đó. Nhưng tôi sẽ báo cáo điều này với hội trưởng.”
+"...em hiểu rồi, vậy chị cho phép. Nhưng chị sẽ báo cáo chuyện này với hội trưởng."
 
-"Chắc chắn."
+"Vâng."
 
-“Chúng tôi cũng vậy.”
+"Tụi tôi cũng không sao."
 
-Sau khi tôi và kiếm sĩ trả lời, chúng tôi giữ khoảng cách với nhau và chuẩn bị vũ khí.
+Sau khi tôi và gã kiếm sĩ đáp lại, chúng tôi lùi ra một khoảng cách và chuẩn bị vũ khí.
 
-Người sử dụng phép thuật và người cầm giáo cũng đã chuẩn bị sẵn sàng.
+Gã pháp sư và tên cầm giáo cũng đã sẵn sàng.
 
-“—bạn có thể bắt đầu!”
+"—Bắt đầu!"
 
-Neena, sau khi di chuyển đến một khoảng cách an toàn, ra hiệu và trận chiến giả bắt đầu.
+Neena, sau khi di chuyển ra một khoảng cách an toàn, ra hiệu lệnh và trận đấu giả bắt đầu.
 
-Kiếm sĩ và thương thủ tấn công tôi trước. Người sử dụng phép thuật ở phía sau trong khi niệm chú.
+Gã kiếm sĩ và tên cầm giáo xông thẳng vào tôi trước. Gã pháp sư ở lại phía sau trong khi niệm phép.
 
-Lần này tôi muốn xem mình có thể di chuyển được bao nhiêu mà không cần sử dụng phép thuật Tăng cường Thể chất.
+Lần này tôi muốn xem mình có thể di chuyển được bao nhiêu mà không cần dùng phép thuật Tăng Cường Thể Chất.
 
-Để làm được điều đó, tôi muốn đánh bại người sử dụng phép thuật trước tiên, vì hắn có thể sử dụng các đòn tấn công tầm
-xa.
+Để làm được điều đó, tôi muốn hạ gục gã pháp sư trước, vì hắn có thể dùng đòn tầm xa.
 
-Với kế hoạch này trong đầu, tôi đỡ đòn chém xuống của kiếm sĩ bằng thanh kiếm của mình. Ở thế giới cũ của tôi, tôi không
-thể làm điều gì đó như thế, nhưng Sword Arts tối đa của tôi khiến mọi việc trở nên quá dễ dàng.
+Với kế hoạch này trong đầu, tôi đỡ nhát chém xuống của gã kiếm sĩ bằng kiếm của mình. Ở thế giới cũ, tôi không thể làm được chuyện như vậy, nhưng với Kiếm Thuật đã lên max của tôi thì chuyện đó quá dễ.
 
-Khoảnh khắc tiếp theo, tôi đá nhẹ vào bên hông không được bảo vệ của kiếm sĩ.
+Ngay sau đó, tôi nhẹ nhàng đá vào sườn không được phòng bị của gã kiếm sĩ.
 
-Tôi không biết anh ấy kiên cường đến mức nào nên tôi đã kiềm chế sức mạnh của mình để tránh giết chết anh ấy…
+Tôi không biết hắn cứng cỏi đến đâu, nên tôi giữ lại lực để tránh giết hắn…
 
-<<Đã nhận được Kỹ năng “Giữ lại”. Cấp độ kỹ năng đạt 10. Kỹ năng được thêm vào Hợp Nhất Võ Thuật.>>
+<<Kỹ năng "Tiết Chế" đã có được. Cấp kỹ năng đạt 10. Kỹ năng được thêm vào Hợp Nhất Võ Thuật.>>
 
-…vì lý do nào đó, tôi đã học được một kỹ năng…vậy nó có thể tự động khiến họ trở nên như thế này? Tất cả sự sáng tạo
-chắc chắn là thuận tiện…
+...vì lý do nào đó, tôi lại học được một kỹ năng…vậy nó có thể tự động làm chúng như thế này à? Toàn Năng thật sự quá tiện lợi…
 
-Kiếm sĩ chắc chắn không mong đợi tôi không chỉ đỡ đòn tấn công của anh ta mà còn đá trả anh ta: anh ta có vẻ mặt rất
-ngạc nhiên khi bị đánh lùi về phía sau.
+Gã kiếm sĩ chắc chắn đã không ngờ rằng không chỉ tôi đỡ được đòn tấn công của hắn, mà tôi còn đá hắn văng đi: hắn có một vẻ mặt vô cùng ngạc nhiên khi bị hất về phía sau.
 
-Sau đó, với một tiếng động lớn, anh ta đâm sầm vào các bức tường của đấu trường.
+Rồi, với một tiếng động lớn, hắn đâm sầm vào tường đấu trường.
 
-Người cầm giáo, người tấn công cùng lúc với kiếm sĩ, cũng rất ngạc nhiên, nhưng anh ta vẫn bắn những cú đâm sắc bén vào
-tôi.
+Tên cầm giáo, người cũng tấn công cùng lúc với gã kiếm sĩ, cũng ngạc nhiên theo, nhưng hắn vẫn lao tới với những nhát đâm sắc bén.
 
-“Haa!!”
+"Haaa!!"
 
-Tuy nhiên, tôi né được tất cả và vòng ra phía sau người cầm thương, đá nhẹ vào đầu gối của anh ta để làm anh ta mất
-thăng bằng.
+Tôi né hết tất cả, vòng ra sau lưng tên cầm giáo, nhẹ nhàng đá vào mặt sau đầu gối hắn để phá vỡ thế cân bằng.
 
-"Gì!?"
+"Wha!?"
 
-Tôi đang định tấn công tên thương thủ đang gục ngã lần nữa thì—
+Tôi đang định tấn công tiếp tên cầm giáo đang ngã thì—
 
-"Mũi tên lửa!"
+"Fire Arrow!"
 
-Phép thuật lửa cấp thấp do người sử dụng phép thuật sử dụng bay vào tôi.
+Phép hỏa thuật cấp thấp do gã pháp sư niệm bay về phía tôi.
 
-Tuy nhiên, tôi không hề chùn bước và sử dụng No Chant, tôi sử dụng câu thần chú tương tự để khiến chúng triệt tiêu lẫn
-nhau.
+Tôi không hề nao núng, dùng Không Đọc thi triển cùng phép đó, để chúng triệt tiêu lẫn nhau.
 
-“C-cái gì!? Không có thánh ca!? Chỉ những người thành thạo phép thuật mới có thể sử dụng nó!!”
+"G-gì!? Không Đọc!? Chỉ những ai đã thành thạo phép thuật mới dùng được!!"
 
-Tôi lao về phía người sử dụng phép thuật đang bị sốc, nhưng nó sẽ không dễ dàng như vậy.
+Tôi lao về phía gã pháp sư đang sốc, nhưng mọi chuyện không dễ dàng như vậy.
 
-"Không quá nhanh!"
+"Chưa xong đâu!"
 
-Người kiếm sĩ mà tôi đã đá vào tường trước đó đang đứng giữa tôi và người sử dụng phép thuật nói như vậy.
+Gã kiếm sĩ mà tôi đã đá văng vào tường lúc nãy nói, chắn giữa tôi và gã pháp sư.
 
-Có lẽ anh ấy vẫn còn đau vì cú đá, vì chân anh ấy vẫn chưa vững: Tôi không giảm tốc độ mà cứ chạy về phía anh ấy.
+Hắn có lẽ vẫn còn đau vì cú đá, vì hắn vẫn đứng không vững trên đôi chân: tôi không chậm lại mà tiếp tục lao về phía hắn.
 
-"Gì-"
+"Wha-"
 
-Sau đó, ngay trong đám rối thần kinh mặt trời của kiếm sĩ đang ngạc nhiên, tôi đặt chuôi kiếm của mình vào.
+Rồi, ngay vào vùng thượng vị của gã kiếm sĩ đang ngạc nhiên, tôi đâm cán kiếm vào.
 
-“G…ha…”
+"G…hah…"
 
-Người kiếm sĩ rên rỉ khi khuỵu gối rồi ngã xuống đất, cuối cùng bất tỉnh.
+Gã kiếm sĩ rên rỉ rồi quỳ xuống, tiếp đất và cuối cùng bất tỉnh.
 
-“Jorn!!”
+"Jorn!!"
 
-Người cầm thương hét lên phía sau tôi. Vậy tên của kiếm sĩ là Jorn.
+Tên cầm giáo phía sau tôi hét lên. Vậy tên gã kiếm sĩ là Jorn.
 
-"Chết tiệt!! Tôi sẽ trả thù cho bạn, Jorn!!”
+"Damn it!! Tao sẽ trả thù cho mày, Jorn!!"
 
-Chờ đợi!! Anh ấy vẫn chưa chết!!
+Khoan!! Hắn có chết đâu!!
 
-Người cầm giáo lao vào tôi từ phía sau, tung ra một loạt đòn đâm nhanh chóng.
+Tên cầm giáo xông vào tôi từ phía sau, phóng ra một loạt nhát đâm nhanh liên tục.
 
-Tuy nhiên, tôi có thể nhìn rõ từng con một nên tôi né được tất cả chúng chỉ với một cử động tối thiểu.
+Tôi có thể thấy rõ từng nhát một, nên tôi né hết, chỉ với mức độ di chuyển tối thiểu.
 
-Ai đó không thể theo kịp chuyển động của chúng tôi có thể sẽ nghĩ rằng ngọn giáo không cố ý đâm vào tôi.
+Một người không theo kịp chuyển động của chúng tôi có lẽ sẽ nghĩ rằng ngọn giáo không đâm trúng tôi là cố ý.
 
-"Chết tiệt!! Tại sao tôi không thể đánh bạn!?
+"Shit!! Sao tao đâm không trúng mày!?"
 
-Tuy nhiên, bạn sẽ giết tôi nếu bạn làm với sức mạnh lớn như vậy! …hoặc có lẽ bây giờ tôi có thể chịu đựng được?
+Nhưng nếu mày đâm trúng thì mày sẽ giết tao đấy…hay là giờ tôi có thể chịu được?
 
-“Tôi-không thể tin được…”
+"T-tuyệt vời…"
 
-Vì vậy, tôi nghe thấy Neena thì thầm với chính mình khi tôi đang chìm đắm trong những suy nghĩ như vậy.
+Tôi nghe Neena thì thầm với chính mình khi tôi đang lạc trong những suy nghĩ ấy.
 
-Người sử dụng phép thuật có lẽ đã niệm chú xong và bắn một câu thần chú khác vào tôi.
+Gã pháp sư có lẽ đã niệm xong, vì hắn bắn thêm một phép nữa về phía tôi.
 
-"Mũi tên lửa!!"
+"Fire Arrow!!"
 
-Người cầm thương nhảy lùi lại để không có nguy cơ bị trúng hỏa lực của đồng minh.
+Tên cầm giáo nhảy lùi lại, để tránh nguy cơ dính đạn vào đồng đội.
 
-Một lần nữa, tôi sử dụng Mũi tên lửa tương tự thông qua No Chant để hủy bỏ câu thần chú: người cầm giáo đã tận dụng sơ
-hở để tấn công.
+Lần nữa, tôi dùng Không Đọc thi triển Fire Arrow để triệt tiêu phép: tên cầm giáo lợi dụng khoảng trống đó để tấn công.
 
-Đó là đòn tấn công nhanh nhất của anh ấy, có lẽ là đòn tấn công hay nhất của anh ấy. Anh ấy cũng chờ đợi thời điểm hoàn
-hảo, ngay sau khi tôi niệm phép.
+Đó là đòn nhanh nhất của hắn, có lẽ là đòn mạnh nhất. Hắn cũng chờ đúng thời điểm hoàn hảo, tức thì ngay sau khi tôi vừa niệm xong phép.
 
-Tuy nhiên, lực đẩy của anh ta dừng lại ngay trước mắt tôi.
+Nhát đâm của hắn, tuy nhiên, dừng lại ngay trước mắt tôi.
 
-"Cái gì!? Điều này không thể được!!”
+"Gì!? Không thể nào!!"
 
-Người cầm thương không thể tin vào mắt mình, ngừng cử động hoàn toàn.
+Tên cầm giáo, không thể tin vào mắt mình, dừng hẳn mọi chuyển động.
 
-“Ồ không, có thể lắm.”
+"Ồ, không, hoàn toàn có thể."
 
-Tôi lợi dụng sơ hở đó để rút vũ khí của tên cầm giáo vào, khiến hắn mất thăng bằng, rồi thọc nắm đấm phải vào bụng không
-được bảo vệ của hắn.
+Tôi dùng khoảng trống đó để kéo vũ khí của tên cầm giáo, khiến hắn mất thăng bằng, rồi đấm thẳng nắm đấm phải vào bụng không phòng bị của hắn.
 
-Với một tiếng uỵch nặng nề, người cầm giáo cũng ngã xuống đất.
+Với một tiếng "bịch" nặng nề, tên cầm giáo cũng đổ xuống đất.
 
-"Chết tiệt!! Không phải Lorn nữa!! Tôi sẽ trả thù cho bạn, bạn ơi…!”
+"Damn it!! Cả Lorn nữa à!! Tao sẽ trả thù cho mày, bạn…!"
 
-Vậy ra tên của người cầm thương là Lorn…nhưng tôi cũng không giết anh ta!!
+Vậy tên tên cầm giáo là Lorn…nhưng tôi có giết hắn đâu!!
 
-Vì vậy, tôi đã phản ứng trong đầu khi người sử dụng phép thuật bắt đầu niệm chú lần nữa.
+Tôi vừa phản ứng trong đầu như vậy thì gã pháp sư bắt đầu niệm phép lại.
 
-Thông thường, những người sử dụng phép thuật sẽ bị đánh bại trước khi họ niệm chú xong, và đó là điều tôi dự định làm
-ngay từ đầu.
+Thông thường, pháp sư nên bị hạ gục trước khi niệm xong, và đó là điều tôi đã định làm ngay từ đầu.
 
-Tuy nhiên, bây giờ tôi đã chọn chờ đợi.
+Nhưng giờ, tôi chọn chờ đợi.
 
-Rốt cuộc thì tôi chưa bao giờ nhìn thấy một phép thuật sử dụng phép thuật chuyên nghiệp, thực sự nào cả.
+Sau cùng thì, tôi chưa từng thấy một pháp sư chuyên nghiệp thực sự thi triển phép thuật.
 
-Thế là tôi đứng đó chờ. Neena có lẽ đã hiểu được câu thần chú mà người sử dụng phép thuật sắp thi triển và đột nhiên hét
-lớn.
+Nên tôi đứng đó chờ. Neena có lẽ đã đoán được từ việc niệm phép rằng gã pháp sư sắp thi triển, và đột nhiên hét lớn.
 
-“Bài chú này là… một làn sóng lửa cấp trung!? Anh Haruto, xin hãy nhanh chóng ẩn nấp!!”
+"Bài niệm này là…Sóng Lửa cấp trung!? anh Haruto, xin hãy tránh mau!!"
 
-Tuy nhiên, người sử dụng phép thuật lại cười toe toét. Có lẽ đã quá muộn.
+Gã pháp sư, tuy nhiên, cười gằn. Có lẽ đã quá muộn rồi.
 
-“Hehe…câu chú của tôi đã hoàn thành rồi…chết đi!! Sóng lửa!!”
+"Hehe…bài niệm của ta đã hoàn tất rồi…chết đi!! Fire Wave!!"
 
-Ngay khi tên phép thuật được xướng lên, một bức tường lửa cao hai mét lao về phía tôi, giống như một làn sóng.
+Ngay khi tên phép được xướng lên, một bức tường lửa cao hai mét lao về phía tôi, giống như một cơn sóng.
 
-Hmm, sử dụng cùng một câu thần chú để hủy bỏ chúng lần nữa sẽ không phong cách chút nào…
+Hmm, dùng cùng một phép để chúng triệt tiêu nhau thì không có chất nào cả…
 
-“Tôi đoán tôi sẽ sử dụng Fire Tornado.”
+"Vậy tôi sẽ dùng Lốc Xoáy Lửa."
 
-Phép thuật mà tôi tình cờ sử dụng là một phép thuật lửa cấp cao, Fire Tornado.
+Phép mà tôi tùy ý thi triển là một phép hỏa thuật cấp cao, Lốc Xoáy Lửa.
 
-Một vòng xoáy lửa lớn bao bọc làn sóng đang đến gần và biến nó thành hư vô.
+Một xoáy nước lửa lớn cuốn lấy cơn sóng đang tiến đến và biến nó thành hư vô.
 
-Mặt đất bị cháy sém và tan chảy chỗ này chỗ kia vì vòng xoáy lửa.
+Mặt đất bị thiêu cháy và tan chảy ở một số nơi vì vòng xoáy lửa.
 
-Tôi nhìn người sử dụng phép thuật và thấy anh ta đang đứng đó với cái miệng há hốc.
+Tôi nhìn gã pháp sư và thấy hắn đứng đó với cái miệng mở to.
 
-“…..”
+"….."
 
-“Này, cậu xong rồi à?”
+"Này, xong chưa?"
 
-Những người sử dụng phép thuật im lặng gật đầu trước câu hỏi của tôi.
+Gã pháp sư lặng lẽ gật đầu trước câu hỏi của tôi.
 
-“Được rồi, giờ đến lượt tôi.”
+"Vậy, đến lượt tôi."
 
-Tôi tra kiếm vào vỏ, giơ nắm đấm lên và vào tư thế chiến đấu.
+Tôi đặt kiếm trở lại vỏ, giơ nắm đấm lên, và vào thế chiến đấu.
 
-“N-Này! X-xin hãy đợi đã!! Đó là sự mất mát của chúng ta!!”
+"K-khoan! X-xin chờ đã!! Tụi tôi thua rồi!!"
 
-“Hả? Có phải bạn đã nói gì không?"
+"Hm? Anh vừa nói gì cơ?"
 
-Tôi giả vờ như không nghe thấy, đá mạnh xuống đất và di chuyển ngay cạnh người sử dụng phép thuật trong tích tắc.
+Tôi giả vờ không nghe thấy, đá mạnh xuống đất, và di chuyển ngay cạnh gã pháp sư trong tích tắc.
 
-“Tôi nói, đợi đã—”
+"T-ta nói, chờ—"
 
-Tôi bắt đầu thương hại anh ta nên đã dừng nắm đấm của mình lại ngay trước khi nó chạm tới.
+Tôi bắt đầu thấy thương hắn, nên tôi dừng nắm đấm lại ngay trước khi nó đánh trúng.
 
-Áp lực gió đã loại bỏ mũ trùm đầu của người sử dụng phép thuật. Anh ta vẫn đứng, nhưng bọt mép trào ra và mắt anh ta trở
-nên trắng bệch. Anh ấy đã bất tỉnh rồi.
+Áp lực gió làm tụt mũ trùm đầu của gã pháp sư. Hắn vẫn đứng, nhưng bọt sùi ra từ miệng và mắt trắng dã. Hắn đã bất tỉnh rồi.
 
-…Tôi đoán là tôi đã hơi quá nhiệt tình rồi…
+…Hình như tôi hơi quá tay rồi…
 
-Sau đó, Neena chạy đến chỗ tôi.
+Rồi, Neena chạy đến chỗ tôi.
 
-"Ông. Haruto!! Bạn có ổn không!?"
+"anh Haruto!! Anh có ổn không!?"
 
-“Ừ, như cậu thấy đấy.”
+"Vâng, như chị thấy đấy."
 
-“Tôi rất vui…dù sao thì xin hãy đợi ở đây. Tôi sẽ đi gọi hội trưởng!”
+"Mừng quá…dù sao, xin anh chờ ở đây. Em sẽ đi gọi hội trưởng!"
 
-Neena ngay lập tức chạy ra khỏi đấu trường.
+Neena lập tức chạy ra khỏi đấu trường.
 
-Tôi không biết cô ấy sẽ mất bao lâu, nên để bắt đầu, tôi kiểm tra kỹ năng mới học được của mình.
+Tôi không biết chị ấy sẽ mất bao lâu, nên trước hết tôi kiểm tra kỹ năng mới có được.
 
-<Giữ lại>
+**<Tiết Chế>**
 
-Tự động giảm sức tấn công để tránh đòn chí mạng. Không thể sử dụng khi trang bị vũ khí.
+**Tự động giảm sức tấn công để tránh đòn chí mạng. Không thể sử dụng khi trang bị vũ khí.**
 
-Tôi hiểu rồi, nó khá tiện lợi trong các trận chiến giả hoặc khi tôi không muốn giết đối thủ của mình.
+Tôi thấy rồi, nó sẽ khá tiện trong các trận đấu giả hoặc khi tôi không muốn giết đối thủ.
 
-Hmm…Neena vẫn chưa quay lại…đoán là tôi có thể đánh thức người sử dụng phép thuật.
+Hmm…Neena chưa quay lại…chắc là tôi có thể đánh thức gã pháp sư dậy.
 
-Tôi đến gần người sử dụng phép thuật, chạm vào má anh ta và đánh thức anh ta.
+Tôi đến gần gã pháp sư, vỗ nhẹ má hắn, và đánh thức hắn dậy.
 
-“Này, dậy rồi đi. Chúng ta phải di chuyển bạn của cậu.”
+"Này, dậy đi. Tụi mình phải di chuyển mấy đứa kia."
 
-"Hở!? Đ-vâng! Vâng thưa ngài!!"
+"Eh!? V-vâng! Vâng, thưa ngài!!"
 
-Quý ngài? Nghiêm túc?
+Thưa ngài? Nghiêm túc đấy à?
 
-Bối rối trước sự thay đổi thái độ, cùng với người sử dụng phép thuật, tôi di chuyển kiếm sĩ và người sử dụng giáo đến
-giữa đấu trường và đặt họ nằm ngửa.
+Bối rối vì sự thay đổi thái độ, cùng với gã pháp sư tôi di chuyển gã kiếm sĩ và tên cầm giáo ra giữa đấu trường và đặt họ nằm ngửa.
 
-Ngay sau đó, Neena quay lại cùng với một người đàn ông trung niên.
+Ngay sau đó, Neena quay lại, kèm theo một người đàn ông trung niên.
 
-“Tôi xin lỗi vì đã chờ đợi.”
+"Xin lỗi đã để anh chờ."
 
-Người đàn ông đi cùng Neena có lẽ đã ngoài năm mươi.
+Người đàn ông đi cùng Neena có lẽ ngoài 50 tuổi.
 
-“Vậy cậu là Haruto. Tôi là Dass, chủ hội của chi nhánh Waxe này của hội mạo hiểm giả. Tôi đã nghe ý chính về những gì đã
-xảy ra từ Neena, nhưng…có vẻ như bạn đã diễn khá xuất sắc. Neena, xin hãy chữa lành cho hai người đó trước.”
+"Vậy cậu là Haruto. Ta là Dass, hội trưởng của chi nhánh Waxe thuộc hội mạo hiểm giả. Ta đã nghe Neena kể lại đại khái chuyện gì đã xảy ra, nhưng…có vẻ cậu đã diễn một vở kịch khá đặc sắc. Neena, hãy chữa trị cho hai người kia trước đi."
 
-“Vâng, thưa chủ nhân.”
+"Vâng, thưa hội trưởng."
 
-“Không, đợi đã, tôi sẽ làm.”
+"Khoan, để tôi làm."
 
-Neena gật đầu và tiến lại gần hai người bị thương, nhưng tôi ngăn cô ấy lại.
+Neena gật đầu và bước đến gần hai người bị thương, nhưng tôi ngăn chị ấy lại.
 
-"Hở!?"
+"Eh!?"
 
-Dass, Neena và người sử dụng phép thuật cũng nhìn tôi, bối rối.
+Dass, Neena, và cả gã pháp sư nữa cũng nhìn tôi đầy bối rối.
 
-Tôi phớt lờ phản ứng của họ, bước lại gần kiếm sĩ và thương thủ, sau đó sử dụng phép hồi phục cao cấp lên họ.
+Tôi phớt lờ phản ứng của họ, bước đến gần gã kiếm sĩ và tên cầm giáo, rồi dùng một phép hồi phục cấp cao lên họ.
 
-“—Hồi Phục Cao.”
+"—Đại Trị Liệu."
 
-Nhìn vết thương của hai người dần khép lại, Dass ngơ ngác.
+Thấy vết thương của hai người rõ ràng đang lành lại, Dass sững sờ.
 
-“Bạn thậm chí có thể sử dụng phép thuật phục hồi….ahem. Xin vui lòng đến văn phòng của tôi sau này. Chúng ta phải nói về
-thứ hạng của bạn. Sẽ nhanh thôi. Bạn sẽ đến, phải không?
+"Cậu thậm chí còn dùng được hồi phục thuật…ahem. Làm ơn đến văn phòng ta sau khi xong việc này. Ta cần nói chuyện với cậu về hạng của cậu. Sẽ nhanh thôi. Cậu sẽ đến chứ?"
 
-Dass nhìn tôi, tỏ rõ rằng tôi thực sự không còn lựa chọn nào khác nên tôi thở dài và gật đầu.
+Dass nhìn tôi, rõ ràng cho thấy tôi không có lựa chọn nào khác, nên tôi thở dài và gật đầu.
 
-“Haah, vâng, tất nhiên rồi.”
+"Haah, vâng, tất nhiên."
 
-Tôi để kiếm sĩ và thương thủ cho người sử dụng phép thuật và đi theo Dass và Neena đến văn phòng hội trưởng.
+Tôi để mặc gã kiếm sĩ và tên cầm giáo cho gã pháp sư và đi theo Dass cùng Neena đến văn phòng hội trưởng.
 
-“Xin mời vào.”
+"Mời vào."
 
-Văn phòng của chủ hội đơn giản và tiết kiệm một cách đáng ngạc nhiên, với số lượng đồ trang trí tối thiểu.
+Văn phòng hội trưởng bất ngờ lại rất đơn giản và mộc mạc, với rất ít đồ trang trí.
 
-Một chiếc giá sách che kín một bức tường, một chiếc bàn chất đầy tài liệu, một chiếc bàn thấp và ghế sofa dành cho
-khách.
+Một kệ sách phủ kín một bức tường, một cái bàn với đống tài liệu chồng chất, một bàn thấp, và ghế sofa cho khách.
 
-Tôi ngồi trên ghế sofa như được mời và Neena mang cho chúng tôi thứ gì đó để uống.
+Tôi ngồi xuống ghế sofa theo lời mời, và Neena mang cho chúng tôi thứ gì đó để uống.
 
-Trận chiến giả khiến tôi khá khát nước nên tôi uống mà không phàn nàn gì khi nghe Dass nói.
+Trận đấu giả khiến tôi khá khát, nên tôi uống mà không phàn nàn trong khi lắng nghe Dass nói.
 
-“Haruto, tôi đang nghĩ đến việc để cậu bắt đầu ở hạng B. Thành thật mà nói, hạng A cũng không phải là điều gì quá xa
-vời, nhưng chưa có tiền lệ nào cả và tôi chỉ được phép xếp hạng lên đến hạng B.”
+"Haruto, ta đang định cho cậu bắt đầu ở hạng B. Thành thật mà nói, hạng A cũng không phải là ngoài tầm, nhưng không có tiền lệ nào cả và ta chỉ được phép chỉ định hạng đến B thôi."
 
-“Tôi hiểu rồi, ổn thôi.”
+"Tôi hiểu, vậy cũng được."
 
-"Cảm ơn. Nếu ngày mai cậu quay lại, cậu sẽ có thẻ mạo hiểm giả đang chờ cậu.”
+"Cảm ơn cậu. Nếu cậu quay lại vào ngày mai, thẻ mạo hiểm giả sẽ được chuẩn bị sẵn cho cậu."
 
-Phải mất nhiều thời gian hơn dự kiến ​​để cấp thẻ mạo hiểm giả.
+Việc cấp thẻ mạo hiểm giả mất nhiều thời gian hơn dự kiến.
 
-Tôi nói rằng tôi sẽ quay lại vào ngày hôm sau và rời khỏi phòng.
+Tôi nói rằng mình sẽ quay lại vào ngày hôm sau và rời khỏi phòng.
 
-Ngay trước khi đóng cửa lại, tôi có thể thề rằng tôi đã nghe thấy tiếng thở dài mệt mỏi thoát ra từ môi Dass.
+Ngay trước khi tôi đóng cửa, tôi thề rằng mình đã nghe thấy một tiếng thở dài mệt mỏi thoát ra từ môi Dass.
 
 ~
 
-Trên đường trở về chỗ ở, tôi thấy bụng cồn cào nên tôi nhìn quanh các quán ven đường.
+Trên đường trở về chỗ trọ, tôi cảm thấy bụng cồn cào nên nhìn quanh các quầy hàng rong trên phố.
 
-Đúng như tôi nghĩ ở thủ đô hoàng gia, có rất nhiều món ăn và đồ vật tôi chưa từng thấy trên trái đất, nên thật sự rất
-thú vị khi được chiêm ngưỡng.
+Như tôi đã nghĩ ở thủ đô, có rất nhiều món ăn và đồ vật tôi chưa từng thấy ở trái đất, nên thật sự rất thú vị.
 
-Tôi vừa đi vừa nhìn trái nhìn phải thì một người đàn ông có vẻ ngoài dễ chịu đứng đằng sau một trong những quầy hàng gọi
-tôi.
+Tôi đang đi vừa nhìn trái phải thì một người đàn ông trông dễ chịu đứng sau một trong những quầy hàng gọi tôi lại.
 
-“Này bạn, vâng, bạn hãy thử một trong những thứ này!”
+"Này bạn, vâng, cậu đó, thử món này đi!"
 
-Người đàn ông đưa ra một khối thịt trông giống như cánh gà.
+Người đàn ông chỉ cho tôi một miếng thịt trông giống như cánh gà.
 
-“Đây là thịt gì?”
+"Đây là thịt gì vậy?"
 
-“Đó là thịt Whitebird, thứ siêu ngon.”
+"Là thịt Whitebird, món ngon tuyệt vời luôn."
 
-“Chim trắng…?”
+"Whitebird…?"
 
-Tôi nghiêng đầu tò mò về cái tên xa lạ, còn người bán hàng nhìn tôi ngạc nhiên.
+Tôi nghiêng đầu, tò mò về cái tên lạ lùng, và người bán hàng nhìn tôi, ngạc nhiên.
 
-“Bạn không biết về Whitebirds? Bạn đến từ ngôi làng xa xôi nào? Những con chim trắng cao bằng một Metol…những con quái
-vật to lớn giống chim màu trắng này. Món nướng như thế này có vị rất ngon.”
+"Cậu không biết Whitebird à? Cậu từ làng quê hẻo lánh nào vậy? Whitebird là quái vật hình dạng loài chim màu trắng cao khoảng một Mét…tầm cỡ này, thịt nướng kiểu này ăn ngon cực kỳ."
 
-Người đàn ông dang rộng cánh tay khi nói chuyện. Vì vậy, một Metol ở đây gần như tương ứng với một mét…
+Người đàn ông dang hai tay ra khi nói. Vậy một Mét ở đây tương đương với một mét…
 
-“Được rồi, cho tôi hai cái nhé.”
+"Được, cho tôi hai phần."
 
-“Cảm ơn, đó sẽ là 200 Gould.”
+"Cảm ơn, hết 200 Gould."
 
-Tôi giả vờ nhìn vào túi của mình và lấy ra hai đồng xu lớn từ kho lưu trữ không gian của mình và đưa chúng cho người bán
-hàng.
+Tôi giả vờ tìm trong túi rồi lấy ra hai đồng tiền đồng lớn từ không gian lưu trữ của mình và đưa cho người bán hàng.
 
-“Của cậu đây.”
+"Đây nhé."
 
-Người đàn ông đưa cho tôi món thịt Whitebird nóng hổi, ​​nên có lẽ nó vừa mới được nướng xong.
+Người đàn ông đưa cho tôi thịt Whitebird nóng hổi, có lẽ vừa mới nướng xong.
 
-Tôi lại bắt đầu đi bộ về chỗ ở của mình, nhai miếng thịt trước khi trời nguội.
+Tôi lại tiếp tục đi về chỗ trọ, gặm miếng thịt trước khi nó nguội.
 
-“Ừm, cái này thực sự rất tốt.”
+"Hmm, ngon thật sự."
 
-Tôi không thể không nói lên suy nghĩ của mình.
+Tôi không thể nhịn được mà thốt lên suy nghĩ của mình.
 
-Thịt có lẽ đã được ướp gia vị nên rất thơm. Vỏ bánh giòn giòn, nước sốt cháy xém kích thích vị giác. Tôi ăn xong rất lâu
-trước khi đến chỗ ở của mình.
+Thịt có lẽ đã được ướp gia vị, vì nó rất đậm đà. Lớp vỏ giòn rụm, và nước sốt cháy kích thích vị giác. Tôi ăn xong từ lâu trước khi đến chỗ trọ.
 
-Sau khi nghỉ ngơi nhanh chóng trong phòng, tôi đến công ty thương mại, nơi được cho là của Bacchus.
+Sau khi nghỉ ngơi nhanh trong phòng, tôi đi đến công ty thương mại, nơi Bacchus được cho là sẽ ở đó.
 
-Tôi muốn báo cáo rằng tôi đã đăng ký tại hội và tôi dự định rời thị trấn vào ngày hôm sau.
+Tôi muốn báo rằng mình đã đăng ký tại hội và rằng tôi dự định rời thị trấn vào ngày hôm sau.
 
-Tôi sẽ cảm thấy tồi tệ nếu ở lại đó với chi phí của anh ấy, và vì tôi đã trở thành một nhà thám hiểm nên tôi muốn đi
-khám phá thế giới…mặc dù tôi không có bất kỳ điểm đến cụ thể nào trong đầu.
+Tôi sẽ thấy áy náy nếu tiếp tục ở lại nhờ anh ấy, và vì tôi đã trở thành mạo hiểm giả được rồi, tôi muốn đi xem thế giới bên ngoài…dù tôi không có điểm đến cụ thể nào trong đầu.
 
-Vì vậy, tôi đang suy nghĩ khi đến trước công ty thương mại, nhưng Bacchus đã phát hiện ra tôi trước và tiến đến chỗ tôi.
+Tôi đang nghĩ vậy khi đến trước công ty thương mại, thì Bacchus phát hiện tôi trước và bước đến.
 
-“Ồ, anh Haruto. Điều gì mang bạn tới đây hôm nay?"
+"Ô, anh Haruto. Hôm nay đến đây có chuyện gì vậy?"
 
-“Xin chào, ông Bacchus. Thực ra tôi có chuyện muốn nói…”
+"Xin chào, anh Bacchus. Thực ra, tôi có chuyện muốn nói với anh…"
 
-Tôi nói với Bacchus về kế hoạch của mình và anh ấy giới thiệu một nơi để tôi đến thăm.
+Tôi kể cho Bacchus về kế hoạch của mình và anh ấy gợi ý một nơi để tôi ghé thăm.
 
-“Đi thăm thị trấn biên giới Vaana thì thế nào? Nếu bạn vượt qua biên giới, bạn sẽ ở một trong ba bang lớn, vương quốc
-Perdis. Đó là một đất nước tuyệt vời, một nơi tuyệt vời để sống…à, thành thật mà nói, ngày mai chúng tôi sẽ đến Vaana.”
+"Anh nghĩ sao về việc đến thị trấn biên giới Vaana? Nếu qua biên giới, anh sẽ ở một trong ba đại quốc, vương quốc Perdis. Đó là một đất nước tuyệt vời, một nơi tuyệt vời để sống…thực ra, chúng tôi cũng đang trên đường đến Vaana vào ngày mai."
 
-Ba quốc gia vĩ đại là ba trong số nhiều quốc gia hình thành nên thế giới này: đó là vương quốc Perdis, mà Bacchus vừa đề
-cập, vương quốc Glicente, nơi chúng ta hiện đang ở, và đế chế Galzio, nơi tự hào có lãnh thổ lớn nhất.
+Ba đại quốc là ba trong số nhiều quốc gia tạo nên thế giới này: đó là vương quốc Perdis, mà Bacchus vừa nhắc đến, vương quốc Glicente, nơi chúng tôi đang ở hiện tại, và đế quốc Galzio, nơi tự hào có lãnh thổ rộng lớn nhất.
 
-"Tôi hiểu rồi. Vậy thì tôi đoán tôi sẽ thử đến đó.”
+"Tôi hiểu. Chắc tôi sẽ thử đến đó vậy."
 
-Sau khi trò chuyện một chút với Bacchus, tôi rời công ty thương mại.
+Sau khi trò chuyện thêm chút với Bacchus, tôi rời công ty thương mại.
 
-Tôi đi tham quan thị trấn thêm một chút, trở về nhà nghỉ thấy Bacchus và những người khác đang ăn tối nên họ mời tôi
-dùng bữa nho nhỏ với họ.
+Tôi đi tham quan thị trấn thêm một chút, rồi quay về chỗ trọ và thấy Bacchus và những người khác đang ăn tối, nên họ mời tôi dự một bữa tiệc nhỏ cùng.
 
-Cuối cùng, khi tôi có thể trở về phòng, tôi kiểm tra bản đồ bằng God Eye, xác nhận con đường tôi phải đi để đến Vaana,
-rồi ngủ thiếp đi.
+Khi cuối cùng tôi có thể quay về phòng mình, tôi kiểm tra bản đồ bằng Thần Nhãn, xác nhận con đường tôi sẽ phải đi để đến Vaana, rồi chìm vào giấc ngủ.
+
+---
+
+[←Trước](https://web.archive.org/web/20250318204452//twem-vol-1-chapter-4/) | [Tiếp→](https://web.archive.org/web/20250318204452//twem-vol-1-chapter-6/)

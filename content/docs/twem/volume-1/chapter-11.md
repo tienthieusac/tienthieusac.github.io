@@ -1,300 +1,278 @@
 ---
-title: Chương 11 – Đến Vương quốc Perdis
+title: "Chương 11 – Đến Vương quốc Perdis"
 weight: 11
 ---
 
 # Chương 11 – Đến Vương quốc Perdis
 
-Tôi quay lại nhà trọ thu dọn đồ đạc rồi đến công ty thương mại để cảm ơn Bacchus vì tất cả những gì anh ấy đã làm cho
-tôi.
+Tôi quay về chỗ ở thu dọn hành lý, rồi đến công ty thương mại để cảm ơn Bacchus vì mọi sự giúp đỡ.
 
-“Ồ, anh Haruto. Điều gì mang bạn tới đây hôm nay?"
+"Ô, anh Haruto. Hôm nay anh đến có việc gì vậy?"
 
-“Hôm nay tôi định đi đến thủ đô hoàng gia Perdis vào khoảng giữa trưa nên tôi đến để chào tạm biệt.”
+"Chiều nay khoảng giữa trưa tôi sẽ khởi hành đến thủ đô hoàng gia Perdis, nên tôi đến chào tạm biệt."
 
-Bacchus nhìn tôi với vẻ mặt tuyệt vọng.
+Bacchus nhìn tôi với vẻ mặt tiếc nuối.
 
-“Ồ, tôi hiểu rồi…bạn sắp rời đi rồi. Tôi cũng dự định đến vương quốc Perdis trong tương lai gần, nên hy vọng chúng ta sẽ
-gặp lại nhau ở đâu đó.”
+"Ồ, vậy à…anh đi rồi. Tôi cũng dự định sẽ đến vương quốc Perdis trong tương lai gần, nên hy vọng chúng ta sẽ gặp lại ở đâu đó."
 
-“Anh cũng có cửa hàng ở đó à!? Công ty thương mại của ông chắc chắn rất lớn, ông Bacchus…”
+"Anh cũng có cửa hàng ở đó sao!? Công ty thương mại của anh quả là lớn thật, anh Bacchus…"
 
-“Ừ, dù sao thì tôi cũng có cửa hàng ở cả ba bang lớn mà.”
+"Vâng, tôi có cửa hàng ở cả ba quốc gia lớn mà."
 
-“Quy mô công ty của bạn thực sự lớn phải không.”
+"Quy mô công ty của anh lớn thật đấy."
 
-“Ồ, nó thực sự không có gì đặc biệt cả.”
+"Ôi, chẳng có gì ghê gớm đâu."
 
-Khi đang nói chuyện với Bacchus, tôi nghe thấy giọng của Barnar, Norkas và Oorde từ phía sau.
+Trong lúc nói chuyện với Bacchus, tôi nghe tiếng Barnar, Norkas và Oorde vọng lại từ phía sau.
 
-Tôi không thấy họ trong phòng vào buổi sáng: hình như họ đã về sớm.
+Sáng nay tôi không gặp họ trong phòng: có lẽ họ đã đi sớm rồi.
 
-Barnar, có lẽ vì là trưởng nhóm nên là người đầu tiên hỏi tôi về sự ra đi của tôi.
+Barnar, có lẽ vì là đội trưởng, là người đầu tiên hỏi thăm chuyện khởi hành.
 
-“Vậy là cậu sắp đi rồi à?”
+"Vậy là anh đi rồi à?"
 
-“Ừ, tôi vừa chấp nhận yêu cầu hộ tống đến vương quốc Perdis. Trưa nay tôi sẽ đi.”
+"Ừ, tôi vừa nhận yêu cầu hộ tống đến vương quốc Perdis. Chiều nay giữa trưa tôi sẽ lên đường."
 
-“Tôi hiểu rồi…chỉ trong thời gian ngắn thôi, nhưng chúng tôi nợ bạn rất nhiều. Tôi sẽ trân trọng thanh kiếm này!”
+"Tôi hiểu…chỉ là một thời gian ngắn, nhưng chúng tôi nợ anh rất nhiều. Tôi sẽ trân trọng thanh kiếm này!"
 
-Barnar nói vậy trong khi gõ nhẹ vào thanh kiếm ở thắt lưng, sau đó Norkas và Oorde gật đầu đồng ý.
+Barnar nói vậy rồi vỗ nhẹ thanh kiếm bên hông, Norkas và Oorde gật đầu đồng tình.
 
-“Hẹn gặp lại các bạn vào một ngày nào đó.”
+"Hẹn gặp lại mấy người sau."
 
-"Bảo trọng!"
+"Bảo trọng nhé!"
 
-Sau khi bày tỏ lòng biết ơn của mình với Bacchus một lần nữa và đấm nhau với Barnar và người của anh ta, tôi rời công ty
-thương mại.
+Sau khi bày tỏ lòng biết ơn với Bacchus thêm lần nữa và đấm tay với Barnar cùng đồng bọn, tôi rời công ty thương mại.
 
 ~
 
-Tôi vào thị trấn mua một số đồ lặt vặt, đảm bảo khẩu phần ăn khẩn cấp đề phòng và ăn trưa. Sau đó tôi đi đến điểm hẹn
-được chỉ định gần cổng phía bắc.
+Tôi vào thị trấn mua một số đồ lặt vặt, dự trữ lương thực dự phòng phòng khi cần, rồi ăn trưa. Sau đó tôi đến điểm hẹn gần cổng bắc.
 
-Giữa dòng người qua lại, tôi nhận ra một nhóm đang đợi cạnh cổng.
+Giữa dòng người qua lại, tôi nhận ra một nhóm người đang đợi bên cạnh cổng.
 
-Có một số người trông có vẻ là thương gia, năm chiếc xe ngựa và năm nhà thám hiểm… đó có lẽ là nhóm mà tôi phải hộ tống.
+Có vài thương nhân, năm cỗ xe ngựa, và năm mạo hiểm giả…chắc đó là đoàn mà tôi sẽ hộ tống.
 
-Số lượng mạo hiểm giả có vẻ khá ít, nhưng có lẽ những người khác vẫn đang trên đường tới.
+Số lượng mạo hiểm giả trông khá ít, nhưng có lẽ những người khác đang trên đường đến.
 
-Vì vậy, tôi đã suy nghĩ trong khi tiếp cận nhóm.
+Tôi nghĩ vậy trong khi tiến đến gần nhóm.
 
-Sau khi nhận thấy tôi đến gần, một người đàn ông, có lẽ khoảng năm mươi tuổi, tiến đến chỗ tôi.
+Sau khi nhận ra tôi, một người đàn ông, chắc khoảng ngoài 50 tuổi, bước đến.
 
-“Bạn có phải là một trong những nhà thám hiểm đã nhận yêu cầu của chúng tôi không?”
+"Anh là một trong những mạo hiểm giả nhận yêu cầu của chúng tôi?"
 
-“Vâng, tên tôi là Haruto.”
+"Vâng, tôi tên Haruto."
 
-“Tôi thấy, rất tốt. Tên tôi là Youte, tôi là người gửi yêu cầu hộ tống đến bang hội. Chúng tôi sẽ trông cậy vào bạn. Như
-bạn có thể thấy, chúng tôi có nhiều xe ngựa và có khả năng nổi bật nên có khả năng cao sẽ bị quái vật hoặc kẻ cướp tấn
-công…nhưng yêu cầu thực sự quá đột ngột nên chỉ có một số nhà thám hiểm chấp nhận. Hộ tống của chúng tôi là năm nhà thám
-hiểm đó và bạn, nên tổng cộng chỉ có sáu thành viên. Họ đang thảo luận về cách tổ chức nhiệm vụ của mình, vì vậy hãy
-tham gia cùng họ.”
+"Tôi hiểu, rất tốt. Tôi tên Youte, là người đã gửi yêu cầu hộ tống đến hội. Chúng tôi sẽ trông cậy vào anh. Như anh thấy, chúng tôi có nhiều xe ngựa và rất dễ bị chú ý, nên khả năng bị quái vật hoặc cướp tấn công là rất cao…nhưng yêu cầu quá đột ngột, nên chỉ có vài mạo hiểm giả nhận. Đoàn hộ tống chỉ gồm năm mạo hiểm giả kia và anh, tổng cộng sáu người. Họ đang bàn cách phân công nhiệm vụ, anh vào cùng họ nhé."
 
-“Hiểu rồi, bạn có thể tin tưởng vào tôi.”
+"Tôi hiểu, cứ giao cho tôi."
 
-Vậy đó là lý do đằng sau con số thấp.
+Hóa ra đó là lý do số lượng ít.
 
-Tôi làm như được bảo và đi về phía nhóm mạo hiểm giả.
+Tôi làm theo lời dặn và đi về phía nhóm mạo hiểm giả.
 
-Có một nhóm bốn người - hai nam và hai nữ - ở độ tuổi hai mươi và một người đội mũ trùm đầu…? Đợi đã, tôi đã nhìn thấy
-chiếc mũ trùm đầu đó trước đây…
+Có một nhóm bốn người — hai nam hai nữ — ngoài 20 tuổi và một người đội mũ trùm…? Khoan, tôi thấy chiếc mũ đó ở đâu rồi…
 
-Tôi đang cố nhớ lại người đội mũ trùm đầu là ai thì một trong những nhà thám hiểm gọi tôi.
+Tôi đang cố nhớ lại người đội mũ trùm là ai thì một mạo hiểm giả trong nhóm gọi tôi.
 
-“Ơ, cậu là thế à?”
+"Ơ, anh là…?"
 
-“Tên tôi là Haruto, tôi cũng nhận yêu cầu hộ tống. Rất vui được gặp bạn."
+"Tôi tên Haruto, tôi cũng nhận yêu cầu hộ tống. Rất vui được gặp mọi người."
 
-“Vậy bây giờ mọi người đã tập trung đông đủ…Tôi là thủ lĩnh của nhóm bốn thành viên này, Ryan. Không cần danh hiệu hay
-kính ngữ, chỉ cần gọi tên chúng tôi. Hạng mạo hiểm giả của chúng tôi là B.”
+"Vậy giờ mọi người đã tụ tập đủ…tôi là đội trưởng của nhóm bốn người, Ryan. Không cần gọi chức danh hay kính ngữ, cứ gọi tên nhau là được. Hạng mạo hiểm giả của chúng tôi là B."
 
-Ryan tự giới thiệu mình trước, sau đó các thành viên trong nhóm của anh ấy làm theo.
+Ryan giới thiệu trước, rồi đến các thành viên trong nhóm.
 
-“Tên tôi là Nathan, tôi là một kiếm sĩ.”
+"Tôi tên Nathan, là kiếm sĩ."
 
-“Tên tôi là Anita, một người sử dụng phép thuật.”
+"Tôi tên Anita, dùng phép thuật."
 
-“Tôi là người Iraly và tôi cũng là một người sử dụng phép thuật!”
+"Tôi là Iraly, tôi cũng dùng phép thuật!"
 
-Giống như nhóm của Barnar và Finne, có vẻ như các nhà thám hiểm không quan tâm nhiều đến lời nói lịch sự. Nó làm cho
-việc nói chuyện trở nên dễ dàng hơn và ngay từ đầu tôi đã không thực sự sử dụng nó nhiều…
+Cũng giống nhóm Barnar và Finne, có vẻ mạo hiểm giả không câu nệ lễ nghi lắm. Nhờ vậy nói chuyện dễ hơn, mà thật ra ban đầu tôi cũng chẳng dùng nhiều…
 
-Ryan sau đó chỉ tay về phía người đội mũ trùm đầu.
+Ryan ra hiệu về phía người đội mũ trùm.
 
-“Cô ấy đã nhận yêu cầu giống chúng tôi nhưng không phải là thành viên trong nhóm của chúng tôi. Cô ấy là một nhà thám
-hiểm đơn độc— ”
+"Cô ấy cũng nhận yêu cầu giống chúng tôi nhưng không phải thành viên nhóm. Cô ấy là mạo hiểm giả độc hành—"
 
-"Ông. Haruto, chúng ta lại gặp nhau rồi.”
+"Anh Haruto, chúng ta lại gặp nhau rồi."
 
-Finne cởi bỏ mũ trùm đầu sau khi nói.
+Finne bỏ mũ trùm đầu sau khi nói.
 
-Thật vui khi được gặp lại cô ấy sớm như vậy.
+Thật bất ngờ khi gặp lại cô ấy sớm vậy.
 
-“Vậy ra đó thực sự là bạn, Finne. Tôi nghĩ tôi đã nhìn thấy chiếc mũ trùm đầu đó ở đâu đó.”
+"Hóa ra là Finne. Tôi cứ nghĩ mình đã thấy chiếc mũ đó ở đâu rồi."
 
-“Ừ, là tôi đây. Vậy là cậu cũng nhận yêu cầu này à?”
+"Vâng, là em. Vậy là anh cũng nhận yêu cầu này?"
 
-Finne đáp lại với nụ cười ân cần trên môi, rồi tôi ngượng ngùng gật đầu.
+Finne đáp lại với nụ cười dịu dàng, tôi gật đầu hơi lúng túng.
 
-“Ừ, tôi đã nghĩ đến việc đến vương quốc Perdis, bạn thấy đấy. Và yêu cầu này đã đi đúng hướng của tôi.”
+"Ừ, anh định đi vương quốc Perdis. Yêu cầu này vừa khớp với anh."
 
-“Ồ, tôi hiểu rồi. Tôi đã chọn nó dựa trên phần thưởng.”
+"À, vậy ạ. Em nhận vì phần thưởng."
 
-“Bây giờ bạn nhắc đến nó, nó khá hào phóng.”
+"Nói mới nhớ, phần thưởng cũng khá hậu hĩnh thật."
 
-Ryan sau đó đã tham gia vào cuộc trò chuyện của chúng tôi.
+Ryan xen vào cuộc trò chuyện.
 
-“Các cậu quen nhau à? Finne, dù vậy, dưới chiếc mũ trùm đầu đó, em thực sự rất dễ thương.”
+"Hai người quen nhau à? Finne, dưới lớp mũ trùm thì đáng yêu thật đấy."
 
-“Ừ, chúng ta đã từng gặp nhau trước đây…”
+"V-vâng, chúng em đã gặp nhau rồi…"
 
-Finne lại đỏ mặt sau khi Ryan khen cô dễ thương.
+Finne lại đỏ mặt khi Ryan khen cô đáng yêu.
 
-Ryan có vẻ thích thú với phản ứng của cô và tiếp tục.
+Ryan dường như thích phản ứng đó và tiếp tục.
 
-“Ồ vâng, cả hai bạn có thể cho tôi biết cấp bậc mạo hiểm giả của bạn được không?”
+"À đúng rồi, hai người cho tôi biết hạng mạo hiểm giả của mình được không?"
 
-“Tôi hạng C.”
+"Em hạng C."
 
-“Chắc chắn rồi, tôi hạng A.”
+"Còn tôi, hạng A."
 
-“HẠNG A!?!?!?”
+"HẠNG A!?!?!?"
 
-Nhóm của Ryan phản ứng ầm ĩ nên nhóm thương nhân gần đó nhìn về phía chúng tôi.
+Nhóm Ryan hét lên, thương nhân bên cạnh cũng ngoái lại nhìn.
 
-Sau đó Ryan bắt đầu nói chuyện với tôi với giọng trịch thượng.
+Ryan bắt đầu nói với tôi bằng giọng hơi có phần kẻ cả.
 
-“Cậu không nên nói những lời dối trá có thể bị phát hiện ngay lập tức, cậu biết đấy.”
+"Anh không nên nói dối những chuyện có thể bị bại lộ ngay lập tức, biết không?"
 
-“Nhưng tôi không nói dối chứ?”
+"Tôi có nói dối đâu nhỉ?"
 
-Tôi vừa nói vừa lấy thẻ mạo hiểm giả ra khỏi túi cho họ xem.
+Tôi nói vậy rồi lấy thẻ mạo hiểm giả trong túi ra cho họ xem.
 
-“Đ-đó là một lá bài thật…bạn còn quá trẻ và bạn đã xếp hạng A…? Bạn đã đăng ký với bang hội khi nào?
+"T-thẻ thật…anh còn trẻ mà đã hạng A…? Anh đăng ký với hội từ khi nào?"
 
-“Khoảng một tuần trước.”
+"Khoảng một tuần trước."
 
 "MỘT TUẦN TRƯỚC!?!?"
 
-Nhóm của Ryan lại hét lên. Finne đã biết từ cuộc trò chuyện của chúng tôi ngày hôm trước nên cô ấy không ngạc nhiên đến
-thế.
+Nhóm Ryan lại la lên. Finne biết rồi nên không ngạc nhiên lắm.
 
-“Chỉ một tuần…ý tôi là, đối với chúng tôi…”
+"Chỉ mới một tuần…tôi muốn nói là, với chúng tôi…"
 
-“Này, Ryan!! Đừng chán nản lúc này! Haruto chỉ là một trường hợp kỳ quái mà thôi!!”
+"Này Ryan!! Đừng có chùng xuống thế!! Haruto là trường hợp đặc biệt thôi!!"
 
-"Đúng đúng!"
+"Đúng, đúng!"
 
-“Phải thế thôi!!”
+"Chắc chắn là vậy rồi!!"
 
-“Các bạn…! (khụt khịt)”
+"Mấy người…! (khịt mũi)"
 
-Ơ, chúng ta có thể bỏ bộ phim này được không? Và đừng liếc nhìn tôi nữa được không?
+Ờ, bỏ cái màn kịch đó được không? Và đừng có liếc tôi nữa?
 
-Sau đó chúng tôi thảo luận về cách tổ chức việc chuẩn bị cho cuộc hành trình: chẳng bao lâu nữa, đã đến lúc phải ra đi.
+Chúng tôi bàn về cách tổ chức đội hình hành quân, chẳng mấy chốc đã đến giờ khởi hành.
 
-“Đã đến lúc phải rời đi rồi, mọi người.”
+"Đến giờ khởi hành rồi, mọi người."
 
-Sau thông báo của Youte, tất cả chúng tôi đều đăng bài của mình.
+Theo lệnh của Youte, tất cả chúng tôi vào vị trí.
 
-Tổng cộng có năm toa nên chúng tôi không lên mỗi toa mà chia ra như sau: hai toa ở toa đầu, hai toa ở toa thứ hai và hai
-toa ở toa đuôi.
+Tổng cộng năm cỗ xe, nên chúng tôi không chia mỗi người một xe, mà phân bố thế này: hai người trên xe đầu, hai người trên xe thứ hai, và hai người trên xe cuối.
 
-Ryan và Anita về nhất, Nathan và Iraly về thứ hai, tôi và Finne về cuối.
+Ryan và Anita lên xe đầu, Nathan và Iraly lên xe thứ hai, tôi và Finne lên xe cuối.
 
-Đoàn xe rời Vaana, hướng tới thủ đô hoàng gia Perdis.
+Đoàn xe rời Vaana, hướng về thủ đô hoàng gia Perdis.
 
-Khi xe ngựa di chuyển chậm rãi, Finne và tôi bắt đầu trò chuyện bình thường.
+Trong khi xe ngựa tiến chậm rãi, Finne và tôi trò chuyện vu vơ.
 
-“Nhân tiện, Haruto, hình như cậu không mang theo hành lý gì à?”
+"Này Haruto, hình như anh không mang theo hành lý gì sao?"
 
-“Tất cả đều ở trong Túi thần kỳ của tôi.”
+"Tất cả đều ở trong Túi Phép."
 
-“Bạn có Túi Thần Kỳ phải không? Tôi ghen tị quá…”
+"Anh có Túi Phép á? Em ghen tị quá…"
 
-Chúng tôi đang trò chuyện trong tâm trạng nhàn nhã thì tính năng Phát hiện Hiện diện của tôi phát hiện ra thứ gì đó.
+Chúng tôi đang trò chuyện thong thả thì Phát Hiện Khí Tức nhận ra điều bất thường.
 
-“Hmm, những con quái vật phía trước…tám con.”
+"Hmm, có quái vật phía trước…tám con."
 
-“Quái vật!?”
+"Quái vật!?"
 
-“Ừ, có vẻ như chúng đang trốn trong bụi rậm phía trước. Họ sẽ nhảy ra bất cứ lúc nào.”
+"Ừ, có vẻ chúng đang ẩn trong bụi cây phía trước. Chắc sắp nhảy ra lắm rồi."
 
-“Chúng ta phải cảnh báo những người khác!”
+"Chúng ta phải báo cho mọi người!"
 
-“Không, không cần đâu, tôi sẽ giải quyết chúng.”
+"Không cần đâu, để tôi xử lý chúng."
 
-"Hở?"
+"Eh?"
 
-Tôi tạo hình khẩu súng bằng tay và sử dụng Thao tác Sức mạnh Phép thuật để tập trung sức mạnh phép thuật vào đầu ngón
-tay.
+Tôi tạo hình khẩu súng bằng hai tay và dùng Thao Túng Ma Lực để tụ ma lực ở đầu ngón tay.
 
-“Tôi chưa bao giờ thấy thứ gì như thế này… đó là phép thuật gì vậy?”
+"Em chưa thấy thứ này bao giờ…đó là phép thuật gì vậy?"
 
-Finne hỏi tôi, giọng đầy ngạc nhiên.
+Finne hỏi, giọng đầy ngạc nhiên.
 
-"Cái này? Đó là một viên đạn ma thuật.”
+"Cái này à? Là đạn ma thuật."
 
-"Viên đạn ma thuật?"
+"Đạn ma thuật?"
 
-"Đúng. Bạn tập hợp sức mạnh ma thuật từ cơ thể và tạo hình nó thành một viên đạn. Sau đó, bạn chỉ cần bắn nó vào kẻ thù.
-Đặc điểm chính là vì nó không phải là ma thuật nguyên tố nên nó không yếu trước bất kỳ nguyên tố nào, tôi đoán vậy.”
+"Vâng. Anh tụ ma lực từ cơ thể rồi tạo hình thành viên đạn. Sau đó bắn vào kẻ địch. Đặc điểm lớn nhất là vì không phải phép thuật nguyên tố, nên không bị khắc chế bởi hệ nào."
 
-Sau khi giải thích xong, tôi bắn tám viên đạn ma thuật.
+Giải thích xong, tôi bắn ra tám viên đạn ma thuật.
 
-Những viên đạn bay trong không trung không gây ra tiếng động và thổi bay đầu những con quái vật đang trốn trong bụi rậm
-phía trước.
+Những viên đạn bay trong không khí không một tiếng động và thổi bay đầu của lũ quái vật ẩn trong bụi phía trước.
 
-Tám xác chết Goblin không đầu sau đó ngã xuống đường.
+Tám xác Goblin không đầu đổ xuống đường.
 
-Bị sốc trước diễn biến bất ngờ, Ryan và những hành khách khác trên toa đầu tiên phản ứng rất lớn.
+Quá bất ngờ trước tình huống diễn ra quá nhanh, Ryan và những người trên xe đầu hét lên.
 
-"Cái gì!? Xác của yêu tinh!?”
+"Cái gì!? Xác Goblin!?"
 
-Tôi cũng lên tiếng, giục họ thư giãn.
+Tôi cũng lên tiếng, yêu cầu họ bình tĩnh.
 
-“Xin lỗi vì đã làm bạn lo lắng! Tôi đã phát hiện ra sự hiện diện của chúng trong bụi cây đó nên đã xử lý chúng trước!
+"Xin lỗi vì làm mọi người lo! Tôi phát hiện chúng trong bụi cây, nên xử lý trước!"
 
-Tuy nhiên, Ryan và những người khác lại nhìn tôi như thể họ không thể tin vào mắt mình.
+Ryan và những người khác, tuy nhiên, nhìn tôi với ánh mắt không thể tin nổi.
 
-Có chuyện gì vậy các bạn? Sẽ tốt hơn nếu chúng ta không phải chiến đấu, phải không? Tôi nghĩ vậy, hơi khó chịu trước
-phản ứng của họ, nhưng ít nhất Finne cũng nhìn tôi với ánh mắt ngưỡng mộ.
+Mấy người sao vậy? Không phải tốt hơn nếu không phải đánh thật sao? Tôi nghĩ vậy, hơi khó chịu vì phản ứng của họ, nhưng ít nhất Finne đang nhìn tôi với ánh mắt ngưỡng mộ.
 
-“Ngài Haruto, ngài thật tuyệt vời…có thể đánh trúng chúng từ khoảng cách xa như vậy…”
+"Anh Haruto, giỏi quá…bắn trúng từ khoảng cách xa như vậy…"
 
-“Ồ, haha, vâng.”
+"Ờ, haha, ừ nhỉ."
 
-Tôi đỏ mặt một chút, sau đó chúng tôi lại bắt đầu trò chuyện.
+Tôi hơi đỏ mặt, rồi chúng tôi lại bắt chuyện.
 
-“Nhân tiện, bạn nói bạn bao nhiêu tuổi? Tôi mười bảy."
+"Mà này, anh nói anh bao nhiêu tuổi nhỉ? Em mười sáu."
 
-“Vậy thì lớn hơn tôi một tuổi. Tôi mười sáu tuổi.”
+"Lớn hơn em một tuổi. Anh mười bảy."
 
-"Tôi hiểu rồi. Chà, tôi sẽ trông cậy vào bạn trong cuộc hành trình này.”
+"Vậy là vậy. Vậy em nhờ anh chỉ bảo trong chuyến đi này nhé."
 
-“Cũng vậy, thưa ngài Haruto.”
+"Tương tự, anh Haruto."
 
-Tôi đã nghĩ chúng tôi có lẽ gần bằng tuổi nhau, nhưng chỉ cách nhau một tuổi thôi. Chúng ta có thể trở thành bạn tốt.
+Tôi đoán chắc tuổi gần nhau, nhưng chỉ chênh nhau một tuổi thôi. Chắc sẽ thành bạn tốt.
 
 ~
 
-Xe ngựa tiến thêm một đoạn nữa rồi dừng lại khi xung quanh tối dần.
+Đoàn xe ngựa tiến thêm một đoạn, rồi dừng lại khi trời bắt đầu tối.
 
-“Hôm nay chúng ta sẽ cắm trại ở đây. Mọi người hãy chuẩn bị những thứ cần thiết nhé.”
+"Chúng ta sẽ cắm trại qua đêm ở đây. Mọi người chuẩn bị cần thiết nhé."
 
-Theo lệnh của Youte, chúng tôi bắt đầu dựng trại. Các nhà thám hiểm kỳ cựu đã thể hiện kiến ​​thức chuyên môn của họ ở
-đây, vì vậy tôi không có nhiều việc phải làm…điều đó không còn cách nào khác, phải không?
+Theo lệnh của Youte, chúng tôi bắt đầu dựng trại. Các mạo hiểm giả kỳ cựu phô diễn tay nghề ở đây, nên tôi chẳng có việc gì để làm…cũng đành chịu thôi.
 
-Sau bữa tối, chúng tôi bàn cách tổ chức trực ban đêm.
+Sau bữa tối, chúng tôi bàn về cách phân công trực đêm.
 
-Chúng tôi được chia thành những cặp xe giống nhau và chỉ phải quyết định thứ tự, nên đó là một quá trình dễ dàng.
+Chúng tôi chia theo cặp như trên xe và chỉ cần quyết định thứ tự, nên rất đơn giản.
 
-Con đường được củng cố tốt so với những con đường ở vương quốc Glicente, nên sẽ không có nhiều cuộc chạm trán với quái
-vật. Mặt khác, vì nhiều du khách quá tin tưởng vào sự an toàn của nó nên có nhiều kẻ cướp và kẻ trộm rình mò xung quanh
-hơn.
+Con đường này được gia cố tốt hơn so với ở vương quốc Glicente, nên sẽ ít gặp quái vật. Mặt khác, vì nhiều khách du lịch quá tin vào sự an toàn của nó, nên cướp và trộm cắp lại rình mò nhiều hơn.
 
-Ngày hôm sau, chúng tôi vượt qua biên giới mà không gặp khó khăn gì và tiến vào lãnh thổ vương quốc Perdis. Trong bốn
-ngày tiếp theo, chúng tôi tiếp tục cuộc hành trình về phía thủ đô, dừng lại ở các thị trấn và làng mạc trên đường đi,
-nhưng cuối cùng chúng tôi không bị quái vật hay thậm chí là bọn cướp tấn công, những kẻ được cho là có rất nhiều trong
-khu vực.
+Ngày hôm sau, chúng tôi qua biên giới suôn sẻ và bước vào lãnh thổ vương quốc Perdis. Trong bốn ngày tiếp theo, chúng tôi tiếp tục hành trình đến thủ đô, dừng chân ở các thị trấn và làng dọc đường, nhưng cuối cùng không bị quái vật tấn công, cũng chẳng bị cướp tấn công dù chúng được cho là rất nhiều trong khu vực.
 
-Ngày thứ sáu sau khi chúng tôi rời Vaana, trong giờ nghỉ, Youte tiếp cận chúng tôi, những mạo hiểm giả.
+Ngày thứ sáu kể từ khi rời Vaana, trong giờ nghỉ, Youte đến gặp chúng tôi.
 
-“Khu vực mà chúng ta sẽ tiến vào trong thời gian ngắn đã trở thành địa bàn của một băng trộm lớn, có vẻ như…chúng ta sẽ
-đến thủ đô trong khoảng nửa ngày, vì vậy sẽ thật lý tưởng nếu không có chuyện gì xảy ra, nhưng tôi yêu cầu bạn thậm chí
-còn hơn thế nữa.” tỉnh táo hơn bình thường.”
+"Khu vực chúng ta sắp đi vào nghe nói đã trở thành lãnh địa của một băng cướp lớn…khoảng nửa ngày nữa là đến thủ đô, nên lý tưởng nhất là không có chuyện gì xảy ra, nhưng tôi yêu cầu mọi người cảnh giác hơn mức bình thường."
 
-Ryan và nhóm của anh ấy đã đáp lại yêu cầu của Youte một cách đầy tự hào.
+Ryan và nhóm đáp lại lời yêu cầu của Youte đầy tự tin.
 
-"Để đó cho chúng tôi!"
+"Giao cho tụi tôi!"
 
-“Kẻ cướp không có gì phải lo lắng cả!”
+"Cướp chẳng có gì phải lo!"
 
-“Ngay cả khi chúng có bước ra thì chúng cũng sẽ bỏ chạy ngay khi nhìn thấy chúng ta!! Hahaha!!”
+"Cho dù chúng có xuất hiện, chúng sẽ bỏ chạy ngay khi thấy tụi tôi!! Hahaha!!"
 
-"Đúng đúng!"
+"Đúng, đúng!"
 
-Ryan và đồng đội vừa nói vừa cười.
+Ryan và đồng bọn nói vậy rồi cười lớn.
 
-Các bạn biết cái này gọi là “giương cờ” phải không…?
+Mấy người có biết đó gọi là "cắm cờ" không…?
+
+---
+
+[←Trước](https://web.archive.org/web/20250219121907//twem-vol-1-chapter-10/) | [Sau→](https://web.archive.org/web/20250219121907//twem-vol-1-chapter-12/)

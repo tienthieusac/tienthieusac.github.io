@@ -1,5 +1,5 @@
 ---
-title: Chương 6 – Yêu cầu đầu tiên của tôi
+title: "Chương 6 – Yêu cầu đầu tiên của tôi"
 weight: 6
 ---
 
@@ -7,503 +7,452 @@ weight: 6
 
 Sáng hôm sau, tôi đến hội mạo hiểm giả theo chỉ dẫn của Dass.
 
-Tôi mở cửa giống như ngày hôm trước, nhưng ngay khi bước vào tôi đã cảm nhận được ánh mắt của mọi người đang nhìn mình.
+Tôi mở cửa giống như ngày hôm trước, nhưng vừa bước vào đã cảm nhận được ánh mắt của tất cả mọi người trong phòng đổ dồn về phía mình.
 
-Hở? Cái gì? Tôi đã làm gì đó à?
+Hả? Sao vậy? Tôi đã làm gì à?
 
-Có chút lạc lõng, tôi đến gặp nhân viên tiếp tân Neena để được giúp đỡ.
+Hơi lúng túng, tôi đến gặp nhân viên tiếp tân Neena để nhờ giúp đỡ.
 
-“Có chuyện gì đã xảy ra à?”
+"Có chuyện gì vậy?"
 
-Neena nhìn tôi, thở dài rồi trả lời.
+Neena nhìn tôi, thở dài, rồi đáp lại.
 
-“Nếu ai đó đến đăng ký làm mạo hiểm giả và lau sàn cùng với ba mạo hiểm giả hạng B, bạn có nghĩ vậy không? Và anh ấy bắt
-đầu ở hạng B.”
+"Nếu có ai đó đến đăng ký làm mạo hiểm giả mà quật sạch ba mạo hiểm giả hạng B, thì ai cũng sẽ tò mò chứ, đúng không? Mà anh ấy còn bắt đầu ở hạng B nữa."
 
-Tôi nghĩ rằng ngay cả trong trường hợp đó, nó đã thu hút quá nhiều sự chú ý…nhưng Neena đã bỏ chủ đề này và đặt một tấm
-thẻ bạc lên quầy.
+Tôi nghĩ rằng dù vậy thì cũng quá chú ý rồi…nhưng Neena gác chủ đề này sang một bên và đặt một tấm thẻ bạc lên quầy.
 
-“Đây là thẻ mạo hiểm giả của cậu. Nó có chức năng như một tài liệu nhận dạng và nếu bạn xuất trình nó tại cửa hàng vũ
-khí hoặc áo giáp, bạn cũng có thể được giảm giá. Nếu cần phát hành lại, bạn sẽ phải trả năm đồng bạc lớn, vì vậy hãy hết
-sức cẩn thận…cuối cùng, bạn phải đổ một vài giọt máu vào phần này. Điều này sẽ ràng buộc tấm thẻ với chủ nhân của nó.”
+"Đây là thẻ mạo hiểm giả của anh. Nó có chức năng như giấy tờ tùy thân và nếu trình nó ở cửa hàng vũ khí hay áo giáp, anh cũng sẽ được giảm giá. Nếu cần cấp lại, anh sẽ phải trả năm đồng bạc lớn, nên hãy cẩn thận…cuối cùng, anh phải nhỏ vài giọt máu lên phần này. Việc này sẽ ràng buộc tấm thẻ với chủ nhân của nó."
 
-Tôi dùng con dao mà Neena đưa cho tôi cắt nhẹ đầu ngón tay khiến máu chảy xuống tấm thẻ.
+Tôi dùng con dao Neena đưa cho khẽ rạch đầu ngón tay và để máu nhỏ lên tấm thẻ.
 
 Khi tôi làm vậy, tấm thẻ phát sáng trong giây lát.
 
-“…thế là quá trình đăng ký đã hoàn tất. Chúc mừng. Ah, hội trưởng đã gọi bạn, vậy nên hãy đến văn phòng của ông ấy.”
+"...vậy là quá trình đăng ký hoàn tất. Xin chúc mừng. À, hội trưởng gọi anh, nên hãy đến văn phòng của ông ấy."
 
-Neena mỉm cười ấm áp và đưa cho tôi tấm thiệp.
+Neena mỉm cười ấm áp và đưa tôi tấm thẻ.
 
-Tôi lấy nó từ cô ấy và nhanh chóng đi đến văn phòng hội trưởng.
+Tôi nhận lấy và lập tức đi đến văn phòng hội trưởng.
 
 ![HarutoGuildCard](HarutoGuildCard.jpg)
 
-Tôi gõ cửa và bước vào phòng, thấy Dass bị chôn vùi trong đống tài liệu.
+Tôi gõ cửa rồi bước vào phòng, thấy Dass đang bị chôn trong đống tài liệu.
 
-“Xin chào, cảm ơn vì đã đến. Tôi xin lỗi, bạn có thể ngồi xuống và đợi một chút được không? Tôi gần như đã hoàn thành
-rồi.”
+"Xin chào, cảm ơn cậu đã đến. Xin lỗi, cậu ngồi xuống đợi một chút được không? Ta sắp xong rồi."
 
-Tôi làm như được bảo và ngồi xuống ghế sofa. Ngay sau đó, Dass đặt cây bút xuống và ngồi lên chiếc ghế sofa đối diện
-tôi.
+Tôi làm theo lời dặn và ngồi xuống ghế sofa. Ngay sau đó, Dass đặt bút xuống và ngồi vào ghế sofa đối diện tôi.
 
-“Lý do tôi mời bạn đến đây hôm nay là để nâng bạn lên hạng A.”
+"Lý do ta mời cậu đến hôm nay là để thăng cậu lên hạng A."
 
-Hở? Tôi mới được đăng ký ở hạng B ngày hôm qua phải không?
+Hả? Tôi mới đăng ký hạng B hôm qua thôi mà?
 
-“Không phải thế này là quá nhanh sao?”
+"Chẳng phải nhanh quá sao?"
 
-Tôi bày tỏ sự bối rối của mình và Dass gật đầu.
+Tôi bày tỏ sự bối rối và Dass gật đầu.
 
-“Quả thực, đó là một tốc độ chưa từng có. Nhưng dựa trên khả năng của bạn, tôi không nghĩ điều đó là không xứng đáng.
-Tất nhiên đó không phải là lý do duy nhất…”
+"Đúng vậy, đó là tốc độ chưa từng có tiền lệ. Nhưng dựa trên năng lực của cậu, ta không nghĩ là không xứng đáng. Tất nhiên, đó không phải là lý do duy nhất…"
 
-“Có lẽ có quá ít mạo hiểm giả cấp cao phải không?”
+"Có phải là hội đang thiếu mạo hiểm giả cao cấp không?"
 
-Tôi nhắc đến một ý tưởng chợt nảy ra trong đầu và Dass cười cay đắng.
+Tôi nêu một ý tưởng chợt nảy ra trong đầu và Dass cười khổ.
 
-“Hahaha…điều đó thực sự đúng. Hội đã đi đến kết luận rằng họ không thể từ bỏ một người có kỹ năng như bạn…nên như một
-ngoại lệ đặc biệt, chúng tôi dự định thăng bạn lên hạng A.”
+"Hahaha…thực ra đúng là vậy. Hội đã đi đến kết luận rằng không thể để tuột một người có năng lực như cậu…nên như một ngoại lệ đặc biệt, chúng tôi dự định thăng cậu lên hạng A."
 
-"Tôi hiểu rồi. Tuy nhiên, việc lên thứ hạng cao hơn có đơn giản như vậy không?”
+"Tôi hiểu. Nhưng việc lên hạng cao hơn có dễ vậy không?"
 
-Tôi hỏi vì sẽ là vấn đề nếu thủ tục kéo dài. Dass đưa tay ôm cằm, trầm ngâm suy nghĩ.
+Tôi hỏi vì sẽ là vấn đề nếu thủ tục mất nhiều thời gian. Dass chống cằm, trầm ngâm.
 
-“Chà, để xem…để được thăng hạng A, bạn thực sự cần có sự giới thiệu của hai hội trưởng. Tôi sẽ giải thích tình hình cho
-một hội trưởng khác mà tôi biết và nhờ họ viết thư giới thiệu, vì vậy có lẽ sẽ mất khoảng một tuần…bạn có định rời khỏi
-thị trấn không?”
+"Để ta nghĩ…để được thăng lên hạng A, thực ra cậu cần giấy giới thiệu của hai hội trưởng. Ta sẽ giải thích tình hình với một hội trưởng quen biết và nhờ họ viết thư giới thiệu, nên có lẽ sẽ mất khoảng một tuần…cậu định rời thị trấn à?"
 
-Tôi trả lời rằng tôi thực sự có ý định rời thị trấn ngay trong ngày hôm đó, đi đến Vaana và băng qua vương quốc Perdis.
+Tôi đáp rằng đúng là tôi dự định rời thị trấn trong ngày hôm đó, hướng đến Vaana và vượt biên sang vương quốc Perdis.
 
-Sau đó Dass bảo tôi đợi một lát, viết gì đó vào một tờ giấy và đưa cho tôi.
+Dass sau đó bảo tôi chờ một chút, viết gì đó lên một mảnh giấy rồi đưa cho tôi.
 
-“Đưa thư giới thiệu này cho chủ hội ở Vaana. Nếu bạn làm vậy, họ sẽ cấp thẻ cho bạn ngay tại chỗ.”
+"Hãy trình thư giới thiệu này cho hội trưởng ở Vaana. Nếu cậu làm vậy, họ sẽ cấp thẻ cho cậu ngay tại chỗ."
 
 Bối rối, tôi yêu cầu Dass giải thích thêm.
 
-“Có dễ dàng phát hành thế này không?”
+"Việc cấp thẻ dễ thế thôi sao?"
 
-“Vâng, tôi sẽ cử ngựa đưa tin để thông báo tình hình cho họ. Vì quy định của hội, bạn cần phải tự mình mang theo thư
-giới thiệu, vì vậy chúng tôi sẽ nhờ họ lo các thủ tục cần thiết khác. Nếu bạn đưa cho họ thư giới thiệu, họ sẽ cấp thẻ
-cho bạn ngay lập tức.”
+"Ừ, ta sẽ gửi ngựa thư để thông báo cho họ về tình hình. Theo quy định của hội, cậu phải tự mang theo thư giới thiệu, nên ta sẽ nhờ họ xử lý các thủ tục cần thiết khác. Nếu cậu đưa thư giới thiệu, họ sẽ cấp thẻ ngay."
 
-“Tôi hiểu rồi, khá hiệu quả.”
+"Tôi hiểu, khá là hiệu quả."
 
 Bị thuyết phục, tôi cảm ơn Dass và chuẩn bị rời đi.
 
-Tôi quay lưng lại với Dass và chuẩn bị rời đi thì anh ấy gọi tôi.
+Tôi quay lưng lại với Dass và định bước ra, thì ông ấy gọi với theo.
 
-“Nhân tiện, có vẻ như gần đây ngày càng có nhiều tên cướp tấn công trên đường tới Vaana. Có lẽ cậu sẽ ổn thôi, nhưng hãy
-cảnh giác nhé.”
+"À tiện thể, dạo gần đây trên đường đến Vaana có ngày càng nhiều vụ cướp. Có lẽ cậu sẽ không sao, nhưng hãy cảnh giác."
 
-“Đã hiểu, cảm ơn bạn đã cảnh báo.”
+"Tôi hiểu, cảm ơn ông đã cảnh báo."
 
-Tôi cảm ơn Dass một lần nữa và rời khỏi văn phòng hội trưởng.
+Tôi cảm ơn Dass thêm lần nữa và rời khỏi văn phòng hội trưởng.
 
-…ồ phải rồi, nếu có yêu cầu hộ tống đến Vaana, tôi cũng có thể nhận nó.
+…Ồ phải, nếu có yêu cầu hộ tống đi Vaana, thì tôi nhận luôn cũng được.
 
-Vì vậy tôi nghĩ vậy khi quay trở lại tiền sảnh.
+Tôi nghĩ vậy khi quay lại đại sảnh.
 
-Neena vẫn còn ở quầy nên tôi hỏi cô ấy về yêu cầu và cô ấy hành động ngay.
+Neena vẫn ở quầy, nên tôi hỏi chị ấy về yêu cầu và chị ấy lập tức hành động.
 
-" -xin vui lòng chờ trong giây lát. Nếu có yêu cầu hộ tống tới Vaana, tôi sẽ tìm ngay.”
+"—xin chờ một chút. Nếu có yêu cầu hộ tống đi Vaana, em sẽ tìm ngay."
 
-Tôi ngồi trên chiếc ghế cạnh quầy chờ đợi, nhìn chằm chằm vào khoảng không, nhưng những nhà thám hiểm đã chứng kiến
-​​cuộc cãi vã của tôi với ba nhà thám hiểm hạng C ngày hôm trước đã lần lượt đến nói chuyện với tôi.
+Tôi ngồi xuống ghế cạnh quầy để chờ, mắt nhìn đâu đâu, nhưng những mạo hiểm giả đã chứng kiến vụ ẩu đả của tôi với ba tên hạng C ngày hôm trước lần lượt đến trò chuyện với tôi.
 
-Hầu hết họ đều cảm ơn tôi vì đã cho họ tiền uống rượu, nói rằng họ đã có khoảng thời gian tuyệt vời nhất sau một thời
-gian dài. Tôi cảm thấy khá tốt, tôi nghĩ vậy.
+Hầu hết họ cảm ơn tôi vì đã cho họ tiền uống rượu, nói rằng họ vui nhất trong một thời gian dài. Tôi thấy khá là dễ chịu.
 
-Sau vài phút, Neena quay lại quầy.
+Vài phút sau, Neena quay lại quầy.
 
-"Ông. Haruto, tôi tìm thấy một yêu cầu phù hợp với yêu cầu của bạn. Đó là về việc hộ tống một nhóm của công ty thương
-mại và họ sẽ sớm rời đi. Yêu cầu dành cho bốn người, và họ đã có ba rồi… bạn có chấp nhận không?
+"anh Haruto, em tìm thấy yêu cầu phù hợp với yêu cầu của anh. Đó là hộ tống một đoàn thương nhân, và họ sắp khởi hành. Yêu cầu cần bốn người, và họ đã có ba…anh có nhận không?"
 
-“Vâng, cảm ơn cô, tôi sẽ…Tôi cũng biết ơn tất cả những gì cô đã làm cho tôi, cô Neena.”
+"Vâng, cảm ơn, tôi nhận…tôi cũng biết ơn vì mọi thứ chị đã làm cho tôi, chị Neena."
 
-Tôi nhân cơ hội này nói lời cảm ơn với Neena, người đang đỏ mặt và mỉm cười.
+Tôi tranh thủ nói lời cảm ơn với Neena, người đỏ mặt và mỉm cười.
 
-"Không có gì cả. Vậy cho đến khi chúng ta gặp lại nhau.”
+"Không có gì. Hẹn gặp lại."
 
 ~
 
-Tôi được biết rằng việc xuất trình thẻ mạo hiểm giả của mình cho hội khi chúng tôi đến Vaana sẽ đánh dấu yêu cầu đã được
-thực hiện, vì vậy tôi đã đi thẳng đến điểm hẹn.
+Tôi được cho biết rằng trình thẻ mạo hiểm giả cho hội khi đến Vaana sẽ đánh dấu yêu cầu hoàn thành, nên tôi đi thẳng đến điểm hẹn.
 
-Tôi để tất cả hành lý của mình vào kho chứa không gian vào buổi sáng, trước khi rời khỏi chỗ ở, vì vậy tôi mang theo rất
-ít.
+Tôi đã cất toàn bộ hành lý vào không gian lưu trữ từ sáng, trước khi rời chỗ trọ, nên trên người tôi cũng chẳng còn gì nhiều.
 
-Tôi nhanh chóng đến điểm hẹn và tìm thấy những chiếc xe ngựa, có Bacchus bên cạnh.
+Tôi nhanh chóng đến điểm hẹn và thấy hai cỗ xe ngựa, với Bacchus đứng cạnh chúng.
 
-"Ồ? Vậy yêu cầu đến từ ông phải không, ông Bacchus?”
+"Ồ? Vậy yêu cầu này là từ anh sao, anh Bacchus?"
 
-Bacchus nghe thấy tiếng gọi của tôi và bước về phía tôi, mỉm cười.
+Bacchus nghe tiếng tôi gọi và bước về phía tôi, mỉm cười.
 
-“Ồ, vậy là anh cũng chấp nhận yêu cầu của tôi, anh Haruto. Điều đó khá yên tâm. Chúng tôi đã phải vật lộn để tìm thêm
-một người nữa, bạn thấy đấy.”
+"Ồ, vậy anh cũng nhận yêu cầu của tôi à, anh Haruto. Thật đáng yên tâm. Chúng tôi đang vất vả tìm thêm một người, anh thấy đó."
 
-Tôi đã quên mất điều đó, nhưng Bacchus đã nói với tôi rằng họ cũng sẽ đến Vaana.
+Tôi đã quên mất, nhưng Bacchus có nói với tôi rằng họ cũng sẽ đi Vaana.
 
-Sau đó tôi nghe thấy một giọng nói từ phía sau tôi.
+Lúc đó tôi nghe thấy giọng nói từ phía sau.
 
-"Bạn là người cuối cùng?"
+"Anh là người cuối cùng à?"
 
-Tôi quay lại và thấy một nhóm gồm ba người đàn ông trông rất khó chịu.
+Tôi quay lại và thấy một nhóm ba người đàn ông trông dữ tợn.
 
-Có chút cảnh giác với họ, tôi trả lời “đúng rồi”.
+Hơi cảnh giác với họ, tôi đáp "đúng vậy".
 
-Tôi bắt đầu tự hỏi họ là loại người gì, liệu họ có định gây rối với tôi theo cách “cổ điển” như những người ngày hôm
-trước không, khi—
+Tôi bắt đầu tự hỏi họ là loại người gì, liệu họ có gây sự với tôi theo kiểu "kinh điển" như mấy người hôm trước không, thì—
 
-"Tôi hiểu rồi! Bạn thực sự là một sự trợ giúp rất lớn!”
+"Tuyệt quá! Anh giúp ích lắm thật sự!"
 
-“Sẽ hơi khó khăn nếu chỉ có ba chúng ta, cậu thấy đấy.”
+"Chỉ có ba chúng tôi thì hơi khó khăn, anh thấy mà."
 
-“Ừ, cậu là vị cứu tinh.”
+"Đúng, anh là cứu tinh của tụi tôi."
 
 Họ thân thiện hơn nhiều so với dự kiến.
 
-Dù trông có vẻ thô kệch nhưng đây thực sự là những chàng trai khá tốt!
+Mặc dù trông thô ráp, nhưng thực ra đây là những người khá tốt!
 
-Đó là những gì tôi đang nghĩ khi người lãnh đạo rắn rỏi của nhóm hỏi tôi một câu hỏi.
+Tôi đang nghĩ vậy thì tên thủ lĩnh thô ráp của nhóm hỏi tôi một câu.
 
-“Chúng tôi là nhóm hạng C, chúng tôi có thể hỏi bạn hạng gì không?”
+"Chúng tôi là một tổ đội hạng C, có thể hỏi anh hạng gì không?"
 
-“Tất nhiên, tôi hạng B…mặc dù tôi mới đăng ký ngày hôm qua.”
+"Tất nhiên, tôi hạng B…dù tôi mới đăng ký hôm qua."
 
-Tôi đưa thẻ mạo hiểm giả của mình ra làm bằng chứng và ba nhà thám hiểm đứng yên tại chỗ, tròn mắt, sau đó bắt đầu đặt
-ra hàng loạt câu hỏi cho tôi.
+Tôi đưa thẻ mạo hiểm giả ra làm bằng chứng và ba mạo hiểm giả đứng đơ tại chỗ, mắt mở to, rồi bắt đầu hỏi tôi hàng loạt câu hỏi.
 
-“Bạn đã đăng ký ngày hôm qua và đã đạt hạng B…có lẽ bạn chính là người mà mọi người đang nói đến?”
+"Anh mới đăng ký hôm qua mà đã là hạng B rồi…hay là anh là người mà mọi người đang bàn tán?"
 
-“Ồ, tin đồn là thật sao!? Nhưng ít nhất chúng ta biết rằng yêu cầu này chắc chắn sẽ diễn ra tốt đẹp!”
+"Ôi, tin đồn là thật à!? Nhưng ít ra chúng ta biết yêu cầu này chắc chắn sẽ thuận lợi!"
 
-“Đúng vậy, chúng tôi đang mong đợi những điều tuyệt vời từ bạn, anh bạn! Nhắc lại xem tên bạn là gì? …đợi đã, chúng ta
-nên giới thiệu bản thân trước đã. Tên tôi là Barnar, tôi là một kiếm sĩ. Hai người này là Norkas, một kiếm sĩ như tôi và
-thương thủ Oorde.”
+"Đúng, tụi tôi kỳ vọng anh lắm đó! Mà anh tên gì nhỉ? …khoan, để tụi tôi tự giới thiệu trước đã. Tôi tên Barnar, kiếm sĩ. Hai người này là Norkas, kiếm sĩ như tôi, và tên cầm giáo Oorde."
 
-Tôi hiểu rồi, vậy ra người đứng đầu nhóm có lẽ là anh chàng có vẻ ngoài thô kệch này, Barnar. Người thấp là Norkas và
-người cao là Oorde.
+Tôi hiểu rồi, vậy thủ lĩnh nhóm chắc là gã trông thô ráp này, Barnar. Gã lùn là Norkas và gã cao là Oorde.
 
-“Tên tôi là Haruto, rất vui được gặp bạn.”
+"Tôi tên Haruto, rất vui được gặp."
 
-“Ừ, cũng vậy…nhân tiện, phong cách chiến đấu của cậu là gì, Haruto? Có vẻ như bạn không có kiếm, bạn có phải là người sử
-dụng phép thuật không?
+"Vâng, tôi cũng vậy…à mà, lối chiến đấu của anh là gì vậy, Haruto? Hình như anh không mang kiếm, anh là pháp sư à?"
 
-Người lãnh đạo hỏi tôi với giọng khó hiểu nhưng tôi cười toe toét và trả lời.
+Tên thủ lĩnh hỏi tôi với giọng bối rối, nhưng tôi cười và đáp lại.
 
-“Tôi sẽ giải thích khi chúng ta ra khỏi thị trấn, hãy chờ xem nhé.”
+"Để tôi giải thích khi ra khỏi thị trấn, anh sẽ thấy thú vị cho mà xem."
 
-Barnar nghiêng đầu sang một bên, thậm chí còn bối rối hơn trước lời nói của tôi.
+Barnar nghiêng đầu sang một bên, càng thêm bối rối trước lời tôi.
 
 ~
 
-Chúng tôi khởi hành ngay sau đó: những chiếc xe ngựa chạy rất nhanh, trong khi thị trấn nhanh chóng trở nên ngày càng
-nhỏ hơn. Chúng tôi lên hai toa theo cặp: tôi và Barnar ở một toa, Norkas và Oorde ở toa kia.
+Chúng tôi khởi hành ngay sau đó: xe ngựa chạy nhanh, thị trấn dần nhỏ lại phía sau. Chúng tôi lên hai cỗ xe theo cặp: tôi và Barnar trong một, Norkas và Oorde trong cỗ còn lại.
 
-Một lúc sau, Barnar dường như không thể kiềm chế được nữa và hỏi lại tôi câu hỏi đó.
+Một lúc sau, hình như Barnar không kìm nổi nữa nên lại hỏi tôi câu đó.
 
-“Nào Haruto, cậu có thể cho tôi biết bây giờ cậu chiến đấu như thế nào không?”
+"Thôi nào Haruto, giờ anh có thể nói cho tôi cách anh chiến đấu rồi chứ?"
 
-"Phải…"
+"Được thôi…"
 
-Tôi trả lời câu hỏi của Barnar bằng cách rút thanh kiếm ra khỏi kho chứa chiều không gian của mình.
+Tôi trả lời câu hỏi của Barnar bằng cách rút kiếm ra từ không gian lưu trữ.
 
-"Cái gì!? Ah, một chiếc túi ma thuật…chết tiệt, tôi ghen tị quá. Nhưng tốt nhất cậu nên giữ thanh kiếm của mình ở nơi dễ
-thấy trong thị trấn, nếu không mọi người sẽ nghĩ cậu là con mồi dễ dàng.”
+"Cái gì!? À, một chiếc túi ma thuật…ghen tị thật. Nhưng anh nên để kiếm lộ ra ngoài thị trấn, nếu không người ta sẽ nghĩ anh là mồi ngon."
 
-Tôi chân thành gật đầu trước lời cảnh báo của Barnar. Dù sao thì anh ấy cũng có nhiều kinh nghiệm hơn tôi với tư cách là
-một nhà thám hiểm.
+Tôi thành thật gật đầu trước lời cảnh báo của Barnar. Dù sao anh ấy cũng có kinh nghiệm hơn tôi với tư cách một mạo hiểm giả.
 
-“Vậy cậu là một kiếm sĩ à, Haruto?”
+"Vậy anh là kiếm sĩ à, Haruto?"
 
-Tôi lắc nhẹ đầu rồi đưa tay ra khỏi xe.
+Tôi nhẹ nhàng lắc đầu, rồi đưa tay ra ngoài xe.
 
-Barnar nhìn tôi tò mò khi tôi thi triển, thông qua No Chant, một phép gió cấp cơ bản, Wind Ball, để đập vào một tảng đá
-cách con đường một chút.
+Barnar nhìn tôi đầy tò mò khi tôi dùng Không Đọc thi triển một phép phong cấp thấp, Cầu Gió, bắn vào một tảng đá hơi xa đường.
 
-Quả cầu gió bắn thẳng vào tảng đá, khiến các mảnh của nó bay tứ tung.
+Quả cầu gió bay thẳng vào tảng đá, thổi tung các mảnh vỡ khắp nơi.
 
-“Đó là cái gì vậy!?”
+"Cái gì vậy!?"
 
-“Quả bóng gió.”
+"Cầu Gió."
 
-“Một phép thuật cấp cơ bản có sức mạnh lớn đến thế!? Đó là mức độ trung bình dễ dàng!! Nhưng hơn thế nữa, bạn có thể sử
-dụng No Chant!?”
+"Một phép cấp Cơ Bản mà uy lực thế này!? Dễ dàng đạt cấp Trung rồi!! Nhưng quan trọng hơn, anh dùng được Không Đọc á!?"
 
-“Ừ, à…dù sao thì, tôi muốn chứng tỏ rằng tôi chiến đấu bằng thanh kiếm và phép thuật này.”
+"Ừ, thì…dù sao, ý tôi là tôi chiến đấu bằng cả kiếm và phép thuật."
 
-Barnar nhìn tôi chằm chằm như thể không tin vào mắt mình.
+Barnar nhìn tôi như thể không thể tin nổi vào mắt mình.
 
 ~
 
-Sau vài giờ di chuyển và ăn trưa, kỹ năng Phát hiện sự hiện diện của tôi đã phát hiện ra điều gì đó.
+Sau thêm vài giờ di chuyển và ăn trưa, kỹ năng Phát Hiện Sự Hiện Diện của tôi phát hiện điều gì đó.
 
-Tôi kiểm tra bản đồ và tìm thấy hơn 20 hiện diện trên đường đi của xe ngựa.
+Tôi kiểm tra bản đồ và thấy hơn 20 sự hiện diện trên đường đi của xe ngựa.
 
-Dass có nói rằng quanh đây thường xuyên xuất hiện bọn cướp, phải không…
+Dass đã nói rằng cướp thường xuất hiện quanh đây mà, đúng không…
 
-Nhóm của Barnar ở hạng C, nên họ có thể gặp khó khăn khi đối phó với nhiều đối thủ như vậy.
+Tổ đội của Barnar là hạng C, nên họ có thể sẽ gặp khó khăn khi đối phó với nhiều đối thủ như vậy.
 
-Tôi nói với Bacchus, người đánh xe và nhóm của Barnar về sự hiện diện của con người phía trước chúng tôi, để họ cảnh
-giác.
+Tôi báo cho Bacchus, người đánh xe và nhóm của Barnar biết về sự hiện diện của con người phía trước, để họ cảnh giác.
 
-Sau khi chúng tôi tiến hành thêm một số bước nữa, sự hiện diện của con người hiển thị trên bản đồ hiện rõ ra.
+Sau khi chúng tôi đi thêm một đoạn, những sự hiện diện hiển thị trên bản đồ nhảy ra ngoài ánh sáng.
 
-“Dừng xe ngay!! Để lại tất cả hành lý của bạn và bị lạc. Hoặc bạn cũng sẽ mất mạng, hiểu không?
+"Dừng xe lại, ngay!! Bỏ lại hành lý rồi cút đi. Nếu không, mấy người cũng sẽ mất mạng, hiểu chưa?"
 
-Người đàn ông dẫn đầu nhóm, có lẽ là thủ lĩnh, ra lệnh.
+Gã đàn ông dẫn đầu nhóm, có lẽ là thủ lĩnh, quát lệnh.
 
-Rốt cuộc thì họ thực sự là những tên cướp.
+Họ thực sự là cướp, rốt cuộc.
 
 Tôi và nhóm của Barnar nhanh chóng xuống xe và đi về phía bọn cướp.
 
-“Chết tiệt, có 20 người trong số họ…”
+"Damn, có đến 20 tên…"
 
-Giọng điệu của Barnar bộc lộ sự lo lắng của anh ấy, nhưng tôi bình tĩnh trả lời.
+Giọng Barnar phản bội sự lo lắng của anh ấy, nhưng tôi đáp lại bình tĩnh.
 
-“Không, thực ra họ 25 tuổi. Có 2 con trốn trong bụi cây đằng kia và 2 con nữa ở bãi cỏ cao đằng kia. Kẻ cuối cùng đang
-trốn đằng sau cái cây đó.”
+"Không, thực ra là 25 đấy. Có 2 tên ẩn trong bụi cây ở đó và 2 tên nữa trong đám cỏ cao ở kia. Tên cuối cùng trốn sau cái cây đó."
 
-Nghe tôi phát hiện chính xác đồng đội đang ẩn nấp của hắn, những người không thể nhìn thấy từ vị trí của chúng tôi, thủ
-lĩnh của băng cướp không khỏi tỏ ra ngạc nhiên.
+Nghe tôi chỉ điểm chính xác đồng bọn đang ẩn nấp của hắn, những người không thể nào nhìn thấy từ vị trí của chúng tôi, thủ lĩnh cướp không khỏi bày tỏ sự ngạc nhiên.
 
-“L-làm sao cậu biết được!?”
+"L-làm sao mày biết!?"
 
-“Sự hiện diện của họ rõ như ban ngày.”
+"Sự hiện diện của chúng rõ mồn một."
 
-Tôi cười khúc khích khi trả lời và những tên trộm đang lẩn trốn cũng bước ra, rõ ràng là thất vọng và tiếp cận thủ lĩnh
-của chúng.
+Tôi cười khẩy khi đáp lại và mấy tên cướp đang ẩn nấp cũng lò dò bước ra, lộ rõ vẻ bực bội, rồi tiến đến chỗ thủ lĩnh.
 
-“Chậc…!! Nhưng chúng ta có lợi thế áp đảo về số lượng!! Bạn sẽ không thể hành động cao cả và hùng mạnh như vậy được lâu
-đâu!!”
+"Tch…!! Nhưng bọn tao áp đảo về số lượng!! Mày sẽ không thể vênh mặt được lâu đâu!!"
 
-Quả thực, như người đứng đầu đã nói, số lượng của họ cao hơn chúng tôi rất nhiều.
+Đúng như thủ lĩnh nói, số lượng của chúng vượt trội hơn chúng tôi rất nhiều.
 
-Barnar và những người khác cũng có vẻ lo lắng.
+Barnar và những người khác cũng trông có vẻ lo lắng.
 
-“Có quá nhiều người trong số họ…ngay cả khi có Haruto ở bên cạnh cậu, tỷ lệ cược của chúng ta trông vẫn rất tuyệt vọng.”
+"Chúng quá đông…dù có Haruto ở phía mình, tỷ lệ thắng của chúng ta trông tuyệt vọng."
 
-Barnar và nhóm của anh ta đã chuẩn bị sẵn vũ khí nhưng trông có vẻ sợ hãi và chưa sẵn sàng chiến đấu thực sự.
+Barnar và đồng đội đã chuẩn bị sẵn vũ khí, nhưng trông có vẻ bị áp đảo và chưa sẵn sàng để thực sự chiến đấu.
 
-“Tôi có thể tự mình xử lý chúng, đừng lo lắng. Dù sao thì đây cũng là cơ hội tốt để tôi thực hiện trận chiến thực sự đầu
-tiên với mọi người. Barnar, các bạn, hãy bảo vệ xe ngựa.”
+"Một mình tôi xử lý được, đừng lo. Dù sao đây cũng là cơ hội tốt cho trận chiến thực sự đầu tiên của tôi với con người. Barnar, mấy anh, xin hãy canh gác xe ngựa."
 
-Nhóm của Barnar phản ứng với vẻ hoài nghi trước lời nói của tôi, trong khi bọn cướp nổ ra những tràng cười thô tục.
+Nhóm của Barnar phản ứng đầy không tin trước lời tôi, trong khi bọn cướp phá lên cười khiếm nhã.
 
-"Nghiêm túc? Tôi có nghe đúng không? Một đứa nhóc như cậu lại đi theo chúng tôi à? Và đây cũng là trận chiến thực sự đầu
-tiên của bạn với con người!? Cậu sẽ làm chúng tôi cười chết mất.”
+"Thật hả? Tao nghe nhầm à? Thằng nhóc như mày định đánh với tất cả bọn tao à? Mà đây cũng là trận chiến thực sự đầu tiên của mày với người nữa!? Mày định làm tụi tao cười đến chết à."
 
-Tuy nhiên, tôi cười toe toét khi chế nhạo họ nhiều hơn.
+Tôi, tuy nhiên, cười gằn khiêu khích thêm.
 
-“Ừ, tôi đoán nó sẽ dễ như ăn bánh thôi. Và không phải *tất cả các bạn*, mà là *chỉ các bạn* đối với tôi, hiểu không?”
+"Ừ, tao nghĩ nó sẽ là chuyện nhỏ thôi. Và không phải *tất cả bọn mày*, mà chỉ *mày thôi*, hiểu chưa?"
 
-Lời nói của tôi khiến bọn cướp nổi cơn thịnh nộ gần như hài hước.
+Lời tôi nói khiến bọn cướp gần như nổi cơn tam bành một cách lố bịch.
 
-“Anh vừa nói cái quái gì thế!?…Tôi nghe đủ rồi! Xé con nhóc này một cái mới đi!!”
+"Mày nói cái gì vậy!?…Tao nghe đủ rồi!! Xé xác thằng nhóc này đi!!"
 
-Tuân theo mệnh lệnh của tên thủ lĩnh giận dữ, bọn tay sai của hắn rút kiếm ra. Barnar và đồng đội của anh ta cuối cùng
-cũng lấy lại được bình tĩnh và hét vào mặt tôi.
+Theo lệnh của tên thủ lĩnh đang nổi điên, đám tay sai rút kiếm. Barnar và đồng đội cuối cùng lấy lại bình tĩnh và hét với tôi.
 
-“Này, Haruto!! Bạn không thể tự mình xử lý hết chúng được phải không!?”
+"Này, Haruto!! Anh không thể nào một mình chống lại tất cả bọn chúng được, đúng không!?"
 
-“Đây là trận chiến thực sự đầu tiên của bạn chống lại đối thủ là con người phải không? Cậu không cần phải cố gắng quá
-vậy đâu!”
+"Đây là trận chiến thực sự đầu tiên của anh với đối thủ là người, đúng không? Không cần phải gắng quá đâu!"
 
-“Chúng tôi sẽ chiến đấu với bạn!! Hãy thay đổi ý định khi còn có thể!”
+"Chúng tôi sẽ chiến đấu cùng anh!! Hãy đổi ý khi vẫn còn có thể!"
 
-Khi những giọng nói này lọt vào tai tôi, tôi bước về phía bọn cướp.
+Khi những giọng nói ấy vọng đến tai tôi, tôi bước về phía bọn cướp.
 
-Tôi mừng vì Barnar và những người khác cảm thấy như vậy, nhưng cuối cùng họ có thể cản đường tôi và tôi không muốn họ bị
-thương.
+Tôi vui vì Barnar và những người khác đã nghĩ như vậy, nhưng họ có thể sẽ cản đường tôi và tôi không muốn họ bị thương.
 
-“Tôi sẽ ổn thôi, để đó cho tôi.”
+"Tôi ổn, để tôi lo."
 
-Sau đó tôi rút kiếm ra.
+Rồi tôi rút kiếm.
 
-Tuy nhiên, tôi không có bất kỳ tư thế cụ thể nào - chỉ để nó lủng lẳng trên tay phải của tôi.
+Tuy nhiên, tôi không vào thế cụ thể nào — chỉ để nó buông thõng bên tay phải.
 
-Có thể trông tôi như đang lười biếng hoặc cẩu thả.
+Có lẽ trông như thể tôi đang lười biếng hay cẩu thả.
 
-Tuy nhiên, đó là một thế kiếm thực sự, chỉ khả thi đối với những người đã thành thạo các kỹ năng kiếm, “Chu thế hư vô”.
+Nhưng đó thực sự là một thế kiếm, chỉ khả thi với những ai đã thành thạo kiếm thuật, "Thế Hư Vô".
 
-Bọn cướp có lẽ nghĩ rằng tôi đang coi thường chúng nên chúng lao vào tôi, hú hét thậm chí còn giận dữ hơn trước.
+Bọn cướp chắc hẳn nghĩ tôi đang khinh chúng, nên chúng xông vào tôi, tru tréo giận dữ hơn trước.
 
-Cuộc tấn công đầu tiên đến từ ba tên cướp.
+Đợt tấn công đầu tiên đến từ ba tên cướp.
 
-Tôi né được nhát chém của chúng vào giây cuối cùng và phản đòn bằng cách cắt cổ chúng.
+Tôi né nhát chém của chúng trong tích tắc cuối cùng và phản đòn bằng cách chém vào cổ chúng.
 
-Tôi có cảm giác như bị cắt thịt, nhưng không cảm thấy tội lỗi hay ác cảm với việc giết người khác.
+Tôi cảm nhận được cảm giác xuyên qua da thịt, nhưng không cảm thấy áy náy hay ghê tởm về việc giết người khác.
 
-Khi tôi suýt bị các hiệp sĩ giết chết và có được sức mạnh mới, tôi quyết định không thương xót kẻ thù của mình.
+Khi tôi suýt bị giết bởi lũ hiệp sĩ và nhận được sức mạnh mới, tôi đã quyết không nương tay với kẻ thù.
 
-Với lời thề này trong lòng, tôi không chút do dự khi giết những kẻ đã tấn công tôi với ý định giết người.
+Với lời thề này trong lòng, tôi không hề do dự khi giết những kẻ tấn công tôi với ý định sát hại.
 
-Khi ba tên cướp ngã xuống đất, tôi vung kiếm để lau máu.
+Khi ba tên cướp đổ gục xuống đất, tôi vung kiếm hất sạch máu.
 
-"Chết tiệt!! Bạn đang đứng xung quanh để làm gì!? Bao vây thằng nhóc đó và giết nó đi!!”
+"Damn it!! Mấy đứa đứng đó làm gì vậy!? Vây quanh thằng nhóc rồi giết nó!!"
 
-Người cầm đầu choáng váng khi thấy ba tên tay sai của mình bỏ rơi cùng một lúc, đã ra lệnh cho bọn tay sai bao vây tôi
-và được tuân theo ngay lập tức.
+Tên thủ lĩnh, bị sốc trước cảnh ba tên tay sai ngã gục cùng lúc, ra lệnh cho đám tay sai vây quanh tôi và lập tức được tuân theo.
 
-Tổng cộng họ có hơn 20 người.
+Tổng cộng chúng hơn 20 tên.
 
-Tôi nghĩ nếu có quá nhiều người tấn công tôi cùng lúc thì lưỡi kiếm của chúng tôi sẽ chạm nhau nhiều lần, nên tôi lo
-rằng thanh kiếm của mình sẽ gãy, nhưng…
+Nếu nhiều người tấn công tôi cùng lúc như vậy, lưỡi kiếm sẽ đụng nhau vài lần, tôi nghĩ, nên tôi lo rằng kiếm mình sẽ gãy, nhưng…
 
-Ồ đúng rồi, tôi chỉ cần tăng độ bền của thanh kiếm thôi.
+Ồ phải, tôi chỉ cần tăng độ bền của kiếm.
 
-Tôi nhanh chóng tạo ra một kỹ năng phù hợp với All Creation.
+Tôi nhanh chóng tạo một kỹ năng phù hợp với Toàn Năng.
 
-<<Đã nhận được Kỹ năng “Enchant”. Cấp độ kỹ năng đạt 10. Kỹ năng được thêm vào Hợp nhất ma thuật.>>
+<<Kỹ năng "Phù Phép" đã có được. Cấp kỹ năng đạt 10. Kỹ năng được thêm vào Hợp Nhất Phép Thuật.>>
 
-Enchant là một loại phép thuật có thể gắn các hiệu ứng đặc biệt vào vật phẩm, v.v.
+Phù Phép là một loại phép thuật có thể gắn các hiệu ứng đặc biệt lên đồ vật, v.v.
 
-Hiệu ứng tôi sẽ đính kèm lần này là “Fierce Blade”. Nó nâng cao độ sắc bén và sức bền của kiếm và katana.
+Hiệu ứng tôi sẽ gắn lần này là "Lưỡi Bền". Nó tăng độ sắc bén và độ bền của kiếm và katana.
 
-Tôi thực sự muốn gắn nhiều hiệu ứng khác nhau, nhưng số lượng hiệu ứng có thể gắn vào vũ khí phụ thuộc vào độ hiếm và độ
-bền của nó.
+Thực ra tôi muốn gắn nhiều hiệu ứng khác nữa, nhưng số hiệu ứng có thể gắn lên vũ khí tùy thuộc vào độ hiếm và độ bền của nó.
 
-Thanh kiếm tôi hiện đang sử dụng chỉ có thể chứa được nhiều nhất một thanh kiếm.
+Thanh kiếm tôi đang sử dụng chỉ có thể chứa tối đa một hiệu ứng.
 
-Ngay khi việc phù phép hoàn tất, 22 tên cướp đã tấn công tôi cùng một lúc.
+Ngay khi phù phép hoàn tất, 22 tên cướp tấn công tôi cùng lúc.
 
-Tôi phớt lờ những kẻ tấn công tôi từ phía sau và thay vào đó tấn công những kẻ phía trước.
+Tôi phớt lờ mấy tên tấn công từ phía sau và lao thẳng vào những tên phía trước.
 
-Những tên cướp trước mặt tôi cố gắng dùng kiếm để tự vệ, nhưng tôi vẫn quét sạch chúng.
+Bọn cướp phía trước tôi cố dùng kiếm chắn, nhưng tôi vẫn quét sạch chúng.
 
-Khoảnh khắc tiếp theo, lưỡi kiếm của tôi đã xẻ đôi tên cướp, bao gồm cả thanh kiếm.
+Tích tắc sau, lưỡi kiếm của tôi đã chẻ đôi bọn cướp, tính luôn cả kiếm của chúng.
 
-Vì vậy, tôi đã vượt qua vòng vây, nhưng vẫn còn những tên cướp cần phải đối phó, chúng tấn công tôi từ phía sau những kẻ
-mà tôi đã đánh bại.
+Tôi phá vòng vây xong, nhưng vẫn còn bọn cướp phải xử lý, tấn công tôi từ phía sau những tên tôi đã hạ.
 
-Tôi lại bị bao vây: Tôi đợi bọn cướp đến đủ gần, sau đó kích hoạt phép thuật gió cấp thấp Wind Slash, tạo ra một lưỡi
-kiếm gió.
+Tôi lại bị vây: tôi đợi bọn cướp đến đủ gần, rồi kích hoạt phép phong cấp thấp Kiếm Gió, tạo ra một lưỡi gió.
 
-Tuy nhiên, tôi không giải phóng nó như vậy mà vẫn quấn nó quanh thanh kiếm của mình và chờ đợi.
+Tuy nhiên, tôi không phóng nó ra ngay, mà giữ nó quấn quanh kiếm và chờ.
 
-Sau đó, tôi hình dung nó lan rộng theo chuyển động tròn và thực hiện một động tác xoay hoàn toàn trên chân trong khi
-vung kiếm.
+Rồi tôi hình dung nó tỏa ra theo chuyển động tròn và thực hiện một vòng xoay toàn thân trong khi vung kiếm.
 
 "Cái gì!?"
 
-Những tên cướp phản ứng bằng cú sốc khi lưỡi gió lan ra thành một vòng tròn, đúng như tôi đã hình dung.
+Bọn cướp phản ứng đầy sốc khi lưỡi gió tỏa ra thành vòng tròn, đúng như tôi hình dung.
 
-Phép thuật được bắn với tốc độ tương đương với tốc độ vung kiếm của tôi, cướp đi sinh mạng của hơn 10 tên cướp cùng một
-lúc.
+Phép thuật được bắn ra với tốc độ tương đương nhát chém của tôi, gặt sạch sinh mệnh của hơn 10 tên cướp trong một nhát.
 
-Hài lòng với phép thuật hoạt động đúng như tôi tưởng tượng, tôi bắt đầu đi về phía thủ lĩnh của bọn cướp.
+Hài lòng vì phép thuật hoạt động đúng như mình tưởng tượng, tôi bắt đầu bước về phía tên thủ lĩnh cướp.
 
-“C-bạn…bạn là một con quái vật!!”
+"M-mày…mày là quái vật!!"
 
-Tên cầm đầu hét lên một cách thảm hại, ngã xuống mông và cố gắng bò ra xa khỏi tôi.
+Tên thủ lĩnh, kêu lên thảm hại, ngã ngồi xuống và tuyệt vọng bò trốn khỏi tôi.
 
-Những tên cướp còn sống sót khác có khoảng tám người. Họ đứng chắn đường tôi, dũng cảm bảo vệ thủ lĩnh của mình, nhưng
-chân họ run rẩy.
+Số cướp còn sống sót khác chỉ còn khoảng tám. Chúng chặn đường tôi, trung thành bảo vệ thủ lĩnh, nhưng chân chúng run rẩy.
 
-“C-cậu không được gần gũi hơn với ông chủ đâu!!”
+"M-mày sẽ không đến gần sếp tao được nữa đâu!!"
 
-Tôi nghĩ thủ lĩnh của tên cướp đã truyền cảm hứng cho lòng trung thành bất ngờ.
+Tôi thầm nghĩ, tên thủ lĩnh cướp lại truyền cảm hứng cho lòng trung thành bất ngờ.
 
-Tôi đang suy nghĩ như vậy thì rất ấn tượng, khi tám tên cướp tấn công tôi.
+Tôi đang cân nhắc suy nghĩ ấy, ấn tượng, thì tám tên cướp xông vào tôi.
 
-Tôi né từng đòn tấn công của chúng, lần lượt kết liễu chúng.
+Tôi né từng đòn tấn công của chúng, lần lượt hạ gục từng tên.
 
-Sau khi tất cả tay sai của hắn chết, tên cầm đầu bắt đầu cầu xin tha mạng.
+Sau khi tất cả tay sai chết, thủ lĩnh bắt đầu cầu xin tha mạng.
 
-“X-làm ơn!! Hay tha cho tôi!! Tôi chưa muốn chết!!”
+"L-làm ơn!! Tha cho tôi!! Tôi không muốn chết!!"
 
-"Cái gì? Bạn đã cố gắng giết chúng tôi, nhưng bây giờ bạn nói rằng bạn không muốn chết? Bạn khá ích kỷ phải không? Thế
-còn tất cả cấp dưới của anh đã chết thì sao?”
+"Hả? Anh đã cố giết chúng tôi, nhưng giờ lại nói anh không muốn chết? Khá là ích kỷ đấy, anh không nghĩ vậy sao? Còn mấy tên thuộc hạ đã chết thì sao?"
 
-“C-cái đó…”
+"T-thì…"
 
-Người đứng đầu không nói thêm lời nào nữa.
+Tên thủ lĩnh không nói thêm lời nào.
 
-Tôi cũng nên tiến lên và giết hắn.
+Tôi nên giải quyết luôn hắn.
 
-Vì vậy, tôi nghĩ vậy khi giơ kiếm lên để ra đòn cuối cùng, nhưng Barnar đã ngăn tôi lại.
+Tôi nghĩ vậy khi giơ kiếm lên để kết liễu, nhưng Barnar ngăn tôi lại.
 
-“Này, Haruto. Bạn đã làm đủ rồi.”
+"Này, Haruto. Cậu đã làm đủ rồi."
 
-“Barnar, gã này đã cố giết chúng ta.”
+"Barnar, thằng này đã cố giết chúng ta mà."
 
-“Điều đó đúng, nhưng…nhìn vào cuộc tàn sát này, bất cứ ai cũng sẽ cố ngăn cản bạn.”
+"Đúng là vậy, nhưng…nhìn cảnh tàn sát này đi, ai cũng sẽ cố ngăn cậu lại."
 
 Tôi nhìn xung quanh: nó giống như một biển máu.
 
-Tôi không cảm thấy tội lỗi trước hành động giết người, nhưng tôi không hẳn là người thích máu me.
+Tôi không cảm thấy tội lỗi về việc giết người, nhưng tôi cũng không phải là fan của cảnh đẫm máu.
 
-Cảm giác này thật kinh tởm…Tôi nghĩ, rồi tôi nghe thấy giọng nói quen thuộc của người máy.
+Cái này thấy hơi buồn nôn…tôi vừa nghĩ, thì nghe thấy giọng robot quen thuộc.
 
-<<Đã học được kỹ năng “Sức mạnh tinh thần”. Cấp độ kỹ năng đạt 10. Kỹ năng được thêm vào Hợp nhất ma thuật.>>
+<<Kỹ năng "Bền Bỉ Tinh Thần" đã có được. Cấp kỹ năng đạt 10. Kỹ năng được thêm vào Hợp Nhất Phép Thuật.>>
 
-Khi giọng nói nhỏ dần, tôi cũng cảm thấy tốt hơn nhiều.
+Khi giọng nói ấy tắt đi, tôi cũng cảm thấy dễ chịu hơn nhiều.
 
-Tất cả sự sáng tạo đã tự mình tạo ra một kỹ năng khác cho tôi.
+Toàn Năng lại tự tạo thêm một kỹ năng cho tôi.
 
-Kỹ năng này thực sự hữu ích vượt quá giới hạn…
+Kỹ năng này thực sự hữu ích vượt mức…
 
-Nó cũng giúp tôi lấy lại bình tĩnh phần nào.
+Nó cũng giúp tôi lấy lại bình tĩnh đôi chút.
 
-“…Tôi cho là mình đã thực sự đi quá đà. Tôi xin lỗi, Barnar…nhưng tôi muốn cậu để anh chàng này cho tôi.”
+"...Có lẽ tôi thực sự đã quá tay rồi. Xin lỗi, Barnar…nhưng tôi muốn anh để mặc tên này cho tôi."
 
-“N-Này…rốt cuộc thì cậu định giết anh ta à?”
+"H-này…cậu sẽ giết hắn dù sao chứ?"
 
-“Không, tôi sẽ không.”
+"Không, tôi sẽ không giết."
 
 Barnar có vẻ nhẹ nhõm khi nghe câu trả lời của tôi.
 
-“—mặc dù vậy, anh ấy sẽ có một khoảng thời gian tồi tệ.”
+"—thế nhưng, hắn sẽ phải chịu khổ sở đấy."
 
-Barnar và nhóm của anh ta nhìn nhau với vẻ mặt cứng đờ.
+Barnar và đồng đội nhìn nhau, mặt cứng đờ.
 
 ~
 
-Sau khi tôi đấm vào bụng tên thủ lĩnh và đánh hắn bất tỉnh, tôi bắt đầu dọn dẹp xung quanh.
+Sau khi tôi đấm vào bụng tên thủ lĩnh cướp và làm hắn bất tỉnh, tôi bắt đầu dọn dẹp xung quanh.
 
-Tôi dùng phép thuật Đất để thu thập các xác chết, các bộ phận rải rác khắp nơi và mặt đất tắm đầy máu rồi chôn chúng bên
-vệ đường. Một cách tự nhiên, tôi đã san bằng mặt đất sau đó.
+Tôi dùng phép thổ để gom xác chết, các bộ phận văng tung tóe và mặt đất ngập máu, rồi chôn chúng ở bên đường. Tôi san phẳng mặt đất sau đó, tất nhiên rồi.
 
-Sau khi đào xong, tôi lại đào một cái hố khác và chôn tên thủ lĩnh ở đó, chỉ lộ mặt ra.
+Sau khi xong tôi đào thêm một cái hố khác và chôn tên thủ lĩnh cướp vào đó, chỉ để mặt hắn lộ ra ngoài.
 
-Bên cạnh đó, tôi cắm một tấm bảng ghi “Tôi là thủ lĩnh của băng cướp đang khủng bố khu vực này”.
+Cạnh đó, tôi cắm một tấm biển ghi: "Ta là thủ lĩnh của bọn cướp đã hoành hành khu vực này".
 
-Tuy nhiên, nhóm của Barnar - những người đã theo dõi mọi việc tôi làm - và Bacchus, người vừa xuống xe được nửa đường,
-nhìn tôi với vẻ hoài nghi.
+Nhóm của Barnar — người đã chứng kiến mọi thứ tôi làm — và Bacchus, người xuống xe từ nửa đường, nhìn tôi đầy không tin.
 
-"Hở? Chuyện gì vậy? Chôn cất anh ta có quá nhiều không? Có lẽ tôi nên treo cổ anh ta lên cây…”
+"Eh? Có chuyện gì vậy? Chôn hắn là quá đáng à? Có lẽ tôi nên treo hắn lên cây…"
 
-“Không không không, thế là quá đủ rồi! Thật sự!"
+"Không không không, thế là quá đủ rồi! Thật sự!"
 
-Bacchus xen vào và không để tôi nói hết câu.
+Bacchus ngắt lời và không để tôi nói hết câu.
 
-Tôi không thể nhìn ra vấn đề và nghiêng đầu sang một bên, nhưng Barnar và những người khác lại thở dài bất lực.
+Tôi không thấy vấn đề gì và nghiêng đầu sang một bên, nhưng Barnar và những người khác thở dài bất lực.
 
 ~
 
 Một lúc sau, chúng tôi lại lên xe ngựa và tiếp tục hành trình đến Vaana.
 
-Chúng tôi lặng lẽ lắc lư trong chiếc xe ngựa một lúc, rồi Barnar nói với tôi như thể đang nhớ lại điều gì đó.
+Chúng tôi lặng lẽ bị xe lắc lư một thời gian, rồi Barnar lên tiếng với tôi như vừa nhớ ra điều gì đó.
 
-“Ồ đúng rồi, Haruto…ma thuật gió đó là gì vậy? Tôi chưa bao giờ thấy bất cứ điều gì như vậy trước đây.”
+"À phải, Haruto…phong thuật lúc nãy là gì vậy? Tôi chưa từng thấy thứ gì như thế."
 
-Hửm? Ồ, có lẽ là hình tròn.
+Hm? Ồ, cái vòng tròn ấy hả, chắc là vậy.
 
-“Về cơ bản nó là một biến thể của Wind Slash. Bằng cách tung ra nó theo chuyển động tròn, bạn có thể biến nó thành một
-đòn tấn công theo mọi hướng. Sức mạnh tấn công và phạm vi thay đổi tùy thuộc vào sức mạnh ma thuật được sử dụng,
-nhưng…chà, trong lần thử đầu tiên, nó hoạt động khá tốt, tôi đoán vậy.”
+"Nó là một biến thể của Kiếm Gió, về cơ bản. Bằng cách phóng nó theo chuyển động tròn, anh có thể biến nó thành đòn tấn công lan ra mọi hướng. Sức mạnh tấn công và tầm thay đổi tùy theo lượng ma lực sử dụng, nhưng…ừ, thử lần đầu mà cũng tạm ổn rồi, tôi đoán vậy."
 
-Barnar lại một lần nữa bối rối trước câu trả lời của tôi.
+Barnar lại một lần nữa sững sờ trước câu trả lời của tôi.
 
-“Bạn đã tạo ra một phép thuật ngay lần thử đầu tiên!? Nhân tiện…có vẻ như nó được kích hoạt khi kẻ địch ở khá gần, có
-cần nhiều ma lực để sử dụng không?”
+"Anh tạo ra một phép thuật ngay lần thử đầu!? À mà…nó trông như kích hoạt khi kẻ thù khá gần, vậy nó cần nhiều ma lực để thi triển không?"
 
-“Không hẳn, nó cũng giống như một Chém Gió thông thường. Tôi thực sự đã giữ nó ở mức khá thấp, nếu tôi truyền thêm sức
-mạnh ma thuật thì nhát chém sẽ ảnh hưởng đến phạm vi rộng hơn…và tôi không *tạo* thần chú, chỉ *sửa đổi* nó một chút.”
+"Không hẳn, cũng ngang một Kiếm Gió bình thường thôi. Thực ra tôi còn *giữ khá nhẹ*, nếu tôi bơm thêm ma lực, lưỡi chém sẽ ảnh hưởng phạm vi rộng hơn…và tôi đã không *tạo* phép, chỉ *chỉnh sửa* nó một chút."
 
-“…một phép thuật mạnh mẽ như thế lại *được giữ ở mức khá thấp*…? Bạn thực sự là một cái gì đó khác…”
+"...Một phép mạnh như thế mà *giữ khá nhẹ*…? Cậu thật sự là một hiện tượng khác thường…"
 
 Barnar nhìn tôi như thể tôi là người ngoài hành tinh hay một hiện tượng siêu nhiên.
 
-Đừng nhìn tôi như thế, vì Chúa…
+Đừng nhìn tôi kiểu đó, vì Chúa, làm ơn…
+
+---
+
+[←Trước](https://web.archive.org/web/20241113083850//twem-vol-1-chapter-5/) | [Tiếp→](https://web.archive.org/web/20241113083850//twem-vol-1-chapter-7/)
