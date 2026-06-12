@@ -105,7 +105,7 @@ Sau khi tôi đáp lại lời chào của họ, Finne và Iris cũng vậy.
 
 Điều kiện của tôi là họ phải có kỹ năng ít nhất bằng mạo hiểm giả hạng C, nên họ lẽ ra phải có thể tự chiến đấu, nhưng tôi thấy khó tin rằng các cô gái lại là hai trong số những người có điểm thi cao nhất.
 
-Tôi biết hơi bất công khi làm vậy, nhưng tôi quyết định sử dụng God Eye để kiểm tra trạng thái của họ.
+Tôi biết hơi bất công khi làm vậy, nhưng tôi quyết định sử dụng Thần Nhãn để kiểm tra trạng thái của họ.
 
 | **TÊN:** | **Lyla** |
 | --- | --- |

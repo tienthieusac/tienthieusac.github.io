@@ -199,13 +199,13 @@ Tôi tạo hình khẩu súng bằng hai tay và dùng Thao Túng Ma Lực để
 
 Finne hỏi, giọng đầy ngạc nhiên.
 
-"Cái này à? Là đạn ma thuật."
+"Cái này à? Là đạn phép thuật."
 
-"Đạn ma thuật?"
+"Đạn phép thuật?"
 
 "Vâng. Anh tụ ma lực từ cơ thể rồi tạo hình thành viên đạn. Sau đó bắn vào kẻ địch. Đặc điểm lớn nhất là vì không phải phép thuật nguyên tố, nên không bị khắc chế bởi hệ nào."
 
-Giải thích xong, tôi bắn ra tám viên đạn ma thuật.
+Giải thích xong, tôi bắn ra tám viên đạn phép thuật.
 
 Những viên đạn bay trong không khí không một tiếng động và thổi bay đầu của lũ quái vật ẩn trong bụi phía trước.
 

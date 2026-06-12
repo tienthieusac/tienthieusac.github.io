@@ -241,7 +241,7 @@ Nỗi lo sợ non nớt của tôi được giải đáp bởi giọng nói kim 
 
 Hóa ra kỹ năng này giúp ích cho việc khiêu vũ, lễ nghi và những thứ hữu ích khác cho quý tộc.
 
-Một lần nữa, All Creation chứng minh giá trị tuyệt vời của nó.
+Một lần nữa, Toàn Tạo chứng minh giá trị tuyệt vời của nó.
 
 "S-sir Haruto…em không nghĩ chúng ta sẽ trở thành tâm điểm chú ý như thế này…và em không biết cách nhảy đúng…"
 

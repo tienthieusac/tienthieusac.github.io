@@ -225,7 +225,7 @@ Tôi dùng Toàn Năng tạo một kỹ năng hàng rào.
 
 <<Kỹ năng "Ma Thuật Hàng Rào" đã có được. Cấp kỹ năng đạt 10. Kỹ năng được thêm vào Hợp Nhất Phép Thuật.>>
 
-Hiệu ứng của kỹ năng ma thuật hàng rào như sau:
+Hiệu ứng của kỹ năng phép thuật hàng rào như sau:
 
 **<Ma Thuật Hàng Rào>**
 

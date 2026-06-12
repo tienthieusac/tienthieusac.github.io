@@ -79,7 +79,7 @@ Nếu những công cụ phép thuật như vậy tồn tại ở thế giới n
 
 Tôi lập tức thử kích hoạt kỹ năng.
 
-Ngay lập tức, các nguyên liệu cần thiết để chế tạo công cụ liên lạc ma thuật xuất hiện trong đầu tôi.
+Ngay lập tức, các nguyên liệu cần thiết để chế tạo công cụ liên lạc phép thuật xuất hiện trong đầu tôi.
 
 Tốt, có vẻ tôi có thể làm nó với những gì mình có trong kho chứa đồ không gian.
 
@@ -91,7 +91,7 @@ Tốt, có vẻ tôi có thể làm nó với những gì mình có trong kho ch
 
 Tôi vỗ tay và bắt đầu nói chuyện lại.
 
-"...Đây rồi, quý cô và quý ông! Bài học kỹ thuật ma thuật hôm nay gồm có việc tạo ra công cụ liên lạc ma thuật!"
+"...Đây rồi, quý cô và quý ông! Bài học kỹ thuật phép thuật hôm nay gồm có việc tạo ra công cụ liên lạc phép thuật!"
 
 "...Anh đang nói với ai vậy?"
 
@@ -133,7 +133,7 @@ Khi tôi nói, một tia chớp đỏ sẫm đã thay đổi hình dạng của 
 
 Iris sững sờ. Hóa ra đó là lý do đằng sau sự khan hiếm của chúng.
 
-"Cuối cùng, chúng ta sẽ đặt viên đá quý vào vòng cổ, và công cụ liên lạc ma thuật của chúng ta đã hoàn thành! Nó dễ quá phải không?"
+"Cuối cùng, chúng ta sẽ đặt viên đá quý vào vòng cổ, và công cụ liên lạc phép thuật của chúng ta đã hoàn thành! Nó dễ quá phải không?"
 
 Bất chấp lời tôi, tất cả khán giả đều lắc đầu đáp lại.
 
@@ -149,13 +149,13 @@ Sebas cười gượng gạo.
 
 Ờ, cả một quốc gia chỉ có một công cụ phép thuật như vậy, nên tôi có thể hiểu cảm giác của ông ấy...hầu hết mọi người thậm chí còn không thể thấy một cái trong đời, chứ đừng nói đến mang theo. Tôi nên kiểm tra cách sử dụng chúng, giờ mới nghĩ lại.
 
-Tôi nhìn công cụ phép thuật trong tay và dùng Thiên Nhãn để phân tích nó.
+Tôi nhìn công cụ phép thuật trong tay và dùng Thần Nhãn để phân tích nó.
 
 **TÊN: Đá Hộ Mệnh Liên Lạc Ma Thuật**
 
 **ĐỘ HIẾM: Phantasm**
 
-**GHI CHÚ: Công cụ liên lạc ma thuật được tạo bởi Haruto.**
+**GHI CHÚ: Công cụ liên lạc phép thuật được tạo bởi Haruto.**
 
 **Truyền ma lực vào để liên lạc khoảng cách xa, thông qua ma lực trong không khí.**
 

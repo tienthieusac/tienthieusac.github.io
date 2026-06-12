@@ -111,7 +111,7 @@ Tendo là người phá vỡ bầu không khí ảm đạm, cố gắng tiếp t
 
 Ichinomiya ngẩng đầu lên sau khi nghe lời Tendo, ngạc nhiên và hy vọng hiện rõ trên nét mặt. Các học sinh khác cũng nhìn cậu chằm chằm, chờ đợi lời tiếp theo.
 
-"Tôi đang nghĩ sẽ đi tìm cậu ấy một ngày nào đó. Để tìm cậu ấy và trở về Trái Đất cùng nhau! Để làm được điều đó…chúng ta phải đánh bại ma vương. Hãy tập luyện, chinh phục hầm ngục, và bắt đầu hành trình tiêu diệt ma vương. Nghe chuyện xảy ra với Haruto, có lẽ một số người sẽ cảm thấy không thể chiến đấu…nên tôi không muốn ép buộc ai. Nhưng tôi muốn chúng ta cùng chiến đấu…! Mọi người, xin hãy cho tôi mượn sức mạnh của các bạn! Hãy đánh bại ma vương!"
+"Tôi đang nghĩ sẽ đi tìm cậu ấy một ngày nào đó. Để tìm cậu ấy và trở về Trái Đất cùng nhau! Để làm được điều đó…chúng ta phải đánh bại Ma Vương. Hãy tập luyện, chinh phục hầm ngục, và bắt đầu hành trình tiêu diệt Ma Vương. Nghe chuyện xảy ra với Haruto, có lẽ một số người sẽ cảm thấy không thể chiến đấu…nên tôi không muốn ép buộc ai. Nhưng tôi muốn chúng ta cùng chiến đấu…! Mọi người, xin hãy cho tôi mượn sức mạnh của các bạn! Hãy đánh bại Ma Vương!"
 
 Sau khi Tendo kết thúc lời kêu gọi mạnh mẽ, Mariana nhìn nhóm.
 
