@@ -183,7 +183,7 @@ Một lúc sau, hình như Barnar không kìm nổi nữa nên lại hỏi tôi 
 
 Tôi trả lời câu hỏi của Barnar bằng cách rút kiếm ra từ không gian lưu trữ.
 
-"Cái gì!? À, một chiếc túi ma thuật…ghen tị thật. Nhưng anh nên để kiếm lộ ra ngoài thị trấn, nếu không người ta sẽ nghĩ anh là mồi ngon."
+"Cái gì!? À, một chiếc túi phép thuật…ghen tị thật. Nhưng anh nên để kiếm lộ ra ngoài thị trấn, nếu không người ta sẽ nghĩ anh là mồi ngon."
 
 Tôi thành thật gật đầu trước lời cảnh báo của Barnar. Dù sao anh ấy cũng có kinh nghiệm hơn tôi với tư cách một mạo hiểm giả.
 

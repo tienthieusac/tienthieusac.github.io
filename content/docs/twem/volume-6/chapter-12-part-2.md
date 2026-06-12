@@ -45,11 +45,11 @@ Damnatio nhận ra sự thay đổi ở tôi.
 
 Vài giây, có khi vài phút? Damnatio và tôi nhìn nhau im lặng, và Damnatio là người hành động trước.
 
-Trong tích tắc, vô số vòng trận pháp mở ra quanh Damnatio và ma thuật được phóng ra.
+Trong tích tắc, vô số vòng trận pháp mở ra quanh Damnatio và phép thuật được phóng ra.
 
-Tôi chạy về phía Damnatio mà không lo lắng, tránh từng đòn ma thuật bay đến khi tôi tiến đến anh ta.
+Tôi chạy về phía Damnatio mà không lo lắng, tránh từng đòn phép thuật bay đến khi tôi tiến đến anh ta.
 
-Rồi tôi phát hiện vài phản ứng phía sau mình bằng cảm biến ma thuật.
+Rồi tôi phát hiện vài phản ứng phía sau mình bằng cảm biến phép thuật.
 
 Anh ta chắc hẳn đã tạo vòng trận pháp phía sau tôi.
 
@@ -57,11 +57,11 @@ Tôi giờ bị bao vây bởi vòng trận pháp. Tuy nhiên, tôi không muố
 
 "Đừng mềm yếu vậy."
 
-Tôi chặn ma thuật đang đến từ phía sau bằng bức tường nhô lên từ mặt đất.
+Tôi chặn phép thuật đang đến từ phía sau bằng bức tường nhô lên từ mặt đất.
 
 Bức tường sớm bị phá hủy, nhưng tôi nắm cơ hội nhảy trước mặt Damnatio.
 
-Vung kiếm chứa đầy ma thuật thuộc tính ánh sáng, tôi chém Damnatio, cắt qua ma thuật.
+Vung kiếm chứa đầy phép thuật thuộc tính ánh sáng, tôi chém Damnatio, cắt qua phép thuật.
 
 Tuy nhiên, Damnatio bình tĩnh vung vuốt xuống, và ba đường chém được phóng ra, triệt tiêu đòn tấn công của tôi khi chúng đến gần.
 
@@ -95,7 +95,7 @@ Tôi không hoảng và nhảy tránh, nhưng thứ gì đó giống xúc tu đe
 
 "Cái gì vậy…?"
 
-Tôi nhìn xuống và dùng Con Mắt Thần, nhưng không thấy gì.
+Tôi nhìn xuống và dùng Thần Nhãn, nhưng không thấy gì.
 
 "-Fireball!"
 
@@ -107,7 +107,7 @@ Tôi ngạc nhiên trước tình huống bất ngờ, nhưng Damnatio giải th
 
 "Darkness Invitation. Ma thuật ta tạo ra này chưa từng bị ai phá vỡ. Ta chắc rằng ngay cả ngươi cũng không thể xử lý."
 
-Tôi hiểu rồi. Vậy đó là ma thuật gốc. Không lạ gì Con Mắt Thần không phản ứng.
+Tôi hiểu rồi. Vậy đó là phép thuật gốc. Không lạ gì Thần Nhãn không phản ứng.
 
 Tôi tránh xúc tu đang đến từng cái một, mà không chạm vào chúng.
 

@@ -9,7 +9,7 @@ Tối hôm đó, một số hiệp sĩ do Glifas dẫn đầu và một nhóm ph
 
 Có vẻ, Glifas và Marvelle, những người chống hoàng gia, đã tập hợp chỉ các thành viên trong phe của họ và đã tổ chức các cuộc diễn tập chung ở thành phố phía tây trong nhiều ngày. Điều đó giải thích tại sao có rất ít hiệp sĩ và pháp sư hoàng cung trong lâu đài.
 
-Khi Glifas và những người khác nhìn thấy sự tàn phá trong lâu đài, họ nhanh chóng giơ vũ khí, nhưng khi Kusel và Thủ tướng giải thích tình hình, họ ngay lập tức bị thuyết phục và hứa sẽ giúp xây dựng lại đất nước.
+Khi Glifas và những người khác nhìn thấy sự tàn phá trong lâu đài, họ nhanh chóng giơ vũ khí, nhưng khi Kuzel và Thủ tướng giải thích tình hình, họ ngay lập tức bị thuyết phục và hứa sẽ giúp xây dựng lại đất nước.
 
 ～
 

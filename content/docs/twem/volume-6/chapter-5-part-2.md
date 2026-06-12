@@ -87,7 +87,7 @@ Fance, người đã bị thổi bay, dùng thương lấy lại tư thế và h
 
 Tất nhiên rồi.
 
-Ngoài Physical Boost, Arm Vigor, và Chiến Ý, kỹ năng tăng khả năng thể chất, đó là đòn đấm mạnh mẽ có ma thuật lửa trên nắm đấm.
+Ngoài Physical Boost, Arm Vigor, và Chiến Ý, kỹ năng tăng khả năng thể chất, đó là đòn đấm mạnh mẽ có phép thuật lửa trên nắm đấm.
 
 Fance điều chỉnh lại thương.
 

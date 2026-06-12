@@ -39,7 +39,7 @@ Khi tôi đưa nó cho Ilmina, cô ấy kiểm tra một cách do dự. Liebert,
 
 "Cái này được gọi là [Cốc Hộ Vệ]. Miễn là ma lực chảy qua nó, nó có thể tạo ra rào chắn chống phép thuật và vật lý bao phủ toàn bộ nhà thờ chính tòa. Chị thấy nước bên trong cốc ngay bây giờ chứ?"
 
-Nghe lời tôi, cả Ilmina và Liebert đều gật đầu. Chất lỏng bên trong thực ra là ma lực tập trung cao độ. Bằng cách đổ ma lực vào cốc, nó tạo ra nước — nước ma thuật — từ đáy và lấp đầy cốc. Nước ma thuật này được sử dụng để kích hoạt và duy trì rào chắn. Khi nó cạn, rào chắn biến mất và cốc chuyển sang màu bạc. Rào chắn cũng có hiệu ứng đẩy lùi quái vật và ác quỷ dưới một cấp độ nhất định, vậy nên có lẽ ngoại hình thần thánh là do hiệu ứng đó.
+Nghe lời tôi, cả Ilmina và Liebert đều gật đầu. Chất lỏng bên trong thực ra là ma lực tập trung cao độ. Bằng cách đổ ma lực vào cốc, nó tạo ra nước — nước phép thuật — từ đáy và lấp đầy cốc. Nước phép thuật này được sử dụng để kích hoạt và duy trì rào chắn. Khi nó cạn, rào chắn biến mất và cốc chuyển sang màu bạc. Rào chắn cũng có hiệu ứng đẩy lùi quái vật và ác quỷ dưới một cấp độ nhất định, vậy nên có lẽ ngoại hình thần thánh là do hiệu ứng đó.
 
 Sau khi giải thích mọi thứ, cả Ilmina và Liebert đều sững sờ. Nhưng sau một lúc, có vẻ họ chấp nhận nó nhưng vẫn hỏi một cách do dự.
 

@@ -41,7 +41,7 @@ Chúng tôi tiễn Iris, khi cô đi đến phòng chờ rồi quay lại chỗ 
 
 Nina vẫn chưa hết phấn khích về trận đấu.
 
-"Vậy thì đã đến lúc các thí sinh vào sân! Cô ấy di chuyển với tốc độ ánh sáng và áp đảo nhiều chiến binh dữ dối bằng đòn tấn công như bão! Đệ nhất công chúa Vương quốc Perdis, đồng thời là người sử dụng hai kiếm ma thuật, với biệt danh 'Kẻ Chém Sấm Sét' – Iris đây!"
+"Vậy thì đã đến lúc các thí sinh vào sân! Cô ấy di chuyển với tốc độ ánh sáng và áp đảo nhiều chiến binh dữ dối bằng đòn tấn công như bão! Đệ nhất công chúa Vương quốc Perdis, đồng thời là người sử dụng hai kiếm phép thuật, với biệt danh 'Kẻ Chém Sấm Sét' – Iris đây!"
 
 Iris bước vào giữa tiếng cổ vũ và vỗ tay.
 
@@ -83,21 +83,21 @@ Ngay lập tức, Iris sử dụng kỹ năng di chuyển tốc độ cao, Groun
 
 Bình luận của Nina không đến tai họ.
 
-Iris vung kiếm ma thuật Tempest, và Haganar chuẩn bị chiếc khiên cao bằng người mình.
+Iris vung kiếm phép thuật Tempest, và Haganar chuẩn bị chiếc khiên cao bằng người mình.
 
 "Tôi sẽ chẻ đôi chiếc khiên đó!"
 
-Kiếm ma thuật Tempest, mà cô vung xuống, dễ dàng bị đẩy lùi, nhưng Iris nhanh chóng chém vào khoảng trống bằng kiếm ma thuật Tonitrus ở tay kia mà không ngừng.
+Kiếm phép thuật Tempest, mà cô vung xuống, dễ dàng bị đẩy lùi, nhưng Iris nhanh chóng chém vào khoảng trống bằng kiếm phép thuật Tonitrus ở tay kia mà không ngừng.
 
 "―?!"
 
 Tuy nhiên, ngay sau đó, Iris lộ vẻ ngạc nhiên.
 
-Kiếm ma thuật Tonitrus bị chặn bởi chiếc khiên nhỏ khác của Haganar.
+Kiếm phép thuật Tonitrus bị chặn bởi chiếc khiên nhỏ khác của Haganar.
 
 "Ai nói chỉ có một chiếc khiên?"
 
-Haganar đẩy lùi kiếm ma thuật và tấn công cô bằng chiếc khiên.
+Haganar đẩy lùi kiếm phép thuật và tấn công cô bằng chiếc khiên.
 
 Tuy nhiên, Iris lùi lại tận dụng đà từ đòn đánh khiên.
 
@@ -119,7 +119,7 @@ Rồi, thứ gì đó bay qua đầu Iris.
 
 "Ồ, cô tránh được, nhưng…"
 
-Iris lấy lại tỉnh táo với lời của Haganar, và nhận ra bóng tối đã xuất hiện, cô nhanh chóng đặt kiếm ma thuật chéo lên đầu.
+Iris lấy lại tỉnh táo với lời của Haganar, và nhận ra bóng tối đã xuất hiện, cô nhanh chóng đặt kiếm phép thuật chéo lên đầu.
 
 Ngay lập tức, Iris bị một lực lớn đánh từ trên xuống.
 
@@ -153,7 +153,7 @@ Iris lăn trên đất, tống hết không khí trong phổi.
 
 "Ugh, ugh…"
 
-Tuy nhiên, Iris không trả lời câu hỏi của Haganar và đứng dậy dùng kiếm ma thuật làm gậy.
+Tuy nhiên, Iris không trả lời câu hỏi của Haganar và đứng dậy dùng kiếm phép thuật làm gậy.
 
 "…Tôi sẽ không. Vì anh đã cho tôi thấy thứ gì đó, tôi cũng sẽ cho anh thấy thứ hay ho."
 
@@ -171,7 +171,7 @@ Haganar cuối cùng không thể theo kịp chuyển động của Iris.
 
 "Cái gì!?"
 
-Iris xuất hiện sau lưng Haganar đang ngạc nhiên và vung kiếm ma thuật Tempest.
+Iris xuất hiện sau lưng Haganar đang ngạc nhiên và vung kiếm phép thuật Tempest.
 
 Thấy gió xoáy quanh Tempest, Haganar lập tức biến đại kiếm thành khiên và giơ lên.
 
@@ -203,7 +203,7 @@ Giọng nói đó thuộc về Iris.
 
 Cô không ngờ anh ta có thể theo kịp tốc độ này.
 
-Không chịu nổi tác động của va chạm, kiếm ma thuật Tempest và Tonitrus rời khỏi tay Iris và bay lên không trung, rơi thẳng xuống đất đấu trường.
+Không chịu nổi tác động của va chạm, kiếm phép thuật Tempest và Tonitrus rời khỏi tay Iris và bay lên không trung, rơi thẳng xuống đất đấu trường.
 
 Rồi, mũi đại kiếm chĩa về phía Iris.
 

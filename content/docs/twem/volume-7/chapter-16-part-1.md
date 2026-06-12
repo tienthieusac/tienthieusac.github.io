@@ -181,7 +181,7 @@ Dù sao, hãy giao Glatnis cho Zero.
 
 Tôi hỏi Zero.
 
-"Zero, anh có thể sử dụng ma thuật dịch chuyển không?"
+"Zero, anh có thể sử dụng phép thuật dịch chuyển không?"
 
 "Vâng. Tôi có thể."
 
@@ -195,7 +195,7 @@ Anh ta cũng có năng lực… nhưng khi nào anh ta học được nó?
 
 "Vậy tôi xin phép."
 
-Zero biến mất bằng ma thuật dịch chuyển. Và trong khi chúng tôi đang thảo luận về kế hoạch tương lai, Zero quay lại với Glatnis.
+Zero biến mất bằng phép thuật dịch chuyển. Và trong khi chúng tôi đang thảo luận về kế hoạch tương lai, Zero quay lại với Glatnis.
 
 Glatnis hình người là một người khổng lồ cơ bắp, cao hai mét, với đôi sừng mọc ra từ đầu, và trông khá đáng sợ.
 

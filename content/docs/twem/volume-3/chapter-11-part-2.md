@@ -127,13 +127,13 @@ Bây giờ thì sao? Bình thường, Heelis lẽ ra đã phải chết khi bị
 
 Tôi biết mà. Siêu tái sinh đó là một phiền toái. Tôi cũng có thể sử dụng phép hồi phục, nhưng khả năng tự động hồi phục ở tốc độ nhanh như vậy chỉ đơn giản là quá tiện lợi.
 
-Tuy nhiên, thực tế rằng All Creation và Copy, những kỹ năng có thể tạo ra mọi loại kỹ năng, không tự có được chúng, có nghĩa là chúng phải là kỹ năng đặc biệt. Tôi đoán chúng phải là kỹ năng đặc biệt không có sẵn cho con người.
+Tuy nhiên, thực tế rằng Toàn Tạo và Copy, những kỹ năng có thể tạo ra mọi loại kỹ năng, không tự có được chúng, có nghĩa là chúng phải là kỹ năng đặc biệt. Tôi đoán chúng phải là kỹ năng đặc biệt không có sẵn cho con người.
 
 Tôi tạo hình súng lục bằng tay trái trong khi tránh vô số cánh tay.
 
-Đó là cùng viên đạn ma thuật mà tôi đã bắn khi hắn ở trong quả cầu đen, nhưng lần này tôi đã tăng tốc độ và số lượng viên đạn để trông giống như súng trường. Điều này sẽ tăng đáng kể cả sức mạnh và độ xuyên thấu.
+Đó là cùng viên đạn phép thuật mà tôi đã bắn khi hắn ở trong quả cầu đen, nhưng lần này tôi đã tăng tốc độ và số lượng viên đạn để trông giống như súng trường. Điều này sẽ tăng đáng kể cả sức mạnh và độ xuyên thấu.
 
-Khi viên đạn ma thuật tôi bắn trúng đầu Heelis, nó lập tức phát nổ và biến mất thành bụi.
+Khi viên đạn phép thuật tôi bắn trúng đầu Heelis, nó lập tức phát nổ và biến mất thành bụi.
 
 Siêu tái sinh tái sinh đầu hắn, như đã tính.
 

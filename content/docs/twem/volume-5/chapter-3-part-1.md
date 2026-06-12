@@ -41,7 +41,7 @@ Có phải họ đang bảo tôi chọn không?
 
 Tôi đắn đo một lúc rồi quyết định chọn món hoàn hảo cho mỗi người.
 
-Một chiếc vòng tay với đá quý nhỏ màu xanh trời cho Finne, một chiếc vòng tay với đá quý nhỏ màu đỏ thẫm cho Iris. Tôi mua một chiếc trâm tóc đỏ thẫm cho Kusel, một chiếc vòng tay khảm đá màu ngọc cho Ephyr, và một chiếc vòng tay màu hồng anh đào cho Suzuno.
+Một chiếc vòng tay với đá quý nhỏ màu xanh trời cho Finne, một chiếc vòng tay với đá quý nhỏ màu đỏ thẫm cho Iris. Tôi mua một chiếc trâm tóc đỏ thẫm cho Kuzel, một chiếc vòng tay khảm đá màu ngọc cho Ephyr, và một chiếc vòng tay màu hồng anh đào cho Suzuno.
 
 Cho Asha, một chiếc dây chuyền khảm đá quý nhỏ màu vàng sẽ không cản trở công việc của cô ấy, và cho Zero, một đôi khuyên tai đen.
 
@@ -79,23 +79,23 @@ Asha gật đầu.
 
 "Tất nhiên."
 
-Rồi Kusel đi xuống cầu thang.
+Rồi Kuzel đi xuống cầu thang.
 
 "Tôi nghe nói gì đó về nhiệm vụ hả?"
 
 Trời ơi, tai thính thật…
 
-"Cô muốn đi cùng không, Kusel?"
+"Cô muốn đi cùng không, Kuzel?"
 
 "Tôi có thể chứ?"
 
-Nghe câu trả lời của Kusel, tôi quay lại tập trung và Asha gật đầu.
+Nghe câu trả lời của Kuzel, tôi quay lại tập trung và Asha gật đầu.
 
 "Tôi không phiền đâu."
 
 "Được rồi. Vậy tôi cũng đi."
 
-Kusel nói vui vẻ.
+Kuzel nói vui vẻ.
 
 Đoán hôm nay là ba người chúng tôi… nói mới nhớ, Zero đâu rồi?
 
@@ -131,7 +131,7 @@ Zero phủ nhận, nhưng tôi có thể thấy qua biểu cảm của cậu ấ
 
 "Vâng."
 
-Vậy, sau khi chuẩn bị xong, Asha, Kusel và tôi rời quán trọ và hướng đến hội mạo hiểm giả.
+Vậy, sau khi chuẩn bị xong, Asha, Kuzel và tôi rời quán trọ và hướng đến hội mạo hiểm giả.
 
 Ngay khi chúng tôi đến trước tòa nhà hội, chúng tôi có thể nghe thấy sự ồn ào hỗn loạn xuyên qua cánh cửa.
 
@@ -161,7 +161,7 @@ Vài người liếc nhìn chúng tôi khi chúng tôi vào.
 
 "Tôi đoán vậy."
 
-Ba chúng tôi, tôi, Asha và Kusel, mỗi người nói một câu khác nhau, nhưng có vẻ tất cả chúng tôi đều nghĩ giống nhau.
+Ba chúng tôi, tôi, Asha và Kuzel, mỗi người nói một câu khác nhau, nhưng có vẻ tất cả chúng tôi đều nghĩ giống nhau.
 
 Khi chúng tôi sắp đi ngang qua hai người đang cãi nhau, một giọng nói vang lên hướng về chúng tôi.
 
@@ -213,9 +213,9 @@ Tôi nói với người tiếp tân những gì tôi muốn.
 
 "Đã rõ. Tôi có thể xin thẻ mạo hiểm giả của mọi người được không?"
 
-Asha, Kusel và tôi trình thẻ mạo hiểm giả.
+Asha, Kuzel và tôi trình thẻ mạo hiểm giả.
 
-Asha, người là mạo hiểm giả hạng C, trình thẻ của mình, tiếp theo là Kusel, người là mạo hiểm giả hạng A, có lẽ điều này khiến người tiếp tân ngạc nhiên và cô ấy thì thầm, "Wow, chị là mạo hiểm giả hạng A?!".
+Asha, người là mạo hiểm giả hạng C, trình thẻ của mình, tiếp theo là Kuzel, người là mạo hiểm giả hạng A, có lẽ điều này khiến người tiếp tân ngạc nhiên và cô ấy thì thầm, "Wow, chị là mạo hiểm giả hạng A?!".
 
 Cuối cùng, khi đến lượt tôi trình thẻ, tôi nói với cô ấy, "Làm ơn cố đừng ngạc nhiên", trước khi đưa thẻ mạo hiểm giả của mình cho cô ấy.
 
@@ -227,7 +227,7 @@ Cô ấy đông cứng lại như thể thời gian ngừng trôi.
 
 "Ừ, chắc chắn rồi."
 
-Asha và Kusel đang trách tôi, nhưng tôi không thể cãi lại vì họ nói đúng.
+Asha và Kuzel đang trách tôi, nhưng tôi không thể cãi lại vì họ nói đúng.
 
 Tôi không thể cứ để mọi chuyện dừng ở đó, nên tôi gọi người tiếp tân vẫn đang đông cứng, rồi cô ấy giật mình tỉnh lại và vội vàng xin lỗi.
 

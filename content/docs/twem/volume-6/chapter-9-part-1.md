@@ -7,7 +7,7 @@ weight: 9.1
 
 Trong khi Haruto đang cố nói chuyện với Damnatio, Oskar đang chiến đấu với một con rồng.
 
-Tuy nhiên, do khả năng kháng ma thuật và thể chất của rồng, ông ta không thể gây sát thương đáng kể và thiếu đòn quyết định.
+Tuy nhiên, do khả năng kháng phép thuật và thể chất của rồng, ông ta không thể gây sát thương đáng kể và thiếu đòn quyết định.
 
 Oskar tránh Breath của rồng và cố tấn công, nhưng da cứng của rồng đẩy lùi kiếm ông ta.
 
@@ -21,7 +21,7 @@ Nếu chậm hơn một chút, ông ta đã mất cánh tay trái rồi.
 
 Rồi, ngay khi rồng dang cánh, một số vòng trận pháp xuất hiện phía trước nó.
 
-Từng cái một, ma thuật được giải phóng từ các vòng trận pháp này, không cho Oskar thở.
+Từng cái một, phép thuật được giải phóng từ các vòng trận pháp này, không cho Oskar thở.
 
 Ma thuật được phóng ra là thương lửa, nhưng có hơn 20 cái.
 
@@ -47,7 +47,7 @@ Con rồng định phát ra tiếng gầm chiến thắng khi nó thấy bóng n
 
 Bóng người đó là Oskar, người mà con rồng nghĩ đã bị xóa sổ.
 
-Trong tay ông ta là kiếm ma thuật đỏ thẫm.
+Trong tay ông ta là kiếm phép thuật đỏ thẫm.
 
 Khi rồng thấy Oskar, nó đông cứng lại.
 
@@ -69,17 +69,17 @@ Ngọn lửa tiếp tục lao về phía rồng, nhưng bị chẻ đôi bởi v
 
 Nhưng Oskar chưa xong.
 
-Oskar đã di chuyển trước mặt rồng và giơ kiếm ma thuật lên.
+Oskar đã di chuyển trước mặt rồng và giơ kiếm phép thuật lên.
 
 Con rồng cố tấn công để tự vệ, nhưng Oskar nhanh hơn.
 
 "—CHẾT!"
 
-Với tuyên bố tàn nhẫn, Oskar giơ kiếm ma thuật lên trời.
+Với tuyên bố tàn nhẫn, Oskar giơ kiếm phép thuật lên trời.
 
 "Thiêu cháy nó—Inferno!"
 
-Ngọn lửa đỏ-đen nuốt chửng kiếm ma thuật Oskar cầm, và khi nó vung xuống, nó trở thành đường chém và được phóng về phía rồng.
+Ngọn lửa đỏ-đen nuốt chửng kiếm phép thuật Oskar cầm, và khi nó vung xuống, nó trở thành đường chém và được phóng về phía rồng.
 
 Ở khoảng cách gần như vậy và với cơ thể khổng lồ của rồng, không có cách nào tránh, cho phép đường chém cắt sâu vào ngực rồng.
 
@@ -105,13 +105,13 @@ Suzuno, Asha và Ephyr đứng cách một đoạn, với Suzuno thỉnh thoản
 
 Ma thuật của Finne được kích hoạt, và nó đánh trúng con rồng trên bầu trời.
 
-Băng dần phủ bề mặt cơ thể rồng, vì nó không thể phản ứng với ma thuật và sau vài giây, nó rơi xuống đất.
+Băng dần phủ bề mặt cơ thể rồng, vì nó không thể phản ứng với phép thuật và sau vài giây, nó rơi xuống đất.
 
 "Iris!"
 
 "Để tôi!"
 
-Iris, cầm kiếm ma thuật Tortonis và kiếm ma thuật Tempest, tiến đến con rồng bị đóng băng.
+Iris, cầm kiếm phép thuật Tortonis và kiếm phép thuật Tempest, tiến đến con rồng bị đóng băng.
 
 "Shiden Issen Kamikaze!"
 
@@ -155,7 +155,7 @@ Vết thương của rồng bị đóng băng bởi hiệu ứng kiếm Gentoh S
 
 Kuzel nhảy lên và đâm kiếm vào mắt rồng.
 
-Con rồng ngậm miệng vì đau, và ma thuật đang hội tụ phát nổ trong miệng nó.
+Con rồng ngậm miệng vì đau, và phép thuật đang hội tụ phát nổ trong miệng nó.
 
 Kuzel buông kiếm và lùi khỏi hiện trường cùng Finne, tụ tập với Iris.
 

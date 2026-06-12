@@ -19,7 +19,7 @@ Mồ hôi lạnh chảy dọc lưng tôi.
 
 Chỉ là tôi hay mắt họ đang lạnh hơn?
 
-Tôi quay sang Kusel, nhưng cô ấy trông không hứng thú, và Asha đang trông ngơ ngác.
+Tôi quay sang Kuzel, nhưng cô ấy trông không hứng thú, và Asha đang trông ngơ ngác.
 
 Zero đang đứng yên với mắt nhắm, như thể cậu ấy không hề quan tâm đến chủ đề… cậu ấy không ngủ, đúng không?
 

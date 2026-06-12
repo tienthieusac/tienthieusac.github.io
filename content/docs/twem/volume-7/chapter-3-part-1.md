@@ -105,9 +105,9 @@ Chúng tôi bắt đầu thảo luận và một giờ trôi qua nhanh chóng, r
 
 ～
 
-Nơi tôi đến là căn phòng đặt các dụng cụ ma thuật liên lạc.
+Nơi tôi đến là căn phòng đặt các dụng cụ phép thuật liên lạc.
 
-"Tôi đã đến hoàng cung vài lần, nhưng đây là lần đầu tiên tôi ở đây. Đây là dụng cụ ma thuật liên lạc sao?"
+"Tôi đã đến hoàng cung vài lần, nhưng đây là lần đầu tiên tôi ở đây. Đây là dụng cụ phép thuật liên lạc sao?"
 
 Ở đó, trên bàn, là một quả cầu pha lê dài khoảng 30 centimet.
 
@@ -209,7 +209,7 @@ Ngay sau đó, một quốc vương giơ tay và lên tiếng.
 
 Các quốc vương khác cũng đang chờ xem phản ứng của tôi.
 
-Điều đó là tự nhiên vì con người ở thế giới này thừa nhận rằng lũ quỷ, đặc biệt là ma vương, là kẻ thù của loài người.
+Điều đó là tự nhiên vì con người ở thế giới này thừa nhận rằng lũ quỷ, đặc biệt là Ma Vương, là kẻ thù của loài người.
 
 "Tôi sẽ làm. Và sau đó, hãy tạo ra một nơi cho các cuộc đàm phán hòa bình với các quốc vương loài người."
 
@@ -233,7 +233,7 @@ Sau khi nghe câu hỏi của Dillan, tôi quay sang Tendo.
 
 "Đúng là vậy. Ngay cả khi ước tính nhiều nhất, nó sẽ mất hơn một tháng một chút, tính cả thời gian quay lại."
 
-Chà, tôi có ma thuật dịch chuyển tức thời khi quay về, nên chỉ trong tích tắc thôi.
+Chà, tôi có phép thuật dịch chuyển tức thời khi quay về, nên chỉ trong tích tắc thôi.
 
 "Hừm. Vậy tôi sẽ để việc quyết định thời điểm khởi hành cho Haruto. Mọi người thấy vậy được không?"
 

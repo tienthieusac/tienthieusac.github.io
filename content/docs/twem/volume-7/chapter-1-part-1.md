@@ -109,9 +109,9 @@ Trong số đó cũng có cả những người từ nhà thờ.
 
 Dù nhiều thứ đã bị tàn phá, chỉ còn sót lại vài tòa nhà đổ nát, và công việc đang được triển khai hết sức khẩn trương.
 
-Khác với Trái Đất, công việc ở đây được thực hiện rất nhanh, có lẽ nhờ có ma thuật.
+Khác với Trái Đất, công việc ở đây được thực hiện rất nhanh, có lẽ nhờ có phép thuật.
 
-Họ dường như không sử dụng loại ma thuật mà tôi đã dùng để sửa lại nhà thờ chính tòa, nhưng ma thuật quả thực tạo ra khác biệt rất lớn.
+Họ dường như không sử dụng loại phép thuật mà tôi đã dùng để sửa lại nhà thờ chính tòa, nhưng phép thuật quả thực tạo ra khác biệt rất lớn.
 
 Chúng tôi đến quán trọ, đặt phòng hai đêm, rồi ra ngoài phố.
 
@@ -157,11 +157,11 @@ Trong khi Finne gật gù đồng ý với lời tôi, Char nghiêng đầu tỏ
 
 Char trông đầy ngạc nhiên trước lời tôi.
 
-Cấp độ của tôi cao hơn, nhưng ác quỷ am hiểu ma thuật hơn và có năng lực làm suy yếu chúng tôi.
+Cấp độ của tôi cao hơn, nhưng ác quỷ am hiểu phép thuật hơn và có năng lực làm suy yếu chúng tôi.
 
 Tôi mới đến thế giới này chưa đầy một năm, còn ác quỷ đó đã sống hàng trăm năm rồi.
 
-Nói thật, tôi phải thừa nhận rằng hắn ta giỏi ma thuật hơn tôi.
+Nói thật, tôi phải thừa nhận rằng hắn ta giỏi phép thuật hơn tôi.
 
 Nhưng dù sao, tôi đã thắng, nên cũng không sao.
 
@@ -229,7 +229,7 @@ Chúng tôi ở lại nhà thờ chính tòa, nhưng thấy áy náy khi ngồi 
 
 Công việc chính là dọn dẹp và sửa chữa bên ngoài tòa nhà.
 
-Tuy nhiên, nhờ có ma thuật, mọi thứ đều nhanh chóng và dễ dàng.
+Tuy nhiên, nhờ có phép thuật, mọi thứ đều nhanh chóng và dễ dàng.
 
 Trong khi tôi đang nghỉ ngơi tại nhà thờ chính tòa cùng các tu sĩ đang cảm ơn, một giọng nói vang lên gọi tôi từ phía sau.
 

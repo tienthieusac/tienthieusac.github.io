@@ -5,7 +5,7 @@ weight: 7
 
 # Chương 7 – Mục Tiêu Tương Lai
 
-Khi chúng tôi đã quay lại lối vào dungeon, tôi đưa Maguro và cỗ xe ra khỏi không gian con.
+Khi chúng tôi đã quay lại lối vào hầm ngục, tôi đưa Maguro và cỗ xe ra khỏi không gian con.
 
 "Nào, mình lên đường thôi. Mọi người giúp tôi chuẩn bị được không?"
 
@@ -155,15 +155,15 @@ Bên trong là ngài Dillan và phu nhân Amalia, hoàng hậu.
 
 Sau lời chào ngắn, tôi quyết định giới thiệu những người đồng hành mới của mình.
 
-"Ngài Dillan, đây là người đồng hành mới của tôi, Kusel."
+"Ngài Dillan, đây là người đồng hành mới của tôi, Kuzel."
 
-Kusel quỳ một gối và chào hỏi.
+Kuzel quỳ một gối và chào hỏi.
 
-"Tên tôi là Kusel, tôi từng là phó hiệp sĩ trưởng của vương quốc Glicente. Hiện tại tôi đang làm mạo hiểm giả cùng Haruto."
+"Tên tôi là Kuzel, tôi từng là phó hiệp sĩ trưởng của vương quốc Glicente. Hiện tại tôi đang làm mạo hiểm giả cùng Haruto."
 
 "Ta hiểu. Ta đã nghe về cô từ Haruto. Xin hãy chăm sóc anh ấy."
 
-Dillan nói với Kusel một cách dịu dàng.
+Dillan nói với Kuzel một cách dịu dàng.
 
 "Và—"
 
@@ -341,9 +341,9 @@ Cả ba cúi đầu trong sự tôn kính và khiêm tốn, nhưng chắc hẳn 
 
 "Ồ đúng rồi, tôi muốn giới thiệu ba người với những thành viên mới nhất của chúng ta."
 
-Tôi giục Kusel và Zero bước lên.
+Tôi giục Kuzel và Zero bước lên.
 
-"Tôi là Kusel, cựu Phó Hiệp sĩ Trưởng của vương quốc Glicente. Hiện tại tôi là một mạo hiểm giả. Rất vui được gặp."
+"Tôi là Kuzel, cựu Phó Hiệp sĩ Trưởng của vương quốc Glicente. Hiện tại tôi là một mạo hiểm giả. Rất vui được gặp."
 
 Sebas và những người khác phản ứng nhẹ với từ Glicente, nhưng nhanh chóng cúi đầu.
 

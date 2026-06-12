@@ -71,7 +71,7 @@ Rồi, thật ngạc nhiên, cành cây mỏng của cây quấn quanh chân tô
 
 Tôi có thể thấy đó là lý do tôi không thể di chuyển.
 
-Thú vị. Đó thực sự là kiếm ma thuật thú vị.
+Thú vị. Đó thực sự là kiếm phép thuật thú vị.
 
 Nói đến Yamabuki, tôi nhớ có cây như vậy. Nếu tôi nhớ không lầm, chữ Hán là Yamabuki\*. (TLN: Còn được biết đến là cây hồng Nhật Bản)
 
@@ -127,7 +127,7 @@ Cùng lúc với âm thanh kiếm được tra vào vỏ, tất cả hoa dại n
 
 Kỹ thuật gọi là Enmity Cherry Blossom là thứ tôi vừa tạo ra.
 
-Tọa độ mục tiêu được xác định bởi ma thuật không-thời gian, và đường chém với sức mạnh nghiêm trọng tuyệt đối được phóng đến mục tiêu thông qua Thao túng Ma lực chính xác, khiến nó biến mất.
+Tọa độ mục tiêu được xác định bởi phép thuật không-thời gian, và đường chém với sức mạnh nghiêm trọng tuyệt đối được phóng đến mục tiêu thông qua Thao túng Ma lực chính xác, khiến nó biến mất.
 
 Kỹ thuật này, cắt đứt cả không gian, có thể được gọi là kỹ thuật tốt nhất tôi có thể dùng.
 

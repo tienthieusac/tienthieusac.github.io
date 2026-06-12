@@ -31,7 +31,7 @@ Tôi tò mò, nên tôi thẩm định thanh kiếm Damnatio đang cầm.
 
 **Những ai bị kiếm này chém sẽ nhận hiệu ứng lời nguyền.**
 
-**Chi tiết lời nguyền là 20% hạn chế kích hoạt ma thuật, khả năng thể chất và sức mạnh của kỹ năng chiến đấu.**
+**Chi tiết lời nguyền là 20% hạn chế kích hoạt phép thuật, khả năng thể chất và sức mạnh của kỹ năng chiến đấu.**
 
 **\*(TLN: Độ hiếm vật phẩm = Common < Rare < Artifact < Legend < Phantasm < Divine < Genesis)**
 

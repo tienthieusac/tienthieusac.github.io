@@ -42,7 +42,7 @@ Tôi biết ngài ấy có những kỹ năng độc nhất mạnh mẽ. Chúng 
 
 **Có được sự bất tử, bay, thao túng dòng máu, nguyên tử hóa, tái sinh siêu phàm, Tăng cường Thể chất, và thao túng không gian.**
 
-**Giảm mạnh sát thương từ ma thuật ánh sáng và ma thuật thánh.**
+**Giảm mạnh sát thương từ phép thuật ánh sáng và phép thuật thánh.**
 
 **Tăng cường gấp đôi Tăng cường Thể chất cơ bản và kỹ năng chiến đấu trong trận chiến.**
 
@@ -52,7 +52,7 @@ Tôi biết ngài ấy có những kỹ năng độc nhất mạnh mẽ. Chúng 
 
 **<Ân sủng Mặt Trăng>**
 
-**Trong trường hợp trăng tròn, các đòn tấn công ma thuật ánh sáng và ma thuật thánh bị vô hiệu hóa.**
+**Trong trường hợp trăng tròn, các đòn tấn công phép thuật ánh sáng và phép thuật thánh bị vô hiệu hóa.**
 
 .
 
@@ -62,7 +62,7 @@ Tôi biết ngài ấy có những kỹ năng độc nhất mạnh mẽ. Chúng 
 
 **Ma thuật kéo bạn xuống địa ngục.**
 
-**Mặc dù là ma thuật mạnh mẽ, nhưng cần thời gian để kích hoạt.**
+**Mặc dù là phép thuật mạnh mẽ, nhưng cần thời gian để kích hoạt.**
 
 .
 
@@ -138,13 +138,13 @@ Rồi cuối cùng tôi mở miệng.
 
 Nghe lời tôi, Ma Vương thắp lên ngọn lửa đen trong lòng bàn tay.
 
-Tuy nhiên, lượng ma lực chứa trong đó là bất thường và không trông giống ma thuật bình thường.
+Tuy nhiên, lượng ma lực chứa trong đó là bất thường và không trông giống phép thuật bình thường.
 
 Có lẽ đó là "Ma thuật Vực thẳm" có trong bộ kỹ năng độc nhất.
 
 *Ellis, bạn có thông tin nào về Ma thuật Vực thẳm hơn những gì tôi vừa thẩm định không?*
 
-《Ma thuật Vực thẳm là một loại ma thuật gọi là "thuật pháp" đã được sử dụng từ lâu. Nó cực kỳ mạnh mẽ và được cho là nền tảng của Ma thuật Bóng tối.》
+《Ma thuật Vực thẳm là một loại phép thuật gọi là "thuật pháp" đã được sử dụng từ lâu. Nó cực kỳ mạnh mẽ và được cho là nền tảng của Ma thuật Bóng tối.》
 
 Tôi hiểu rồi. Có lẽ tốt nhất là nên thận trọng.
 
@@ -160,7 +160,7 @@ Rồi, tôi chẻ đôi ngọn lửa đen.
 
 Ma Vương hét lên ngạc nhiên.
 
-"…Nếu ngươi là một con quỷ đủ mạnh để chặn ma thuật của ta, ta lẽ ra phải nghe nói về ngươi. Rốt cuộc ngươi là ai?"
+"…Nếu ngươi là một con quỷ đủ mạnh để chặn phép thuật của ta, ta lẽ ra phải nghe nói về ngươi. Rốt cuộc ngươi là ai?"
 
 Rồi tôi tháo nhẫn ra và trở lại vẻ ngoài ban đầu.
 
@@ -174,7 +174,7 @@ Sau một khoảng trễ, Tendo cũng tháo nhẫn và tự giới thiệu.
 
 "Tôi là Koji Tendo."
 
-Ma Vương thắp ma thuật ở cả hai tay và hỏi tôi và Tendo, trong khi vẫn cảnh giác với chúng tôi.
+Ma Vương thắp phép thuật ở cả hai tay và hỏi tôi và Tendo, trong khi vẫn cảnh giác với chúng tôi.
 
 "Các người đến đây làm gì? Các người đến đây để giết ta à?"
 
@@ -262,9 +262,9 @@ Có vẻ như cô ấy đã tin tôi.
 
 Fran nghiêng đầu hỏi: "Sao vậy?"
 
-"Xin hãy xóa ma thuật trong tay ngài được chứ? Chúng tôi không có ý định chiến đấu với ngài."
+"Xin hãy xóa phép thuật trong tay ngài được chứ? Chúng tôi không có ý định chiến đấu với ngài."
 
-Tôi định nói chuyện nhưng ma thuật hơi làm phiền.
+Tôi định nói chuyện nhưng phép thuật hơi làm phiền.
 
 Không, đó là lỗi tôi, nên tôi không thể phàn nàn.
 
@@ -284,7 +284,7 @@ Tuy nhiên, Fran hẳn đã biết.
 
 "Vâng. Có dấu hiệu của sự sống, nhưng điều đó không có nghĩa là họ an toàn."
 
-Vâng, có khả năng một số người trong số họ bị thương nặng hoặc bị đầu độc, nhưng tôi không biết gì về chất độc hay loại ma thuật như vậy.
+Vâng, có khả năng một số người trong số họ bị thương nặng hoặc bị đầu độc, nhưng tôi không biết gì về chất độc hay loại phép thuật như vậy.
 
 "Đừng lo. Tôi đã không giết ai. Họ chỉ bất tỉnh thôi, và tôi chắc chắn họ sẽ tỉnh dậy vào buổi sáng."
 
@@ -294,7 +294,7 @@ Fran thở phào khi nghe điều đó.
 
 "Vâng."
 
-Fran xóa ma thuật trong tay.
+Fran xóa phép thuật trong tay.
 
 "Vậy các ngươi có thể ngồi ở đó."
 

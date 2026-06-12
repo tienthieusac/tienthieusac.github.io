@@ -11,9 +11,9 @@ Trước mặt tôi, Haruto, Heelis được bao bọc trong ma lực đen.
 
 Tôi không có bất kỳ thông tin nào, nhưng tôi có thể nói rằng đó không phải là điều tốt lành.
 
-Tôi tạo hình tay thành hình súng lục và bắn một viên đạn ma thuật nén ma lực.
+Tôi tạo hình tay thành hình súng lục và bắn một viên đạn phép thuật nén ma lực.
 
-Viên đạn ma thuật đủ mạnh để thổi bay phần trên của cây và quái vật nhưng nó dễ dàng bị chặn bởi ma lực\* đen. (TLN: thay thế cho nhau với ma pháp đen)
+Viên đạn phép thuật đủ mạnh để thổi bay phần trên của cây và quái vật nhưng nó dễ dàng bị chặn bởi ma lực\* đen. (TLN: thay thế cho nhau với ma pháp đen)
 
 "…Nó bị đẩy lùi vì ma lực quá dày đặc sao?"
 
@@ -21,7 +21,7 @@ Trong khi lẩm bẩm, tôi kiểm tra tình hình xung quanh.
 
 Tendo và những người khác có vẻ đã kết thúc việc giết cả hai con Yvel, nhưng họ trở nên lo lắng sau khi thấy tình hình với Heelis.
 
-Điều tương tự cũng đúng với Finne, Iris, Kusel và Asha, những người ở gần hoàng gia.
+Điều tương tự cũng đúng với Finne, Iris, Kuzel và Asha, những người ở gần hoàng gia.
 
 Mặt khác, ma lực đen ngày càng dày đặc hơn.
 

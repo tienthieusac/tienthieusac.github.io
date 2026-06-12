@@ -105,7 +105,7 @@ Trong giờ giải lao, tôi lấy ra thứ mà tôi đã chuẩn bị từ kho 
 
 "Đây là gì vậy?"
 
-"Đây là dụng cụ ma thuật làm giảm kỹ năng và các chỉ số thể chất cơ bản. Nó cũng tăng gấp đôi lượng trọng lực tác động lên cậu."
+"Đây là dụng cụ phép thuật làm giảm kỹ năng và các chỉ số thể chất cơ bản. Nó cũng tăng gấp đôi lượng trọng lực tác động lên cậu."
 
 "…Tại sao cậu cần thứ đó?"
 

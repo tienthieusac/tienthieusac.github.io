@@ -276,7 +276,7 @@ Có bảy cấp phép thuật. Đếm từ trên xuống, tên của chúng là 
 
 Các phép đầu tiên của tất cả kỹ năng nguyên tố ma pháp được phân loại là Cơ Bản: khi cấp kỹ năng tăng, ma pháp cấp cao hơn sẽ trở nên khả dụng.
 
-Trong thời hiện tại, cấp ma pháp cao nhất mà cá nhân có thể sử dụng được cho là cấp Cổ Đại, nhưng chỉ những ai thành thạo ma thuật mới có thể đạt được.
+Trong thời hiện tại, cấp ma pháp cao nhất mà cá nhân có thể sử dụng được cho là cấp Cổ Đại, nhưng chỉ những ai thành thạo phép thuật mới có thể đạt được.
 
 Ma pháp Cổ Đại bao gồm các phép tấn công có thể được niệm bởi nhóm, nên các tổ chức quân sự ở nhiều quốc gia gọi nó là "Ma pháp Cấp Chiến Thuật".
 

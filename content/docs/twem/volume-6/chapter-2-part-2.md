@@ -89,7 +89,7 @@ Các thí sinh đỏ bừng mặt trước lời khiêu khích của Iris.
 
 Iris bình tĩnh rút đôi kiếm và vào thế đối mặt với kẻ đang lao đến.
 
-Tay trái cầm kiếm ma thuật Tonitrus. Tay phải cầm kiếm ma thuật Tempest.
+Tay trái cầm kiếm phép thuật Tonitrus. Tay phải cầm kiếm phép thuật Tempest.
 
 Khi Iris truyền ma lực vào cả hai kiếm, Tonitrus phát ra tiếng sấm rền rĩ, và Tempest được bao phủ bởi gió xoáy.
 
@@ -97,7 +97,7 @@ Khi Iris truyền ma lực vào cả hai kiếm, Tonitrus phát ra tiếng sấm
 
 Những người khác thấy vậy thì ngập ngừng. Họ dừng sựng lại.
 
-"Không thể nào, đôi kiếm ma thuật?"
+"Không thể nào, đôi kiếm phép thuật?"
 
 "Thật sự…"
 
@@ -113,13 +113,13 @@ Bọn chúng lập tức vung kiếm, nhưng làm sao kiếm của chúng trúng
 
 Iris lách qua một cách xuất sắc và lập tức lao ra sau lưng gã đàn ông.
 
-Khi cô tiếp tục vung kiếm ma thuật Tempest, một cơn bão nổi lên và nhiều người bị thổi bay khỏi sân khấu.
+Khi cô tiếp tục vung kiếm phép thuật Tempest, một cơn bão nổi lên và nhiều người bị thổi bay khỏi sân khấu.
 
 "Chúng tôi nhắm nhầm đối thủ rồi."
 
 "Tôi xin—"
 
-Cô rồi vung kiếm ma thuật Tonitrus, đánh gục vài kẻ không bị thổi bay khỏi sân khấu.
+Cô rồi vung kiếm phép thuật Tonitrus, đánh gục vài kẻ không bị thổi bay khỏi sân khấu.
 
 Trong lúc đó, chỉ còn vài người đứng trên sân khấu.
 
@@ -171,7 +171,7 @@ Cả hai cầm kiếm và đối mặt nhau.
 
 Falun tiến đến Iris. Anh ta nhanh chóng rút ngắn khoảng cách mấy mét với Iris. Anh ta đã đưa Iris vào phạm vi của mình, và vung kiếm xuống, nhưng Iris đã nhìn thấu động tác.
 
-Iris dễ dàng chặn bằng kiếm ma thuật Tonitrus, và quật ngã anh ta bằng kiếm ma thuật Tempest ở tay kia.
+Iris dễ dàng chặn bằng kiếm phép thuật Tonitrus, và quật ngã anh ta bằng kiếm phép thuật Tempest ở tay kia.
 
 "Ggh!"
 
@@ -187,7 +187,7 @@ Iris trả lời khi đang ngồi xổm trước Falun.
 
 Falun cố trốn thoát, nhưng đã quá muộn.
 
-Kiếm ma thuật của Iris hạ gục anh ta, và lần này anh ta rời khỏi vòng đấu.
+Kiếm phép thuật của Iris hạ gục anh ta, và lần này anh ta rời khỏi vòng đấu.
 
 Iris sau đó đánh bại các thí sinh còn lại, và không gặp khó khăn gì, cô vượt qua vòng loại bảng C.
 

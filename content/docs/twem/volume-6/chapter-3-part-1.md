@@ -115,7 +115,7 @@ Kuzel vào phạm vi Rain với chuyển động nhanh.
 
 "――Khốn kiếp, Earth Wall!"
 
-Rain kích hoạt ma thuật đất và tạo bức tường giữa cô và Kuzel.
+Rain kích hoạt phép thuật đất và tạo bức tường giữa cô và Kuzel.
 
 "Tránh ra!"
 
@@ -179,7 +179,7 @@ Người nổi bật giữa họ là mạo hiểm giả hạng S tên Fance.
 
 Đây là lần đầu tiên tôi thấy một mạo hiểm giả hạng S ngoài Dyne, Norverne và Ranze – những người tôi đã gặp ở Vương quốc Perdis.
 
-Fance vung thương, vũ khí ưa thích của mình, và sử dụng ma thuật để dẫm đạp các thí sinh khác.
+Fance vung thương, vũ khí ưa thích của mình, và sử dụng phép thuật để dẫm đạp các thí sinh khác.
 
 Anh ta là một người đàn ông đáng sợ.
 

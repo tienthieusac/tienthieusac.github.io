@@ -57,7 +57,7 @@ Eleonora gật đầu hài lòng trước những cái gật đầu của họ, 
 
 "Haruto. Tôi chưa bao giờ nghe cái tên đó trước đây. Tôi không biết đó là sự trùng hợp ngẫu nhiên rằng một người mạnh mẽ tiến hóa, hay đó là sự xúi giục của các vị thần… Chúng ta nên thận trọng."
 
-"Eleonora, với tư cách là ma vương đầu tiên, ta có thể nói rằng hắn mạnh hơn cả anh hùng."
+"Eleonora, với tư cách là Ma Vương đầu tiên, ta có thể nói rằng hắn mạnh hơn cả anh hùng."
 
 "Haruto này có phải là người mạnh duy nhất không?"
 

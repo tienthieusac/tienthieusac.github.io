@@ -75,7 +75,7 @@ Không có người nào khác xung quanh, và có vẻ việc sơ tán khu vự
 
 Tôi lắc đầu.
 
-"Tôi không biết. Damnatio đã dùng ma thuật này ngay trước khi chết. Ông ta nói đó là Bữa Tối Của Sự Điên Loạn… Zero có biết nó là gì không?"
+"Tôi không biết. Damnatio đã dùng phép thuật này ngay trước khi chết. Ông ta nói đó là Bữa Tối Của Sự Điên Loạn… Zero có biết nó là gì không?"
 
 Nghe lời tôi, mắt Zero mở rộng nhẹ.
 
@@ -83,7 +83,7 @@ Nghe lời tôi, mắt Zero mở rộng nhẹ.
 
 "Chắc chắn là ông ta đã nói vậy. Anh có biết về nó không?"
 
-Zero đã sống lâu và có vẻ biết ma thuật đó là gì, như mong đợi.
+Zero đã sống lâu và có vẻ biết phép thuật đó là gì, như mong đợi.
 
 "Haruto-sama. Bữa Tối Của Sự Điên Loạn là—"
 
@@ -95,7 +95,7 @@ Ma thuật đó được triệu hồi với cái giá là mạng sống, nói c
 
 Đó chính xác là những gì Damnatio đã nói.
 
-"Bản chất là ma thuật lan truyền cái chết. Bàn tay đen đó sẽ dần mở rộng phạm vi, và cuối cùng sẽ nuốt chửng toàn bộ thành hoàng đế. Và nếu chạm vào bàn tay đó, bạn sẽ chết ngay lập tức. Nếu miễn nhiễm với bất thường trạng thái, bạn có thể chịu đựng ở mức độ nào đó, nhưng bạn vẫn sẽ chết. Đã lâu rồi, có người đã dùng ma thuật giống vậy, và cả quốc gia bị hủy diệt, không còn ai sống sót. Tôi biết chừng đó thôi."
+"Bản chất là phép thuật lan truyền cái chết. Bàn tay đen đó sẽ dần mở rộng phạm vi, và cuối cùng sẽ nuốt chửng toàn bộ thành hoàng đế. Và nếu chạm vào bàn tay đó, bạn sẽ chết ngay lập tức. Nếu miễn nhiễm với bất thường trạng thái, bạn có thể chịu đựng ở mức độ nào đó, nhưng bạn vẫn sẽ chết. Đã lâu rồi, có người đã dùng phép thuật giống vậy, và cả quốc gia bị hủy diệt, không còn ai sống sót. Tôi biết chừng đó thôi."
 
 Thật tốt khi tôi dựng rào chắn nhanh nhất có thể.
 
@@ -107,7 +107,7 @@ Nói cách khác, nếu chúng ta không làm gì đó với thứ đó bằng k
 
 May mắn thay, có vẻ nó vẫn chưa lan ra ngoài đấu trường…
 
-"Zero, làm sao chúng ta dừng ma thuật đó?"
+"Zero, làm sao chúng ta dừng phép thuật đó?"
 
 "Tôi xin lỗi, Haruto-sama. Tôi không biết."
 

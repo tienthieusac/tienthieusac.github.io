@@ -414,11 +414,11 @@ Khi tôi rút lưỡi kiếm ra và đưa vào vỏ, Kalamiras lập tức chữ
 
 Tôi đoán hắn không biết chuyện gì đã xảy ra với mình.
 
-Khi hắn thấy cả hai chân đã bị đạn ma thuật của tôi xóa sổ, Kalamiras cuối cùng phát ra tiếng hét.
+Khi hắn thấy cả hai chân đã bị đạn phép thuật của tôi xóa sổ, Kalamiras cuối cùng phát ra tiếng hét.
 
-Tôi đá kiếm của Kalamiras đi và bắn một viên đạn ma thuật vào cánh tay hắn.
+Tôi đá kiếm của Kalamiras đi và bắn một viên đạn phép thuật vào cánh tay hắn.
 
-Kalamiras tiếp tục chữa lành vết thương, nhưng mỗi lần tôi bắn đạn ma thuật vào hắn, không cho hắn đứng dậy nổi.
+Kalamiras tiếp tục chữa lành vết thương, nhưng mỗi lần tôi bắn đạn phép thuật vào hắn, không cho hắn đứng dậy nổi.
 
 Khi hắn đã dùng quá nhiều mana đến mức khả năng tái sinh không thể theo kịp, tôi rút lưỡi kiếm và đặt nó quanh cổ hắn.
 

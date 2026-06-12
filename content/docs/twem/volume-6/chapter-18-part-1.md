@@ -177,13 +177,13 @@ Nói vậy, tôi để xe ngựa tự chạy.
 
 Maguro hí, "Hee-hee-hee!"
 
-Trong khi ngồi ở ghế lái, tôi tạo hình bàn tay phải thành súng và bắn đạn ma thuật vào goblin vẫn còn ở xa.
+Trong khi ngồi ở ghế lái, tôi tạo hình bàn tay phải thành súng và bắn đạn phép thuật vào goblin vẫn còn ở xa.
 
-Đạn ma thuật xuyên thủng đầu goblin, giết chết nó.
+Đạn phép thuật xuyên thủng đầu goblin, giết chết nó.
 
 "Hừm, không hiệu quả —Windcutter."
 
-Vì vậy, tôi cần tiếp tục bắn đạn ma thuật vào từng goblin, nên tôi chuyển sang ma thuật gió.
+Vì vậy, tôi cần tiếp tục bắn đạn phép thuật vào từng goblin, nên tôi chuyển sang phép thuật gió.
 
 Lưỡi gió cắt đôi những goblin còn lại, trên và dưới.
 

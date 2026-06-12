@@ -119,7 +119,7 @@ Có một cái hố lớn trên mặt đất, không có ai đứng ở đó.
 
 Trong khi tôi đang nghĩ vậy, Ellis nói với tôi.
 
-《Đòn tấn công ma thuật vừa rồi đã xóa sổ 30% lực lượng địch.》
+《Đòn tấn công phép thuật vừa rồi đã xóa sổ 30% lực lượng địch.》
 
 *Xóa sổ? Chà, chắc chắn là chúng đã biến mất, nhưng… vậy chỉ còn lại 14.000.*
 
@@ -127,7 +127,7 @@ Khi tôi đang nghĩ vậy, Gyuray và Lauren trừng mắt nhìn tôi.
 
 "Anh nói anh đến một mình, nhưng anh có giấu một pháp sư ở gần đây không?"
 
-"Không có cách nào một cá nhân có thể giải phóng nhiều ma thuật như vậy."
+"Không có cách nào một cá nhân có thể giải phóng nhiều phép thuật như vậy."
 
 Có vẻ như chúng vẫn hiểu nhầm tình hình.
 
@@ -139,13 +139,13 @@ Khi tôi nói, những ngọn lửa đen xuất hiện phía sau tôi và cuộn
 
 Đó là Yamata no Orochi – Trường Xà Bát Phân, một con quái vật từ thần thoại Nhật Bản. Lần cuối tôi sử dụng nó là để tiêu diệt quái vật khi Gheel tiến vào Vương quốc Perdis. Nếu có một điều khác biệt so với lúc đó, thì lần này toàn bộ cơ thể tôi được tạo thành từ ngọn lửa đen.
 
-Gyuray và Lauren đứng hình khi nhìn thấy ma thuật tôi sử dụng.
+Gyuray và Lauren đứng hình khi nhìn thấy phép thuật tôi sử dụng.
 
 Không, có lẽ chúng đang cảnh giác.
 
 "Cái gì vậy…?"
 
-"Tôi chưa bao giờ thấy ma thuật như thế này."
+"Tôi chưa bao giờ thấy phép thuật như thế này."
 
 Tôi khịt mũi khi chúng nói vậy.
 
@@ -153,7 +153,7 @@ Tôi khịt mũi khi chúng nói vậy.
 
 "Cái gì?"
 
-"Ma thuật đó và ma thuật này đều là ma thuật nguyên thủy mà tôi đã tạo ra. Bây giờ — thiêu cháy chúng đi."
+"Ma thuật đó và phép thuật này đều là phép thuật nguyên thủy mà tôi đã tạo ra. Bây giờ — thiêu cháy chúng đi."
 
 Theo mệnh lệnh của tôi, Yamata no Orochi phun ra hơi thở lửa đen từ tám cái miệng.
 
@@ -165,7 +165,7 @@ Tôi đứng hình khi nhìn cảnh trước mắt, vì sau khi hơi thở đi q
 
 "Hả? Nó mạnh đến vậy sao? Tôi không nghĩ nó mạnh đến thế trước đây…"
 
-《Vì Chủ nhân đã tiến hóa thành High Human, sức mạnh cơ bản của ma thuật đã tăng lên. Ngoài ra, sức mạnh của kẻ địch đã giảm xuống còn khoảng một nửa so với trước đó với đòn tấn công trước.》
+《Vì Chủ nhân đã tiến hóa thành High Human, sức mạnh cơ bản của phép thuật đã tăng lên. Ngoài ra, sức mạnh của kẻ địch đã giảm xuống còn khoảng một nửa so với trước đó với đòn tấn công trước.》
 
 "Chết tiệt…"
 
@@ -177,7 +177,7 @@ Tôi bước lại gần Gyuray và Lauren – những người đang quỳ gố
 
 "Các anh sẽ phải chuẩn bị tinh thần bị xóa sổ khi đến Delzas."
 
-Nói vậy xong, tôi sử dụng ma thuật dịch chuyển tức thời để quay lại lâu đài Ma Vương.
+Nói vậy xong, tôi sử dụng phép thuật dịch chuyển tức thời để quay lại lâu đài Ma Vương.
 
 ～
 
@@ -219,7 +219,7 @@ Bất kể có bao nhiêu, chúng sẽ bị áp đảo bởi một người có 
 
 "Tôi hiểu rồi."
 
-"À tiện thể, chúng đã nói gì đó như: 'Chúng tôi thề trung thành với ma vương đầu tiên và vị thần mà chúng tôi tôn thờ.'"
+"À tiện thể, chúng đã nói gì đó như: 'Chúng tôi thề trung thành với Ma Vương đầu tiên và vị thần mà chúng tôi tôn thờ.'"
 
 "Tôi đoán vậy."
 

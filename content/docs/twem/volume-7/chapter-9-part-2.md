@@ -79,7 +79,7 @@ Tôi nhìn Fran.
 
 Fran không nói gì. Tôi đoán cô ấy đang bảo tôi làm theo ý mình.
 
-"Tôi chỉ là hầu cận của Ma Vương. Anh chàng này cũng vậy."
+"Tôi chỉ là hầu gái của Ma Vương. Anh chàng này cũng vậy."
 
 Tôi nói vậy và vỗ vai Tendo.
 
@@ -87,7 +87,7 @@ Tôi nói vậy và vỗ vai Tendo.
 
 "Tất nhiên rồi."
 
-"Lòng trung thành của chúng tôi không dành cho ma vương đó. Mà dành cho Alogis-sama và vị thần của chúng tôi."
+"Lòng trung thành của chúng tôi không dành cho Ma Vương đó. Mà dành cho Alogis-sama và vị thần của chúng tôi."
 
 "Tôi hiểu rồi."
 
@@ -137,7 +137,7 @@ Nhưng vẫn còn rất nhiều kẻ thù.
 
 Khi tôi lẩm bẩm điều này trong lo lắng, Fran – người đang xem bên cạnh – nắm lấy vai tôi.
 
-"C-Chờ đã! Anh vẫn có thể sử dụng ma thuật sau khi dùng tất cả những phép lớn đó sao!?"
+"C-Chờ đã! Anh vẫn có thể sử dụng phép thuật sau khi dùng tất cả những phép lớn đó sao!?"
 
 "Tôi thậm chí chưa dùng hết một phần mười ma lực của mình, nên không sao. Tôi vẫn có thể thi triển thêm. Tôi thậm chí có thể làm tất cả một mình."
 
@@ -171,7 +171,7 @@ Nhìn đội quân quái vật, tôi nói với Tendo.
 
 Tendo dường như suy nghĩ một lúc trước khi trả lời.
 
-"Có lẽ khoảng một nghìn là giới hạn. Tôi không thể sử dụng ma thuật tầm rộng lớn như anh, Haruto. Và tôi cũng không thể thi triển chúng lặp đi lặp lại."
+"Có lẽ khoảng một nghìn là giới hạn. Tôi không thể sử dụng phép thuật tầm rộng lớn như anh, Haruto. Và tôi cũng không thể thi triển chúng lặp đi lặp lại."
 
 "Tôi hiểu rồi. Vậy tôi sẽ giao lưng cho cậu."
 
@@ -205,7 +205,7 @@ Fran trả lời người thuộc hạ đã hỏi.
 
 Ai đang trên đường đến đó?
 
-"Haru và Ten ở đó. Không có vấn đề gì. Ngoài ra, ma thuật của Haru đã giảm số lượng quái vật ngay từ đầu."
+"Haru và Ten ở đó. Không có vấn đề gì. Ngoài ra, phép thuật của Haru đã giảm số lượng quái vật ngay từ đầu."
 
 "Là Haru-sama người đã thi triển những phép lớn vừa rồi sao?"
 
@@ -247,7 +247,7 @@ Các thuộc hạ nghĩ cô ấy đang đùa, nhưng khi họ thấy Fran không
 
 Trong khi họ đang nói chuyện, hai đội quân va chạm.
 
-Bắt đầu bằng một cuộc trao đổi ma thuật, và chừng nào chúng không bị giết ngay lập tức, chúng sẽ chữa lành vết thương bằng ma thuật chữa lành và quay lại chiến trường.
+Bắt đầu bằng một cuộc trao đổi phép thuật, và chừng nào chúng không bị giết ngay lập tức, chúng sẽ chữa lành vết thương bằng phép thuật chữa lành và quay lại chiến trường.
 
 Tứ Thiên Vương có lợi thế về sức mạnh, nên lính của Ma Vương chiến đấu hết mình để không thua.
 

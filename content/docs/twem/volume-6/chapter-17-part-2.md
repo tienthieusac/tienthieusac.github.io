@@ -233,7 +233,7 @@ Những phụ nữ khác gật đầu đồng ý.
 
 Tôi cố nhờ Zero giúp, nhưng anh ta đang đọc cuốn sách nhận làm giải thưởng và không quan tâm đến chúng tôi.
 
-Khi tôi nhìn cuốn sách anh ta đang đọc, đó là cuốn sách về ma thuật.
+Khi tôi nhìn cuốn sách anh ta đang đọc, đó là cuốn sách về phép thuật.
 
 Tôi từ bỏ việc nhờ giúp từ Zero và phản đối.
 

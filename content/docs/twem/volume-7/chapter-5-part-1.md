@@ -87,7 +87,7 @@ Có vẻ như chúng tôi phải đi qua trạm kiểm soát để vào bên tro
 
 Tôi lấy ra một mặt dây chuyền nhỏ từ phòng chứa đồ ở không gian khác.
 
-"Cái này, và cái tôi có, cho phép chúng ta liên lạc bằng telepaty. Dụng cụ ma thuật liên lạc tôi đã dùng trước đó quá lớn và sẽ nổi bật."
+"Cái này, và cái tôi có, cho phép chúng ta liên lạc bằng telepaty. Dụng cụ phép thuật liên lạc tôi đã dùng trước đó quá lớn và sẽ nổi bật."
 
 "Hiểu rồi."
 

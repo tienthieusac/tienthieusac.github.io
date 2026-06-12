@@ -23,7 +23,7 @@ Ilmina trở nên bối rối và sốt ruột khi cô ấy không thể triệu
 
 Bất cứ khi nào cô ấy cố dẫn ma lực, nó lập tức tắt ngấm.
 
-Nhưng rồi một dụng cụ ma thuật nào đó chợt hiện lên trong đầu cô ấy.
+Nhưng rồi một dụng cụ phép thuật nào đó chợt hiện lên trong đầu cô ấy.
 
 "Cái này, là xích chống phép thuật…?"
 

@@ -376,7 +376,7 @@ Vậy sự thay đổi hướng kỳ lạ của lưỡi kiếm hắn là do Kỹ
 
 …nhưng kỹ năng Bật Berserk đó thật sự điên thật.
 
-Tôi thật muốn kỹ năng phản đòn đó cho mình…nhưng Sáng Tạo Toàn Năng không thể tạo Kỹ Năng Độc Nhất…
+Tôi thật muốn kỹ năng phản đòn đó cho mình…nhưng Toàn Tạo không thể tạo Kỹ Năng Độc Nhất…
 
 <<Kỹ năng "Sao Chép" đã có.>>
 
@@ -392,7 +392,7 @@ Tò mò không biết nguyên nhân, tôi dùng Đánh Giá.
 
 **Tuy nhiên, sao chép kỹ năng độc nhất sẽ tạo ra kỹ năng có năng lực kém hơn.**
 
-Ồ, cái này sẽ rất hữu ích. Tôi không cần sao chép kỹ năng nhờ Sáng Tạo Toàn Năng, nhưng sao chép kỹ năng độc nhất là phần thưởng tuyệt vời.
+Ồ, cái này sẽ rất hữu ích. Tôi không cần sao chép kỹ năng nhờ Toàn Tạo, nhưng sao chép kỹ năng độc nhất là phần thưởng tuyệt vời.
 
 Tôi lập tức thử kỹ năng bằng cách cố sao chép "Trầm Phản Đòn".
 

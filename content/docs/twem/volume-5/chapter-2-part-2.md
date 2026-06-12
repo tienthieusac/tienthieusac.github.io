@@ -75,7 +75,7 @@ Rồi ngài chuyển đề tài.
 
 "Vậy, chỉ có hai người thôi sao?"
 
-"Không. Asha, hầu cận của Iris, cũng ở đó. Cùng với hôn thê của anh ta, một mạo hiểm giả tên Finne, và các hôn thê khác, Ephyr và Suzuno."
+"Không. Asha, hầu gái của Iris, cũng ở đó. Cùng với hôn thê của anh ta, một mạo hiểm giả tên Finne, và các hôn thê khác, Ephyr và Suzuno."
 
 Khi Ilmina nhắc đến tên của tất cả những người có mặt, Liebert gật đầu đầy tò mò.
 

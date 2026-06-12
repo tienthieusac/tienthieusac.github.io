@@ -99,7 +99,7 @@ Zero bỏ giọng lịch sự thường ngày và chuyển lại cách nói thô
 
 Schwartz nhận ra điều gì đó bất thường ngay khoảnh khắc hắn nhìn thấy thanh kiếm.
 
-"Đó là một thanh kiếm ma thuật thực sự không lành mạnh đấy, hả?"
+"Đó là một thanh kiếm phép thuật thực sự không lành mạnh đấy, hả?"
 
 Nhưng Zero không trả lời hắn và vẫy tay trái, tay không cầm kiếm.
 
@@ -119,11 +119,11 @@ Schwartz sau đó nhận ra điều gì đó và chạm vào má mình.
 
 "—Máu? Ồ, đúng thật… fufufuu, sung sướng quá, được thấy máu của ta sau một thời gian dài! Nhưng, việc để lại sẹo cho ta là không được ——Đường Bóng Tối!"
 
-Đòn tấn công vô hình giáng xuống, nhưng Zero vung kiếm ma thuật, không muốn bị đánh bại dễ dàng như vậy.
+Đòn tấn công vô hình giáng xuống, nhưng Zero vung kiếm phép thuật, không muốn bị đánh bại dễ dàng như vậy.
 
 Nhát chém va chạm với đường bóng tối và xuyên qua nó —— rồi hướng thẳng về phía Schwartz.
 
-"Thanh kiếm ma thuật thật đáng ghét. Nhưng thì…"
+"Thanh kiếm phép thuật thật đáng ghét. Nhưng thì…"
 
 Schwartz tránh và cố tung ra đòn tiếp theo.
 

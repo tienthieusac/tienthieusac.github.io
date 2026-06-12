@@ -11,13 +11,13 @@ Tuy nhiên, sau khi kiểm tra trạng thái, người ta phát hiện ra rằng
 
 Vì vậy tôi bị Mariana, công chúa Vương quốc Glicente – người chịu trách nhiệm cho việc triệu hồi, đuổi đi, và suýt nữa thì bị các kỵ sĩ của cô ta thanh toán. Nhưng rồi một vị thần xuất hiện trước mặt tôi.
 
-Để xin lỗi vì đã quên ban Gift cho tôi, tôi đã nhận được một số kỹ năng cheat, chẳng hạn như All Creation – cho phép tôi tạo ra mọi loại kỹ năng, God Eye – giúp tôi nhìn thấu mọi thứ, và nhiều kỹ năng khác nữa.
+Để xin lỗi vì đã quên ban Gift cho tôi, tôi đã nhận được một số kỹ năng cheat, chẳng hạn như Toàn Tạo – cho phép tôi tạo ra mọi loại kỹ năng, Thần Nhãn – giúp tôi nhìn thấu mọi thứ, và nhiều kỹ năng khác nữa.
 
 Tôi thề rằng một ngày nào đó sẽ báo thù Vương quốc Glicente, và quyết định làm mạo hiểm giả đồng thời tìm cách quay về thế giới ban đầu.
 
 Sau khi chuyển đến Vương quốc Perdis láng giềng, tôi đã được trao hạng mạo hiểm giả cao nhất thế giới, hạng 『EX』 chưa từng có tiền lệ, nhờ những nỗ lực ngăn chặn thảm họa thủ đô bị phá hủy bởi một đợt bùng nổ quái vật khổng lồ.
 
-Tôi nhận được một tòa lâu đài làm phần thưởng và bắt đầu sống ở đó cùng Finne – một mạo hiểm giả đồng nghiệp, Iris – đại công chúa Vương quốc Perdis, Asha – hầu cận của cô ấy, cùng quản gia và hầu gái mới được thuê.
+Tôi nhận được một tòa lâu đài làm phần thưởng và bắt đầu sống ở đó cùng Finne – một mạo hiểm giả đồng nghiệp, Iris – đại công chúa Vương quốc Perdis, Asha – hầu gái của cô ấy, cùng quản gia và hầu gái mới được thuê.
 
 Một ngày nọ, tôi giải cứu một nàng elf tên Ephyr khỏi tay một tên buôn nô lệ, và biết rằng quê hương của cô ấy – Ngôi làng Elf – đã bị Vương quốc Glicente xâm lược.
 
@@ -83,7 +83,7 @@ Chúng tôi bày tỏ lòng biết ơn với Lyla và nuốt chửng bữa ăn t
 
 ～
 
-Chúng tôi tiếp tục hành trình, và sau một lúc, tôi kiểm tra bản đồ bằng God Eye và phát hiện một phản ứng giống như kẻ địch ở hơi phía trước.
+Chúng tôi tiếp tục hành trình, và sau một lúc, tôi kiểm tra bản đồ bằng Thần Nhãn và phát hiện một phản ứng giống như kẻ địch ở hơi phía trước.
 
 Khoảng mười lăm tên. Chúng phối hợp với số lượng lớn như vậy và có vẻ được bố trí khá bài bản, nên chắc chắn là cướp là người, không phải quái vật.
 

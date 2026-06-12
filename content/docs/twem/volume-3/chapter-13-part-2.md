@@ -7,7 +7,7 @@ weight: 13.2
 
 Sau giờ nghỉ trưa, tôi quay lại phòng hội nghị.
 
-Mặc dù tôi giải tán mọi người, Finne, Iris, Suzuno, Asha, Kusel, và Ephyr vẫn đi theo tôi.
+Mặc dù tôi giải tán mọi người, Finne, Iris, Suzuno, Asha, Kuzel, và Ephyr vẫn đi theo tôi.
 
 Không nhàm chán sao? Tôi hỏi họ, nhưng Finne trả lời và nói, "Em chỉ muốn ở gần Haruto".
 
@@ -103,19 +103,19 @@ Tôi không nghĩ anh ta có mặt vào buổi sáng…
 
 "Haruto, tên anh ta là Dazan. Anh ta là cựu chỉ huy hiệp sĩ đã gia nhập đoàn cùng thời với tôi."
 
-"Đã lâu rồi, cựu Đội trưởng phó Kusel—Xin lỗi ngài Haruto, tôi đã chào hỏi muộn. Tên tôi là Dazan."
+"Đã lâu rồi, cựu Đội trưởng phó Kuzel—Xin lỗi ngài Haruto, tôi đã chào hỏi muộn. Tên tôi là Dazan."
 
 "Đúng, tôi sẽ trông cậy vào anh…tiện thể, tại sao anh lại rời khỏi Đoàn?"
 
 Dazan gật đầu trước câu hỏi của tôi.
 
-Vì cùng lý do với cựu Đội trưởng phó Kusel. Tôi được lệnh đánh chiếm ngôi làng elf, một nhiệm vụ mà tôi không thể tham gia…"
+Vì cùng lý do với cựu Đội trưởng phó Kuzel. Tôi được lệnh đánh chiếm ngôi làng elf, một nhiệm vụ mà tôi không thể tham gia…"
 
 "Dazan giỏi về mối quan hệ giữa con người với nhau. Anh ta là cái gọi là quản lý cấp trung, người điều phối giữa tầng lớp trên của Đoàn và phần còn lại."
 
 Nghe có vẻ giống bộ trưởng mà tôi vừa nghe, phải không?
 
-"Vâng, và đôi khi tôi cũng chịu trách nhiệm lên kế hoạch hoạt động…vậy nên, khi tôi phải bỏ việc sau Kusel, đội trưởng Glifas đã khóc với tôi. Nhưng, vì cùng lý do với Kusel, tôi không thể nói với Đội trưởng Hiệp sĩ tại sao…"
+"Vâng, và đôi khi tôi cũng chịu trách nhiệm lên kế hoạch hoạt động…vậy nên, khi tôi phải bỏ việc sau Kuzel, đội trưởng Glifas đã khóc với tôi. Nhưng, vì cùng lý do với Kuzel, tôi không thể nói với Đội trưởng Hiệp sĩ tại sao…"
 
 Thủ tướng mỉm cười trước lời của Dazan.
 

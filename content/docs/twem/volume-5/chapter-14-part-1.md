@@ -9,7 +9,7 @@ Tôi đi thẳng xuống nhà thờ chính tòa.
 
 Argh, tôi không thể chờ được để đi ngủ…
 
-Trong khi tôi đang nghĩ vậy, Finne, Iris, Suzuno, Ephyr, Asha và Kusel chạy về phía tôi.
+Trong khi tôi đang nghĩ vậy, Finne, Iris, Suzuno, Ephyr, Asha và Kuzel chạy về phía tôi.
 
 Khi nào họ đến đây?
 

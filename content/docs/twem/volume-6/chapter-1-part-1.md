@@ -23,7 +23,7 @@ Sau đó, chúng tôi rời Thánh Quốc Belifaire để tham gia giải đấu
 
 Tám người hướng đến Thủ đô Hoàng đế của Đế quốc Galzio cũng chính là tám người đã đi đến thủ đô Thánh Quốc Belifaire trước đó.
 
-Finne, mạo hiểm giả kiêm hôn thê của tôi, Iris – cũng là hôn thê tôi, và hầu cận Asha của cô ấy. Rồi còn có Suzuno, một trong những anh hùng được triệu hồi cùng tôi, cũng là hôn thê tôi. Ephyr, cựu công chúa làng elf và cũng là hôn thê tôi như Finne và những người khác. Kuzel, cựu phó đội trưởng Hiệp sĩ đoàn Vương quốc Glicente. Và Zero, một con rồng và là trùm của Mê Cung Nargadia, nhưng theo tôi dưới hình dạng con người.
+Finne, mạo hiểm giả kiêm hôn thê của tôi, Iris – cũng là hôn thê tôi, và hầu gái Asha của cô ấy. Rồi còn có Suzuno, một trong những anh hùng được triệu hồi cùng tôi, cũng là hôn thê tôi. Ephyr, cựu công chúa làng elf và cũng là hôn thê tôi như Finne và những người khác. Kuzel, cựu phó đội trưởng Hiệp sĩ đoàn Vương quốc Glicente. Và Zero, một con rồng và là trùm của Mê Cung Nargadia, nhưng theo tôi dưới hình dạng con người.
 
 Những gương mặt quen thuộc ấy đang lái xe ngựa đến Thủ đô Hoàng đế, nhưng…
 

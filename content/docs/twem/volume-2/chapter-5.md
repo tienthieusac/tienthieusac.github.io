@@ -21,7 +21,7 @@ Nó không ở hướng quái vật kéo đến, mà lệch sang phải hơn…t
 
 Tôi không thể dùng dịch chuyển vì chưa từng đến đó, và vì rõ ràng đang bị theo dõi, có lẽ khôn ngoan hơn là không nên sử dụng nó.
 
-Tôi dùng ma thuật Gió để tạo một đám mây khói lần nữa, nhờ vậy biến mất khỏi tầm nhìn của kẻ quan sát.
+Tôi dùng phép thuật Gió để tạo một đám mây khói lần nữa, nhờ vậy biến mất khỏi tầm nhìn của kẻ quan sát.
 
 Tiếp theo tôi kích hoạt Stealth, Conceal Presence, và Physical Boost: trước khi khói tản đi, tôi bắt đầu chạy về phía kẻ quan sát, nhanh hết mức có thể.
 
@@ -29,7 +29,7 @@ Nếu chạy hết tốc lực, dùng Physical Boost và liên tục kích hoạ
 
 Tôi đến ngọn đồi nhỏ nơi kẻ quan sát bí ẩn đứng, rồi bắt đầu nghiên cứu hắn từ phía sau.
 
-Đầu tiên, tôi phân tích hắn bằng God Eye.
+Đầu tiên, tôi phân tích hắn bằng Thần Nhãn.
 
 | **TÊN:** | **Gheel** |
 | --- | --- |
@@ -90,7 +90,7 @@ Gheel quay người, rồi nhảy lùi ngay khi nhận ra tôi.
 
 Ngọn lửa đen mà Gheel phóng ra bao trùm cơ thể tôi trong tích tắc.
 
-Dark Flame có lẽ là phép thuật kết hợp Darkness và Fire: tôi chưa từng thấy ai ngoài tôi sử dụng phép kết hợp, nên tôi đoán hắn không phải Heavenly King cho không…nhờ khả năng kháng ma thuật của Black Coat, Dark Flame chỉ khiến tôi thấy hơi nóng thôi.
+Dark Flame có lẽ là phép thuật kết hợp Darkness và Fire: tôi chưa từng thấy ai ngoài tôi sử dụng phép kết hợp, nên tôi đoán hắn không phải Heavenly King cho không…nhờ khả năng kháng phép thuật của Black Coat, Dark Flame chỉ khiến tôi thấy hơi nóng thôi.
 
 Tôi không phí sức vẫy tay dập lửa, nhưng Gheel rõ ràng lại coi đó là dấu hiệu chiến thắng: hắn bắt đầu cười lớn và khoe khoang.
 
@@ -134,7 +134,7 @@ Nhờ có cấp, có lẽ tôi không cần Mental Fortitude…thôi kệ, có t
 
 <<Kỹ năng "Status Effect Immunity" đã đạt được. Kỹ năng được thêm vào Magic Unification. Kỹ năng "Mental Fortitude" đã bị xóa.>>
 
-…như thường lệ, All Creation tự tạo kỹ năng cho tôi dù tôi không nói gì. Hoàn hảo.
+…như thường lệ, Toàn Tạo tự tạo kỹ năng cho tôi dù tôi không nói gì. Hoàn hảo.
 
 Tôi có cảm xúc lẫn lộn về chuyện này, nói thật, nhưng không phải lúc để nghĩ: Gheel vẫn đang trừng mắt nhìn tôi ở đó.
 
@@ -303,7 +303,7 @@ Quả nhiên, chỉ một cái liếc vào trạng thái mới và nâng cấp c
 | **CẤP:** | **320** |
 | **TUỔI:** | **17** |
 | **CHỦNG TỘC:** | **Nhân Loại (Dị Giới Nhân)** |
-| **KỸ NĂNG ĐỘC NHẤT:** | **All Creation**  **God Eye**  **Max Skill Growth**  **Exp Boost** |
+| **KỸ NĂNG ĐỘC NHẤT:** | **Toàn Tạo**  **Thần Nhãn**  **Max Skill Growth**  **Exp Boost** |
 | **KỸ NĂNG:** | **Martial Unification**  **Magic Unification**  **Language Comprehension**  **Parallel Thought**  **Accelerated Thought**  **Copy**  **Fighting Demon**  **Limit Break** |
 | **DANH HIỆU:** | **Nhân Loại (Dị Giới Nhân)**  **Người Dùng Kỹ Năng Độc Nhất**  **Bậc Thầy Võ Thuật**  **Bậc Thầy Ma Pháp**  **Transcendent One** |
 |  | **<Martial Unification>**  **Sword Arts**  **Spear Arts**  **Shield Arts**  **Bow Arts**  **Axe Arts**  **Barehanded Arts**  **Ground Shrink**  **Detect Presence**  **Intimidation**  **Hold Back**  **Night Vision**  **Roar**  **Quickdraw Arts**  **Conceal Presence**  **Carriage Driving**  **Poker Face**  **Fighting Spirit**  **Detect Danger**  **Sky Walk**  **Arm Vigor**  **Leg Vigor**  **Diamond** |

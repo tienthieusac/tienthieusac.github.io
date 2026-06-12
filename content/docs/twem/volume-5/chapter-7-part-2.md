@@ -191,7 +191,7 @@ Anh ta nghĩ rằng làm vậy sẽ giúp Haruto dễ dàng xuống các tầng 
 
 Zero, cũng đã đoán ý định của anh ta và ngoan ngoãn tuân theo, đang chuẩn bị phép thuật, nhưng Gawain, cảm nhận được ma lực đang dâng lên, trong lòng toát mồ hôi lạnh.
 
-Anh ta biết rằng anh ta mạnh, nhưng không ngờ anh ta lại sở hữu lượng sức mạnh ma thuật phi lý đến vậy. Nếu anh ta đã chống lại anh ta hoặc Haruto… với những suy nghĩ như vậy lướt qua tâm trí, anh ta vô cùng nhẹ nhõm rằng họ đang ở cùng phe.
+Anh ta biết rằng anh ta mạnh, nhưng không ngờ anh ta lại sở hữu lượng sức mạnh phép thuật phi lý đến vậy. Nếu anh ta đã chống lại anh ta hoặc Haruto… với những suy nghĩ như vậy lướt qua tâm trí, anh ta vô cùng nhẹ nhõm rằng họ đang ở cùng phe.
 
 "Phóng bây giờ —— Nổ."
 

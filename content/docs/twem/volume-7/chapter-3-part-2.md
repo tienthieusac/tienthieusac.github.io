@@ -87,7 +87,7 @@ Một lúc sau, thứ hoàn thành là một bộ giáp trắng tinh khôi thầ
 
 Nhưng nó quá lộng lẫy như vậy.
 
-"Tôi sẽ áp dụng nhiều loại ma thuật vào đó và…"
+"Tôi sẽ áp dụng nhiều loại phép thuật vào đó và…"
 
 Sau khi làm việc vài giờ, nó gần như đã hoàn thành.
 
@@ -121,7 +121,7 @@ Rồi cậu ấy mở miệng ngạc nhiên.
 
 Đó là điều đương nhiên.
 
-Nó sử dụng mithril và orichalcum, và còn dùng ma thuật để làm cho nó nhẹ hơn.
+Nó sử dụng mithril và orichalcum, và còn dùng phép thuật để làm cho nó nhẹ hơn.
 
 Nó cũng có độ dẫn ma lực cực cao, và có thể nói là kim loại tốt nhất ở thế giới này.
 
@@ -176,7 +176,7 @@ Tendo và mọi người khác cũng kích hoạt kỹ năng thẩm định và 
 | **Tên:** | **Giáp Thánh Ma** |
 | --- | --- |
 | **Độ hiếm:** | **Huyền thoại** |
-| **Ghi chú:** | **Giảm một nửa sát thương khi nhận đòn tấn công vật lý và ma thuật.**  **Các chỉ số thể chất cơ bản trong chiến đấu được nhân đôi.**  **Bằng cách truyền ma lực, màu sắc của bộ giáp có thể thay đổi từ trắng sang đen, hoặc từ đen sang trắng.**  **Ở dạng trắng, sức tấn công của thuộc tính thánh, thuộc tính ánh sáng và hiệu suất phòng thủ được nhân ba.**  **Trong trường hợp màu đen, việc tăng cường chỉ số thể chất cơ bản được nhân ba. Ma lực và thuộc tính hào quang thay đổi.** |
+| **Ghi chú:** | **Giảm một nửa sát thương khi nhận đòn tấn công vật lý và phép thuật.**  **Các chỉ số thể chất cơ bản trong chiến đấu được nhân đôi.**  **Bằng cách truyền ma lực, màu sắc của bộ giáp có thể thay đổi từ trắng sang đen, hoặc từ đen sang trắng.**  **Ở dạng trắng, sức tấn công của thuộc tính thánh, thuộc tính ánh sáng và hiệu suất phòng thủ được nhân ba.**  **Trong trường hợp màu đen, việc tăng cường chỉ số thể chất cơ bản được nhân ba. Ma lực và thuộc tính hào quang thay đổi.** |
 
 .
 
@@ -234,7 +234,7 @@ Sau khi nghe lý do của Tendo, cả ba người họ nhìn nhau rồi gật đ
 
 Nếu Tendo chết, sẽ rất tệ cho giấc ngủ của tôi, và đó là điều đáng để ghi nhớ. Tôi không biết chuyện gì sẽ xảy ra ở lãnh thổ quỷ, và tôi sẽ không luôn ở bên cạnh.
 
-Tôi không có gì đặc biệt muốn làm, nên quyết định chế tạo các dụng cụ ma thuật có thể sử dụng ở lãnh thổ quỷ cho đến khi khởi hành.
+Tôi không có gì đặc biệt muốn làm, nên quyết định chế tạo các dụng cụ phép thuật có thể sử dụng ở lãnh thổ quỷ cho đến khi khởi hành.
 
 Như vậy, mỗi người chúng tôi đều dành thời gian tự do cho đến ngày khởi hành.
 

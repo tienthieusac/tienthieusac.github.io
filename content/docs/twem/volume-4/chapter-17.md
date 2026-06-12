@@ -19,7 +19,7 @@ Finne và Ephyr lên tiếng hỏi.
 
 Finne trông hơi bất an.
 
-"Nghe đây. Tôi biết mọi người đã mạnh lên khá nhiều, nên đây giống kiểm tra bản lĩnh hơn. Tất nhiên Kusel sẽ tham gia, hay không?"
+"Nghe đây. Tôi biết mọi người đã mạnh lên khá nhiều, nên đây giống kiểm tra bản lĩnh hơn. Tất nhiên Kuzel sẽ tham gia, hay không?"
 
 "Chắc chắn rồi ạ! Còn anh, Haruto?"
 
@@ -37,7 +37,7 @@ Iris trả lời, và Asha gật đầu.
 
 "…Em cũng đi!"
 
-Kusel và Ephyr cũng đồng ý.
+Kuzel và Ephyr cũng đồng ý.
 
 "Suzuno——"
 
@@ -208,13 +208,13 @@ Tôi giải thích hiệu ứng cho bốn người đang sững sờ.
 
 "Sát thương nhiều nhất là đau cơ, nhưng nếu anh sử dụng liên tục, di chứng có thể khá đau đớn, nên hãy cẩn thận."
 
-Thực ra, tôi đã để Kusel dùng nguyên mẫu, và ngày hôm sau cô ấy không thể cử động nổi.
+Thực ra, tôi đã để Kuzel dùng nguyên mẫu, và ngày hôm sau cô ấy không thể cử động nổi.
 
 Nhưng sự tăng cường khả năng được cung cấp là rất lớn.
 
 Vì lo lắng cho Tendo và những người khác, tôi đã làm cái này bằng cách kết hợp kỹ năng Tạo Hình và Kỹ Thuật Phép Thuật của mình.
 
-Tôi cũng phát cho Finne, Iris, Asha, Ephyr, Kusel, và Suzuno.
+Tôi cũng phát cho Finne, Iris, Asha, Ephyr, Kuzel, và Suzuno.
 
 Tendo và nhóm bốn người của cậu ấy vẫn sững sờ, nhưng như thể lấy lại tinh thần, họ cảm ơn tôi.
 
@@ -314,7 +314,7 @@ Và thế, cứ như vậy, đã đến ngày hôm sau.
 
 Chúng tôi trở lại trước dinh thự sau khi xuất hiện ở chỗ Dillan để thông báo về việc khởi hành.
 
-Tám thành viên đi chuyến đi lần này là tôi, Finne, Iris, Asha, Kusel, Suzuno, Ephyr, và Zero…à, chín, bao gồm cả Maguro.
+Tám thành viên đi chuyến đi lần này là tôi, Finne, Iris, Asha, Kuzel, Suzuno, Ephyr, và Zero…à, chín, bao gồm cả Maguro.
 
 "Xin hãy chăm sóc, Bệ Hạ Haruto."
 

@@ -229,7 +229,7 @@ Không có hồi kết.
 
 "Tôi lấy lại lời đó. Nghĩ rằng thực sự có người có thể dồn tôi vào chân tường ở thế giới này. Nó thực sự làm máu tôi sôi lên!"
 
-Gã chiến binh điên rồ này, hắn là cái gì? Bản sao của Kusel?
+Gã chiến binh điên rồ này, hắn là cái gì? Bản sao của Kuzel?
 
 Tại sao cư dân ở thế giới khác lại thích chiến đấu đến vậy?
 

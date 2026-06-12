@@ -51,7 +51,7 @@ Sau đó chúng tôi đi đến chỗ ngồi khán giả và chờ trận đấu
 
 ◇◇◇
 
-"Trận đấu chính của giải đấu chiến đấu cá nhân cuối cùng đã bắt đầu! Trận mở màn của giải đấu sẽ là thí sinh đã thể hiện ma thuật băng tinh vi và kiếm thuật tuyệt vời――'Công chúa Băng', Fiiinnnnee!"
+"Trận đấu chính của giải đấu chiến đấu cá nhân cuối cùng đã bắt đầu! Trận mở màn của giải đấu sẽ là thí sinh đã thể hiện phép thuật băng tinh vi và kiếm thuật tuyệt vời――'Công chúa Băng', Fiiinnnnee!"
 
 Khán giả phấn khích trước bình luận trực tiếp của Nina, người hôm nay cũng đang ở đỉnh cao.
 
@@ -81,13 +81,13 @@ Reid lẩm bẩm khi thấy Finne tiến đến, và rút kiếm.
 
 Finne cố gắng chặn bằng kiếm, nhưng bị thổi bay.
 
-Finne điều chỉnh tư thế trong không trung và sử dụng ma thuật.
+Finne điều chỉnh tư thế trong không trung và sử dụng phép thuật.
 
 "――Ice Lance!"
 
 "Ngọt! ――Fire Lance!"
 
-Ma thuật của Finne bị triệt tiêu bởi ma thuật của Reid.
+Ma thuật của Finne bị triệt tiêu bởi phép thuật của Reid.
 
 Rồi, nhắm vào khoảnh khắc Finne hạ cánh, Reid lập tức rút ngắn khoảng cách và vung kiếm.
 
@@ -155,23 +155,23 @@ Ngọn lửa đang cháy trong trường kiếm của Reid.
 
 Finne đổ mồ hôi lạnh trước ngọn lửa rực cháy.
 
-Trường kiếm mà Reid cầm là kiếm ma thuật.
+Trường kiếm mà Reid cầm là kiếm phép thuật.
 
-Tên kiếm là – "Kiếm ma thuật Flama."
+Tên kiếm là – "Kiếm phép thuật Flama."
 
-Đó là thanh kiếm tăng sức mạnh của ma thuật lửa.
+Đó là thanh kiếm tăng sức mạnh của phép thuật lửa.
 
 "Nếu là vậy, thì hãy nhận cái này!"
 
-Đáp lại giọng Finne, băng bao bọc lưỡi kiếm yêu quý của cô, "Gentoh Suigetsu," vốn có khả năng tăng cường ma thuật băng, và tỏa ra không khí lạnh xung quanh.
+Đáp lại giọng Finne, băng bao bọc lưỡi kiếm yêu quý của cô, "Gentoh Suigetsu," vốn có khả năng tăng cường phép thuật băng, và tỏa ra không khí lạnh xung quanh.
 
-"Là kiếm ma thuật cùng loại với kiếm của tôi sao?"
+"Là kiếm phép thuật cùng loại với kiếm của tôi sao?"
 
 "Vâng. Vậy, em tới đây!"
 
 Finne biết rằng, về thể chất, đây sẽ là đòn cuối cùng cô có thể tung ra.
 
-Ngay cả khi cô có thể đứng dậy sau cú va chạm này, cô sẽ không thể sử dụng ma thuật trong phần còn lại của trận đấu, và nếu điều đó xảy ra, coi như cô đã thua.
+Ngay cả khi cô có thể đứng dậy sau cú va chạm này, cô sẽ không thể sử dụng phép thuật trong phần còn lại của trận đấu, và nếu điều đó xảy ra, coi như cô đã thua.
 
 Vì vậy, Finne quyết định đặt cược tất cả vào đòn này.
 
@@ -215,7 +215,7 @@ Tầm nhìn của Reid bị chặn bởi bão tuyết và mất dấu Finne.
 
 "Có cô ở đó!"
 
-Reid, cảm nhận sự hiện diện, quay người và vung kiếm ma thuật Flama về phía cô, nhưng hình bóng Finne biến mất trong sương mù.
+Reid, cảm nhận sự hiện diện, quay người và vung kiếm phép thuật Flama về phía cô, nhưng hình bóng Finne biến mất trong sương mù.
 
 Finne đâm kiếm về phía ông ta, nhưng Reid, người đã nhận ra điều này, dễ dàng đẩy lùi đòn tấn công.
 

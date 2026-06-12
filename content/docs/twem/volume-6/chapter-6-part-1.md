@@ -151,7 +151,7 @@ Và cuối cùng, đội của chúng tôi được giới thiệu.
 
 Giọng Nina vang khắp đấu trường im lặng.
 
-"Có thể nói đội này là ngựa ô lần này! Trong bốn thành viên, ba người đã vượt qua vòng loại giải cá nhân. Một là Finne, còn được gọi là 'Công chúa Băng,' người điều khiển hai thuộc tính ma thuật băng và nước, và làm kẻ địch bối rối bằng ảo ảnh! Thí sinh tiếp theo là Iris, còn được gọi là 'Kẻ Chém Sấm Sét,' người tung ra đòn tấn công như sấm sét và bão! Và người còn lại là Kuzel, còn được gọi là 'Công chúa Đỏ Thẫm,' người giữ chức phó đội trưởng hiệp sĩ đoàn của một quốc gia nào đó và cũng hoạt động như mạo hiểm giả hạng A! Cuối cùng, người đàn ông đó với ba người kia là ai vậy?"
+"Có thể nói đội này là ngựa ô lần này! Trong bốn thành viên, ba người đã vượt qua vòng loại giải cá nhân. Một là Finne, còn được gọi là 'Công chúa Băng,' người điều khiển hai thuộc tính phép thuật băng và nước, và làm kẻ địch bối rối bằng ảo ảnh! Thí sinh tiếp theo là Iris, còn được gọi là 'Kẻ Chém Sấm Sét,' người tung ra đòn tấn công như sấm sét và bão! Và người còn lại là Kuzel, còn được gọi là 'Công chúa Đỏ Thẫm,' người giữ chức phó đội trưởng hiệp sĩ đoàn của một quốc gia nào đó và cũng hoạt động như mạo hiểm giả hạng A! Cuối cùng, người đàn ông đó với ba người kia là ai vậy?"
 
 Cuối cùng, đến lượt tôi được giới thiệu, và Nina có vẻ đang ở đỉnh cao phấn khích.
 

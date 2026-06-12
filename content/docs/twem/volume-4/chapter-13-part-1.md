@@ -7,7 +7,7 @@ weight: 13.1
 
 Một tuần sau khi mở cửa kinh doanh, tôi đang tổ chức một cuộc họp khẩn cấp tại dinh thự.
 
-Không chỉ nhân viên, mà Sebas, Lyla, Mia, Zero và các hầu cận khác của dinh thự cũng như Tendo và các anh hùng khác đã tụ tập.
+Không chỉ nhân viên, mà Sebas, Lyla, Mia, Zero và các hầu gái khác của dinh thự cũng như Tendo và các anh hùng khác đã tụ tập.
 
 "Xin lỗi đã tập hợp mọi người đột ngột. Có điều tôi cần nói với mọi người."
 
@@ -167,7 +167,7 @@ Cả ba gật đầu mạnh mẽ và nhanh chóng rời phòng.
 
 ～
 
-Sau bữa tối hôm đó, tất cả chúng tôi đang thư giãn với một tách trà khi tôi nhận thấy Kusel đang nhìn chằm chằm vào tôi.
+Sau bữa tối hôm đó, tất cả chúng tôi đang thư giãn với một tách trà khi tôi nhận thấy Kuzel đang nhìn chằm chằm vào tôi.
 
 Nếu tôi đoán…có lẽ cô ấy muốn có một trận đấu tập hoặc gì đó tương tự~.
 
@@ -185,7 +185,7 @@ So với ngày đầu tiên, tất cả nhân viên đã quen với việc phụ
 
 "Ồ thật á? Vậy mình làm vào ngày mai nhé?"
 
-Khi tôi nói vậy, mắt Kusel sáng lên.
+Khi tôi nói vậy, mắt Kuzel sáng lên.
 
 "Anh nghiêm túc chứ?! Chắc chắn rồi!"
 

@@ -45,7 +45,7 @@ Kalamiras tiến đến Tendo và xin lỗi, nhưng Tendo và mọi người có
 
 "Finne, còn em và mọi người, em ổn với chuyện đó chứ?"
 
-Tôi hỏi Finne, Iris, Asha, Ephyr, và Kusel, những người ở phía sau Tendo và nhóm.
+Tôi hỏi Finne, Iris, Asha, Ephyr, và Kuzel, những người ở phía sau Tendo và nhóm.
 
 "Vâng, tất nhiên ạ!"
 
@@ -113,11 +113,11 @@ Hiện tại, hãy để tôi xác nhận ý định của Zero.
 
 "Tôi hiểu. Nhưng còn vai trò trùng cuối ở đây của anh thì sao?"
 
-"Tôi khá chắc là anh ta sẽ không thể rời khỏi dungeon này với tư cách là trùng dungeon.
+"Tôi khá chắc là anh ta sẽ không thể rời khỏi hầm ngục này với tư cách là trùng hầm ngục.
 
-Có một lõi dungeon trong không gian ẩn phía trước, nơi anh có thể đăng ký để thiết lập một con trùng mới. Còn về con quái vật thay thế…anh chỉ cần triệu hồi nó."
+Có một lõi hầm ngục trong không gian ẩn phía trước, nơi anh có thể đăng ký để thiết lập một con trùng mới. Còn về con quái vật thay thế…anh chỉ cần triệu hồi nó."
 
-Tôi không biết dungeon lại hệ thống đến vậy!?
+Tôi không biết hầm ngục lại hệ thống đến vậy!?
 
 "Triệu hồi hả…Tôi không có kỹ năng triệu hồi quái vật, tôi phải làm sao?"
 
@@ -166,7 +166,7 @@ Tôi nhìn quanh cơ thể mình, nhưng không thấy gì bất thường.
 | **CẤP:** | **355** |
 | **TUỔI:** | **17** |
 | **CHỦNG TỘC:** | **Con người (Dị giới)** |
-| **KỸ NĂNG ĐỘC NHẤT:** | **All Creation**  **God Eye**  **Max Skill Growth**  **Experience Boost** |
+| **KỸ NĂNG ĐỘC NHẤT:** | **Toàn Tạo**  **Thần Nhãn**  **Max Skill Growth**  **Experience Boost** |
 | **KỸ NĂNG:** | **Hợp Nhất Võ Thuật**  **Hợp Nhất Phép Thuật**  **Hiểu Ngôn Ngữ**  **Tư Duy Song Song**  **Tư Duy Tăng Tốc**  **Sao Chép**  **Chiến Đấu Ma**  **Limit Break**  **Xã Giao** |
 | **DANH HIỆU:** | **Dị Giới**  **Người Dùng Kỹ Năng Độc Nhất**  **Quân Vương Chiến**  **Quân Vương Phép**  **Siêu Việt**  **Mạo Hiểm Giả Hạng EX**  **Ma Vương**  **Kẻ Hủy Diệt** |
 
@@ -217,13 +217,13 @@ Thiếu kiên nhẫn, tôi chọn trước tiên kiểm tra các kỹ năng bổ
 
 **Kích hoạt Tư Duy Song Song, Tư Duy Tăng Tốc, Tính Toán, Phân Tích, và Thẩm Định.**
 
-**Hiệu ứng của God Eye được kế thừa.**
+**Hiệu ứng của Thần Nhãn được kế thừa.**
 
 **Có chức năng phụ trợ tự duy trì.**
 
 .
 
-Tôi hiểu…với những thứ này, dù là All Creation hay Max Skill Growth đều trở nên không liên quan uh…dù vậy, cái này quá đáng chứ đúng không!?
+Tôi hiểu…với những thứ này, dù là Toàn Tạo hay Max Skill Growth đều trở nên không liên quan uh…dù vậy, cái này quá đáng chứ đúng không!?
 
 Nó sẽ giống như cày trong chế độ siêu dễ!!
 

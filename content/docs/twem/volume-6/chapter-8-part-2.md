@@ -79,7 +79,7 @@ Với lời tôi làm tín hiệu, trận chiến của chúng tôi bắt đầu
 
 Oskar là người đầu tiên hành động.
 
-Thanh kiếm đỏ thẫm ông ta rút ra nhanh chóng, trông giống kiếm ma thuật.
+Thanh kiếm đỏ thẫm ông ta rút ra nhanh chóng, trông giống kiếm phép thuật.
 
 Oskar giơ kiếm và lập tức rút ngắn khoảng cách giữa mình và con rồng đã hạ cánh xuống đất.
 

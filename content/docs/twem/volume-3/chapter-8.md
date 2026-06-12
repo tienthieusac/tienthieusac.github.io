@@ -27,7 +27,7 @@ Mặc dù chúng ta sẽ để lại đủ lực lượng để bảo vệ làng
 
 Tôi định yêu cầu Aegan tập hợp các nhóm, vì các elf có lẽ sẽ có sự ăn ý với nhau, nhưng anh ta đã quyết định trước tôi.
 
-"Cảm ơn Aegan. Tôi sẽ phát cho mỗi nhóm một công cụ ma thuật để liên lạc…mọi người, cố gắng không giết lính địch nếu có thể. Với kỹ năng của các người, các người nên có thể vô hiệu hóa chúng mà không giết chúng."
+"Cảm ơn Aegan. Tôi sẽ phát cho mỗi nhóm một công cụ phép thuật để liên lạc…mọi người, cố gắng không giết lính địch nếu có thể. Với kỹ năng của các người, các người nên có thể vô hiệu hóa chúng mà không giết chúng."
 
 Nếu chúng ta gây thương vong ở đây, nó sẽ chỉ tạo ra những mối hận thù không cần thiết.
 
@@ -133,7 +133,7 @@ Vậy nên, một khi mọi người đã tập trung, tôi mở bản đồ mà
 
 Sử dụng bản đồ và so sánh với thông tin từ Tendo và những người khác, tôi đã có thể xác định chính xác vị trí phòng ngủ của hoàng gia và ra lệnh cho họ, và các elf nhanh chóng hành động.
 
-Mặt khác, tôi, Finne, Iris, Asha, Kusel, và Tendo cùng những anh hùng còn lại đội mũ trùm để tránh bị nhận ra và đi xuống sảnh.
+Mặt khác, tôi, Finne, Iris, Asha, Kuzel, và Tendo cùng những anh hùng còn lại đội mũ trùm để tránh bị nhận ra và đi xuống sảnh.
 
 Trên đường đi, có một người lính nằm la liệt có lẽ đã bị các elf xâm nhập vào lâu đài trước đó làm choáng, nhưng chúng tôi phớt lờ anh ta và tiếp tục đi.
 
@@ -215,13 +215,13 @@ Nhà vua Glicente co người dưới chân tôi, khuôn mặt nhăn nhó trong 
 
 Tôi tung thêm một cú đá. Lần này, tôi đá mạnh hơn trước.
 
-"Đừng dám nói dối ta. Ta biết rõ ta đang nói gì. Đúng không, Kusel?"
+"Đừng dám nói dối ta. Ta biết rõ ta đang nói gì. Đúng không, Kuzel?"
 
-Tôi gọi tên cô ấy, và Kusel, người đã cởi mũ trùm, bước lên phía trước.
+Tôi gọi tên cô ấy, và Kuzel, người đã cởi mũ trùm, bước lên phía trước.
 
 "…Đúng vậy. Đúng như anh nói, Haruto."
 
-"Ồ, cô là Kusel, cựu Đội trưởng phó. Tại sao cô lại ở đây…?"
+"Ồ, cô là Kuzel, cựu Đội trưởng phó. Tại sao cô lại ở đây…?"
 
 Mariana, người đã im lặng cho đến bây giờ, mở miệng, khuôn mặt tái đi.
 
@@ -243,7 +243,7 @@ Tôi cởi mũ trùm đang đội và để lộ khuôn mặt thật của mình
 
 "Trả thù…"
 
-"Kusel đã nói với tôi rằng các người là hoàng gia đã tấn công người elf, có nhớ không? Và từ những gì người elf nói với tôi, họ chắc chắn là quân đội của các người. Đúng không, Aegan?"
+"Kuzel đã nói với tôi rằng các người là hoàng gia đã tấn công người elf, có nhớ không? Và từ những gì người elf nói với tôi, họ chắc chắn là quân đội của các người. Đúng không, Aegan?"
 
 "Vâng. Chúng tôi đã kiểm tra áo giáp của các hiệp sĩ và lính dọc đường, và chắc chắn là Glicente đã tấn công làng chúng tôi."
 

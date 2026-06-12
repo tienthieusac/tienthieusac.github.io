@@ -267,7 +267,7 @@ Tôi muốn giết mấy tên dám nhìn Finne và những người khác bằng
 
 "Tôi không nói là nếu xin lỗi thì sẽ được tha."
 
-Tôi sẽ dùng ma thuật.
+Tôi sẽ dùng phép thuật.
 
 Một cục nước đá cỡ nắm tay xuất hiện trong không khí.
 
@@ -315,7 +315,7 @@ Tôi hiểu rồi, đây là sự kiện khá dài.
 
 Nhân viên tiếp tân tiếp tục.
 
-"Luật thi đấu là tự do sử dụng vũ khí và ma thuật, nhưng không được phép sử dụng ma thuật có thể giết chết đối thủ. Ngoài ra, nếu giết đối thủ, bạn sẽ bị loại và bị trừng phạt. Giải thích đến đây là hết, có câu hỏi nào không?"
+"Luật thi đấu là tự do sử dụng vũ khí và phép thuật, nhưng không được phép sử dụng phép thuật có thể giết chết đối thủ. Ngoài ra, nếu giết đối thủ, bạn sẽ bị loại và bị trừng phạt. Giải thích đến đây là hết, có câu hỏi nào không?"
 
 Chúng tôi không có, nên lắc đầu.
 

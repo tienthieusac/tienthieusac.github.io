@@ -7,11 +7,11 @@ weight: 12
 
 ——Vào sáng sớm ngày khai trương.
 
-Tôi đến cửa hàng với Finne, Iris, Asha, Kusel, Ephyr và Suzuno để giúp chuẩn bị trong những giờ sáng sớm khi trời vẫn còn lờ mờ.
+Tôi đến cửa hàng với Finne, Iris, Asha, Kuzel, Ephyr và Suzuno để giúp chuẩn bị trong những giờ sáng sớm khi trời vẫn còn lờ mờ.
 
 Tendo và những người khác không đến giúp ở cửa hàng vì họ sắp quay lại Glicente và muốn dành thời gian chuẩn bị cũng như luyện tập cho chuyến trở về. Suzuno đến cùng vì cô ấy đã quyết định sẽ gắn bó với tôi từ giờ trở đi.
 
-Tôi nghĩ Kusel sẽ luyện tập với Tendo và những người khác, nhưng thay vào đó cô ấy lại nói, "Tôi không quen với loại công việc này, nên tôi muốn học nhiều nhất có thể", và cũng đến. Giờ tôi hơi lo vì cô ấy là người cơ bắp, nhưng nói vậy, tôi mừng vì cô ấy sẵn lòng học hỏi.
+Tôi nghĩ Kuzel sẽ luyện tập với Tendo và những người khác, nhưng thay vào đó cô ấy lại nói, "Tôi không quen với loại công việc này, nên tôi muốn học nhiều nhất có thể", và cũng đến. Giờ tôi hơi lo vì cô ấy là người cơ bắp, nhưng nói vậy, tôi mừng vì cô ấy sẵn lòng học hỏi.
 
 Hôm nay, số phận của Phòng Thương mại Ashtaroth sẽ được định đoạt.
 
@@ -177,7 +177,7 @@ Iris nói với Finne, ưỡn ngực.
 
 Tôi đang nghĩ, tại sao cô ấy lại tỏ ra kiêu ngạo đến vậy? Cô ấy ngày càng bị cuốn đi kể từ khi Asha khen cô ấy nói, "Công chúa cũng đã làm rất nhiều việc hậu trường".
 
-Mặt khác, Kusel…whoa, cô ấy mệt đến mức ngủ gật trên ghế.
+Mặt khác, Kuzel…whoa, cô ấy mệt đến mức ngủ gật trên ghế.
 
 Dễ thương đến mức khiến tôi phải cười, rồi Suzuno vỗ vai tôi.
 

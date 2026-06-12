@@ -5,7 +5,7 @@ weight: 8.1
 
 # Chương 8 – Kẻ Xâm Nhập
 
-Cả bốn chúng tôi dừng lại trước sự quan sát về phản ứng ma thuật mạnh mẽ.
+Cả bốn chúng tôi dừng lại trước sự quan sát về phản ứng phép thuật mạnh mẽ.
 
 Cùng lúc, bầu trời u ám và một bóng đen khổng lồ xuất hiện trên đấu trường.
 
@@ -105,7 +105,7 @@ Ngay cả sau khi Breath kết thúc, khán giả vẫn hoảng loạn, nhưng r
 
 Giọng nói đó thuộc về chính Hoàng đế, Oskar von Galzio.
 
-Có lẽ, giọng nói của ông ta được khuếch đại bằng ma thuật.
+Có lẽ, giọng nói của ông ta được khuếch đại bằng phép thuật.
 
 "Trận đấu tạm hoãn. Ta không biết những con rồng đó đến từ đâu, nhưng đúng là chúng đã giương nanh với Đế quốc. Nói cách khác, chúng là kẻ địch của chúng ta. Vì vậy, hãy chiến đấu! Cầm vũ khí lên! Đứng dậy, chiến binh! Cho chúng biết kẻ thù của chúng là ai! Tất cả người không chiến đấu phải sơ tán khỏi đây ngay lập tức!"
 
@@ -200,7 +200,7 @@ Tôi đang tự hỏi phải làm gì với lũ rồng.
 
 Vì đấu trường nằm trong Thủ đô Hoàng đế, bình thường có nhiều tòa nhà xung quanh.
 
-Vì vậy, không thể sử dụng ma thuật quy mô lớn.
+Vì vậy, không thể sử dụng phép thuật quy mô lớn.
 
 Tuy nhiên, nếu chúng tôi chiến đấu đẩy lùi chúng, sẽ mất nhiều thời gian, và chúng tôi có thể gây thiệt hại.
 
@@ -240,7 +240,7 @@ Nói cách khác, Oskar ngang hàng mạo hiểm giả hạng S.
 
 Không, có khi còn hơn, nhưng để đánh giá một chút.
 
-Tôi sẽ dùng Con Mắt Thần để xác nhận.
+Tôi sẽ dùng Thần Nhãn để xác nhận.
 
 | **Tên:** | **Oskar von Gargio** |
 | --- | --- |

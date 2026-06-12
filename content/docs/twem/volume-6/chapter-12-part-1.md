@@ -19,7 +19,7 @@ Quỷ tấn công các ngôi làng và khiến người dân khiếp sợ.
 
 Nhưng chúng không dừng ở đó.
 
-Chúng sử dụng ma thuật đặc biệt để nguyền rủa người dân.
+Chúng sử dụng phép thuật đặc biệt để nguyền rủa người dân.
 
 Lời nguyền khiến người dân tạo ra năng lượng tiêu cực, và khi họ chết, năng lượng được khuếch đại bởi oán hận.
 

@@ -185,13 +185,13 @@ Hừm.
 
 Cấp độ thì tạm được, nhưng <Con rối Tử thần> trông phiền phức.
 
-Dù sao, ma thuật ánh sáng – vốn có thể gây sát thương nặng cho xác sống – khó có khả năng được thành thạo bởi bọn quỷ vốn không hợp với nó.
+Dù sao, phép thuật ánh sáng – vốn có thể gây sát thương nặng cho xác sống – khó có khả năng được thành thạo bởi bọn quỷ vốn không hợp với nó.
 
 Nói về xác sống, cũng có quy tắc rằng chúng sẽ tiếp tục di chuyển trừ khi đầu của chúng bị phá hủy, nên có vẻ sẽ rất khó để chiến đấu với chúng trong một cuộc chiến.
 
 Trong khi tôi đang suy nghĩ về điều này, tôi nhận thấy một bóng tối khổng lồ của thứ gì đó ở phía xa.
 
-Tôi sử dụng God Eye để kiểm tra thứ ở phía xa.
+Tôi sử dụng Thần Nhãn để kiểm tra thứ ở phía xa.
 
 Và khi tôi nhìn thấy nó, tôi đã thở hổn hển.
 
@@ -237,7 +237,7 @@ Thực tế là bị phong ấn trong tòa lâu đài đen đó, ông ta hẳn l
 
 "Tôi quên mất. Tôi sẽ đi giao thư trước."
 
-Tôi sử dụng ma thuật dịch chuyển tức thời và biến mất khỏi hiện trường.
+Tôi sử dụng phép thuật dịch chuyển tức thời và biến mất khỏi hiện trường.
 
 ---
 

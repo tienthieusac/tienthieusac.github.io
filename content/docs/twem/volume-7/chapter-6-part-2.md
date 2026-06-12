@@ -49,7 +49,7 @@ Tôi cũng sẽ thử thẩm định nó.
 
 | **Tên:** | **Tượng đá Bảo vệ** |
 | --- | --- |
-| **Ghi chú:** | **Một bức tượng đá di động được tạo ra bằng giả kim thuật và dụng cụ ma thuật.** |
+| **Ghi chú:** | **Một bức tượng đá di động được tạo ra bằng giả kim thuật và dụng cụ phép thuật.** |
 
 .
 
@@ -127,7 +127,7 @@ Rồi, vài người lính xông đến hiện trường.
 
 Chúng tôi trả lời câu hỏi của họ bằng cách biến hình thành những người lính đã canh gác cầu thang lúc nãy.
 
-Tiện thể, những người lính đã bất tỉnh được giấu đi bằng cách hòa vào tường với những tảng đá được tạo ra bằng ma thuật đất.
+Tiện thể, những người lính đã bất tỉnh được giấu đi bằng cách hòa vào tường với những tảng đá được tạo ra bằng phép thuật đất.
 
 "Không, bức tượng đá này đang di chuyển do trục trặc. Tôi đã kiểm tra và có vẻ ổn."
 

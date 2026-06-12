@@ -87,7 +87,7 @@ Vì không ai phản đối, tôi lên tiếng.
 
 Tôi nói với giọng bình thường, như thể: "Tôi chỉ đến nhà bạn một chút thôi!"
 
-Rồi tôi sử dụng ma thuật dịch chuyển để biến mất khỏi chỗ đó – và quay lại chỉ trong vài giây.
+Rồi tôi sử dụng phép thuật dịch chuyển để biến mất khỏi chỗ đó – và quay lại chỉ trong vài giây.
 
 Ma Vương Fran đang đứng cạnh tôi.
 
@@ -291,7 +291,7 @@ Sau khi Zero nói xong, Glatnis nói tiếp.
 
 Mọi người, kể cả tôi, nghiêng đầu trước từ tôi nghe lần đầu.
 
-"Quyền năng là sức mạnh mà một vị Thần sinh ra, và đó là khả năng can thiệp vào thế giới. Bạn có thể coi Quyền năng của Chronos là phiên bản tiên tiến nhất của ma thuật không-thời gian. Và tên của Quyền năng mà Chronos có được gọi là 'Quyền năng của Thần Thời Gian.'"
+"Quyền năng là sức mạnh mà một vị Thần sinh ra, và đó là khả năng can thiệp vào thế giới. Bạn có thể coi Quyền năng của Chronos là phiên bản tiên tiến nhất của phép thuật không-thời gian. Và tên của Quyền năng mà Chronos có được gọi là 'Quyền năng của Thần Thời Gian.'"
 
 "Quyền năng của Thần Thời Gian…"
 

@@ -29,7 +29,7 @@ Cậu ấy trông rất mệt, nhưng dường như không bị thương.
 
 Tendo kêu lên ngạc nhiên. Cậu ấy có lẽ không ngờ tôi lại thất bại.
 
-"Có thứ gì đó đã ngắt lời chúng tôi ở giữa. Hắn tự xưng là Sứ đồ của Ác Thần. Hắn cũng nói gì đó về việc hồi sinh ma vương đầu tiên. Chuyện này đang trở nên thực sự khó khăn."
+"Có thứ gì đó đã ngắt lời chúng tôi ở giữa. Hắn tự xưng là Sứ đồ của Ác Thần. Hắn cũng nói gì đó về việc hồi sinh Ma Vương đầu tiên. Chuyện này đang trở nên thực sự khó khăn."
 
 "Ác Thần… họ thực sự tồn tại sao?"
 

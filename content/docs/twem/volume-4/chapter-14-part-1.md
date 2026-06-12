@@ -91,11 +91,11 @@ Bohbee nhanh chóng lướt qua nội dung và reo lên ngạc nhiên.
 
 Đúng vậy, có tủ lạnh ở thế giới này.
 
-Tuy nhiên, chúng khá đắt do lượng lớn đá ma thuật cần thiết. Ngoài ra, vì kích thước của bản thân tủ lạnh, chúng chỉ có ở lâu đài hoàng gia, dinh thự quý tộc, và một số nhà hàng và cửa hàng, và không được sử dụng rộng rãi.
+Tuy nhiên, chúng khá đắt do lượng lớn đá phép thuật cần thiết. Ngoài ra, vì kích thước của bản thân tủ lạnh, chúng chỉ có ở lâu đài hoàng gia, dinh thự quý tộc, và một số nhà hàng và cửa hàng, và không được sử dụng rộng rãi.
 
 Tuy nhiên, chiếc tủ lạnh lần này có kích thước khoảng tủ lạnh gia đình hơi lớn hơn ở thế giới gốc, và kích thước nhỏ gọn vừa đủ cho một người.
 
-Hơn nữa, vì mạch điện được làm hiệu quả hơn, nó có thể được sản xuất với đá ma thuật nhỏ hơn, dẫn đến giảm chi phí đáng kể.
+Hơn nữa, vì mạch điện được làm hiệu quả hơn, nó có thể được sản xuất với đá phép thuật nhỏ hơn, dẫn đến giảm chi phí đáng kể.
 
 "Hãy thử làm nguyên mẫu những cái này, và cho tôi xem khi hoàn thành. Nếu thành công, chúng ta sẽ sản xuất hàng loạt rồi bắt đầu bán chúng."
 
@@ -103,7 +103,7 @@ Hơn nữa, vì mạch điện được làm hiệu quả hơn, nó có thể đ
 
 "Tôi đang nghĩ chúng ta có thể đặt cái nhỏ giá tám đồng bạc lớn, và cái lớn khoảng năm đồng vàng."
 
-"Vâng, tôi nghĩ đó là hợp lý vì cái cỡ lớn yêu cầu đá ma thuật khá lớn."
+"Vâng, tôi nghĩ đó là hợp lý vì cái cỡ lớn yêu cầu đá phép thuật khá lớn."
 
 "Chính xác. Được rồi, tôi sẽ đi đây. Có tên liều mình đang khóc đòi ăn đòn mà tôi phải chiều, hiểu chứ?"
 

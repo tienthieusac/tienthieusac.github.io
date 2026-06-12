@@ -43,7 +43,7 @@ Một lần nữa, lời Fran làm im lặng đám đông.
 
 Rồi Fran ra hiệu cho tôi và Tendo.
 
-"Chỉ gần đây hai người này trở thành hầu cận của ta… nhiều người trong số các người đã thấy họ chiến đấu với Lauren và Gyuray."
+"Chỉ gần đây hai người này trở thành hầu gái của ta… nhiều người trong số các người đã thấy họ chiến đấu với Lauren và Gyuray."
 
 Khi Fran nói vậy, có thể nghe thấy những giọng nói nói những thứ như: "Tôi chắc chắn họ là những người đã một mình đối phó với đội quân quái vật," và "Họ có phải là những hiệp sĩ đen đã đến giúp chúng ta không?"
 
@@ -203,7 +203,7 @@ Fran suy nghĩ sâu khi tôi nói vậy.
 
 "Được. Vậy thì, chúng ta hãy quay lại và xin phép nhà vua trước."
 
-Như vậy, Tendo và tôi đã sử dụng ma thuật dịch chuyển để quay lại thủ đô Vương quốc Perdis.
+Như vậy, Tendo và tôi đã sử dụng phép thuật dịch chuyển để quay lại thủ đô Vương quốc Perdis.
 
 ---
 

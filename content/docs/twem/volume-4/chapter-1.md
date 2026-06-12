@@ -11,19 +11,19 @@ Tuy nhiên, sau khi kiểm tra trạng thái, người ta phát hiện tôi khô
 
 Tôi bị Mariana — công chúa vương quốc Glicente, người dẫn đầu cuộc triệu hồi — đuổi đi, và suýt bị giết bởi một hiệp sĩ, nhưng một vị thần đã xuất hiện trước mặt tôi.
 
-Và như lời xin lỗi vì đã quên ban Gift cho tôi, tôi nhận được một số kỹ năng cheat như All Creation, cho phép tôi tạo ra mọi kỹ năng, và God Eye, cho phép tôi nhìn thấu mọi thứ.
+Và như lời xin lỗi vì đã quên ban Gift cho tôi, tôi nhận được một số kỹ năng cheat như Toàn Tạo, cho phép tôi tạo ra mọi kỹ năng, và Thần Nhãn, cho phép tôi nhìn thấu mọi thứ.
 
 Tôi đã thề sẽ báo thù vương quốc Glicente và trở thành một mạo hiểm giả ở vương quốc Perdis, nơi tôi được trao tặng hạng mạo hiểm giả cao nhất thế giới, EX, vì nhiều thành tích của mình.
 
-Và thế là, cùng với đồng nghiệp mạo hiểm giả Finne, đại công chúa vương quốc Perdis Iris, hầu cận Asha, cựu công chúa tộc elf Ephyr, và những người bạn khác, tôi đã thành công báo thù Glicente.
+Và thế là, cùng với đồng nghiệp mạo hiểm giả Finne, đại công chúa vương quốc Perdis Iris, hầu gái Asha, cựu công chúa tộc elf Ephyr, và những người bạn khác, tôi đã thành công báo thù Glicente.
 
 Sau khi tái thiết thành công nội bộ Glicente, các bạn cùng lớp cũ của tôi — Tendo, Suzuno, và những người khác — quyết định tự rèn luyện bản thân để có thể đánh bại Ma Vương.
 
-Sau khi đưa nhóm anh hùng đến "Mê Cung Nargadia", một dungeon ở vương quốc Glicente, chúng tôi cũng khởi hành một tuần sau đó.
+Sau khi đưa nhóm anh hùng đến "Mê Cung Nargadia", một hầm ngục ở vương quốc Glicente, chúng tôi cũng khởi hành một tuần sau đó.
 
 ～
 
-Những người hướng đến Mê Cung Nargadia lần này là tôi, Finne, Iris, Asha, và Ephyr. Tính cả Kusel, cựu hiệp sĩ đã gia nhập chúng tôi trong cuộc tấn công Glicente, tổng cộng là sáu người.
+Những người hướng đến Mê Cung Nargadia lần này là tôi, Finne, Iris, Asha, và Ephyr. Tính cả Kuzel, cựu hiệp sĩ đã gia nhập chúng tôi trong cuộc tấn công Glicente, tổng cộng là sáu người.
 
 "Mình hy vọng Tendo và mọi người vẫn ổn chứ?"
 
@@ -39,11 +39,11 @@ Iris nói, nghiêng đầu.
 
 Cô ấy nói chuẩn không cần chỉnh.
 
-"Ừ, đúng vậy. Khi xác nhận sự tồn tại của dungeon, tôi cũng đã xem qua cấp độ của quái vật và xác định rằng chúng không quá sức đối với một anh hùng…chỉ là, không có thông tin về con trùm. Tôi nghe nói có một con rồng tà ác bị phong ấn ở đó, có ai biết gì về nó không?"
+"Ừ, đúng vậy. Khi xác nhận sự tồn tại của hầm ngục, tôi cũng đã xem qua cấp độ của quái vật và xác định rằng chúng không quá sức đối với một anh hùng…chỉ là, không có thông tin về con trùm. Tôi nghe nói có một con rồng tà ác bị phong ấn ở đó, có ai biết gì về nó không?"
 
 Tôi nghe câu chuyện về con rồng tà ác từ Glifas, Hiệp sĩ Trưởng, và Marvelle, Tổng Pháp Sư Hoàng Gia, khi chúng tôi rời đi.
 
-Kusel giơ tay đáp lại câu hỏi của tôi. Đúng như mong đợi từ một cựu hiệp sĩ.
+Kuzel giơ tay đáp lại câu hỏi của tôi. Đúng như mong đợi từ một cựu hiệp sĩ.
 
 "Em biết. Tuy nhiên chỉ là thứ em từng đọc ở đâu đó thôi."
 
@@ -53,11 +53,11 @@ Kusel giơ tay đáp lại câu hỏi của tôi. Đúng như mong đợi từ m
 
 "Con rồng mạnh nhất, huh…"
 
-Nghe có vẻ như cổ tích, nhưng xét đến việc tôi không thể xác nhận thông tin ở đó bằng God Eye, thì có lẽ nó không phải là lời nói vô căn cứ hoàn toàn.
+Nghe có vẻ như cổ tích, nhưng xét đến việc tôi không thể xác nhận thông tin ở đó bằng Thần Nhãn, thì có lẽ nó không phải là lời nói vô căn cứ hoàn toàn.
 
 Tôi một lần nữa quyết định kiểm tra con trùm ở đáy Mê Cung Nargadia.
 
-Chức năng bản đồ đi kèm với God Eye cũng có khả năng tra cứu thông tin về mục tiêu.
+Chức năng bản đồ đi kèm với Thần Nhãn cũng có khả năng tra cứu thông tin về mục tiêu.
 
 Thông tin về con trùm dường như không bị hạn chế hay gì tương tự, nhưng…giờ tôi đã có manh mối về con rồng, có lẽ tôi sẽ tìm ra điều gì đó nếu thật sự cố gắng.
 
@@ -91,7 +91,7 @@ Mọi người nghe cấp độ đó đều reo lên.
 
 Ai cũng biết rằng cấp độ hiện tại của tôi là 355.
 
-Tuy nhiên, ngay cả các anh hùng và Kusel — người từng là phó hiệp sĩ trưởng — cũng chỉ ở khoảng một phần năm cấp độ của tôi.
+Tuy nhiên, ngay cả các anh hùng và Kuzel — người từng là phó hiệp sĩ trưởng — cũng chỉ ở khoảng một phần năm cấp độ của tôi.
 
 Năm người có cấp độ cao nhất là Suzuno Ichinomiya, Koji Tendo, Shinya Mogami, Aoi Shinonome, và Natsuki Asakura. Tuy nhiên, dù vậy, họ thậm chí còn chưa đạt cấp 100, nên còn lâu mới đủ sức đối đầu với cấp 300.
 
@@ -111,9 +111,9 @@ Dù sao họ cũng là anh hùng, và họ có vật phẩm đặc biệt tự c
 
 Tuy nhiên, điều đó không có nghĩa là chúng ta có thể chậm trễ.
 
-Ngay cả khi chúng ta đến dungeon, sẽ mất một khoảng thời gian để đến được tầng thấp nhất.
+Ngay cả khi chúng ta đến hầm ngục, sẽ mất một khoảng thời gian để đến được tầng thấp nhất.
 
-Và mặc dù quái vật trong dungeon là đám nhỏ đối với tôi, và tôi có thể thấy đường đi ngắn nhất trên bản đồ, tôi không thể chạy nhanh như khi một mình với Finne và mọi người đi cùng.
+Và mặc dù quái vật trong hầm ngục là đám nhỏ đối với tôi, và tôi có thể thấy đường đi ngắn nhất trên bản đồ, tôi không thể chạy nhanh như khi một mình với Finne và mọi người đi cùng.
 
 Sẽ mất khoảng một ngày để đến được tầng thấp nhất.
 
@@ -127,7 +127,7 @@ Chúng tôi đã đến lối vào Mê Cung Nargadia.
 
 Chắc hẳn đó là một chặng đường vất vả đối với Maguro, nhưng cậu ấy thực sự là một người bạn đồng hành đáng tin cậy.
 
-Tôi yêu cầu Maguro di chuyển đến một không gian khác mà tôi đã tạo ra, một không gian con. Không có cách nào tôi có thể mang cậu ấy đi vòng quanh dungeon.
+Tôi yêu cầu Maguro di chuyển đến một không gian khác mà tôi đã tạo ra, một không gian con. Không có cách nào tôi có thể mang cậu ấy đi vòng quanh hầm ngục.
 
 Cỗ xe cũng được đưa vào không gian con, và sau một chút chuẩn bị, chúng tôi bước vào mê cung.
 
@@ -173,11 +173,11 @@ Iris hét lên ngạc nhiên.
 
 Tôi lẩm bẩm với chính mình, nhưng ngay sau đó, một luồng ma lực lớn hơn nhiều so với của Tendo tràn lên.
 
-"Eh, wh, what, ma lực khổng lồ thế này"
+"Eh, wh, what, what, ma lực khổng lồ thế này"
 
 "Không thể tin nổi…"
 
-Asha và Kusel ngạc nhiên trước luồng ma lực có lẽ là của con rồng tà ác, và dừng bước tại chỗ.
+Asha và Kuzel ngạc nhiên trước luồng ma lực có lẽ là của con rồng tà ác, và dừng bước tại chỗ.
 
 "—Tôi sẽ đi trước! Mọi người cứ theo tốc độ của mình nhé!"
 

@@ -140,7 +140,7 @@ Tendo và những người khác có vẻ không thể làm gì ngoài việc qu
 
 Finne, Iris, và Asha đều quay mặt khỏi vũng máu đang lan rộng.
 
-Kusel không bối rối, nhưng cô ấy có một vẻ mặt khó đọc trước cái chết của cựu chủ nhân mình.
+Kuzel không bối rối, nhưng cô ấy có một vẻ mặt khó đọc trước cái chết của cựu chủ nhân mình.
 
 Giữa lúc đó, Ephyr rút kiếm ra khỏi thi thể.
 
@@ -210,7 +210,7 @@ Finne, Iris, và Asha đã quen với nó và bắt đầu uống trà mà khôn
 
 Tuy nhiên, khi họ thấy chúng tôi thư giãn, họ ngay lập tức ngồi xuống.
 
-Tiện thể, Kusel cũng ngồi xuống cùng lúc với Finne và những người khác. Nếu có gì đó, cô ấy đang cố độc chiếm bánh trà và đang chiến đấu với Iris. Cô ấy là hậu bối vì chúa, nào nhường cho cô ấy đi…
+Tiện thể, Kuzel cũng ngồi xuống cùng lúc với Finne và những người khác. Nếu có gì đó, cô ấy đang cố độc chiếm bánh trà và đang chiến đấu với Iris. Cô ấy là hậu bối vì chúa, nào nhường cho cô ấy đi…
 
 Tất nhiên, tôi cũng lo ngại về hành động của hoàng gia vẫn đang trong cuộc thảo luận.
 
@@ -252,7 +252,7 @@ Với trình độ kỹ năng của tôi, tôi có thể làm cho ấn nô lệ 
 
 Finne hỏi tôi sau khi tôi làm xong toàn bộ quy trình.
 
-"Hmm, để xem. Dù sao thì đất nước này đã là chế độ quân chủ chuyên chế cho đến bây giờ, phải không? Tôi muốn thay đổi điều đó trước, để chúng ta có thể thiết lập chính trị vì người dân…Kusel, em có một phút không?"
+"Hmm, để xem. Dù sao thì đất nước này đã là chế độ quân chủ chuyên chế cho đến bây giờ, phải không? Tôi muốn thay đổi điều đó trước, để chúng ta có thể thiết lập chính trị vì người dân…Kuzel, em có một phút không?"
 
 "Hmm? Có chuyện gì vậy?"
 

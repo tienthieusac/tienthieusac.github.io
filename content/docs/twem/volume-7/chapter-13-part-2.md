@@ -15,13 +15,13 @@ Tendo và tôi gật đầu trước yêu cầu của Fran.
 
 "Gyuray và các sứ đồ khác có thể sẽ tấn công chúng ta sau khi chúng hồi phục, nhưng ta sẽ xử lý một mình cho đến khi các người quay lại."
 
-"Tôi có ma thuật dịch chuyển tức thời nên tôi chắc chắn sẽ có thể quay lại sớm, nhưng tôi vẫn lo lắng."
+"Tôi có phép thuật dịch chuyển tức thời nên tôi chắc chắn sẽ có thể quay lại sớm, nhưng tôi vẫn lo lắng."
 
 "Đừng lo. Ta vẫn là Ma Vương."
 
 "Ha, đúng vậy. Tôi sẽ sớm quay lại."
 
-Ngay khi tôi định kích hoạt ma thuật dịch chuyển tức thời, một vụ nổ lớn gầm lên, và ma lực dày đặc tràn vào Lâu đài Quỷ.
+Ngay khi tôi định kích hoạt phép thuật dịch chuyển tức thời, một vụ nổ lớn gầm lên, và ma lực dày đặc tràn vào Lâu đài Quỷ.
 
 Nó đến từ hướng tòa lâu đài bay.
 
@@ -43,7 +43,7 @@ Tôi tặc lưỡi trước thời điểm tồi tệ và nói với Tendo và F
 
 "Xin lỗi, nhưng chúng ta sẽ phải hoãn chuyến trở lại."
 
-"Haru, ý anh là sao? Có liên quan đến vụ nổ ma thuật này không?"
+"Haru, ý anh là sao? Có liên quan đến vụ nổ phép thuật này không?"
 
 "Vâng. Nguyên nhân của vụ nổ này là Ma Vương đầu tiên Alogis."
 
@@ -93,7 +93,7 @@ Thay vì trả lời, tôi lặng lẽ nhìn chằm chằm về hướng Alogis 
 
 Và sớm, Fran và Tendo dường như cũng nhận ra.
 
-Một phản ứng ma thuật mạnh mẽ đang tiến đến.
+Một phản ứng phép thuật mạnh mẽ đang tiến đến.
 
 "Ma lực này là gì…?"
 
@@ -105,7 +105,7 @@ Cuối cùng, tôi lên tiếng.
 
 Mây quay cuồng, và một con quỷ, được bao phủ trong bóng tối, đáp xuống từ chúng.
 
-Ma lực mà hắn mang theo và lượng ma thuật ẩn bên trong hắn lớn hơn Eleos.
+Ma lực mà hắn mang theo và lượng phép thuật ẩn bên trong hắn lớn hơn Eleos.
 
 Đây thực sự là những gì bạn mong đợi từ Ma Vương đầu tiên?
 
@@ -160,7 +160,7 @@ Cấp 600, hắn ta là một con quái vật… Và tôi chưa từng thấy ai
 
 Thêm nữa, như tôi đã đoán, hắn có nhiều kỹ năng độc nhất.
 
-**Tất cả kỹ năng và sức mạnh ma thuật được tăng gấp năm lần.**
+**Tất cả kỹ năng và sức mạnh phép thuật được tăng gấp năm lần.**
 
 **Tăng các chỉ số thể chất cơ bản lên gấp năm lần.**
 
@@ -246,7 +246,7 @@ Không còn gì để nói, nên mọi người im lặng.
 
 Vô số ma pháp trận sau đó được triển khai xung quanh chúng tôi, và Alogis vung tay xuống mà không nói gì.
 
-Nhiều ma thuật tối khác nhau tràn đến chúng tôi.
+Nhiều phép thuật tối khác nhau tràn đến chúng tôi.
 
 "Không có cách nào tôi sẽ để ông đánh trúng chúng tôi."
 

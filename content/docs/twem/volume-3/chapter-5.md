@@ -340,7 +340,7 @@ Ngoài ra, có vẻ Iris và Asha sẽ tham gia.
 
 Tôi đang định huấn luyện cả hai, nên thật vừa vặn.
 
-Sau đó, sau một số thảo luận, Kusel và các anh hùng cũng quyết định tham gia. Tendo, người đang ngủ, bị ép buộc tham gia.
+Sau đó, sau một số thảo luận, Kuzel và các anh hùng cũng quyết định tham gia. Tendo, người đang ngủ, bị ép buộc tham gia.
 
 Người ta quyết định rằng buổi huấn luyện sẽ bắt đầu vào ngày hôm sau, và Ephyr rời khỏi nhà lần nữa để kể cho Aegan và những người khác về điều đó, và chúng tôi quay lại các phòng của mình.
 

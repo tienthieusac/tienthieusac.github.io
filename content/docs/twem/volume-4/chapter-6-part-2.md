@@ -163,7 +163,7 @@ Cũng giống như Zero, nhưng sau khi biến thành dạng người, việc th
 
 "Ừ, vì có vẻ anh ấy đang vui, nên mọi chuyện ổn đúng không?"
 
-Asha, Mogami, và Kusel là những người đang có cuộc trò chuyện như vậy.
+Asha, Mogami, và Kuzel là những người đang có cuộc trò chuyện như vậy.
 
 …Tôi sẽ quyết toán với mọi người sau.
 
@@ -313,17 +313,17 @@ Tôi thông báo cho Behemoth — người đã đứng dậy và quỳ xuống 
 
 "Tôi vô cùng cảm kích. Tôi, Glatnis, thề trung thành với ngài suốt đời."
 
-"Ừ, tôi sẽ trông cậy vào ngươi. Còn về lý do tôi triệu hồi ngươi…là vì tôi muốn ngươi làm trùng của dungeon này và quản lý nó hộ tôi. Ngươi có thể giao tiếp với tôi qua thần giao cách cảm, hay là không thể?"
+"Ừ, tôi sẽ trông cậy vào ngươi. Còn về lý do tôi triệu hồi ngươi…là vì tôi muốn ngươi làm trùng của hầm ngục này và quản lý nó hộ tôi. Ngươi có thể giao tiếp với tôi qua thần giao cách cảm, hay là không thể?"
 
-"Có, tôi có thể. Vậy, ngài muốn tôi tiếp quản việc quản lý dungeon này ngay bây giờ phải không?"
+"Có, tôi có thể. Vậy, ngài muốn tôi tiếp quản việc quản lý hầm ngục này ngay bây giờ phải không?"
 
 "Đúng vậy."
 
-Theo Zero, tôi có thể cho hắn quyền trùng bằng cách thao túng cài đặt lõi dungeon.
+Theo Zero, tôi có thể cho hắn quyền trùng bằng cách thao túng cài đặt lõi hầm ngục.
 
 Nên tôi đang nghĩ biến gã này thành quái vật trùng…hơi quá mạnh phải không?
 
-Vì tôi đang làm tất cả những rắc rối này, sẽ tốt nếu tôi có thể thao túng chính dungeon.
+Vì tôi đang làm tất cả những rắc rối này, sẽ tốt nếu tôi có thể thao túng chính hầm ngục.
 
 <Có thể nếu ngài dùng Lõi Dungeon. Nó sẽ yêu cầu một lượng ma lực khổng lồ, nhưng không nên là vấn đề đối với Bệ Hạ hoặc Glatnis.>
 
@@ -333,7 +333,7 @@ Thật á!
 
 Vậy thì, vì tôi đã ở đây rồi, tôi đoán tôi sẽ thử vài thứ.
 
-"Hãy xem…có vẻ ngươi cũng có khả năng thao túng dungeon này bằng mana của mình, nên tôi muốn tăng số tầng lên luôn thể. Ừ, tôi sẽ để chi tiết cho ngươi…nhưng tôi đang nghĩ có lẽ chúng ta giữ nguyên ba mươi tầng, và tạo các tầng mới dưới lòng đất, ngươi nghĩ sao?"
+"Hãy xem…có vẻ ngươi cũng có khả năng thao túng hầm ngục này bằng mana của mình, nên tôi muốn tăng số tầng lên luôn thể. Ừ, tôi sẽ để chi tiết cho ngươi…nhưng tôi đang nghĩ có lẽ chúng ta giữ nguyên ba mươi tầng, và tạo các tầng mới dưới lòng đất, ngươi nghĩ sao?"
 
 "Tôi hiểu."
 
@@ -357,13 +357,13 @@ Tôi gật đầu trước lời Finne và nhìn Glatnis.
 
 Mọi người lần lượt chào hỏi, mặc dù tất cả đều hơi sợ khi làm vậy vì họ đã thấy trận chiến lúc nãy.
 
-"Được rồi, Zero. Có thể dẫn tôi và Glatnis đến lõi dungeon không?"
+"Được rồi, Zero. Có thể dẫn tôi và Glatnis đến lõi hầm ngục không?"
 
 "Vâng, thưa ngài."
 
-Rồi tôi nhanh chóng đăng ký hắn làm quản trị viên trong lõi dungeon.
+Rồi tôi nhanh chóng đăng ký hắn làm quản trị viên trong lõi hầm ngục.
 
-Bây giờ Glatnis có thể tự do thao túng dungeon.
+Bây giờ Glatnis có thể tự do thao túng hầm ngục.
 
 Tôi quay lại với mọi người và gọi họ.
 
@@ -379,9 +379,9 @@ Tôi vừa nghĩ vậy thì nhận ra một điều.
 
 "Được, tôi không phiền. Vậy, tôi sẽ nhanh chóng đi gặp những người khác và chuyển lời, nên mọi người chờ ở đây một chút nhé!"
 
-Tôi nói, và đi vòng quanh các bạn cùng lớp trong dungeon để chuyển lời.
+Tôi nói, và đi vòng quanh các bạn cùng lớp trong hầm ngục để chuyển lời.
 
-Chức năng của God Eye vẫn còn nguyên, nên thật tốt khi biết ai ở đâu vào những lúc như thế này.
+Chức năng của Thần Nhãn vẫn còn nguyên, nên thật tốt khi biết ai ở đâu vào những lúc như thế này.
 
 Tôi xong việc trong chớp mắt và quay lại tầng 30 để gặp mọi người.
 

@@ -233,7 +233,7 @@ Charlotte tuyên bố, rút vũ khí ở thắt lưng và vào tư thế sẵn s
 
 Thanh kiếm cô ấy cầm tỏa sáng ánh vàng.
 
-Có lẽ, hay gần như chắc chắn, là kiếm ma thuật.
+Có lẽ, hay gần như chắc chắn, là kiếm phép thuật.
 
 "—Đó mới là điều tôi muốn."
 

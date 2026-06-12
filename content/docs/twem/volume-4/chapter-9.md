@@ -5,9 +5,9 @@ weight: 9
 
 # Chương 9 – Thêm Một Đợt Nô Lệ
 
-Khi tôi đến sân sau, tôi thấy Tendo và năm anh hùng khác, cũng như Finne, Kusel, và Iris, đang nghỉ giải lao.
+Khi tôi đến sân sau, tôi thấy Tendo và năm anh hùng khác, cũng như Finne, Kuzel, và Iris, đang nghỉ giải lao.
 
-Vì Ephyr và Asha là hầu cận của dinh thự, có vẻ họ đang hỗ trợ những người khác mà không tham gia huấn luyện.
+Vì Ephyr và Asha là hầu gái của dinh thự, có vẻ họ đang hỗ trợ những người khác mà không tham gia huấn luyện.
 
 "Làm tốt lắm, Tendo. Tôi chỉ muốn xác nhận nhanh với cậu, kế hoạch của các cậu là gì?"
 
@@ -113,13 +113,13 @@ Finne lẩm bẩm khi cô nhìn quanh.
 
 "Ừ, tôi đoán vậy. Ban đầu chúng ta sẽ không có nhiều hàng hóa, nên có lẽ chúng ta sẽ không dùng hết không gian…nhưng, dù sao Dillan cũng đã vất vả chuẩn bị nó cho chúng ta. Nên chúng ta phải đảm bảo cửa hàng đáp lại kỳ vọng của ông ấy."
 
-Khi mỗi người chúng tôi nhìn quanh bên trong, Kusel lên tiếng.
+Khi mỗi người chúng tôi nhìn quanh bên trong, Kuzel lên tiếng.
 
 "Haruto, có cầu thang dẫn xuống tầng hầm ở đây?"
 
 "Tầng hầm?"
 
-Tôi đi đến chỗ Kusel, và đúng như cô ấy nói, có cầu thang dẫn xuống sâu hơn.
+Tôi đi đến chỗ Kuzel, và đúng như cô ấy nói, có cầu thang dẫn xuống sâu hơn.
 
 Bên trong hơi tối, nhưng có công cụ phép thuật để chiếu sáng, nên tôi kích hoạt nó.
 
@@ -225,7 +225,7 @@ Tuy nhiên, Tendo gật đầu, có lẽ nghĩ rằng anh ấy phải xem vì đ
 
 "Vâng. Họ sẽ đi cùng."
 
-Tuy nhiên, Iris và Asha bên cạnh họ đang lắc đầu, và có vẻ Finne và Kusel cũng không đi.
+Tuy nhiên, Iris và Asha bên cạnh họ đang lắc đầu, và có vẻ Finne và Kuzel cũng không đi.
 
 "Được rồi. Vậy xin mời đi theo tôi."
 

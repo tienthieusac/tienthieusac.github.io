@@ -334,7 +334,7 @@ Dạo này tôi chưa kiểm tra chút nào…
 | **CẤP:** | **120** |
 | **TUỔI:** | **17** |
 | **CHỦNG TỘC:** | **Con người (Dị giới)** |
-| **KỸ NĂNG ĐỘC NHẤT:** | **Sáng Thế**  **Thần Nhãn**  **Tăng Trưởng Kỹ Năng Tối Đa**  **Tăng Cường Kinh Nghiệm** |
+| **KỸ NĂNG ĐỘC NHẤT:** | **Toàn Tạo**  **Thần Nhãn**  **Tăng Trưởng Kỹ Năng Tối Đa**  **Tăng Cường Kinh Nghiệm** |
 | **KỸ NĂNG:** | **Hợp Nhất Võ Thuật**  **Hợp Nhất Phép Thuật**  **Lĩnh Hội Ngôn Ngữ**  **Tư Duy Song Song**  **Tư Duy Tăng Tốc** |
 | **DANH HIỆU:** | **Con người (Dị giới)**  **Người Dùng Kỹ Năng Độc Nhất**  **Bậc Thầy Võ Thuật**  **Bậc Thầy Phép Thuật** |
 | **<Hợp Nhất Võ Thuật>** | **Kiếm Thuật**  **Thương Thuật**  **Khiên Thuật**  **Cung Thuật**  **Búa Thuật**  **Tay Không Thuật**  **Thu Ngắn Khoảng Cách**  **Phát Hiện Khí Tức**  **Áp Chế**  **Hóa Cứng**  **Kiềm Chế**  **Tầm Nhìn Đêm**  **Gầm Thét**  **Bật Nhảy**  **Tăng Tốc**  **Rút Kiếm Nhanh**  **Che Giấu Khí Tức** |

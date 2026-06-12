@@ -19,7 +19,7 @@ Một ngày nọ, Mia — một trong những hầu gái trong cùng dinh thự 
 
 Cúi đầu, Mia trở về phòng.
 
-Tôi đã hoàn thành việc dạy kèm với tư cách hầu cận sáng nay, nên điều duy nhất tôi có kế hoạch cho buổi chiều là huấn luyện chiến đấu.
+Tôi đã hoàn thành việc dạy kèm với tư cách hầu gái sáng nay, nên điều duy nhất tôi có kế hoạch cho buổi chiều là huấn luyện chiến đấu.
 
 Tôi hướng đến sân sau nơi những người mới đang chờ.
 

@@ -129,7 +129,7 @@ Chúng tôi cảm ơn Sofia và ngồi xuống.
 
 "Ồ, có! Để em kiểm tra!"
 
-Finne kiểm tra trạng thái của mình, nên tôi cũng phân tích cô ấy bằng God Eye.
+Finne kiểm tra trạng thái của mình, nên tôi cũng phân tích cô ấy bằng Thần Nhãn.
 
 | **TÊN:** | **Finne** |
 | --- | --- |

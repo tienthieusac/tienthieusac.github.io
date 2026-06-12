@@ -7,19 +7,19 @@ weight: 14.2
 
 Khi tôi tránh những bàn tay đen vươn ra từ Gehenna Gate, tôi nghĩ cách để đối phó với nó.
 
-Tôi muốn làm gì đó với nó bằng ma thuật, nhưng để phá hủy phép đó, nó sẽ tiêu tốn một lượng ma lực kha khá.
+Tôi muốn làm gì đó với nó bằng phép thuật, nhưng để phá hủy phép đó, nó sẽ tiêu tốn một lượng ma lực kha khá.
 
 Nếu tôi sử dụng quá nhiều ma lực, nó thậm chí có thể cản trở trận chiến tiếp theo, nhưng tôi không thể ngồi yên không làm gì.
 
-Vậy nên, tôi sử dụng kỹ năng All Creation để tạo ra một phép thuật hoặc kỹ năng có thể phá hủy nó.
+Vậy nên, tôi sử dụng kỹ năng Toàn Tạo để tạo ra một phép thuật hoặc kỹ năng có thể phá hủy nó.
 
-Ma thuật ánh sáng là điểm yếu duy nhất được biết của Tiệc Tối Cuồng loạn. Nếu vậy, ma thuật mà Alogis sử dụng, Gehenna Gate, sẽ tương tự.
+Ma thuật ánh sáng là điểm yếu duy nhất được biết của Tiệc Tối Cuồng loạn. Nếu vậy, phép thuật mà Alogis sử dụng, Gehenna Gate, sẽ tương tự.
 
-Tôi hình thành ma thuật.
+Tôi hình thành phép thuật.
 
 Hình ảnh tất nhiên là ánh sáng. Nhưng chỉ tưởng tượng ánh sáng thì không đủ. Đó là ánh sáng thánh có thể phá hủy cái ác.
 
-Và tôi nghĩ ra tên của ma thuật.
+Và tôi nghĩ ra tên của phép thuật.
 
 "—Lửa Thiêng."
 
@@ -41,7 +41,7 @@ Ngay khi tôi nói vậy, một vết nứt xuất hiện trên cổng, và nó 
 
 "Ta không bao giờ nghĩ Gehenna Gate sẽ bị phá vỡ dễ dàng như vậy."
 
-"Tôi đã thấy ma thuật tương tự trước đây. Một khi tôi tìm ra điểm yếu ma thuật của cổng, tôi có thể phá vỡ nó ngay lập tức. Vậy, Ma Vương đầu tiên, ông đã hết chiêu chưa? Vậy tôi sẽ đi trước."
+"Tôi đã thấy phép thuật tương tự trước đây. Một khi tôi tìm ra điểm yếu phép thuật của cổng, tôi có thể phá vỡ nó ngay lập tức. Vậy, Ma Vương đầu tiên, ông đã hết chiêu chưa? Vậy tôi sẽ đi trước."
 
 Nói vậy xong, tôi xông vào.
 
@@ -73,11 +73,11 @@ Sau đó tôi chĩa tay về phía Alogis, kẻ đang trừng mắt nhìn tôi.
 
 Tôi tập trung ma lực ở đầu ngón trỏ, và Alogis, như thể cảm nhận được, mỉm cười không sợ hãi.
 
-"Ngươi sẽ không thể đánh bại ta bằng ma thuật ở mức đó."
+"Ngươi sẽ không thể đánh bại ta bằng phép thuật ở mức đó."
 
 "Tôi biết điều đó."
 
-Khi tôi nói vậy, tôi bắn một viên đạn ma thuật.
+Khi tôi nói vậy, tôi bắn một viên đạn phép thuật.
 
 Đòn tấn công lao đến Alogis với tốc độ cao, cố đâm xuyên hắn.
 
@@ -91,9 +91,9 @@ Cánh tay bị cắt đứt bay qua không trung, và Alogis quỳ một gối x
 
 "Ugh, chuyện gì đang xảy ra vậy…?"
 
-"Tôi đã trộn lẫn sức mạnh của ma thuật ánh sáng."
+"Tôi đã trộn lẫn sức mạnh của phép thuật ánh sáng."
 
-"Ngươi làm tôi bị thương như vậy chỉ với ma thuật ánh sáng…"
+"Ngươi làm tôi bị thương như vậy chỉ với phép thuật ánh sáng…"
 
 "Này, ông không quên mình là ai chứ?"
 
@@ -101,7 +101,7 @@ Cánh tay bị cắt đứt bay qua không trung, và Alogis quỳ một gối x
 
 Chủng tộc của Alogis là Majin, một chủng tộc tiến hóa của quỷ, và hắn là Sứ đồ của Ác Thần, và thậm chí còn có phước lành của hắn.
 
-Nói cách khác, ma thuật thánh và ma thuật ánh sáng là điểm yếu lớn của hắn.
+Nói cách khác, phép thuật thánh và phép thuật ánh sáng là điểm yếu lớn của hắn.
 
 "Thật là sức mạnh phiền phức."
 
@@ -117,7 +117,7 @@ Tôi với lấy kiếm để kết liễu hắn, nhưng―
 
 《Chủ nhân, né!》
 
-Cùng lúc tôi nghe thấy lời cảnh báo hoảng hốt của Ellis, tôi cảm nhận được phản ứng ma thuật khổng lồ trên đầu.
+Cùng lúc tôi nghe thấy lời cảnh báo hoảng hốt của Ellis, tôi cảm nhận được phản ứng phép thuật khổng lồ trên đầu.
 
 Chết tiệt, tệ rồi.
 
@@ -166,9 +166,9 @@ Tôi không trả lời lời Lucifer, mà tiếp tục thẩm định hắn.
 
 **Khả năng bao gồm Thống trị Không gian, Thao túng Không gian, Tiên tri, Tạo Ma thuật, Tăng tốc Tư duy, Thẩm định và Rào chắn.**
 
-**Có thể giảm một nửa sức mạnh của các đòn tấn công ma thuật tùy ý trong bán kính 100 mét.**
+**Có thể giảm một nửa sức mạnh của các đòn tấn công phép thuật tùy ý trong bán kính 100 mét.**
 
-**Liên tục nhân đôi hiệu ứng và sức mạnh ma thuật của bản thân.**
+**Liên tục nhân đôi hiệu ứng và sức mạnh phép thuật của bản thân.**
 
 **Có thể tái tạo và sao chép khả năng mà bạn đã thấy một lần.**
 

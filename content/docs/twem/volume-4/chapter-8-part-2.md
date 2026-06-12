@@ -51,7 +51,7 @@ Cặp vợ chồng trông nhẹ nhõm trước lời tôi.
 
 Vậy là chúng tôi tiếp tục kiểm tra từng người một, và cuối cùng tôi vào căn phòng còn lại cuối cùng.
 
-Đây là phòng nơi những nô lệ có khuyết tật nghiêm trọng được tập trung, nên sẽ rất kích thích đối với Finne, chứ đừng nói là Kusel, người từng là hiệp sĩ. Do đó, chỉ có Bohbee và tôi vào phòng, và tôi bảo họ chờ trong phòng khác với cặp vợ chồng và đứa trẻ cũng như những nô lệ khác mà tôi đã quyết định mua cho đến thời điểm này, tổng cộng mười ba người.
+Đây là phòng nơi những nô lệ có khuyết tật nghiêm trọng được tập trung, nên sẽ rất kích thích đối với Finne, chứ đừng nói là Kuzel, người từng là hiệp sĩ. Do đó, chỉ có Bohbee và tôi vào phòng, và tôi bảo họ chờ trong phòng khác với cặp vợ chồng và đứa trẻ cũng như những nô lệ khác mà tôi đã quyết định mua cho đến thời điểm này, tổng cộng mười ba người.
 
 Nhìn căn phòng, có vẻ đã có lượng khách ra vào kha khá kể từ lần cuối tôi ở đây…
 
@@ -131,19 +131,19 @@ Vừa lúc bảy người — những người đã nhìn chằm chằm trừng 
 
 Sau đó, tôi lại tự giới thiệu bản thân.
 
-"Tên tôi là Haruto. Tôi đã mua tất cả các anh chị để trở thành hầu cận của dinh thự này hoặc nhân viên của công ty thương mại mà tôi sắp thành lập."
+"Tên tôi là Haruto. Tôi đã mua tất cả các anh chị để trở thành hầu gái của dinh thự này hoặc nhân viên của công ty thương mại mà tôi sắp thành lập."
 
 Các nô lệ xôn xao trước lời tôi.
 
 Giữa tất cả những điều này, một người phụ nữ, vẫn nằm trên giường, giơ cánh tay phải còn lại lên.
 
-"Tôi vô cùng biết ơn ngài, Bệ Hạ Haruto, vì đã chữa lành vết thương cho tôi. Nhưng để làm hầu cận hoặc nhân viên với cơ thể như thế này, không có cánh tay trái và không có chân phải, thì…"
+"Tôi vô cùng biết ơn ngài, Bệ Hạ Haruto, vì đã chữa lành vết thương cho tôi. Nhưng để làm hầu gái hoặc nhân viên với cơ thể như thế này, không có cánh tay trái và không có chân phải, thì…"
 
 "Tôi có thể giải quyết chuyện đó. Tôi có thể chữa lành những khuyết tật thể chất như vậy."
 
 Tất cả nô lệ trợn tròn mắt trước lời tôi.
 
-"Dù là hầu cận hay nhân viên, nếu làm việc cho tôi, tôi sẽ trả cho anh chị một mức lương khiêm tốn, và thậm chí anh chị có thể mua lại tự do khi tiết kiệm đủ tiền."
+"Dù là hầu gái hay nhân viên, nếu làm việc cho tôi, tôi sẽ trả cho anh chị một mức lương khiêm tốn, và thậm chí anh chị có thể mua lại tự do khi tiết kiệm đủ tiền."
 
 Nghe vậy, mắt của một vài người sáng lên.
 
@@ -181,7 +181,7 @@ Bởi vì tôi thực sự có thể cho họ quyền lực…
 
 <<Vâng, điều đó là có thể. Nếu ngài truyền ma lực vào họ và dạy họ cách thao túng nó đúng cách, họ sẽ biểu hiện các kỹ năng tiềm ẩn của mình.>>
 
-Đúng vậy, tôi dự định trao quyền lực cho họ theo cách này và đào tạo những hầu cận và nhân viên sẽ là tài sản về khả năng chiến đấu.
+Đúng vậy, tôi dự định trao quyền lực cho họ theo cách này và đào tạo những hầu gái và nhân viên sẽ là tài sản về khả năng chiến đấu.
 
 Tôi muốn họ có thể tự sống được ngay cả sau khi cuối cùng trở nên tự do. Tất nhiên, tôi dự định giáo dục họ tốt để họ không trở nên kiêu ngạo.
 
@@ -255,7 +255,7 @@ Tôi, mặt khác, không cảm thấy tốt lắm.
 
 ～
 
-——Vậy là, tôi có thêm nhiều hầu cận rồi.
+——Vậy là, tôi có thêm nhiều hầu gái rồi.
 
 Tốt thì tốt, nhưng họ thề trung thành với tôi…hơi choáng ngợp.
 

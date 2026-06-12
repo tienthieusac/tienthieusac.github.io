@@ -47,11 +47,11 @@ Và mỗi hộ gia đình có toilet kiểu Nhật hoặc kiểu phương Tây.
 
 Ở khu đô thị, những ai có thể sử dụng phép dọn dẹp sẽ làm sạch bằng phép thuật sau khi giải quyết, trong khi những người khác lau bằng giấy vệ sinh.
 
-Nước cũng có thể được xả xuống cống bằng cách tạo ra phép thuật nước, hoặc bằng cách sử dụng đá ma thuật và công cụ phép thuật được cung cấp.
+Nước cũng có thể được xả xuống cống bằng cách tạo ra phép thuật nước, hoặc bằng cách sử dụng đá phép thuật và công cụ phép thuật được cung cấp.
 
 Nên tôi đã nghĩ ra sản phẩm này.
 
-"Đây là sản phẩm được lắp vào toilet ngồi, và có đá ma thuật được tích hợp. Bằng cách dẫn ma lực qua phần này, ống tích hợp sẽ mở rộng, và sau khi đi vệ sinh, toilet có thể được xả bằng nước và thậm chí được sấy khô bằng chức năng không khí ấm. Nếu bạn dẫn ma lực qua phần này, cũng có thể xả nước. Nó cũng có chức năng làm ấm đến nhiệt độ thích hợp để mông không bị lạnh."
+"Đây là sản phẩm được lắp vào toilet ngồi, và có đá phép thuật được tích hợp. Bằng cách dẫn ma lực qua phần này, ống tích hợp sẽ mở rộng, và sau khi đi vệ sinh, toilet có thể được xả bằng nước và thậm chí được sấy khô bằng chức năng không khí ấm. Nếu bạn dẫn ma lực qua phần này, cũng có thể xả nước. Nó cũng có chức năng làm ấm đến nhiệt độ thích hợp để mông không bị lạnh."
 
 Tôi giải thích sản phẩm trong khi cầm nó, nhưng có vẻ nó không có nhiều ý nghĩa với anh ta.
 
@@ -187,7 +187,7 @@ Mắt Iris sáng lên.
 
 Hiện tại chỉ có bốn người chúng tôi ở đây.
 
-Vì lý do nào đó, Zero dường như đang luyện tập ở chỗ Sebas, trong khi Tendo và các anh hùng khác bao gồm Kusel đang luyện tập ở dinh thự. Asha, Ephyr, và Noir đang làm việc ở dinh thự.
+Vì lý do nào đó, Zero dường như đang luyện tập ở chỗ Sebas, trong khi Tendo và các anh hùng khác bao gồm Kuzel đang luyện tập ở dinh thự. Asha, Ephyr, và Noir đang làm việc ở dinh thự.
 
 Khi tôi quay sang Finne, cô ấy gật đầu như muốn nói, không vấn đề gì.
 
@@ -277,7 +277,7 @@ Vì đó là quà cho nhà vua, tôi đã thêm một vài trang trí vào cái 
 
 "Đây rồi."
 
-Người hầu cận lấy bệ ngồi toilet từ tay tôi và mang đến cho Dillan.
+Người hầu gái lấy bệ ngồi toilet từ tay tôi và mang đến cho Dillan.
 
 …Hơi kỳ khi thấy ông ấy cầm bệ ngồi toilet một cách trang nghiêm như vậy.
 

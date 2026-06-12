@@ -113,13 +113,13 @@ Tôi gật đầu và mỉm cười trước lời Tendo.
 
 "Suối nước nóng. Sẽ là không thể chấp nhận được nếu một người Nhật không vào tắm, đúng không?"
 
-"Tôi biết anh sẽ nói vậy mà. Tôi đã mệt mỏi với việc dùng ma thuật để làm sạch cơ thể."
+"Tôi biết anh sẽ nói vậy mà. Tôi đã mệt mỏi với việc dùng phép thuật để làm sạch cơ thể."
 
 "Thật trùng hợp. Tôi cũng đang nghĩ như vậy."
 
 Có một bồn tắm trong không gian con của tôi, nhưng vì tôi đang đeo vòng tay, tôi không thể vào trong và tận hưởng, nên cho đến giờ tôi vẫn cắm trại như thường.
 
-Đó là lý do tôi đã dùng ma thuật để làm sạch cơ thể.
+Đó là lý do tôi đã dùng phép thuật để làm sạch cơ thể.
 
 Nhưng Tendo và tôi cũng là người Nhật. Chúng tôi muốn ngâm mình trong bồn tắm thật chậm rãi.
 
@@ -147,13 +147,13 @@ Tuy nhiên, mặc dù đã yếu đi, Tendo và tôi đã chiến đấu tốt c
 
 Trận chiến kết thúc trong vài phút.
 
-Con quái vật khỉ này hầu như không có nguyên liệu sử dụng được, nên tôi quyết định đốt nó bằng ma thuật lửa.
+Con quái vật khỉ này hầu như không có nguyên liệu sử dụng được, nên tôi quyết định đốt nó bằng phép thuật lửa.
 
 "Chà, bây giờ chúng ta đã dọn dẹp xong, vào thôi."
 
 "Ừ."
 
-Sau khi cởi bỏ quần áo bẩn sau trận chiến và làm sạch bằng ma thuật, Tendo và tôi ngâm mình trong suối nước nóng.
+Sau khi cởi bỏ quần áo bẩn sau trận chiến và làm sạch bằng phép thuật, Tendo và tôi ngâm mình trong suối nước nóng.
 
 Suối nước nóng tuyệt vời đến mức khiến bạn phát ra tiếng "ah~" thư thái.
 
@@ -221,7 +221,7 @@ Khi chúng tôi được triệu hồi đến đây, chúng tôi được nói r
 
 Nhưng không có cơ sở nào cho điều này.
 
-Tạm thời, tôi đã để Ellis – persona có chức năng hỗ trợ của kỹ năng bổ trợ All of Creation – phân tích ma pháp trận đã được sử dụng vào thời điểm đó… nhưng tôi tự hỏi tiến độ đã đến đâu rồi.
+Tạm thời, tôi đã để Ellis – persona có chức năng hỗ trợ của kỹ năng bổ trợ Toàn Tạo – phân tích ma pháp trận đã được sử dụng vào thời điểm đó… nhưng tôi tự hỏi tiến độ đã đến đâu rồi.
 
 《Chủ nhân. Chúng tôi hiện đang tiếp tục điều tra ma pháp trận triệu hồi. Tiến độ là 50%》
 

@@ -17,7 +17,7 @@ Tôi liếc nhìn Tendo và thấy cậu ấy vẫn còn khá nhiều dư dả.
 
 Tôi thấy có lỗi với Tendo, nhưng tôi cảm thấy mình nên dụ thêm vài con quái vật về phía cậu ấy.
 
-Tôi lập tức dùng ma thuật để khéo léo dẫn quái vật về phía Tendo.
+Tôi lập tức dùng phép thuật để khéo léo dẫn quái vật về phía Tendo.
 
 "Này, chúng đang đổ về hướng này đột ngột! Có phải anh làm không, Haruto?"
 
@@ -91,7 +91,7 @@ Chà, trước hết chúng ta phải làm gì đó với tình huống này.
 
 Nhưng nó dễ thôi. Tôi chỉ cần tách Tendo, Black Tiger, và bản thân tôi cùng những con quái vật khác ra.
 
-"Tôi sẽ dùng ma thuật để tách kẻ thù. Hiểu chứ?"
+"Tôi sẽ dùng phép thuật để tách kẻ thù. Hiểu chứ?"
 
 "Anh muốn cô lập hoàn toàn tôi và con Black Tiger đó để không ai khác có thể cản trở?"
 

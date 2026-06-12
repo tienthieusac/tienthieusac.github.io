@@ -91,7 +91,7 @@ Cô ấy nói vậy, nên tôi không thể tìm hiểu thêm bất cứ điều
 
 Hiện tại, tôi sẽ chỉ phải xem qua.
 
-"Finne, Iris, Kusel. Tôi sẽ xem qua phòng triệu hồi, các em có muốn đi cùng không?"
+"Finne, Iris, Kuzel. Tôi sẽ xem qua phòng triệu hồi, các em có muốn đi cùng không?"
 
 "Vâng. Em hơi tò mò về vòng trận phép triệu hồi anh hùng."
 
@@ -107,7 +107,7 @@ Khi chúng tôi mở cửa, chúng tôi thấy một vòng trận phép được
 
 "Căn phòng này…?"
 
-Khi tôi lắng nghe lời lẩm bẩm của Finne, tôi sử dụng God Eye và kỹ năng Suy nghĩ Song song của mình để phân tích vòng trận phép.
+Khi tôi lắng nghe lời lẩm bẩm của Finne, tôi sử dụng Thần Nhãn và kỹ năng Suy nghĩ Song song của mình để phân tích vòng trận phép.
 
 Nhưng kết quả là…
 
@@ -117,7 +117,7 @@ Nhưng kết quả là…
 
 "Ngụ ý không xác định là sao?"
 
-Finne và Iris nhìn tôi và hỏi. Kusel thì phấn khích nhìn thanh kiếm trên tường. Ừ, lẽ ra tôi nên biết. Tôi đã mong đợi gì?
+Finne và Iris nhìn tôi và hỏi. Kuzel thì phấn khích nhìn thanh kiếm trên tường. Ừ, lẽ ra tôi nên biết. Tôi đã mong đợi gì?
 
 "Tất cả những gì tôi có thể nói là đó là vòng trận phép để triệu hồi anh hùng. Có một số vòng trận phép nhỏ ở đây và ở đó, nhưng tôi không thể nói chúng có loại hiệu ứng nào, và có nhiều mẫu hình dường như vô nghĩa…người hiểu biết nhất trong nước, Marvelle, không liên quan đến việc này, và liệu nhà vua có thể tạo ra nó hay không thì…"
 
@@ -127,7 +127,7 @@ Finne và Iris nhìn tôi và hỏi. Kusel thì phấn khích nhìn thanh kiếm
 
 "Đúng vậy, điều đó có nghĩa là…nó phải được vẽ trong khi nhìn vào một loại tài liệu tham khảo nào đó."
 
-Nghĩ rằng God Eye không thể nhìn xuyên qua nó, nó phải rất hiếm.
+Nghĩ rằng Thần Nhãn không thể nhìn xuyên qua nó, nó phải rất hiếm.
 
 Tôi bước qua vòng trận phép và quan sát căn phòng.
 
@@ -145,9 +145,9 @@ Hiện tại, tôi vẽ vòng trận phép lên một mảnh giấy và rời kh
 
 "Lưu trữ huh…"
 
-Finne, Iris, và Kusel tất cả trả lời theo những cách khác nhau. Nhưng chỉ có Kusel ít phấn khích hơn.
+Finne, Iris, và Kuzel tất cả trả lời theo những cách khác nhau. Nhưng chỉ có Kuzel ít phấn khích hơn.
 
-Ừ, tôi không thể hình dung Kusel trong lưu trữ.
+Ừ, tôi không thể hình dung Kuzel trong lưu trữ.
 
 Tuy nhiên, nhà vua phải đã có được một số thông tin trong lưu trữ.
 

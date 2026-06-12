@@ -39,7 +39,7 @@ Sau khi đánh bại con ogre, tôi quay về phía Tendo.
 
 Có vẻ cậu ấy vừa kết thúc việc đánh bại Black Tiger.
 
-Cơ thể Tendo rách tả tơi, nên tôi tiến đến và dùng ma thuật hồi phục để chữa lành vết thương cho cậu ấy.
+Cơ thể Tendo rách tả tơi, nên tôi tiến đến và dùng phép thuật hồi phục để chữa lành vết thương cho cậu ấy.
 
 "Cảm ơn, Haruto."
 
@@ -121,7 +121,7 @@ Tôi đấm Lauren vào bụng khi hắn xông đến.
 
 Sau đó tôi thực hiện một cú đá xoay và đá hắn bay đi.
 
-Lưng Lauren đập vào rào chắn và loạng choạng đứng dậy, trong khi hắn sắp giải phóng ma thuật.
+Lưng Lauren đập vào rào chắn và loạng choạng đứng dậy, trong khi hắn sắp giải phóng phép thuật.
 
 Tôi muốn nói rằng hắn đúng là một trong Tứ Thiên Vương, nhưng…
 

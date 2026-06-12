@@ -303,9 +303,9 @@ Tôi nghĩ mình đã thấy một số đồ này trước đây, nhưng…
 
 Tôi cầm một trong những dụng cụ lên và đưa cho chủ cửa hàng xem, người nhìn tôi với vẻ sốc.
 
-"Đồ vật? Anh chưa bao giờ thấy công cụ ma thuật sao?"
+"Đồ vật? Anh chưa bao giờ thấy công cụ phép thuật sao?"
 
-"Công cụ ma thuật…?"
+"Công cụ phép thuật…?"
 
 Đoán theo tên gọi, đó là công cụ cho phép dùng phép thuật…?
 
@@ -315,7 +315,7 @@ Tôi cầm một trong những dụng cụ lên và đưa cho chủ cửa hàng 
 
 Chủ cửa hàng, một bà cụ khá lớn tuổi, gật đầu rồi bắt đầu giải thích.
 
-Hóa ra, công cụ ma thuật là những vật phẩm được khắc phép thuật: rót ma lực vào sẽ kích hoạt phép, khiến vật phẩm chuyển động hoặc có các hiệu ứng khác. Chúng có khoảng 500 năm lịch sử.
+Hóa ra, công cụ phép thuật là những vật phẩm được khắc phép thuật: rót ma lực vào sẽ kích hoạt phép, khiến vật phẩm chuyển động hoặc có các hiệu ứng khác. Chúng có khoảng 500 năm lịch sử.
 
 "Em hiểu rồi, rất thú vị. Cảm ơn chị đã giải thích."
 
@@ -325,13 +325,13 @@ Hóa ra, công cụ ma thuật là những vật phẩm được khắc phép th
 
 Tôi gật đầu xin lỗi bà cụ và rời cửa hàng.
 
-Trong khi bước đi, tôi nghĩ rằng việc tự tạo công cụ ma thuật có lẽ sẽ thú vị.
+Trong khi bước đi, tôi nghĩ rằng việc tự tạo công cụ phép thuật có lẽ sẽ thú vị.
 
 <<Kỹ năng "Ma Công Học" đã đạt được. Cấp kỹ năng đã đạt 10. Kỹ năng được thêm vào Hợp Nhất Phép Thuật.>>
 
 …ừ, tôi biết rồi.
 
-Khi giọng máy móc vang lên, kiến thức cần thiết để chế tạo công cụ ma thuật tràn vào đầu tôi.
+Khi giọng máy móc vang lên, kiến thức cần thiết để chế tạo công cụ phép thuật tràn vào đầu tôi.
 
 Kỹ thuật liên quan khá chi tiết…nếu không có Tư Duy Song Song và Tư Duy Tăng Tốc, tôi đoán mình không thể tiếp nhận hết một lúc.
 

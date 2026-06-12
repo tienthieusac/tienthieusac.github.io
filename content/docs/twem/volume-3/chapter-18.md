@@ -73,7 +73,7 @@ Rồi, một lần nữa, tôi quay sang tất cả họ.
 
 "Chúng tôi sẽ lên đường đây. Cảm ơn tất cả mọi người vì sự giúp đỡ."
 
-Với lời tôi, Finne, Iris, Asha, Ephyr, và Kusel cúi đầu chào mọi người trước khi lên xe.
+Với lời tôi, Finne, Iris, Asha, Ephyr, và Kuzel cúi đầu chào mọi người trước khi lên xe.
 
 Rồi tôi gọi Maguro.
 
@@ -131,9 +131,9 @@ Xa hơn trên đường, chúng tôi quyết định nghỉ giải lao.
 
 Chúng tôi đỗ xe ở bên đường và cho Maguro ăn trái cây và rau quả, trong khi chúng tôi ăn trưa nhẹ.
 
-Rồi, tôi hỏi Kusel.
+Rồi, tôi hỏi Kuzel.
 
-"Này, Kusel."
+"Này, Kuzel."
 
 "Gì vậy?"
 
@@ -143,7 +143,7 @@ Tôi nói vậy, nhưng cô ấy lắc đầu.
 
 "Không, tôi đã nói với anh nhiều lần rằng tôi không có bất kỳ sự gắn bó nào với Glicente. Tôi chỉ nghĩ sẽ vui hơn khi đi du lịch với Haruto và những người khác."
 
-"…Tôi hiểu. Ờ, nếu đó là điều em muốn, Kusel, thì được."
+"…Tôi hiểu. Ờ, nếu đó là điều em muốn, Kuzel, thì được."
 
 "Đúng vậy. Vui hơn khi đông vui."
 
@@ -159,7 +159,7 @@ Giữa tất cả những điều này, có một phản ứng quái vật với
 
 Đáng ngạc nhiên, chính Asha là người đầu tiên phản ứng với lời tôi và đứng dậy.
 
-Tôi chỉ có thể chia buồn với Kusel, người sắp sửa đứng dậy vui vẻ.
+Tôi chỉ có thể chia buồn với Kuzel, người sắp sửa đứng dậy vui vẻ.
 
 "Em xử lý được không, Asha?"
 
@@ -223,7 +223,7 @@ Khi tôi trả lời, Iris nói, "Tại sao!?".
 
 Khi Asha gật đầu vui vẻ, Iris dường như không thể nói gì thêm.
 
-Finne và Ephyr đang cười khúc khích, và mắt Kusel sáng lên vì một lý do nào đó…Ừm, tôi nghĩ tôi sẽ phớt lờ điều đó.
+Finne và Ephyr đang cười khúc khích, và mắt Kuzel sáng lên vì một lý do nào đó…Ừm, tôi nghĩ tôi sẽ phớt lờ điều đó.
 
 ～
 
@@ -241,7 +241,7 @@ Trong lúc tất cả những chuyện này đang xảy ra, có vẻ Maguro đã
 
 "Tôi chưa bao giờ ở trong hầm ngục trước đây, nên tôi hơi lo, nhưng…tôi sẽ cố hết sức!"
 
-Tôi được theo sau bởi Finne, Iris, Asha, Kusel, và Ephyr, những người tất cả đều nói với sự nhiệt tình lớn.
+Tôi được theo sau bởi Finne, Iris, Asha, Kuzel, và Ephyr, những người tất cả đều nói với sự nhiệt tình lớn.
 
 Tôi nắm lấy cương trên Maguro và cất tiếng reo hò đầy hào hức.
 

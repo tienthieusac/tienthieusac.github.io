@@ -15,7 +15,7 @@ Sau khi vào thủ đô, chúng tôi quyết định ghé qua dinh thự trướ
 
 Tôi đã quên mất không báo cho Sebas – người mà tôi giao phó dinh thự – rằng tôi sắp quay về.
 
-Tôi vội vàng dùng dụng cụ ma thuật liên lạc để liên hệ với Sebas.
+Tôi vội vàng dùng dụng cụ phép thuật liên lạc để liên hệ với Sebas.
 
 Đó là một dụng cụ tuyệt vời: khi cầm vào và truyền ma lực vào, nó cho phép tôi liên lạc bằng telepaty với mục tiêu.
 

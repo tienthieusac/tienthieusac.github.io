@@ -51,7 +51,7 @@ Dù sao, tôi phải hạ gục con hổ đó sớm nếu không mọi người 
 
 Nghĩ đến việc thử nghiệm một kỹ thuật mới, tôi tập trung ma lực vào đầu ngón tay.
 
-Tôi nén nó lại thật chặt, cuối cùng hình thành đạn ma thuật.
+Tôi nén nó lại thật chặt, cuối cùng hình thành đạn phép thuật.
 
 <<Kỹ năng "Thao Túng Ma Lực" đã có được. Cấp kỹ năng đạt 10. Kỹ năng được thêm vào Hợp Nhất Phép Thuật.>>
 
@@ -91,11 +91,11 @@ Hmm, chắc nhanh hơn là cứ cho họ xem.
 
 "Như thế này."
 
-Tôi tập trung ma lực vào đầu ngón tay và tạo một viên đạn ma thuật như lúc nãy.
+Tôi tập trung ma lực vào đầu ngón tay và tạo một viên đạn phép thuật như lúc nãy.
 
-Dưới ánh mắt ngạc nhiên của Barnar và những người khác, tôi bắn viên đạn ma thuật vào một cái cây bên đường.
+Dưới ánh mắt ngạc nhiên của Barnar và những người khác, tôi bắn viên đạn phép thuật vào một cái cây bên đường.
 
-Viên đạn ma thuật đánh trúng gần gốc cây, thổi bay nó và tạo ra một hố nhỏ trên mặt đất.
+Viên đạn phép thuật đánh trúng gần gốc cây, thổi bay nó và tạo ra một hố nhỏ trên mặt đất.
 
 "Cậu…cậu bắn ma lực chỉ như thế thôi á!? Có chuyện đó xảy ra được không!?"
 
@@ -105,7 +105,7 @@ Viên đạn ma thuật đánh trúng gần gốc cây, thổi bay nó và tạo
 
 Mọi người đang trốn tránh thực tế à?
 
-Sau đó, tôi cất các bộ phận của con Hổ Đen vào không gian lưu trữ, Barnar và những người khác thấy vậy và ngạc nhiên trước kích thước của chiếc túi ma thuật của tôi. Đủ thứ chuyện đã xảy ra…nhưng vì ca gác của tôi đã hết, tôi đi về lều để ngủ.
+Sau đó, tôi cất các bộ phận của con Hổ Đen vào không gian lưu trữ, Barnar và những người khác thấy vậy và ngạc nhiên trước kích thước của chiếc túi phép thuật của tôi. Đủ thứ chuyện đã xảy ra…nhưng vì ca gác của tôi đã hết, tôi đi về lều để ngủ.
 
 ~
 
@@ -345,7 +345,7 @@ Tôi gật đầu và dẫn mọi người ra ngoài, nơi tôi lấy thân con 
 
 Trưởng làng, sốc trước cảnh tượng cơ thể khổng lồ của con quái vật, vắt kiệt sức để bật ra một phản ứng.
 
-"Túi ma thuật…? Nhưng quan trọng hơn…đây là…"
+"Túi phép thuật…? Nhưng quan trọng hơn…đây là…"
 
 Bacchus, Barnar, và tôi đáp lại cùng lúc.
 

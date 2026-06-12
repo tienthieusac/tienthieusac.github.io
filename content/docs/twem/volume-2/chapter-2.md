@@ -133,7 +133,7 @@ Hay là tôi nên tạo một không gian, hay một thế giới cho riêng mì
 
 …không, khoan, có khi lại khả thi.
 
-All Creation của tôi cho phép tôi tạo ra bất cứ thứ gì tôi muốn.
+Toàn Tạo của tôi cho phép tôi tạo ra bất cứ thứ gì tôi muốn.
 
 Nếu kết hợp với phép thuật Thời-Không, tôi có thể tạo ra thế giới riêng — 『Subspace』 của mình.
 
@@ -263,7 +263,7 @@ Ngôi nhà rộng rãi như vẻ bề ngoài của nó gợi ý.
 
 Tôi dựa trên kiểu nhà Nhật, nên có những căn phòng kỳ lạ với sofa trên sàn tatami, nhưng tất cả phòng đều khá lớn.
 
-Nhà bếp đã được trang bị các công cụ ma thuật hoạt động như thiết bị gia dụng, có lẽ vì tôi có kỹ năng Ma Cơ.
+Nhà bếp đã được trang bị các công cụ phép thuật hoạt động như thiết bị gia dụng, có lẽ vì tôi có kỹ năng Ma Cơ.
 
 Phòng tắm đủ rộng cho bốn người sử dụng cùng lúc; nó được trang bị vòi sen và bồn tắm gỗ bá đại dương lớn.
 

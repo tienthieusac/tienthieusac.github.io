@@ -85,9 +85,9 @@ Oskar nhìn có vẻ hài lòng khi thấy tôi gật đầu.
 
 "Vâng, đúng vậy."
 
-"Trong trường hợp đó, tôi muốn một số dụng cụ ma thuật từ phòng kho báu."
+"Trong trường hợp đó, tôi muốn một số dụng cụ phép thuật từ phòng kho báu."
 
-"Dụng cụ ma thuật, được thôi. Tôi sẽ đưa anh đến phòng kho báu sau, nên anh có thể nhìn qua chúng khi ở đó. Tuy nhiên, tôi cũng sẽ cho anh một số tiền. Xin thứ lỗi cho tôi."
+"Dụng cụ phép thuật, được thôi. Tôi sẽ đưa anh đến phòng kho báu sau, nên anh có thể nhìn qua chúng khi ở đó. Tuy nhiên, tôi cũng sẽ cho anh một số tiền. Xin thứ lỗi cho tôi."
 
 "Hiểu rồi."
 
@@ -99,9 +99,9 @@ Oskar hỏi Finne, Iris, Kuzel, Suzuno, Asha, Ephyr và Zero về phần thưở
 
 Iris từ chối vì cô ấy là hoàng tộc, và Finne cũng từ chối vì cô ấy không muốn gì. Asha và Ephyr từ chối vì họ không làm gì… nhưng cả bốn đều được cho tiền vì họ cảm thấy sẽ không tốt nếu từ chối tất cả.
 
-Suzuno cũng từ chối, nhưng có vẻ cô ấy không được phép từ chối như lời cảm ơn vì đã chữa trị người bị thương trong quá trình sơ tán, và được cho cùng vật phẩm ma thuật từ kho báu như tôi.
+Suzuno cũng từ chối, nhưng có vẻ cô ấy không được phép từ chối như lời cảm ơn vì đã chữa trị người bị thương trong quá trình sơ tán, và được cho cùng vật phẩm phép thuật từ kho báu như tôi.
 
-Kuzel muốn dụng cụ ma thuật từ phòng kho báu để xem có thứ gì cô ấy muốn không, và Zero muốn một cuốn sách.
+Kuzel muốn dụng cụ phép thuật từ phòng kho báu để xem có thứ gì cô ấy muốn không, và Zero muốn một cuốn sách.
 
 Sau khi phần thưởng được quyết định, Oskar nhìn quanh sảnh khánh tiết.
 
