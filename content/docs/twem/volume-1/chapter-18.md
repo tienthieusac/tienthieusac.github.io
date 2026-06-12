@@ -211,7 +211,7 @@ Tôi không muốn tiếp tục bị la như vậy, nên tôi cố xoa dịu Gar
 
 Ối, tôi vừa nói ra miệng rồi…
 
-"Tôi đã hói hoàn toàn vào ba mưvarried mươi tuổi rồi!!"
+"Tôi đã hói hoàn toàn vào ba mươi tuổi rồi!!"
 
 Bất hạnh ở tuổi trẻ thế…tạm gác chuyện đùa sang một bên, tôi tha thiết cố gắng xoa dịu lo lắng của Garguin.
 
@@ -348,7 +348,7 @@ Trở lại quán trọ, tôi ăn tối với Finne, rồi chúng tôi về phò
 | **CẤP:** | **132** |
 | **TUỔI:** | **17** |
 | **CHỦNG TỘC:** | **Người (Dị Giới)** |
-| **KỸ NĂNG ĐỘC NHẤT:** | **Sáng Tạo Toàn Năng** **Mắt Thần** **Tăng Trưởng Kỹ Năng Tối Đa** **Tăng Cường Kinh Nghiệm** |
+| **KỸ NĂNG ĐỘC NHẤT:** | **Toàn Tạo** **Thần Nhãn** **Tăng Trưởng Kỹ Năng Tối Đa** **Tăng Cường Kinh Nghiệm** |
 | **DANH HIỆU:** | **Người (Dị Giới)** **Người Dùng Kỹ Năng Độc Nhất** **Bậc Thầy Võ Thuật** **Bậc Thầy Ma Pháp** |
 | **KỸ NĂNG:** | **Hợp Nhất Võ Thuật** **Hợp Nhất Ma Pháp** **Hiểu Ngôn Ngữ** **Tư Duy Song Song** **Tư Duy Tăng Tốc** **Sao Chép** **Ma Chiến Đồ** |
 |  | **<Hợp Nhất Võ Thuật>** **Kiếm Thuật** **Thương Thuật** **Khiên Thuật** **Cung Thuật** **Rìu Thuật** **Quyền Pháp** **Co Ngắn Mặt Đất** **Phát Hiện Sự Hiện Diện** **Áp Chế** **Hóa Cứng** **Kiềm Chế** **Thị Giác Đêm** **Gầm Thét** **Nhảy** **Thuật Rút Kiếm Nhanh** **Ẩn Giấu Sự Hiện Diện** **Thuật Xe Ngựa** **Mặt Poker** **Chiến Ý** **Phát Hiện Nguy Hiểm** |

@@ -318,7 +318,7 @@ Tôi rồi hiển thị trạng thái của mình cho mọi người xem.
 | **CẤP:** | **320** |
 | **TUỔI:** | **17** |
 | **CHỦNG TỘC:** | **Con người (Dị Giới)** |
-| **KỸ NĂNG ĐỘC NHẤT:** | **All Creation**  **God Eye**  **Tăng Trưởng Kỹ Năng Tối Đa**  **Tăng Cường Kinh Nghiệm** |
+| **KỸ NĂNG ĐỘC NHẤT:** | **Toàn Tạo**  **Thần Nhãn**  **Tăng Trưởng Kỹ Năng Tối Đa**  **Tăng Cường Kinh Nghiệm** |
 | **KỸ NĂNG:** | **Thống Nhất Võ Thuật**  **Thống Nhất Ma Pháp**  **Thông Hiểu Ngôn Ngữ**  **Tư Duy Song Song**  **Tư Duy Tăng Tốc**  **Sao Chép**  **Ma Chiến**  **Phá Giới Hạn**  **Xã Hội Thuật** |
 | **DANH HIỆU:** | **Con người (Dị Giới)**  **Người Dùng Kỹ Năng Độc Nhất**  **Bậc Thầy Võ Thuật**  **Bậc Thầy Ma Pháp**  **Người Siêu Việt**  **Mạo Hiểm Giả Hạng EX**  **Ma Vương**  **Kẻ Hủy Diệt** |
 
