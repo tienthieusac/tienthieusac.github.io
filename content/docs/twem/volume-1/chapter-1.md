@@ -55,7 +55,7 @@ Tuy nhiên, trước khi trả lời cô, tôi quay sang Mitsurugi và những n
 
 Câu hỏi của tôi bị Mitsurugi gạt phăng đi một cách kiêu ngạo.
 
-"Hả? Tại sao tụi tớ phải làm cái việc đó chứ?"
+"Hả? Tại sao tụi tao phải làm cái việc đó chứ?"
 
 Thấy phản ứng đó, tôi biết nói gì cũng vô ích với chúng, nên lại quay sang cô Usami.
 

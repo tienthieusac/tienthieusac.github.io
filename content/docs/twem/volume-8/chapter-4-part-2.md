@@ -203,4 +203,4 @@ Khi hắn nói vậy, cơ thể Lucifer hoàn toàn hóa thành các hạt và b
 
 ---
 
-[←Trước](https://web.archive.org/web/20250404003857//twem-vol-8-chapter-4-part-1/) | [Tiếp→ (Dùng thử 7 ngày miễn phí)](https://web.archive.org/web/20250404003857/https://www.patreon.com/posts/123145978)
+[←Trước](https://web.archive.org/web/20250404003857//twem-vol-8-chapter-4-part-1/) | [Tiếp→](https://web.archive.org/web/20250408182742//twem-vol-8-chapter-5-part-1/)

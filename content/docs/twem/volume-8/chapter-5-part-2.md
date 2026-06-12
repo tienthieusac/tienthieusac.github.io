@@ -1,9 +1,9 @@
 ---
-title: "Chương 6 – [Thiên Đường Thời Gian] Eleonora I"
+title: "Chương 5 – [Thiên Đường Thời Gian] Eleonora I"
 weight: 5.2
 ---
 
-# Chương 6 – [Thiên Đường Thời Gian] Eleonora I
+# Chương 5 – [Thiên Đường Thời Gian] Eleonora I
 
 Trong lúc Fran đang chiến đấu với Alogis – Ma Vương đời đầu – Finne và những người khác đang chiến đấu với bầy quái vật.
 
@@ -153,4 +153,4 @@ Bằng cách này, Suzuno, Ephyr, và Ilmina đang làm việc rất tốt ở p
 
 ---
 
-[←Trước](https://web.archive.org/web/20250416215137//twem-vol-8-chapter-5-part-1/) | [Tiếp→ (Dùng thử 7 ngày miễn phí)](https://web.archive.org/web/20250416215137/https://www.patreon.com/posts/124478738)
+[←Trước](https://web.archive.org/web/20250416215137//twem-vol-8-chapter-5-part-1/) | [Tiếp→](https://web.archive.org/web/20250522161619//twem-vol-8-chapter-6-part-1/)

@@ -231,4 +231,4 @@ Chẳng bao lâu sau, cánh cổng nứt vỡ và sụp đổ, và những con q
 
 ---
 
-[←Trước](https://web.archive.org/web/20250313045507//twem-vol-8-chapter-2-part-2/) | [Tiếp→ (Dùng thử 7 ngày miễn phí)](https://web.archive.org/web/20250313045507/https://www.patreon.com/posts/121472484)
+[←Trước](https://web.archive.org/web/20250313045507//twem-vol-8-chapter-2-part-2/) | [Tiếp→](https://web.archive.org/web/20250322111813//twem-vol-8-chapter-3-part-2/)

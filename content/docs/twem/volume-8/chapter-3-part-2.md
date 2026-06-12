@@ -246,4 +246,4 @@ Tôi chĩa thanh kiếm yêu quý về phía Lucifer.
 
 ---
 
-[←Trước](https://web.archive.org/web/20250322111813//twem-vol-8-chapter-3-part-1/) | [Tiếp→ (Dùng thử 7 ngày miễn phí)](https://web.archive.org/web/20250322111813/https://www.patreon.com/posts/122088601)
+[←Trước](https://web.archive.org/web/20250322111813//twem-vol-8-chapter-3-part-1/) | [Tiếp→](https://web.archive.org/web/20250326071153//twem-vol-8-chapter-4-part-1/)

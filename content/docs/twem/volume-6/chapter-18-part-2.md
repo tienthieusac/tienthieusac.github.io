@@ -234,7 +234,7 @@ Tôi lập tức thẩm định nó.
 | **Tên:** | **Tinh Thể Đỏ Thẫm** |
 | --- | --- |
 | **Độ hiếm:** | **Huyền thoại** |
-| **Ghi chú:** | **Kim loại ma thuật hiếm được tạo bằng cách kết hợp nhiều kim loại và ma lực của Haruto.** |
+| **Ghi chú:** | **Kim loại phép thuật hiếm được tạo bằng cách kết hợp nhiều kim loại và ma lực của Haruto.** |
 
 Ừ. Không có vấn đề gì với vật liệu.
 
@@ -267,7 +267,7 @@ Kuzel nhìn chằm chằm thanh kiếm trong tay tôi, mắt sáng lên.
 
 "Vì tôi đã hứa làm cho em."
 
-"Ồ!! C-Cảm ơn… Tôi sẽ trân trọng nó. Tiện thể, nó có hiệu ứng gì? Theo như tôi thấy, tôi nghĩ đó là kiếm ma thuật."
+"Ồ!! C-Cảm ơn… Tôi sẽ trân trọng nó. Tiện thể, nó có hiệu ứng gì? Theo như tôi thấy, tôi nghĩ đó là kiếm phép thuật."
 
 Dự đoán của Kuzel là đúng.
 
@@ -300,9 +300,9 @@ Một mình ở trại, tôi tựa lưng vào bạn đồng hành, Maguro, và k
 | **Cấp độ:** | **530** |
 | **Tuổi:** | **17** |
 | **Chủng tộc:** | **High Human** |
-| **Kỹ năng Đặc biệt:** | **Azathoth (Chaos Ruler)**  **Martial God**  **All of Creation** |
+| **Kỹ năng Đặc biệt:** | **Azathoth (Chaos Ruler)**  **Martial God**  **Toàn Tạo** |
 | **Kỹ năng:** | **Social Arts**  **Language Comprehension** |
-| **Danh hiệu:** | **Otherworlder**  **Monarch of War**  **Monarch of Magic**  **Transcendent One**  **EX Rank Adventurer**  **Demon King**  **Annihilator**  **The World's Strongest** |
+| **Danh hiệu:** | **Dị Giới Nhân**  **Chiến Vương**  **Pháp Vương**  **Siêu Nhân**  **Mạo Hiểm Giả Hạng EX**  **Ma Vương**  **Kẻ Hủy Diệt**  **Người Mạnh Nhất Thế Giới** |
 
 Điều duy nhất đã thay đổi kể từ khi tôi rời Vương quốc Perdis là tôi có được Extreme Break ở Thánh Quốc Belifaire.
 

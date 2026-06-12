@@ -161,7 +161,7 @@ Ngay sau đó.
 
 Một cột ánh sáng đen – dường như là bóng tối được ngưng tụ – từ trên trời giáng xuống tòa thành trôi nổi.
 
-Rồi Ellis, chức năng hỗ trợ của Kỹ năng bổ sung Toàn Tạo Hóa, thông báo.
+Rồi Ellis, chức năng hỗ trợ của Kỹ năng bổ sung Toàn Tạo, thông báo.
 
 《Chủ nhân. Sự hồi sinh của Ma Thần Chronos đã được xác nhận.》
 
@@ -183,4 +183,4 @@ Trong lúc chờ đợi, một giọng nam trầm hùng – uy nghi đến mức
 
 ---
 
-[←Trước](https://web.archive.org/web/20250218225817//twem-vol-8-chapter-1-part-1/) | [Tiếp→ (Dùng thử 7 ngày miễn phí)](https://web.archive.org/web/20250218225817/https://www.patreon.com/posts/119956840)
+[←Trước](https://web.archive.org/web/20250218225817//twem-vol-8-chapter-1-part-1/) | [Tiếp→](https://web.archive.org/web/20250309085810//twem-vol-8-chapter-2-part-1/)

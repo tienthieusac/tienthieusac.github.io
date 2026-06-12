@@ -143,4 +143,4 @@ Ngay trước khi tôi kịp đến nơi, ma lực của Lucifer bùng nổ.
 
 ---
 
-[←Trước](https://web.archive.org/web/20250326071153//twem-vol-8-chapter-3-part-2/) | [Tiếp→ (Dùng thử 7 ngày miễn phí)](https://web.archive.org/web/20250326071153/https://www.patreon.com/posts/122516087)
+[←Trước](https://web.archive.org/web/20250326071153//twem-vol-8-chapter-3-part-2/) | [Tiếp→](https://web.archive.org/web/20250404003857//twem-vol-8-chapter-4-part-2/)

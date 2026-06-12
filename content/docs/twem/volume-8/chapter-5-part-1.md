@@ -229,4 +229,4 @@ Khoảnh khắc đó, cánh tay đứt lìa của Fran hóa thành máu và nổ
 
 ---
 
-[←Trước](https://web.archive.org/web/20250408182742//twem-vol-8-chapter-4-part-2/) | [Tiếp→ (Dùng thử 7 ngày miễn phí)](https://web.archive.org/web/20250408182742/https://www.patreon.com/posts/123744319)
+[←Trước](https://web.archive.org/web/20250408182742//twem-vol-8-chapter-4-part-2/) | [Tiếp→](https://web.archive.org/web/20250416215137//twem-vol-8-chapter-5-part-2/)

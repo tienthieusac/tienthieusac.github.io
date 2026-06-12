@@ -1,9 +1,9 @@
 ---
-title: "."
+title: "Chương 2 – Các Anh Hùng Đánh Mê Cung (Phần 2)"
 weight: 2.2
 ---
 
-# .
+# Chương 2 – Các Anh Hùng Đánh Mê Cung (Phần 2)
 
 Mặc dù họ không thể nhìn thấy qua đống mảnh vỡ và khói, con Minotaur đã tiến đến gần họ trước khi họ kịp nhận ra và đang vung chiếc rìu.
 
@@ -182,7 +182,7 @@ Nhóm đã đến tầng hai mươi tư trong khoảng một ngày.
 
 Cho đến tầng trước, số lượng kẻ địch không tăng, nhưng chúng dần trở nên mạnh hơn, nhưng ở đây tầng 24, để đổi lấy số lượng giảm đáng kể, sức mạnh của từng con đều tăng lên.
 
-Hồi ở Thủ Đô, họ đã được trang bị kiến thức về dungeon, và thậm chí đã vào vài cái.
+Hồi ở Thủ Đô, họ đã được trang bị kiến thức về hầm ngục, và thậm chí đã vào vài cái.
 
 Nhưng đây là lần đầu tiên họ thấy sự phân bố quái vật như thế này.
 
@@ -204,7 +204,7 @@ Nhưng con Chimera trước mắt rõ ràng mạnh hơn Minotaur rất nhiều.
 
 Mọi người gật đầu trước lời Ichinomiya.
 
-Lý do dungeon này đột nhiên trở nên kỳ lạ có lẽ là do con trùm ở tầng thấp nhất.
+Lý do hầm ngục này đột nhiên trở nên kỳ lạ có lẽ là do con trùm ở tầng thấp nhất.
 
 Nó chắc chắn sẽ mạnh hơn con trùm tầng trung này, và mình không chắc có thể đánh bại nó không…
 
