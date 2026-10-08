@@ -11,3 +11,6 @@ hugo_stats.json
 
 # Crawler sandbox (defuddle + cache)
 /.tmp-twem-crawler/
+
+# Firebase CLI cache
+/.firebase/
