@@ -12,7 +12,7 @@ The page is plain HTML in [`site/`](site/), published without a build step to:
 | GitHub Pages | https://tienthieusac.github.io/ | [`pages.yml`](.github/workflows/pages.yml) |
 | Firebase Hosting | https://tienthieusac.web.app/ | [`firebase.yml`](.github/workflows/firebase.yml) |
 | Netlify | https://tienthieusac.netlify.app/ | [`netlify.toml`](netlify.toml) |
-| Vercel | https://tienthieusacgithubio.vercel.app/ | [`vercel.json`](vercel.json) (Vercel Git integration) |
+| Vercel | https://tienthieusac.vercel.app/ | [`vercel.json`](vercel.json) (Vercel Git integration) |
 | Cloudflare Pages | https://tienthieusac.pages.dev/ | Cloudflare Git integration (output directory `site`) |
 | GitLab Pages | https://tienthieusac.gitlab.io/ | [`.gitlab-ci.yml`](.gitlab-ci.yml) on the [mirrored copy](.github/workflows/mirror.yml) |
 
