@@ -5,11 +5,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Tiên Thiếu Sắc</title>
   <meta name="robots" content="noindex">
+  <meta name="color-scheme" content="light dark">
   <!-- Hosts without server-side redirects serve this page for every unknown path. -->
   <meta http-equiv="refresh" content="0; url=/">
   <script>location.replace("/");</script>
+  <style>
+    /* Match the homepage background so the redirect does not flash white in dark mode. */
+    body { margin: 0; padding: 24px 16px; background: #f6f4ef; color: #1f1d1a; font-family: system-ui, sans-serif; }
+    a { color: #1565d8; }
+    @media (prefers-color-scheme: dark) {
+      body { background: #16151a; color: #ecebe8; }
+      a { color: #8ab8ff; }
+    }
+  </style>
 </head>
 <body>
-  <p><a href="/">Tiên Thiếu Sắc</a></p>
+  <p>Đang chuyển về trang chủ… <a href="/">Tiên Thiếu Sắc</a></p>
 </body>
 </html>
