@@ -1,0 +1,18 @@
+# GitLab Pages build for https://tienthieusac.gitlab.io, run on the copy mirrored from GitHub.
+# Hugo stays on 0.125.2 to match the GitHub Pages and Netlify builds.
+image: hugomods/hugo:exts-0.125.2
+
+variables:
+  GIT_DEPTH: 0 # enableGitInfo needs the full history
+  HUGO_ENVIRONMENT: production
+  HUGO_ENV: production
+  TZ: Asia/Ho_Chi_Minh
+
+pages:
+  script:
+    - hugo --gc --minify --baseURL "$CI_PAGES_URL/"
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
