@@ -1,8 +1,2 @@
 [build]
 publish = "site"
-
-# Send every unknown path to the homepage. Without force, existing files are still served.
-[[redirects]]
-from = "/*"
-to = "/"
-status = 301

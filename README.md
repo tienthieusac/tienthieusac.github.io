@@ -15,8 +15,8 @@ The page is plain HTML in [`site/`](site/), published without a build step to:
 | Cloudflare Pages | https://tienthieusac.pages.dev/ | Cloudflare Git integration (output directory `site`) |
 | GitLab Pages | https://tienthieusac.gitlab.io/ | [`.gitlab-ci.yml`](.gitlab-ci.yml) on the [mirrored copy](.github/workflows/mirror.yml) |
 
-Netlify redirects unknown paths with a 301. The other hosts serve
-[`site/404.html`](site/404.html), which sends the browser to the homepage.
+Every host serves [`site/404.html`](site/404.html) for unknown paths, and that page
+sends the browser to the homepage.
 
 ## License
 
