@@ -1,0 +1,39 @@
+name: Mirror to GitLab
+
+on:
+  push:
+    branches:
+      - '**'
+  workflow_dispatch:
+
+concurrency:
+  group: mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Push branches and tags to GitLab
+        env:
+          GITLAB_MIRROR_SSH_KEY: ${{ secrets.GITLAB_MIRROR_SSH_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "$GITLAB_MIRROR_SSH_KEY" > ~/.ssh/gitlab_mirror
+          chmod 600 ~/.ssh/gitlab_mirror
+          ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
+          export GIT_SSH_COMMAND="ssh -i ~/.ssh/gitlab_mirror -o IdentitiesOnly=yes"
+
+          git remote add gitlab git@gitlab.com:tienthieusac/tienthieusac.gitlab.io.git
+          git fetch gitlab
+
+          # Push every branch fetched from GitHub, then all tags
+          for branch in $(git for-each-ref --format='%(refname:lstrip=3)' refs/remotes/origin | grep -vx HEAD); do
+            git push gitlab "refs/remotes/origin/$branch:refs/heads/$branch" --force
+          done
+          git push gitlab --tags --force
