@@ -1,29 +1,24 @@
 # Tiên Thiếu Sắc
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3c09b392-c875-4910-9b63-48a1fc9bdae1/deploy-status)](https://app.netlify.com/projects/tienthieusac/deploys)
+Tiên Thiếu Sắc no longer hosts its stories, out of respect for copyright and
+Vietnam's laws and policies. This repository now serves a single page that points
+readers to [fb.com/tienthieusac99](https://fb.com/tienthieusac99); every other path
+redirects to it.
 
-Homepages of [https://tienthieusac.github.io/]()
+The page is plain HTML in [`site/`](site/), published without a build step to:
 
-Powered by [Hugo](https://gohugo.io/) & [Hugo Book Theme](https://github.com/alex-shpak/hugo-book/).
+| Host | URL | Deployed by |
+| --- | --- | --- |
+| GitHub Pages | https://tienthieusac.github.io/ | [`pages.yml`](.github/workflows/pages.yml) |
+| Firebase Hosting | https://tienthieusac.web.app/ | [`firebase.yml`](.github/workflows/firebase.yml) |
+| Netlify | https://tienthieusac.netlify.app/ | [`netlify.toml`](netlify.toml) |
+| Cloudflare Pages | https://tienthieusac.pages.dev/ | Cloudflare Git integration (output directory `site`) |
+| GitLab Pages | https://tienthieusac.gitlab.io/ | [`.gitlab-ci.yml`](.gitlab-ci.yml) on the [mirrored copy](.github/workflows/mirror.yml) |
 
-Hosted on [Netlify](https://www.netlify.com/).
-
-## TWEM - Tiếng Việt
-
-Bản dịch tiếng Việt của [TWEM](https://shintranslations.com/twem-toc/) sử
-dụng [Google Translate](https://translate.google.com/).
+Netlify redirects unknown paths with a 301. The other hosts serve
+[`site/404.html`](site/404.html), which sends the browser to the homepage.
 
 ## License
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
 This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

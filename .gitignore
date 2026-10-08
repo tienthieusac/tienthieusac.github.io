@@ -1,16 +1,7 @@
 .idea/
 
-# Generated files by hugo
+# GitLab Pages build output
 /public/
-/resources/_gen/
-/assets/jsconfig.json
-hugo_stats.json
-
-# Temporary lock file while building
-/.hugo_build.lock
-
-# Crawler sandbox (defuddle + cache)
-/.tmp-twem-crawler/
 
 # Firebase CLI cache
 /.firebase/

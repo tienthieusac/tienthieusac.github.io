@@ -8,34 +8,14 @@ permissions:
   contents: read
   pull-requests: write
 
-defaults:
-  run:
-    shell: bash
-
 jobs:
   preview:
     # Pull requests from forks get no secrets, so they cannot deploy a preview.
     if: github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.125.2
     steps:
-      - name: Install Hugo CLI
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          submodules: recursive
-          fetch-depth: 0
-      - name: Build with Hugo
-        env:
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
-          TZ: Asia/Ho_Chi_Minh
-        # The preview channel URL is only known after deploy, so links stay root-relative.
-        run: hugo --gc --minify --buildFuture --baseURL "/"
       - name: Deploy preview channel
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:

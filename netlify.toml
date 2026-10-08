@@ -1,18 +1,8 @@
 [build]
-publish = "public"
-command = "hugo --gc --minify"
+publish = "site"
 
-[build.environment]
-GO_VERSION = "1.22.2"
-HUGO_VERSION = "0.125.2"
-TZ = "Asia/Ho_Chi_Minh"
-
-[context.production.environment]
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
-
-[context.deploy-preview]
-command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy]
-command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+# Send every unknown path to the homepage. Without force, existing files are still served.
+[[redirects]]
+from = "/*"
+to = "/"
+status = 301
